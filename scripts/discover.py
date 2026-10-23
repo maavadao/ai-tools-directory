@@ -22,8 +22,19 @@ import time
 import urllib.parse
 import urllib.request
 
+from add_tool import title_of
 from directory import SLUG_RE, dumps, domain, load, path_for, removed_domains, tool_files
-from web import USER_AGENT
+from enrich import meta
+from web import USER_AGENT, fetch
+
+# Hosts that are platforms, not a tool's own site: a launch that points here isn't listed.
+# (Code repositories belong in open-source-ai-repos.)
+NOT_A_TOOL_SITE = {
+    "github.com", "gitlab.com", "huggingface.co", "producthunt.com", "x.com", "twitter.com", "youtube.com",
+    "youtu.be", "linkedin.com", "medium.com", "substack.com", "reddit.com", "apps.apple.com", "play.google.com",
+    "chromewebstore.google.com", "chrome.google.com", "addons.mozilla.org", "notion.site", "vercel.app",
+    "netlify.app", "github.io", "pages.dev", "web.app", "framer.website", "framer.ai", "typedream.site",
+}
 
 CATEGORY_WORDS = [
     ("image", {"image", "text-to-image", "diffusion", "photo", "upscale", "avatar", "art", "stable-diffusion", "logo"}),
@@ -155,10 +166,10 @@ def main() -> int:
             print("PRODUCT_HUNT_TOKEN not set; skipping Product Hunt")
 
     removed = removed_domains()
-    sites = {}
+    hosts: set[str] = set()
     slugs = set()
     for path in tool_files():
-        sites[domain(load(path)["website"]) + urllib.parse.urlsplit(load(path)["website"]).path.rstrip("/")] = path
+        hosts.add(domain(load(path)["website"]))
         slugs.add(path.stem)
     today = dt.date.today()
     found.sort(key=lambda t: -t["score"])
@@ -166,21 +177,38 @@ def main() -> int:
     for t in found:
         if written >= args.max_new:
             break
-        key = domain(t["website"]) + urllib.parse.urlsplit(t["website"]).path.rstrip("/")
-        if key in sites or domain(t["website"]) in removed:
+        host = domain(t["website"])
+        # A launch is often a feature or a blog post: list the product's own site, once.
+        if not host or host in hosts or host in removed or any(host == h or host.endswith("." + h) for h in NOT_A_TOOL_SITE):
             continue
-        slug = re.sub(r"[^a-z0-9]+", "-", t["slug_hint"].lower()).strip("-")[:64].strip("-")
+        hosts.add(host)
+        site = f"https://{urllib.parse.urlsplit(t['website']).netloc}"
+        got = fetch(site)  # polite: obeys robots.txt; unreadable sites are skipped
+        if not got:
+            continue
+        final, page = got
+        if domain(final) in hosts and domain(final) != host:  # redirected to a tool we already list
+            continue
+        hosts.add(domain(final))
+        m = meta(page)
+        # The site's own name and description, as for the seed tools; Product Hunt's tagline is the fallback.
+        name = title_of(page, m, host)
+        if name == host.split(".")[0].title() and len(t["name"].split()) <= 3:
+            name = t["name"]
+        desc = clean(m.get("og:description") or m.get("description") or t["description"], 300)
+        if len(desc) < 10:
+            continue
+        slug = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")[:64].strip("-")
         if not SLUG_RE.match(slug or "") or slug in slugs:
-            slug = re.sub(r"[^a-z0-9]+", "-", domain(t["website"]) + urllib.parse.urlsplit(t["website"]).path).strip("-")[:64].strip("-")
+            slug = re.sub(r"[^a-z0-9]+", "-", host).strip("-")[:64].strip("-")
         if not SLUG_RE.match(slug or "") or slug in slugs:
             continue
-        sites[key] = True
         slugs.add(slug)
         written += 1
-        data = {"name": t["name"], "description": t["description"], "category": guess_category(t["words"]),
-                "website": t["website"], "added": today}
+        data = {"name": name, "description": desc, "category": guess_category(t["words"]),
+                "website": f"https://{urllib.parse.urlsplit(final).netloc}", "added": today}
         if args.dry_run:
-            print(f"would add {slug} ({data['category']}, score {t['score']}) {t['website']}")
+            print(f"would add {slug} ({data['category']}, score {t['score']}) {data['website']}")
             continue
         path = path_for(slug)
         path.parent.mkdir(parents=True, exist_ok=True)
