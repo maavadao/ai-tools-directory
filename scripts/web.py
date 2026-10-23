@@ -7,7 +7,7 @@ import urllib.request
 import urllib.robotparser
 from urllib.parse import urlparse
 
-USER_AGENT = "maavadao-ai-tools-directory (+https://maavadao.com/ai-tools; contact via github.com/maavadao)"
+USER_AGENT = "maavadao-ai-tools-directory (+https://maavadao.com/directory; contact via github.com/maavadao)"
 MAX_BYTES = 1_500_000
 _robots: dict[str, urllib.robotparser.RobotFileParser | None] = {}
 _last_hit: dict[str, float] = {}

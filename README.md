@@ -1,8 +1,8 @@
 # maavaDao AI tools directory
 
-**AI tools, sites and suites, open source or not: what they do, what they cost, and what people think. Free for everyone, part of [maavaDao](https://maavadao.com/ai-tools).**
+**AI tools, sites and suites, open source or not: what they do, what they cost, and what people think. Free for everyone, part of [maavaDao](https://maavadao.com/directory).**
 
-Browse it at [maavadao.com/ai-tools](https://maavadao.com/ai-tools). The open-source side lives in
+Browse it at [maavadao.com/directory](https://maavadao.com/directory). The open-source side lives in
 [open-source-ai-repos](https://github.com/maavadao/open-source-ai-repos).
 
 ## How it works
