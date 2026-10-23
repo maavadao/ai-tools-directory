@@ -26,7 +26,7 @@ Pages at <https://maavadao.github.io/ai-tools-directory/index.json>. The website
 
 | What | Where it comes from |
 | --- | --- |
-| Name, tagline, category | The tool's own site, [Product Hunt's API](https://api.producthunt.com/v2/docs), or a member's suggestion. Taglines are the makers' own words or ours, never another directory's text |
+| Name, tagline, category | The tool's own site. Tools are found from the project websites listed in [open-source-ai-repos](https://github.com/maavadao/open-source-ai-repos), [Product Hunt's API](https://api.producthunt.com/v2/docs) (which blocks GitHub's servers, so it only works when run from elsewhere), or a member's suggestion. Taglines are the makers' own words or ours, never another directory's text |
 | Preview image | The tool's own social preview image (`og:image`), read from its home page |
 | Free plan / free trial flags | Whether the tool's own pricing page mentions them, with the date it was read |
 | Exact prices | Written into the tool's file by a person from its pricing page (`pricing_url`, `pricing_checked`). We don't scrape prices out of page text, because yearly prices, promos and scripts make that wrong too often |

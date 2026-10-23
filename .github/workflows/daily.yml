@@ -23,12 +23,13 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - name: Find new tools
-        # Product Hunt needs a free developer token in the PRODUCT_HUNT_TOKEN secret; without one
-        # this step finds nothing and the run carries on.
+        # Sources: the project websites in open-source-ai-repos (works from any server), and Product
+        # Hunt (needs the PRODUCT_HUNT_TOKEN secret, and Product Hunt blocks GitHub's servers, so it
+        # usually adds nothing here). At most 200 a day, most-starred first.
         continue-on-error: true
         env:
           PRODUCT_HUNT_TOKEN: ${{ secrets.PRODUCT_HUNT_TOKEN }}
-        run: python scripts/discover.py --max-new 100
+        run: python scripts/discover.py --max-new 200
       - name: Refresh preview images and pricing flags
         # Oldest first, 300 tools a day, each page read politely (robots.txt, one request a second).
         continue-on-error: true

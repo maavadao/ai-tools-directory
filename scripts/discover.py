@@ -1,8 +1,10 @@
 """Find new AI tools from public APIs and write a tool file for each.
 
-Usage: python scripts/discover.py [--max-new 100] [--source producthunt hf] [--dry-run]
+Usage: python scripts/discover.py [--max-new 100] [--source producthunt repos hf] [--dry-run]
 
 Sources:
+  repos        The project websites of the most-starred repos in open-source-ai-repos. Works from any
+               server, so this is the source the daily workflow can use unattended.
   hf           Hugging Face Spaces with the most likes (public API, no key). Off by default: most
                Spaces are open demos and leaderboards, not products with pricing.
   producthunt  Product Hunt's most-voted launches in the "artificial intelligence" topic.
@@ -145,6 +147,30 @@ def product_hunt(tok: str, pages: int = 10) -> list[dict]:
     return out
 
 
+DOC_HOSTS = ("readthedocs.io", "gitbook.io", "readme.io", "mintlify.app", "docusaurus.io", "wiki")
+
+
+def repo_sites(min_stars: int = 500) -> list[dict]:
+    """Project websites from the open-source AI repos directory: facts only (site, repo, tags)."""
+    index = get_json("https://maavadao.github.io/open-source-ai-repos/index.json")
+    out = []
+    for r in (index or {}).get("repos", []):
+        site = r.get("website") or ""
+        p = urllib.parse.urlsplit(site)
+        host = domain(site)
+        if (p.scheme != "https" or not host or r.get("archived") or (r.get("stars") or 0) < min_stars
+                or host.startswith(("docs.", "wiki.", "blog.")) or any(d in host for d in DOC_HOSTS)
+                or p.path.strip("/").count("/") > 0 or len(p.path.strip("/")) > 20):
+            continue
+        out.append({
+            "name": r["name"], "description": r["description"], "website": f"https://{p.netloc}",
+            "words": list(r.get("tags", [])) + [r.get("category", "")], "score": r["stars"],
+            "slug_hint": r["name"], "extra": {"open_source": True, "repository": r["repository"]},
+        })
+    print(f"repos: {len(out)} project websites")
+    return out
+
+
 def resolve(url: str) -> str | None:
     """Follow Product Hunt's redirect to the tool's own site, dropping tracking parameters."""
     try:
@@ -163,13 +189,15 @@ def resolve(url: str) -> str | None:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--max-new", type=int, default=100)
-    ap.add_argument("--source", nargs="+", default=["producthunt"], choices=["hf", "producthunt"])
+    ap.add_argument("--source", nargs="+", default=["repos", "producthunt"], choices=["hf", "producthunt", "repos"])
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
     found: list[dict] = []
     if "hf" in args.source:
         found += hf_spaces()
+    if "repos" in args.source:
+        found += repo_sites()
     if "producthunt" in args.source:
         if tok := os.environ.get("PRODUCT_HUNT_TOKEN"):
             found += product_hunt(tok)
@@ -217,7 +245,7 @@ def main() -> int:
         slugs.add(slug)
         written += 1
         data = {"name": name, "description": desc, "category": guess_category(t["words"]),
-                "website": f"https://{urllib.parse.urlsplit(final).netloc}", "added": today}
+                "website": f"https://{urllib.parse.urlsplit(final).netloc}", "added": today, **t.get("extra", {})}
         if args.dry_run:
             print(f"would add {slug} ({data['category']}, score {t['score']}) {data['website']}")
             continue
