@@ -72,13 +72,16 @@ def clean(text: str, limit: int) -> str:
 
 
 def get_json(url: str, data: bytes | None = None, headers: dict | None = None):
+    last: Exception | None = None
     req = urllib.request.Request(url, data=data, headers={"User-Agent": USER_AGENT, **(headers or {})})
     for attempt in range(4):
         try:
             with urllib.request.urlopen(req, timeout=60) as resp:
                 return json.load(resp)
-        except Exception:  # noqa: BLE001 - retry transient errors
+        except Exception as exc:  # noqa: BLE001 - retry transient errors
+            last = exc
             time.sleep(2 ** attempt)
+    print(f"request failed: {url.split('?')[0]}: {last}")
     return None
 
 
