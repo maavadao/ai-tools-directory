@@ -1,0 +1,7 @@
+name = "MCP for Blender"
+description = "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation."
+category = "chatbots"
+website = "https://www.mcp-for-blender.com"
+open_source = true
+repository = "https://github.com/ahujasid/mcp-for-blender"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "OmniRoute by Cheaper Inference"
+description = "Route across 352 providers through one OpenAI-compatible endpoint, with automatic fallback."
+category = "other"
+website = "https://www.omniroute.online"
+open_source = true
+repository = "https://github.com/diegosouzapw/OmniRoute"
+added = 2026-10-23

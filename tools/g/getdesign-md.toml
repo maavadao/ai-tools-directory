@@ -1,0 +1,7 @@
+name = "getdesign.md"
+description = "Browse independent design system analyses from popular websites. Drop one into your project as design reference for your coding agent."
+category = "education"
+website = "https://getdesign.md"
+open_source = true
+repository = "https://github.com/VoltAgent/awesome-design-md"
+added = 2026-10-23

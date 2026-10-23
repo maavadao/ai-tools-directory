@@ -1,0 +1,7 @@
+name = "ponytail"
+description = "Half the code. And yet better."
+category = "coding"
+website = "https://ponytail.dev"
+open_source = true
+repository = "https://github.com/DietrichGebert/ponytail"
+added = 2026-10-23

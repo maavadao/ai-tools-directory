@@ -1,0 +1,7 @@
+name = "OpenMontage"
+description = "Create and edit video, images, audio, animation and 3D with AI agents. Start with an idea or bring your own material. Direct a complete production or get one specific thing done."
+category = "coding"
+website = "https://www.openmontage.video"
+open_source = true
+repository = "https://github.com/calesthio/OpenMontage"
+added = 2026-10-23

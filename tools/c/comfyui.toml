@@ -1,0 +1,7 @@
+name = "ComfyUI"
+description = "Comfy is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output."
+category = "image"
+website = "https://comfy.org"
+open_source = true
+repository = "https://github.com/Comfy-Org/ComfyUI"
+added = 2026-10-23

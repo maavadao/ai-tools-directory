@@ -1,0 +1,7 @@
+name = "ZeroClaw"
+description = "A lightweight, secure personal AI agent: one Rust binary on your machine, your keys or your local models. 30+ channels, supervised by default, open source."
+category = "agents"
+website = "https://www.zeroclaw.com"
+open_source = true
+repository = "https://github.com/zeroclaw-labs/zeroclaw"
+added = 2026-10-23

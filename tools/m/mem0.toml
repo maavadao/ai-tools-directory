@@ -1,0 +1,7 @@
+name = "mem0"
+description = "Mem0 is the memory layer for AI agents and applications, enabling them to learn from past interactions and deliver personalized experiences."
+category = "chatbots"
+website = "https://mem0.ai"
+open_source = true
+repository = "https://github.com/mem0ai/mem0"
+added = 2026-10-23

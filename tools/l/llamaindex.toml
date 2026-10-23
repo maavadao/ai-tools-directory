@@ -1,0 +1,7 @@
+name = "LlamaIndex"
+description = "LlamaParse is the world's best agentic OCR for processing complex documents with messy tables, charts, images, and more with human-level accuracy."
+category = "chatbots"
+website = "https://www.llamaindex.ai"
+open_source = true
+repository = "https://github.com/run-llama/llama_index"
+added = 2026-10-23

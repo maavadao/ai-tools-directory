@@ -1,0 +1,7 @@
+name = "REA"
+description = "Reverse engineer apps, binaries and browser behavior with your coding agent. Follow clear guides and try interactive examples with REA."
+category = "other"
+website = "https://rea.tools"
+open_source = true
+repository = "https://github.com/morluto/rea"
+added = 2026-10-23

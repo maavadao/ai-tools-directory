@@ -1,0 +1,7 @@
+name = "agent-browser"
+description = "Browser automation CLI for AI agents"
+category = "other"
+website = "https://agent-browser.dev"
+open_source = true
+repository = "https://github.com/vercel-labs/agent-browser"
+added = 2026-10-23

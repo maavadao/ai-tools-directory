@@ -7,6 +7,14 @@
 "url": "https://n8n.io/pricing/"
 }
 },
+"nanoclaw": {
+"checked": "2026-10-23",
+"image": "https://nanoclaw.dev/social-preview.jpg"
+},
+"nautilustrader": {
+"checked": "2026-10-23",
+"image": "https://nautilustrader.io/blog/preview.jpg"
+},
 "navige": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/images/ksJspuSmGbfuts4VWMX3qQqUpSk.png"
@@ -21,6 +29,24 @@
 "trial": true,
 "url": "https://needle.app/pricing"
 }
+},
+"netdata": {
+"checked": "2026-10-23",
+"image": "https://www.netdata.cloud/img/og-image.png"
+},
+"netron": {
+"checked": "2026-10-23"
+},
+"new-api": {
+"checked": "2026-10-23",
+"image": "https://www.newapi.ai/social-image"
+},
+"next-ai-draw-io": {
+"checked": "2026-10-23",
+"image": "https://next-ai-drawio.jiang.jp/architecture.png"
+},
+"nextchat": {
+"checked": "2026-10-23"
 },
 "ngram": {
 "checked": "2026-10-23",
@@ -47,6 +73,16 @@
 "url": "https://www.getnoan.com/pricing"
 }
 },
+"nomic": {
+"checked": "2026-10-23",
+"image": "https://www.nomic.ai/og/index.png?title=Accelerating+the+design+and+construction+of+the+built+world.&eyebrow=Domain-specific+AI+for+AEC&description=The+AI+agent+platform+for+AEC+firms%2C+grounded+in+your+drawings%2C+specs%2C+and+project+data.&v=1",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://www.nomic.ai/pricing"
+}
+},
 "notion": {
 "checked": "2026-10-23",
 "image": "https://www.notion.com/front-static/meta/teams-and-agents.jpg",
@@ -55,6 +91,15 @@
 "free": true,
 "from": 8.0,
 "url": "https://www.notion.com/pricing"
+}
+},
+"novu": {
+"checked": "2026-10-23",
+"image": "https://www.novu.co/social-previews/index.jpg",
+"pricing": {
+"currency": "USD",
+"from": 30.0,
+"url": "https://www.novu.co/pricing/"
 }
 }
 }

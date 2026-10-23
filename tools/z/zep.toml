@@ -1,0 +1,7 @@
+name = "Zep"
+description = "Zep is the unified context layer for enterprise data. It combines business data, documents, and conversations into shared, governed context for agents."
+category = "agents"
+website = "https://help.getzep.com"
+open_source = true
+repository = "https://github.com/getzep/graphiti"
+added = 2026-10-23

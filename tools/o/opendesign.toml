@@ -1,0 +1,7 @@
+name = "OpenDesign"
+description = "Open-source vibe design workspace & Claude Design alternative — build prototypes, landing pages, dashboards, slides & HTML video with your own coding agent."
+category = "other"
+website = "https://open-design.ai"
+open_source = true
+repository = "https://github.com/nexu-io/open-design"
+added = 2026-10-23

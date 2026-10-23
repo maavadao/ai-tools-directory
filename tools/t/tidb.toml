@@ -1,0 +1,7 @@
+name = "TiDB"
+description = "TiDB is the distributed SQL database built for AI agents. Vectors, transactions, and analytics in one engine with ACID guarantees and elastic scale."
+category = "agents"
+website = "https://www.pingcap.com"
+open_source = true
+repository = "https://github.com/pingcap/tidb"
+added = 2026-10-23

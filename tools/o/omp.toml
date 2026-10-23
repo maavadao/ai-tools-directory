@@ -1,0 +1,7 @@
+name = "omp"
+description = "Subagents, plan mode, LSP, DAP, hindsight memory, hashline edits, time-traveling rules — with a native Rust engine doing the heavy lifting."
+category = "chatbots"
+website = "https://omp.sh"
+open_source = true
+repository = "https://github.com/can1357/oh-my-pi"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "Claude Code Templates"
+description = "Browse and install 1000+ pre-built components for Claude Code. AI agents, slash commands, MCP integrations, hooks, and settings. Free, open-source CLI tool."
+category = "coding"
+website = "https://aitmpl.com"
+open_source = true
+repository = "https://github.com/davila7/claude-code-templates"
+added = 2026-10-23

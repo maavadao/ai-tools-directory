@@ -1,0 +1,7 @@
+name = "Front-End Checklist"
+description = "Trusted front-end quality rules for humans and AI agents. Browse hundreds of rules, run curated workflows, and use MCP for structured AI reviews."
+category = "agents"
+website = "https://frontendchecklist.io"
+open_source = true
+repository = "https://github.com/thedaviddias/Front-End-Checklist"
+added = 2026-10-23

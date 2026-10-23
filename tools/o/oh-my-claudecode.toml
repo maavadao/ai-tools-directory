@@ -1,0 +1,7 @@
+name = "oh-my-claudecode"
+description = "Multi-agent orchestration plugin for Claude Code. 19 specialized agents, 48 skills, full autonomous execution."
+category = "coding"
+website = "https://oh-my-claudecode.dev"
+open_source = true
+repository = "https://github.com/Yeachan-Heo/oh-my-claudecode"
+added = 2026-10-23

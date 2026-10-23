@@ -1,0 +1,7 @@
+name = "ollama"
+description = "Run and build with open AI models locally or in the cloud on macOS, Windows, and Linux."
+category = "chatbots"
+website = "https://ollama.com"
+open_source = true
+repository = "https://github.com/ollama/ollama"
+added = 2026-10-23

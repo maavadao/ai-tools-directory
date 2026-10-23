@@ -1,0 +1,7 @@
+name = "AI Engineering from Scratch"
+description = "542 lessons. 20 phases. Write the backprop, the tokenizer, the attention mechanism, and the agent loop by hand before any framework gets imported. Python, TypeScript, Rust, Julia."
+category = "agents"
+website = "https://aiengineeringfromscratch.com"
+open_source = true
+repository = "https://github.com/rohitg00/ai-engineering-from-scratch"
+added = 2026-10-23

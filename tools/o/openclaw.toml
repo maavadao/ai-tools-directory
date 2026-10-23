@@ -1,0 +1,7 @@
+name = "OpenClaw"
+description = "OpenClaw is the open-source AI assistant that runs on your machine and works from WhatsApp, Telegram, or any chat app: inbox, email, calendar, flights."
+category = "chatbots"
+website = "https://openclaw.ai"
+open_source = true
+repository = "https://github.com/openclaw/openclaw"
+added = 2026-10-23

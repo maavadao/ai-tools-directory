@@ -1,0 +1,7 @@
+name = "TrendRadar"
+description = "开源 AI 舆情监控与热点聚合工具，最快 30 秒部署：聚合全网热搜与 RSS 订阅，AI 智能筛选、分析与翻译，简报直推微信、Telegram、钉钉、飞书等渠道，告别无效刷屏。"
+category = "other"
+website = "https://trendradar.sandev.cc"
+open_source = true
+repository = "https://github.com/sansan0/TrendRadar"
+added = 2026-10-23

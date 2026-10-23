@@ -3,6 +3,34 @@
 "checked": "2026-10-23",
 "image": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/1647e9a2-47d6-4d95-5ae0-02bae7a44000/public"
 },
+"ui-ux-pro-max": {
+"checked": "2026-10-23",
+"image": "https://uupm.cc/share.png"
+},
+"ultralytics-platform": {
+"checked": "2026-10-23",
+"image": "https://cdn.ul.run/i/f34fcbe4eaafb350d480438ccbaaefc7.webp",
+"pricing": {
+"free": true,
+"url": "https://www.ultralytics.com/pricing"
+}
+},
+"unsloth": {
+"checked": "2026-10-23",
+"image": "https://unsloth.ai/cgi/image/unsloth_new_wb_logo_vnrA8AASj-jN5wy8UIYE-.png?format=raw"
+},
+"unwind-ai": {
+"checked": "2026-10-23",
+"image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/thumbnail/84ac330c-894c-4f61-ac66-e747ce8b32eb/landscape_UAI_new_banner.png"
+},
+"upscayl": {
+"checked": "2026-10-23",
+"image": "https://upscayl.org/og-image.webp",
+"pricing": {
+"trial": true,
+"url": "https://upscayl.org/pricing"
+}
+},
 "useit-studio": {
 "checked": "2026-10-23"
 }

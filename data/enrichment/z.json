@@ -13,6 +13,10 @@
 "url": "https://zapier.com/pricing"
 }
 },
+"zed": {
+"checked": "2026-10-23",
+"image": "https://zed.dev/img/home/og.webp"
+},
 "zenabm": {
 "checked": "2026-10-23",
 "image": "https://zenabm.com/opengraph-image",
@@ -33,6 +37,14 @@
 "trial": true,
 "url": "https://www.zendesk.com/in/pricing/"
 }
+},
+"zep": {
+"checked": "2026-10-23",
+"image": "https://files.buildwithfern.com/zep.docs.buildwithfern.com/02c641ada228c93ddc35eb6c1bc7e334fc8b00cbce6788440d20f2d5097a0ef3/images/docs-social-card.png"
+},
+"zeroclaw": {
+"checked": "2026-10-23",
+"image": "https://www.zeroclaw.com/images/og-card.jpg"
 },
 "zoowork": {
 "checked": "2026-10-23",

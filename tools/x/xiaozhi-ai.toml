@@ -1,0 +1,7 @@
+name = "XiaoZhi AI"
+description = "XiaoZhi AI connects intelligent agents to real-world open-source hardware. Manage ESP32 voice devices, AI agents, and developer tools in one console."
+category = "chatbots"
+website = "https://xiaozhi.me"
+open_source = true
+repository = "https://github.com/78/xiaozhi-esp32"
+added = 2026-10-23

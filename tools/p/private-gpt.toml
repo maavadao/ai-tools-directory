@@ -1,0 +1,7 @@
+name = "private-gpt"
+description = "Deploy secure enterprise AI in your own infrastructure, on-prem, air-gapped, or in a cloud VPC, with full data control, governance, and compliance. Zylon provides a private AI platform for finance, healthcare, defense, and the public sector."
+category = "other"
+website = "https://www.zylon.ai"
+open_source = true
+repository = "https://github.com/zylon-ai/private-gpt"
+added = 2026-10-23

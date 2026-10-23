@@ -1,0 +1,7 @@
+name = "Crawl4AI"
+description = "Turn any URL into clean Markdown, typed JSON, or search results. Free to self-host, hosted so you skip the ops."
+category = "chatbots"
+website = "https://crawl4ai.com"
+open_source = true
+repository = "https://github.com/unclecode/crawl4ai"
+added = 2026-10-23

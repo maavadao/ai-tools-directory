@@ -1,0 +1,7 @@
+name = "TensorFlow"
+description = "An end-to-end open source machine learning platform for everyone. Discover TensorFlow's flexible ecosystem of tools, libraries and community resources."
+category = "other"
+website = "https://www.tensorflow.org"
+open_source = true
+repository = "https://github.com/tensorflow/tensorflow"
+added = 2026-10-23

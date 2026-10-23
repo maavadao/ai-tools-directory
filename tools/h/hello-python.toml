@@ -1,0 +1,7 @@
+name = "Hello-Python"
+description = "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..."
+category = "education"
+website = "https://mouredev.link"
+open_source = true
+repository = "https://github.com/mouredev/Hello-Python"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "Kong Inc."
+description = "The fabric of modern connectivity. Secure, govern, and scale your API, AI, MCP, and agent gateways with the world’s most trusted platform."
+category = "other"
+website = "https://konghq.com"
+open_source = true
+repository = "https://github.com/Kong/kong"
+added = 2026-10-23

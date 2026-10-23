@@ -1,0 +1,7 @@
+name = "tabby"
+description = "Tabby is an open-source AI coding assistant that empowers developers to code faster and smarter. Discover a self-contained alternative to GitHub Copilot, tailored for your development needs."
+category = "coding"
+website = "https://www.tabbyml.com"
+open_source = true
+repository = "https://github.com/TabbyML/tabby"
+added = 2026-10-23

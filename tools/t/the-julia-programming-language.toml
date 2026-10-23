@@ -1,0 +1,7 @@
+name = "The Julia Programming Language"
+description = "Julia is a fast, dynamic, open-source programming language for scientific computing, data science, machine learning and more. Download Julia, learn the language, and explore its packages and community."
+category = "research"
+website = "https://julialang.org"
+open_source = true
+repository = "https://github.com/JuliaLang/julia"
+added = 2026-10-23

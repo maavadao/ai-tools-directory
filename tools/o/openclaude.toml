@@ -1,0 +1,7 @@
+name = "openclaude"
+description = "Open-source coding agent that runs in your terminal and talks to any model: OpenAI, Gemini, Ollama, GitHub Models, and 200+ more. One install, every provider."
+category = "coding"
+website = "https://openclaude.twigpine.com"
+open_source = true
+repository = "https://github.com/Twigpine/openclaude"
+added = 2026-10-23

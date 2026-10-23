@@ -1,0 +1,7 @@
+name = "officialskills.sh"
+description = "Browse agent skills published by official developer teams. Cloudflare, Anthropic, Stripe, Microsoft, OpenAI and more."
+category = "education"
+website = "https://officialskills.sh"
+open_source = true
+repository = "https://github.com/VoltAgent/awesome-agent-skills"
+added = 2026-10-23

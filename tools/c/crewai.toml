@@ -1,0 +1,7 @@
+name = "CrewAI"
+description = "The Leading Multi-Agent Platform"
+category = "agents"
+website = "https://crewai.com"
+open_source = true
+repository = "https://github.com/crewAIInc/crewAI"
+added = 2026-10-23

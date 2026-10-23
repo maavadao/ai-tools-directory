@@ -1,0 +1,7 @@
+name = "DeerFlow"
+description = "A LangChain-based framework for building super agents."
+category = "research"
+website = "https://deerflow.tech"
+open_source = true
+repository = "https://github.com/bytedance/deer-flow"
+added = 2026-10-23

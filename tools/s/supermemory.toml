@@ -1,0 +1,7 @@
+name = "supermemory"
+description = "Agents need memory. supermemory is building the default engine for memory and continual learning for agents."
+category = "agents"
+website = "https://supermemory.ai"
+open_source = true
+repository = "https://github.com/supermemoryai/supermemory"
+added = 2026-10-23

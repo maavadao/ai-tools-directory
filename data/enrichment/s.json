@@ -9,6 +9,52 @@
 "url": "https://schole.ai/pricing"
 }
 },
+"scikit-learn": {
+"checked": "2026-10-23"
+},
+"scrapegraphai": {
+"checked": "2026-10-23",
+"image": "https://pub-308fdc8a1858487d9ab275774108077b.r2.dev/images/og.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://scrapegraphai.com/pricing"
+}
+},
+"seth-hobson": {
+"checked": "2026-10-23",
+"image": "https://sethhobson.com/og-image.png"
+},
+"sglang": {
+"checked": "2026-10-23",
+"image": "https://www.sglang.io/images/hero-illustrate.png?v=2"
+},
+"shannon": {
+"checked": "2026-10-23",
+"image": "https://keygraph.io/public/og-image.png"
+},
+"signoz": {
+"checked": "2026-10-23",
+"image": "https://signoz.io/img/signoz-meta-image.webp",
+"pricing": {
+"currency": "USD",
+"from": 49.0,
+"trial": true,
+"url": "https://signoz.io/pricing/"
+}
+},
+"sillytavern": {
+"checked": "2026-10-23"
+},
+"skills": {
+"checked": "2026-10-23",
+"image": "https://res.cloudinary.com/total-typescript/image/upload/v1777557385/og-image-root_2x.jpg"
+},
+"skills-sh": {
+"checked": "2026-10-23",
+"image": "https://www.skills.sh/og.jpeg"
+},
 "sourcegraph": {
 "checked": "2026-10-23",
 "image": "https://storage.googleapis.com/marketing-site-static-assets-prod/og-image-homepage.webp",
@@ -16,6 +62,10 @@
 "trial": true,
 "url": "https://sourcegraph.com/pricing"
 }
+},
+"spacy": {
+"checked": "2026-10-23",
+"image": "https://spacy.io/_next/static/media/social_default.96b04585.jpg"
 },
 "speak": {
 "checked": "2026-10-23"
@@ -41,12 +91,35 @@
 "url": "https://statable.com/pricing"
 }
 },
+"streamlit": {
+"checked": "2026-10-23",
+"image": "https://streamlit.io/images/uploads/sharing-image-facebook.jpg"
+},
+"strix": {
+"checked": "2026-10-23",
+"image": "https://www.strix.ai/og.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.strix.ai/pricing"
+}
+},
 "suno": {
 "checked": "2026-10-23",
 "image": "https://cdn-o.suno.com/meta-preview.jpg",
 "pricing": {
 "free": true,
 "url": "https://suno.com"
+}
+},
+"supabase": {
+"checked": "2026-10-23",
+"image": "https://supabase.com/images/og/supabase-og.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 10.0,
+"url": "https://supabase.com/pricing"
 }
 },
 "supademo": {
@@ -68,6 +141,18 @@
 "url": "https://superhuman.com/plans/go"
 }
 },
+"supermemory": {
+"checked": "2026-10-23",
+"image": "https://supermemory.ai/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 19.0,
+"url": "https://supermemory.ai/pricing/"
+}
+},
+"supervision-documentation": {
+"checked": "2026-10-23"
+},
 "surfer": {
 "checked": "2026-10-23",
 "image": "https://surfer.ai/images/og/basic.jpg",
@@ -75,6 +160,9 @@
 "free": true,
 "url": "https://surfer.ai/pricing/"
 }
+},
+"swe-list": {
+"checked": "2026-10-23"
 },
 "synthesia": {
 "checked": "2026-10-23",

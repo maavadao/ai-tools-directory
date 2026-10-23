@@ -1,0 +1,7 @@
+name = "OpenCode"
+description = "OpenCode - The open source coding agent."
+category = "coding"
+website = "https://opencode.ai"
+open_source = true
+repository = "https://github.com/anomalyco/opencode"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "Taste Skill"
+description = "Taste Skill gives your AI agent good taste. Open-source skill files that stop AI from generating generic, boring frontends."
+category = "other"
+website = "https://www.tasteskill.dev"
+open_source = true
+repository = "https://github.com/Leonxlnx/taste-skill"
+added = 2026-10-23

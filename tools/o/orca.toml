@@ -1,0 +1,7 @@
+name = "orca"
+description = "Orca is the Agent Development Environment (ADE) for shipping with coding agents. Run Claude Code, Codex, Gemini, Cursor CLI, and every other CLI agent in parallel across isolated worktrees. Get work done dramatically faster than any IDE. New features shipped every day. Free, open source, cross-plat…"
+category = "coding"
+website = "https://www.onorca.dev"
+open_source = true
+repository = "https://github.com/stablyai/orca"
+added = 2026-10-23

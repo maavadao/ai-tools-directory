@@ -1,0 +1,7 @@
+name = "Chatbox AI"
+description = "Chatbox AI is a privacy-focused app to chat and work with GPT, Claude, Gemini, Grok, DeepSeek, and more using your own API keys. Start for free."
+category = "coding"
+website = "https://chatboxai.app"
+open_source = true
+repository = "https://github.com/chatboxai/chatbox"
+added = 2026-10-23

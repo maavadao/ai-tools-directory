@@ -1,0 +1,7 @@
+name = "Novu"
+description = "Novu is the open-source notification and agent communication infrastructure. Connect AI agents and products to customers across in-app, email, SMS, push, WhatsApp, Slack, Microsoft Teams, and Telegram with one API. Start with npx novu connect."
+category = "productivity"
+website = "https://www.novu.co"
+open_source = true
+repository = "https://github.com/novuhq/novu"
+added = 2026-10-23

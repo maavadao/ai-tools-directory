@@ -1,0 +1,7 @@
+name = "Open Code Review"
+description = "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+category = "agents"
+website = "https://open-codereview.ai"
+open_source = true
+repository = "https://github.com/alibaba/open-code-review"
+added = 2026-10-23

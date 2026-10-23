@@ -1,0 +1,7 @@
+name = "strix"
+description = "AI penetration testing and autonomous security platform that tests your code, APIs, cloud, and infrastructure — and delivers validated findings with fix PRs. Start for free."
+category = "agents"
+website = "https://www.strix.ai"
+open_source = true
+repository = "https://github.com/usestrix/strix"
+added = 2026-10-23

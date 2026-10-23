@@ -13,6 +13,10 @@
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/659ee90e075c502b5cc49dae/6618517343d5ef21ac0ec603_Frame%20625094.png"
 },
+"khoj": {
+"checked": "2026-10-23",
+"image": "https://khoj.dev/social-banner.jpg"
+},
 "klingai": {
 "checked": "2026-10-23",
 "image": "https://s16-kling.klingai.com/kos/s101/nlav112918/kling-web/kling-logo-payment-en.png"
@@ -25,6 +29,17 @@
 "free": true,
 "from": 42.0,
 "url": "https://kodlo.ai/pricing/"
+}
+},
+"kong-inc": {
+"checked": "2026-10-23",
+"image": "https://prd-mktg-konghq-com.imgix.net/images/2026/03/69ca7138-kong-thumbnail-2026.png?auto=format",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"trial": true,
+"url": "https://konghq.com/pricing"
 }
 },
 "krea": {

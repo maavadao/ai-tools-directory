@@ -1,0 +1,7 @@
+name = "ChatTTS by 2Noise"
+description = "A generative speech model for daily dialogue."
+category = "audio"
+website = "https://2noise.com"
+open_source = true
+repository = "https://github.com/2noise/ChatTTS"
+added = 2026-10-23

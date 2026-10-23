@@ -1,0 +1,7 @@
+name = "Pake"
+description = "Turn websites into desktop apps on Mac, Windows and Linux with the free, open-source Pake CLI. The Mac and Windows app is coming soon."
+category = "chatbots"
+website = "https://pake.run"
+open_source = true
+repository = "https://github.com/tw93/Pake"
+added = 2026-10-23

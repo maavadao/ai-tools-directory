@@ -1,0 +1,7 @@
+name = "meetily"
+description = "The most secure AI meeting note taker. 100% local transcription. Pluggable AI summaries (local or BYOK). No meeting bots. Community Edition free. GDPR & HIPAA compliant by design."
+category = "audio"
+website = "https://meetily.ai"
+open_source = true
+repository = "https://github.com/Zackriya-Solutions/meetily"
+added = 2026-10-23

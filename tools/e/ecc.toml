@@ -1,0 +1,7 @@
+name = "ECC"
+description = "The operating layer for agent harnesses: skills, hooks, Plan Canvas, unified memory, compute workflows and AgentShield security across coding agents."
+category = "coding"
+website = "https://ecc.tools"
+open_source = true
+repository = "https://github.com/affaan-m/ECC"
+added = 2026-10-23

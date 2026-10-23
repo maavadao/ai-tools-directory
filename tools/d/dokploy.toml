@@ -1,0 +1,7 @@
+name = "dokploy"
+description = "Deploy your applications with ease using Dokploy"
+category = "agents"
+website = "https://dokploy.com"
+open_source = true
+repository = "https://github.com/Dokploy/dokploy"
+added = 2026-10-23

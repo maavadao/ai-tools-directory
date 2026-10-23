@@ -1,0 +1,7 @@
+name = "MindsHub by MindsDB"
+description = "Manage AI access, usage, and budgets in one console. Use MindsHub models in your own apps and agents, or get work done with Cowork and Code. Start free."
+category = "agents"
+website = "https://mindshub.ai"
+open_source = true
+repository = "https://github.com/mindsdb/mindshub"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "Lightning AI"
+description = "Build, train and deploy your own specialized models. On-demand GPUs, clusters, AI coding agents and enterprise-grade infrastructure."
+category = "data"
+website = "https://lightning.ai"
+open_source = true
+repository = "https://github.com/Lightning-AI/pytorch-lightning"
+added = 2026-10-23

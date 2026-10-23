@@ -1,0 +1,7 @@
+name = "Ultralytics Platform"
+description = "Build full lifecycle computer vision workflows with Ultralytics Platform. Annotate data, train YOLO models, and deploy production-ready vision AI."
+category = "other"
+website = "https://platform.ultralytics.com"
+open_source = true
+repository = "https://github.com/ultralytics/ultralytics"
+added = 2026-10-23

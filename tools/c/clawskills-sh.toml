@@ -1,0 +1,7 @@
+name = "clawskills.sh"
+description = "Browse 5,147 curated OpenClaw skills. Filtered from the official registry, categorized for faster discovery."
+category = "education"
+website = "https://clawskills.sh"
+open_source = true
+repository = "https://github.com/VoltAgent/awesome-openclaw-skills"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "prompts.chat"
+description = "Discover, collect, and share the best AI prompts for ChatGPT, Claude, Gemini, and more. Join the largest community of AI prompt engineers."
+category = "other"
+website = "https://prompts.chat"
+open_source = true
+repository = "https://github.com/f/prompts.chat"
+added = 2026-10-23

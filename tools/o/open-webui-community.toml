@@ -1,0 +1,7 @@
+name = "Open WebUI Community"
+description = "Run AI on your own terms. Connect any model, extend with code, and protect what matters without compromise."
+category = "chatbots"
+website = "https://openwebui.com"
+open_source = true
+repository = "https://github.com/open-webui/open-webui"
+added = 2026-10-23

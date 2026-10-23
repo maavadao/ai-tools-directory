@@ -1,0 +1,7 @@
+name = "herdr"
+description = "Run them anywhere. Leave them running. Herdr holds real terminals open so your agents keep working when you close the laptop, and gets you back in from any tty."
+category = "coding"
+website = "https://herdr.dev"
+open_source = true
+repository = "https://github.com/herdrdev/herdr"
+added = 2026-10-23

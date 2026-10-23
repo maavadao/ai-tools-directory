@@ -20,5 +20,26 @@
 "trial": true,
 "url": "https://veltrix.com/pricing"
 }
+},
+"voicebox": {
+"checked": "2026-10-23",
+"image": "https://voicebox.sh/og.webp",
+"pricing": {
+"free": true,
+"url": "https://voicebox.sh/pricing"
+}
+},
+"voicestudio": {
+"checked": "2026-10-23",
+"image": "https://voicestudio.sh/og/home.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 99.0,
+"url": "https://elevenlabs.io/pricing"
+}
+},
+"voxcpm": {
+"checked": "2026-10-23"
 }
 }

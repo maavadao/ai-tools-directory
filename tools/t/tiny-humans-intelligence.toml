@@ -1,0 +1,7 @@
+name = "Tiny Humans Intelligence"
+description = "TinyHumans builds OpenHuman, a private personal AI for your desktop; OpenCompany, an agent hive mind that reasons as a team; and Medulla, a terminal app that runs every coding agent you have at once. All open source."
+category = "chatbots"
+website = "https://tinyhumans.ai"
+open_source = true
+repository = "https://github.com/tinyhumansai/openhuman"
+added = 2026-10-23

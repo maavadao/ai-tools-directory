@@ -1,0 +1,7 @@
+name = "supabase"
+description = "Build production-grade applications with a Postgres database, Authentication, instant APIs, Realtime, Functions, Storage and Vector embeddings. Start for free."
+category = "other"
+website = "https://supabase.com"
+open_source = true
+repository = "https://github.com/supabase/supabase"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "claude-mem"
+description = "Keep the decisions, discoveries, and fixes from your work ready for the next session. Open-source claude-mem captures memory; CMEM Pro adds hosted observation, cloud sync, and MCP recall."
+category = "other"
+website = "https://cmem.ai"
+open_source = true
+repository = "https://github.com/thedotmack/claude-mem"
+added = 2026-10-23

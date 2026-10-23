@@ -1,0 +1,7 @@
+name = "Medusa"
+description = "The most flexible commerce platform for agents and developers."
+category = "coding"
+website = "https://medusajs.com"
+open_source = true
+repository = "https://github.com/medusajs/medusa"
+added = 2026-10-23

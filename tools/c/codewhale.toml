@@ -1,0 +1,7 @@
+name = "Codewhale"
+description = "Codewhale is an open-source coding agent for your terminal. Read, edit and test projects with your own hosted or local models."
+category = "other"
+website = "https://codewhale.net"
+open_source = true
+repository = "https://github.com/codewhale-hq/Codewhale"
+added = 2026-10-23

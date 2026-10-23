@@ -1,0 +1,7 @@
+name = "OpenBB"
+description = "The workspace where investment teams bring their data, workflows, and AI together. Under your control."
+category = "data"
+website = "https://openbb.co"
+open_source = true
+repository = "https://github.com/openbq-org/OpenBB"
+added = 2026-10-23

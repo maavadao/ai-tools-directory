@@ -1,0 +1,7 @@
+name = "DeepLiveCam"
+description = "Transform your webcam with DeepLiveCam. Swap faces in real time, create virtual avatars, and bring new creativity to your videos and live streams."
+category = "video"
+website = "https://deeplivecam.net"
+open_source = true
+repository = "https://github.com/hacksider/Deep-Live-Cam"
+added = 2026-10-23

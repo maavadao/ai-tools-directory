@@ -1,0 +1,7 @@
+name = "RTK"
+description = "RTK Engine cuts what AI coding agents cost: compress tool output, route work to cheaper models, share one pipeline file. Zero config, Apache 2.0."
+category = "coding"
+website = "https://www.rtk-ai.app"
+open_source = true
+repository = "https://github.com/rtk-ai/rtk"
+added = 2026-10-23

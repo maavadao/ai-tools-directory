@@ -1,0 +1,7 @@
+name = "PhotoPrism"
+description = "AI-powered, privacy-first, self-hosted app for browsing, organizing, and sharing photos and videos"
+category = "other"
+website = "https://www.photoprism.app"
+open_source = true
+repository = "https://github.com/photoprism/photoprism"
+added = 2026-10-23

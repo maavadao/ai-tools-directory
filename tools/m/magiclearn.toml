@@ -1,0 +1,7 @@
+name = "MagicLearn"
+description = "Learn the most valuable skillset in the world. Master AI coding with expert-led courses. No experience required."
+category = "chatbots"
+website = "https://www.jointakeoff.com"
+open_source = true
+repository = "https://github.com/mckaywrigley/chatbot-ui"
+added = 2026-10-23

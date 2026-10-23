@@ -1,0 +1,7 @@
+name = "PaddleOCR"
+description = "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+category = "other"
+website = "https://paddleocr.com"
+open_source = true
+repository = "https://github.com/PaddlePaddle/PaddleOCR"
+added = 2026-10-23

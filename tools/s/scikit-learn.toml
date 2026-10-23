@@ -1,0 +1,7 @@
+name = "scikit-learn"
+description = "scikit-learn: machine learning in Python"
+category = "data"
+website = "https://scikit-learn.org"
+open_source = true
+repository = "https://github.com/scikit-learn/scikit-learn"
+added = 2026-10-23

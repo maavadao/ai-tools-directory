@@ -1,0 +1,7 @@
+name = "OpenCV"
+description = "OpenCV provides a real-time optimized Computer Vision library, tools, and hardware. It also supports model execution for Machine Learning (ML) and Artificial Intelligence (AI)."
+category = "other"
+website = "https://opencv.org"
+open_source = true
+repository = "https://github.com/opencv/opencv"
+added = 2026-10-23

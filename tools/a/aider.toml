@@ -1,0 +1,7 @@
+name = "aider"
+description = "aider is AI pair programming in your terminal"
+category = "coding"
+website = "https://aider.chat"
+open_source = true
+repository = "https://github.com/Aider-AI/aider"
+added = 2026-10-23

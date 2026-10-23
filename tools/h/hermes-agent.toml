@@ -1,0 +1,7 @@
+name = "Hermes Agent"
+description = "Hermes Agent — a standalone terminal app and a native application for macOS, Windows, and Linux. Install it and start a conversation with the agent that grows with you."
+category = "coding"
+website = "https://hermes-agent.nousresearch.com"
+open_source = true
+repository = "https://github.com/NousResearch/hermes-agent"
+added = 2026-10-23

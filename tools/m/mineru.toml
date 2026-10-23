@@ -1,0 +1,7 @@
+name = "MinerU"
+description = "MinerU 是面向 Agent、RAG 和 LLM 的智能文档解析平台，支持 PDF、Word、PPT、Excel、图片和网页 URL 解析，可转换为 Markdown、JSON、LaTeX 等结构化结果。"
+category = "other"
+website = "https://mineru.net"
+open_source = true
+repository = "https://github.com/opendatalab/MinerU"
+added = 2026-10-23

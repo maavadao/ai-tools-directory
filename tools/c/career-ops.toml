@@ -1,0 +1,7 @@
+name = "career-ops"
+description = "Open source AI-powered job search system. Runs in your CLI. CLI-agnostic, MIT, local-first."
+category = "education"
+website = "https://career-ops.org"
+open_source = true
+repository = "https://github.com/career-ops-hq/career-ops"
+added = 2026-10-23

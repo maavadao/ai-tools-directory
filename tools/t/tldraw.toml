@@ -1,0 +1,7 @@
+name = "tldraw"
+description = "The tldraw SDK provides tools, services, and APIs to build beautiful whiteboards and infinite canvas applications with real-time collaboration and a powerful React-based canvas."
+category = "agents"
+website = "https://tldraw.dev"
+open_source = true
+repository = "https://github.com/tldraw/tldraw"
+added = 2026-10-23

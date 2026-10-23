@@ -1,0 +1,7 @@
+name = "PentAGI"
+description = "PentAGI is a fully autonomous multi-agent system that plans and runs penetration tests in an isolated sandbox — self-hosted, open source, enterprise-ready."
+category = "agents"
+website = "https://pentagi.com"
+open_source = true
+repository = "https://github.com/vxcontrol/pentagi"
+added = 2026-10-23

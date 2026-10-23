@@ -1,0 +1,7 @@
+name = "PageIndex"
+description = "Vectorless, reasoning-based RAG engine achieving 98.7% accuracy on FinanceBench. Traceable and explainable document retrieval without vector databases."
+category = "chatbots"
+website = "https://pageindex.ai"
+open_source = true
+repository = "https://github.com/VectifyAI/PageIndex"
+added = 2026-10-23

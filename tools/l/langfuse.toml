@@ -1,0 +1,7 @@
+name = "langfuse"
+description = "Trace, evaluate, and improve AI agents with one open platform. Use production data to understand behavior, collaborate on fixes, and ship better quality at lower cost and latency."
+category = "chatbots"
+website = "https://langfuse.com"
+open_source = true
+repository = "https://github.com/langfuse/langfuse"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "code-review-graph"
+description = "Persistent local code graph for token-efficient AI code review through MCP and CLI. ~63x median context reduction, 30 MCP tools, local-first by default."
+category = "chatbots"
+website = "https://code-review-graph.com"
+open_source = true
+repository = "https://github.com/tirth8205/code-review-graph"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "RAGFlow"
+description = "Build a superior context layer for AI agents - Empower your AI agents through the leading open-source RAG engine, delivering reliable context and an integrated agent platform, built for enterprise."
+category = "other"
+website = "https://ragflow.io"
+open_source = true
+repository = "https://github.com/infiniflow/ragflow"
+added = 2026-10-23

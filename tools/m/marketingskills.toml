@@ -1,0 +1,7 @@
+name = "marketingskills"
+description = "Open-source library of 50 marketing Claude skills for Claude Code, Cursor, and Codex — SEO, copywriting, cold email, pricing, CRO, and more."
+category = "sales-marketing"
+website = "https://marketing-skills.com"
+open_source = true
+repository = "https://github.com/coreyhaines31/marketingskills"
+added = 2026-10-23

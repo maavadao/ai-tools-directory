@@ -1,0 +1,7 @@
+name = "cline"
+description = "Open-source AI coding agent with Plan/Act modes, MCP integration, and terminal-first workflows. Trusted by 11M+ developers worldwide."
+category = "coding"
+website = "https://cline.bot"
+open_source = true
+repository = "https://github.com/cline/cline"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "Daily Stock Analysis"
+description = "支持 A股、港股、美股的开源智能股票分析系统，提供每日分析报告、大盘复盘、Agent 问股和多渠道推送。"
+category = "image"
+website = "https://dsa.zhulinsen.tech"
+open_source = true
+repository = "https://github.com/ZhuLinsen/daily_stock_analysis"
+added = 2026-10-23

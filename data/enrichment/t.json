@@ -1,4 +1,13 @@
 {
+"tabby": {
+"checked": "2026-10-23",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 19.0,
+"url": "https://www.tabbyml.com/pricing"
+}
+},
 "tableau": {
 "checked": "2026-10-23",
 "image": "https://wp.sfdcdigital.com/tableau/en-us/wp-content/uploads/sites/47/2026/09/Tableau-OG-Agentic-Analytics-1.png?w=1024",
@@ -7,9 +16,35 @@
 "url": "https://www.tableau.com/pricing"
 }
 },
+"taste-skill": {
+"checked": "2026-10-23",
+"image": "https://www.tasteskill.dev/og-image.jpg"
+},
 "teachoo": {
 "checked": "2026-10-23",
 "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4fc6ce87-ec73-42d0-83dc-7c85059937ae/id-preview-687cf3db--70f423a8-a933-48cb-b46a-0112e655cad8.lovable.app-1784088734535.png"
+},
+"telegram": {
+"checked": "2026-10-23",
+"image": "https://telegram.org/img/t_logo_2x.png"
+},
+"tensorflow": {
+"checked": "2026-10-23",
+"image": "https://www.tensorflow.org/static/images/tf_logo_social.png"
+},
+"the-julia-programming-language": {
+"checked": "2026-10-23",
+"image": "https://julialang.org/assets/images/julia-open-graph.png"
+},
+"tidb": {
+"checked": "2026-10-23",
+"image": "https://static.pingcap.com/files/2026/10/08015109/tidb-social-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 400.0,
+"url": "https://www.pingcap.com/pricing/"
+}
 },
 "tiden": {
 "checked": "2026-10-23",
@@ -30,9 +65,39 @@
 "url": "https://www.tidio.com/pricing/"
 }
 },
+"tiny-humans-intelligence": {
+"checked": "2026-10-23",
+"image": "https://tinyhumans.ai/images/home/og.png",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://tinyhumans.ai/pricing"
+}
+},
+"tldraw": {
+"checked": "2026-10-23",
+"image": "https://cdn.sanity.io/images/ij3ytvrl/production/9bbdab1656512165d2426e787a553be0a8fd60a6-512x256.webp?w=1200&fit=max",
+"pricing": {
+"trial": true,
+"url": "https://tldraw.dev/pricing"
+}
+},
 "together-ai": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a49f86fc70648ca04854f6_OG-image-home.png"
+},
+"tooljet": {
+"checked": "2026-10-23",
+"image": "https://tooljet.com/images/tooljet-social.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://tooljet.com/pricing"
+}
+},
+"trendradar": {
+"checked": "2026-10-23",
+"image": "https://trendradar.sandev.cc/images/og-image.png"
 },
 "twinmind-for-desktop": {
 "checked": "2026-10-23",

@@ -1,0 +1,7 @@
+name = "9router"
+description = "Free AI routing with smart 3-tier fallback. Maximize subscriptions, auto-switch to cheap/free models. Never stop coding with Claude Code, Codex, Gemini CLI."
+category = "coding"
+website = "https://9router.com"
+open_source = true
+repository = "https://github.com/decolua/9router"
+added = 2026-10-23

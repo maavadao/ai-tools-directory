@@ -1,0 +1,7 @@
+name = "langchain"
+description = "LangChain enables every company to own their intelligence. Control, govern, and compound intelligence with an open agent engineering platform. Trusted by 7k+ organizations."
+category = "chatbots"
+website = "https://www.langchain.com"
+open_source = true
+repository = "https://github.com/langchain-ai/langchain"
+added = 2026-10-23

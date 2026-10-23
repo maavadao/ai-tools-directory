@@ -1,0 +1,7 @@
+name = "Overview"
+description = "State of the art long-term memory for your agents. Hindsight gives AI agents memory that learns across sessions."
+category = "agents"
+website = "https://hindsight.vectorize.io"
+open_source = true
+repository = "https://github.com/vectorize-io/hindsight"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "langflow"
+description = "Langflow is a low-code AI builder for agentic and retrieval-augmented generation (RAG) apps. Code in Python and use any LLM or vector database."
+category = "agents"
+website = "https://www.langflow.org"
+open_source = true
+repository = "https://github.com/langflow-ai/langflow"
+added = 2026-10-23

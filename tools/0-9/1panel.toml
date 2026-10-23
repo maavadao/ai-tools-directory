@@ -1,0 +1,7 @@
+name = "1Panel"
+description = "The modern cPanel alternative. Deploy Ollama, run DeepSeek or Qwen locally, manage Docker, SSL, and websites — all from a clean web dashboard. Free and open source."
+category = "agents"
+website = "https://1panel.pro"
+open_source = true
+repository = "https://github.com/1Panel-dev/1Panel"
+added = 2026-10-23

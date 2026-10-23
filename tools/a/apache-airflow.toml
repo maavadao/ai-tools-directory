@@ -1,0 +1,7 @@
+name = "Apache Airflow"
+description = "Platform created by the community to programmatically author, schedule and monitor workflows."
+category = "agents"
+website = "https://airflow.apache.org"
+open_source = true
+repository = "https://github.com/apache/airflow"
+added = 2026-10-23

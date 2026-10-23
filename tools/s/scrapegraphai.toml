@@ -1,0 +1,7 @@
+name = "ScrapeGraphAI"
+description = "The web scraping API built for the AI era. Extract structured data from any website. No proxies, no selectors, no maintenance needed."
+category = "chatbots"
+website = "https://scrapegraphai.com"
+open_source = true
+repository = "https://github.com/ScrapeGraphAI/Scrapegraph-ai"
+added = 2026-10-23

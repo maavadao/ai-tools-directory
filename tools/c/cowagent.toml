@@ -1,0 +1,7 @@
+name = "CowAgent"
+description = "An open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge."
+category = "chatbots"
+website = "https://cowagent.ai"
+open_source = true
+repository = "https://github.com/zhayujie/CowAgent"
+added = 2026-10-23

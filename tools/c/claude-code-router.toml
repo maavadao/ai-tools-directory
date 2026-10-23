@@ -1,0 +1,7 @@
+name = "Claude Code Router 文档"
+description = "介绍 CCR 的核心能力、文档的组织方式和推荐的阅读顺序。第一次接触 CCR 时从这一页开始。"
+category = "agents"
+website = "https://ccrdesk.top"
+open_source = true
+repository = "https://github.com/musistudio/claude-code-router"
+added = 2026-10-23

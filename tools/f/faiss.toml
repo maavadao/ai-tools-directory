@@ -1,0 +1,7 @@
+name = "faiss"
+description = "A library for efficient similarity search and clustering of dense vectors."
+category = "other"
+website = "https://faiss.ai"
+open_source = true
+repository = "https://github.com/facebookresearch/faiss"
+added = 2026-10-23

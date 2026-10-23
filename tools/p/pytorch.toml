@@ -1,0 +1,7 @@
+name = "PyTorch"
+description = "PyTorch Foundation is the deep learning community home for the open source PyTorch framework and ecosystem."
+category = "other"
+website = "https://pytorch.org"
+open_source = true
+repository = "https://github.com/pytorch/pytorch"
+added = 2026-10-23

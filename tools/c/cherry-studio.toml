@@ -1,0 +1,7 @@
+name = "Cherry Studio"
+description = "Open-source AI desktop client for Mac, Windows and Linux. Run frontier models from DeepSeek, Qwen, GLM and more, with your data stored locally."
+category = "other"
+website = "https://cherryai.com"
+open_source = true
+repository = "https://github.com/CherryHQ/cherry-studio"
+added = 2026-10-23

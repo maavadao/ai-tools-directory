@@ -1,0 +1,7 @@
+name = "Home"
+description = "Learn how to responsibly design, develop, deploy and iterate on production ML applications."
+category = "data"
+website = "https://madewithml.com"
+open_source = true
+repository = "https://github.com/GokuMohandas/Made-With-ML"
+added = 2026-10-23

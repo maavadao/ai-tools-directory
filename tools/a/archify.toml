@@ -1,0 +1,7 @@
+name = "archify"
+description = "Archify is an MIT-licensed AI agent skill for validated HTML diagrams and conclusion-first one-page answers from descriptions or code, with interactive exploration, cited sources and browser export."
+category = "coding"
+website = "https://archify.si"
+open_source = true
+repository = "https://github.com/tt-a1i/archify"
+added = 2026-10-23

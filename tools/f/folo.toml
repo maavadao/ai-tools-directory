@@ -1,0 +1,7 @@
+name = "Folo"
+description = "Organize content into one timeline, keeping you updated on what matters, noise-free. AI-powered features like translation, summary, and more. Share lists, explore collections, and enjoy distraction-free browsing."
+category = "other"
+website = "https://app.folo.is"
+open_source = true
+repository = "https://github.com/RSSNext/Folo"
+added = 2026-10-23

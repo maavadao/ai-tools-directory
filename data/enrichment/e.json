@@ -1,4 +1,12 @@
 {
+"ecc": {
+"checked": "2026-10-23",
+"image": "https://ecc.tools/og.png?v=3f55054986bd",
+"pricing": {
+"free": true,
+"url": "https://ecc.tools/pricing"
+}
+},
 "eclatira": {
 "checked": "2026-10-23",
 "pricing": {

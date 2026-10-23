@@ -1,4 +1,7 @@
 {
+"faiss": {
+"checked": "2026-10-23"
+},
 "fastrouter-ai": {
 "checked": "2026-10-23",
 "image": "https://fastrouter.ai/opengraph-image",
@@ -30,6 +33,18 @@
 "url": "https://www.figma.com/pricing/"
 }
 },
+"finceptterminal": {
+"checked": "2026-10-23",
+"image": "https://fincept.in/capture.png"
+},
+"firecrawl": {
+"checked": "2026-10-23",
+"image": "https://www.firecrawl.dev/og.png",
+"pricing": {
+"free": true,
+"url": "https://www.firecrawl.dev/pricing"
+}
+},
 "fireflies-ai": {
 "checked": "2026-10-23",
 "image": "https://fireflies.ai/thumbnail.png",
@@ -47,6 +62,26 @@
 "from": 25.0,
 "url": "https://floot.com/en/pricing"
 }
+},
+"folo": {
+"checked": "2026-10-23",
+"image": "https://app.folo.is/og-image.png"
+},
+"freellmapi": {
+"checked": "2026-10-23",
+"image": "https://freellmapi.co/assets/og/home.png",
+"pricing": {
+"free": true,
+"url": "https://freellmapi.co/"
+}
+},
+"frigate-nvr": {
+"checked": "2026-10-23",
+"image": "https://frigate.video/images/ui.jpg"
+},
+"front-end-checklist": {
+"checked": "2026-10-23",
+"image": "https://frontendchecklist.io/og-image.png"
 },
 "fuse": {
 "checked": "2026-10-23",

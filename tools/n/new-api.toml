@@ -1,0 +1,7 @@
+name = "New API"
+description = "New API is an open-source AI gateway for developers and teams. Connect OpenAI, Claude, Gemini and more, manage API keys and model access, and track usage on your own infrastructure."
+category = "other"
+website = "https://www.newapi.ai"
+open_source = true
+repository = "https://github.com/QuantumNous/new-api"
+added = 2026-10-23

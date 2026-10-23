@@ -1,0 +1,7 @@
+name = "NautilusTrader"
+description = "Open-source algorithmic trading platform with a Rust-native core, Python strategy API, deterministic backtesting, and live deployment across asset classes and venues."
+category = "data"
+website = "https://nautilustrader.io"
+open_source = true
+repository = "https://github.com/nautechsystems/nautilus_trader"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "learn-claude-code"
+description = "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1"
+category = "chatbots"
+website = "https://learn.shareai.run"
+open_source = true
+repository = "https://github.com/shareAI-lab/learn-claude-code"
+added = 2026-10-23

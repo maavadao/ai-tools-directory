@@ -17,9 +17,65 @@
 "checked": "2026-10-23",
 "image": "https://www.adobe.com/products/media_1912d2dfb102c668252eb9dda176f925d677fc5e2.png?width=1200&format=pjpg&optimize=medium"
 },
+"agent-browser": {
+"checked": "2026-10-23",
+"image": "https://agent-browser.dev/og",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 10.0,
+"trial": true,
+"url": "https://vercel.com/pricing"
+}
+},
 "agent-hunt": {
 "checked": "2026-10-23",
 "image": "https://monid.ai/share-card.png"
+},
+"agent-skills": {
+"checked": "2026-10-23",
+"image": "https://skills.addy.ie/og.png"
+},
+"agentic-awesome-skills": {
+"checked": "2026-10-23",
+"image": "https://aaskills.tech/social-card.png"
+},
+"agno": {
+"checked": "2026-10-23",
+"image": "https://www.agno.com/og/home.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 30.0,
+"trial": true,
+"url": "https://www.agno.com/pricing"
+}
+},
+"ai-engineering-from-scratch": {
+"checked": "2026-10-23",
+"image": "https://aiengineeringfromscratch.com/og/page/home.png?v=2a478f3e4210"
+},
+"ai-roadmap": {
+"checked": "2026-10-23",
+"image": "https://i.am.ai/img/banner/i-am-ai-banner-roadmap.png"
+},
+"aider": {
+"checked": "2026-10-23"
+},
+"aionui": {
+"checked": "2026-10-23"
+},
+"annotated-deep-learning-paper-implementations": {
+"checked": "2026-10-23",
+"image": "https://avatars1.githubusercontent.com/u/64068543?s=400&v=4"
+},
+"anythingllm": {
+"checked": "2026-10-23",
+"image": "https://anythingllm.com/share-card.png"
+},
+"apache-airflow": {
+"checked": "2026-10-23",
+"image": "https://airflow.apache.org/images/feature-image.png"
 },
 "apollo": {
 "checked": "2026-10-23",
@@ -29,6 +85,18 @@
 "trial": true,
 "url": "https://www.apollo.io/pricing"
 }
+},
+"applyingml": {
+"checked": "2026-10-23",
+"image": "https://applyingml.com/default-og-image.png"
+},
+"archify": {
+"checked": "2026-10-23",
+"image": "https://archify.si/assets/archify-social-preview.png"
+},
+"artcraft": {
+"checked": "2026-10-23",
+"image": "https://getartcraft.com/images/og-image.png"
 },
 "articos-mcp": {
 "checked": "2026-10-23",
@@ -46,6 +114,19 @@
 "pricing": {
 "free": true,
 "url": "https://www.assemblyai.com/pricing"
+}
+},
+"astrbot": {
+"checked": "2026-10-23"
+},
+"autogpt": {
+"checked": "2026-10-23",
+"image": "https://agpt.co/images/og/experts-v1.png",
+"pricing": {
+"currency": "USD",
+"from": 320.0,
+"trial": true,
+"url": "https://agpt.co/pricing/"
 }
 },
 "autonomyware": {

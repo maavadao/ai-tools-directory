@@ -1,0 +1,7 @@
+name = "CC Switch"
+description = "统一管理 Claude Code、Claude Desktop、Codex、Gemini CLI、Grok Build、OpenCode、OpenClaw、Hermes Agent、Pi 和 MiniMax Code 的供应商配置、本地路由、MCP、Skills、会话与用量统计。"
+category = "other"
+website = "https://ccswitch.io"
+open_source = true
+repository = "https://github.com/farion1231/cc-switch"
+added = 2026-10-23

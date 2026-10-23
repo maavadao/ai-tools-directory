@@ -1,0 +1,7 @@
+name = "OpenHands"
+description = "Build and run AI coding agents with OpenHands. Start locally, automate engineering workflows, use any model, and scale with enterprise controls."
+category = "coding"
+website = "https://www.openhands.dev"
+open_source = true
+repository = "https://github.com/OpenHands/OpenHands"
+added = 2026-10-23

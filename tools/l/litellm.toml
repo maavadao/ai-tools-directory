@@ -1,0 +1,7 @@
+name = "LiteLLM"
+description = "Put your full AI stack behind one key. Track and cap LLM spend, route to the right model, and self-host anywhere — even air-gapped. 140+ providers, 1,892 models, 60K+ GitHub stars."
+category = "chatbots"
+website = "https://www.litellm.ai"
+open_source = true
+repository = "https://github.com/BerriAI/litellm"
+added = 2026-10-23

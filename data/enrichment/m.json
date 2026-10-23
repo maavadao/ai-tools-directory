@@ -1,4 +1,7 @@
 {
+"magiclearn": {
+"checked": "2026-10-23"
+},
 "magicschool": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/645187265d5e5e386be40629/69ceae79868b0ed8e9c46587_Open_Graph_HOME_APR2.jpg",
@@ -28,6 +31,20 @@
 "url": "https://www.manifoldmcp.com/pricing"
 }
 },
+"marker": {
+"checked": "2026-10-23",
+"image": "https://www.datalab.to/images/og-default.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://www.datalab.to/pricing"
+}
+},
+"marketingskills": {
+"checked": "2026-10-23",
+"image": "https://marketing-skills.com/opengraph-image?93f898d7f9bb3d56"
+},
 "mausbot": {
 "checked": "2026-10-23",
 "image": "https://mausbot.com/opengraph-image?78aec392592697f3",
@@ -38,9 +55,53 @@
 "url": "https://mausbot.com/pricing"
 }
 },
+"mcp-for-blender": {
+"checked": "2026-10-23"
+},
+"medusa": {
+"checked": "2026-10-23",
+"image": "https://assets.medusajs.com/cdn-cgi/image/width=1200,quality=82,format=auto,fit=contain/uploads/2024/08/social-media-graphics-2024-meta-image-nps9tuy6.webp",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 29.0,
+"url": "https://medusajs.com/pricing"
+}
+},
+"meetily": {
+"checked": "2026-10-23",
+"image": "https://meetily.ai/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"trial": true,
+"url": "https://meetily.ai/pricing"
+}
+},
+"meilisearch": {
+"checked": "2026-10-23",
+"image": "https://www.meilisearch.com/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.0,
+"trial": true,
+"url": "https://www.meilisearch.com/pricing"
+}
+},
 "mem": {
 "checked": "2026-10-23",
 "image": "https://mem.ai/assets/seo/mem-open-graph-card.png"
+},
+"mem0": {
+"checked": "2026-10-23",
+"image": "https://framerusercontent.com/assets/m2fO4objP393CDqaWh7P97R9S5w.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 19.0,
+"url": "https://mem0.ai/pricing"
+}
 },
 "mentionbird": {
 "checked": "2026-10-23",
@@ -56,6 +117,16 @@
 "meta-ai-research": {
 "checked": "2026-10-23",
 "image": "https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp"
+},
+"metagpt": {
+"checked": "2026-10-23",
+"image": "https://atoms-cos.metadl.com/cms_medias/logo_only_blue_d7ad9c419a.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://atoms.dev/pricing"
+}
 },
 "metaview": {
 "checked": "2026-10-23",
@@ -78,6 +149,18 @@
 "midjourney": {
 "checked": "2026-10-23"
 },
+"mindshub-by-mindsdb": {
+"checked": "2026-10-23",
+"image": "https://mindshub.ai/og/og-home-control.png",
+"pricing": {
+"free": true,
+"url": "https://mindshub.ai/pricing"
+}
+},
+"mineru": {
+"checked": "2026-10-23",
+"image": "https://webpub.shlab.tech/MinerU/static/image/mineru-logo.svg"
+},
 "minimi-2-0": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/assets/IRAj5ULLLszD1Dx3XZQDb8373ww.png"
@@ -99,6 +182,9 @@
 "movo-ai": {
 "checked": "2026-10-23",
 "image": "https://movoai.pro/assets/brand/movo-ai-social-preview.png"
+},
+"multica": {
+"checked": "2026-10-23"
 },
 "murf": {
 "checked": "2026-10-23",

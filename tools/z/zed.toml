@@ -1,0 +1,7 @@
+name = "zed"
+description = "Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+category = "coding"
+website = "https://zed.dev"
+open_source = true
+repository = "https://github.com/zed-industries/zed"
+added = 2026-10-23

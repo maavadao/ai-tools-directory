@@ -1,0 +1,7 @@
+name = "Cua Spaces"
+description = "Shared computers for teams and their agents. Cua Spaces runs on hardware you own, so your team and your agents work side by side. Bring your own compute. Open-source Cua Driver and Lume included."
+category = "other"
+website = "https://cua.ai"
+open_source = true
+repository = "https://github.com/trycua/cua"
+added = 2026-10-23

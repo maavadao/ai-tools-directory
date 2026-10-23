@@ -1,0 +1,7 @@
+name = "SillyTavern"
+description = "LLM Frontend for Power Users."
+category = "chatbots"
+website = "https://sillytavern.app"
+open_source = true
+repository = "https://github.com/SillyTavern/SillyTavern"
+added = 2026-10-23

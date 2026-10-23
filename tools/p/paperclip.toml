@@ -1,0 +1,7 @@
+name = "paperclip"
+description = "Manage a team of AI agents to run your business. Org charts, budgets, governance, and goals — all in one deployment."
+category = "agents"
+website = "https://paperclip.ing"
+open_source = true
+repository = "https://github.com/paperclipai/paperclip"
+added = 2026-10-23

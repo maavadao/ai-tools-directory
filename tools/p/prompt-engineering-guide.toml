@@ -1,0 +1,7 @@
+name = "Prompt Engineering Guide"
+description = "A Comprehensive Overview of Prompt Engineering"
+category = "education"
+website = "https://www.promptingguide.ai"
+open_source = true
+repository = "https://github.com/dair-ai/Prompt-Engineering-Guide"
+added = 2026-10-23

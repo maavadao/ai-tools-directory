@@ -1,0 +1,7 @@
+name = "netron"
+description = "Visualizer for neural network, deep learning and machine learning models."
+category = "other"
+website = "https://netron.app"
+open_source = true
+repository = "https://github.com/lutzroeder/netron"
+added = 2026-10-23

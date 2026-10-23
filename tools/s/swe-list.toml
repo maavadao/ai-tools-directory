@@ -1,0 +1,7 @@
+name = "SWE List"
+description = "Get notified when tech internships are posted"
+category = "coding"
+website = "https://swelist.com"
+open_source = true
+repository = "https://github.com/SimplifyJobs/Summer2027-Internships"
+added = 2026-10-23

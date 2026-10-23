@@ -1,0 +1,7 @@
+name = "voicebox"
+description = "Open source voice cloning. Local-first. Free forever."
+category = "audio"
+website = "https://voicebox.sh"
+open_source = true
+repository = "https://github.com/jamiepine/voicebox"
+added = 2026-10-23

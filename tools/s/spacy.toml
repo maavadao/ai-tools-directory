@@ -1,0 +1,7 @@
+name = "spaCy"
+description = "spaCy is a free open-source library for Natural Language Processing in Python. It features NER, POS tagging, dependency parsing, word vectors and more."
+category = "data"
+website = "https://spacy.io"
+open_source = true
+repository = "https://github.com/explosion/spaCy"
+added = 2026-10-23

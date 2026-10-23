@@ -1,0 +1,7 @@
+name = "OpenSpec"
+description = "OpenSpec helps teams and coding agents create, refine, and manage living specifications."
+category = "coding"
+website = "https://openspec.dev"
+open_source = true
+repository = "https://github.com/Fission-AI/OpenSpec"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "qdrant"
+description = "Qdrant is an Open-Source Vector Search Engine written in Rust. It provides fast and scalable vector similarity search service with convenient API."
+category = "other"
+website = "https://qdrant.tech"
+open_source = true
+repository = "https://github.com/qdrant/qdrant"
+added = 2026-10-23

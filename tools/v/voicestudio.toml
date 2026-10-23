@@ -1,0 +1,7 @@
+name = "VoiceStudio"
+description = "Clone voices, design new ones and dub video in up to 646 languages, all on your own machine. Free, open source, no account. Formerly OmniVoice Studio."
+category = "audio"
+website = "https://voicestudio.sh"
+open_source = true
+repository = "https://github.com/debpalash/VoiceStudio"
+added = 2026-10-23

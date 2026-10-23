@@ -1,4 +1,22 @@
 {
+"ragflow": {
+"checked": "2026-10-23",
+"image": "https://ragflow.io/img/ragflow-social-card.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 29.0,
+"url": "https://ragflow.io/"
+}
+},
+"ray": {
+"checked": "2026-10-23",
+"image": "https://ray.io/images/og.png"
+},
+"rea": {
+"checked": "2026-10-23",
+"image": "https://rea.tools/assets/social-card.png"
+},
 "readywhen": {
 "checked": "2026-10-23",
 "image": "https://app.readywhen.ai/opengraph-image.jpg?opengraph-image.0j4iyf128lxuz.jpg"
@@ -13,6 +31,9 @@
 "trial": true,
 "url": "https://reclaim.ai/pricing"
 }
+},
+"redirecting": {
+"checked": "2026-10-23"
 },
 "relevance-ai": {
 "checked": "2026-10-23",
@@ -62,6 +83,13 @@
 "url": "https://rool.dev/pricing"
 }
 },
+"rtk": {
+"checked": "2026-10-23",
+"image": "https://www.rtk-ai.app/og-image.png"
+},
+"rufus": {
+"checked": "2026-10-23"
+},
 "runway": {
 "checked": "2026-10-23",
 "image": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/homepage-og-card-v3.webp",
@@ -71,6 +99,10 @@
 "from": 12.0,
 "url": "https://runway.com/pricing"
 }
+},
+"ruview": {
+"checked": "2026-10-23",
+"image": "https://cognitum.one/cognitum-share-logo-v2.png"
 },
 "rytr": {
 "checked": "2026-10-23",

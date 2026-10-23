@@ -1,0 +1,7 @@
+name = "AnythingLLM"
+description = "A free, private AI assistant that runs on your device. No accounts, no API keys, no token limits."
+category = "chatbots"
+website = "https://anythingllm.com"
+open_source = true
+repository = "https://github.com/Mintplex-Labs/anything-llm"
+added = 2026-10-23

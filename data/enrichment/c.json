@@ -3,9 +3,17 @@
 "checked": "2026-10-23",
 "image": "https://static.canva.com/static/images/fb_cover-1.jpg"
 },
+"career-ops": {
+"checked": "2026-10-23",
+"image": "https://career-ops.org/opengraph-image-czrkkh.jpg?opengraph-image.1tjhx6k9jjwvg.jpg"
+},
 "casetext": {
 "checked": "2026-10-23",
 "image": "https://www.thomsonreuters.com/content/dam/ue/en-us/images/product-images/248901.png.transform/rect-768/q90/image.png"
+},
+"cc-switch": {
+"checked": "2026-10-23",
+"image": "https://ccswitch.io/og-image.png?v=2"
 },
 "cekura-bench": {
 "checked": "2026-10-23",
@@ -15,6 +23,16 @@
 "checked": "2026-10-23",
 "image": "https://character.ai/character-ai.jpg"
 },
+"chatbox-ai": {
+"checked": "2026-10-23",
+"image": "https://download.chatboxai.app/static/twitter-card.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 3.5,
+"url": "https://chatboxai.app/en/pricing"
+}
+},
 "chatgpt": {
 "checked": "2026-10-23",
 "image": "https://cdn.openai.com/chatgpt/share-og.png",
@@ -22,6 +40,13 @@
 "free": true,
 "url": "https://chatgpt.com/pricing/"
 }
+},
+"chattts-by-2noise": {
+"checked": "2026-10-23"
+},
+"cherry-studio": {
+"checked": "2026-10-23",
+"image": "https://cherryai.com/assets/images/social-card.jpg"
 },
 "claude": {
 "checked": "2026-10-23"
@@ -36,6 +61,14 @@
 "url": "https://claude.com/pricing"
 }
 },
+"claude-code-router": {
+"checked": "2026-10-23",
+"image": "https://ccrdesk.top/logo.png"
+},
+"claude-code-templates": {
+"checked": "2026-10-23",
+"image": "https://www.aitmpl.com/logo.png"
+},
 "claude-duet": {
 "checked": "2026-10-23",
 "image": "https://assets.claude.com/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg?w=2400&h=1260&fit=crop",
@@ -45,6 +78,20 @@
 "from": 100.0,
 "url": "https://claude.com/pricing"
 }
+},
+"claude-mem": {
+"checked": "2026-10-23",
+"image": "https://cmem.ai/assets/cmem/social/v1/home.png",
+"pricing": {
+"currency": "USD",
+"from": 30.0,
+"trial": true,
+"url": "https://cmem.ai/pricing"
+}
+},
+"clawskills-sh": {
+"checked": "2026-10-23",
+"image": "https://clawskills.sh/api/og/default"
 },
 "clay": {
 "checked": "2026-10-23",
@@ -57,6 +104,17 @@
 "url": "https://www.clay.com/pricing"
 }
 },
+"cli-anything-hub": {
+"checked": "2026-10-23"
+},
+"clickhouse": {
+"checked": "2026-10-23",
+"image": "https://clickhouse.com/_next/image?url=%2Fopengraph-image.png&w=1200&h=630&q=75",
+"pricing": {
+"trial": true,
+"url": "https://clickhouse.com/pricing"
+}
+},
 "clickup": {
 "checked": "2026-10-23",
 "image": "https://clickup.com/assets/brand/clickup-meta.png",
@@ -67,6 +125,10 @@
 "url": "https://clickup.com/pricing"
 }
 },
+"cline": {
+"checked": "2026-10-23",
+"image": "https://cline.bot/cline_og_img.png"
+},
 "clipdrop": {
 "checked": "2026-10-23",
 "image": "https://static.clipdrop.co/web/homepage/og-twitter-image.webp",
@@ -76,9 +138,51 @@
 "url": "https://clipdrop.co/pricing"
 }
 },
+"cloakbrowser": {
+"checked": "2026-10-23",
+"image": "https://cloakbrowser.dev/images/logo.png",
+"pricing": {
+"trial": true,
+"url": "https://cloakbrowser.dev"
+}
+},
 "coda": {
 "checked": "2026-10-23",
 "image": "https://sanity-images.imgix.net/production/6b46953798756d87bc1ad579a32d2af427ba6d3d-1200x628.png?w=&auto=format%2Ccompress"
+},
+"code-review-graph": {
+"checked": "2026-10-23",
+"image": "https://code-review-graph.com/og-image.png"
+},
+"codewhale": {
+"checked": "2026-10-23",
+"image": "https://codewhale.net/opengraph-image"
+},
+"cognee": {
+"checked": "2026-10-23",
+"image": "https://www.cognee.ai/images/meta/cognee-social-card.png?v=20260926",
+"pricing": {
+"free": true,
+"url": "https://www.cognee.ai/pricing"
+}
+},
+"colossal-ai": {
+"checked": "2026-10-23",
+"image": "https://colossalai.org/img/social-card.png"
+},
+"comfyui": {
+"checked": "2026-10-23",
+"image": "https://media.comfy.org/website/comfy.webp",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 4.0,
+"url": "https://comfy.org/pricing/"
+}
+},
+"comma-ai": {
+"checked": "2026-10-23",
+"image": "https://comma.ai/og-comma-four.png"
 },
 "command-line": {
 "checked": "2026-10-23",
@@ -98,6 +202,28 @@
 "checked": "2026-10-23",
 "image": "https://consensus.app/images/og-default.png"
 },
+"context-mode": {
+"checked": "2026-10-23",
+"image": "https://context-mode.com/og/pages/home.png",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://context-mode.com/pricing"
+}
+},
+"context7": {
+"checked": "2026-10-23",
+"image": "https://context7.com/opengraph-image?55026abe8d14202e",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 30.0,
+"url": "https://context7.com/plans"
+}
+},
+"continue-acquired-by-cursor": {
+"checked": "2026-10-23"
+},
 "copilotkit": {
 "checked": "2026-10-23",
 "image": "https://www.copilotkit.ai/images/og/generic.webp",
@@ -114,6 +240,31 @@
 "currency": "USD",
 "from": 24.0,
 "url": "https://www.copy.ai/prices"
+}
+},
+"cowagent": {
+"checked": "2026-10-23",
+"image": "https://cowagent.ai/logo/cow-logo.png"
+},
+"crawl4ai": {
+"checked": "2026-10-23",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"url": "https://crawl4ai.com"
+}
+},
+"crewai": {
+"checked": "2026-10-23",
+"image": "https://images.ctfassets.net/rmv9a2eqdsyw/26ld4zbjbNkeg6KGxkyLXE/7d686ce386ed7eb61f3d0f1d3709949c/og-image__2_.png"
+},
+"cua-spaces": {
+"checked": "2026-10-23",
+"image": "https://cua.ai/_spaces/img/og/spaces-card.jpg",
+"pricing": {
+"currency": "USD",
+"from": 15.0,
+"url": "https://cua.ai/pricing"
 }
 },
 "cuey": {

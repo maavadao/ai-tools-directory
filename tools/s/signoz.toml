@@ -1,0 +1,7 @@
+name = "SigNoz"
+description = "SigNoz Cloud is a one-stop observability tool built on top of OpenTelemetry. Get APM, logs, traces, metrics, exceptions, AI observability & alerts in a single tool."
+category = "other"
+website = "https://signoz.io"
+open_source = true
+repository = "https://github.com/SigNoz/signoz"
+added = 2026-10-23

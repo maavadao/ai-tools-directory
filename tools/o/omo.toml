@@ -1,0 +1,7 @@
+name = "OmO"
+description = "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+category = "other"
+website = "https://omo.dev"
+open_source = true
+repository = "https://github.com/code-yeongyu/oh-my-openagent"
+added = 2026-10-23

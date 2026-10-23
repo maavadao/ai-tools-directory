@@ -1,0 +1,7 @@
+name = "MetaGPT"
+description = "Atoms is your team's website and app creator. Use Atoms AI employees to validate ideas, build products, and acquire customers in minutes, no code needed."
+category = "chatbots"
+website = "https://atoms.dev"
+open_source = true
+repository = "https://github.com/FoundationAgents/MetaGPT"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "multica"
+description = "Manage your human + agent workforce in one place."
+category = "agents"
+website = "https://multica.ai"
+open_source = true
+repository = "https://github.com/multica-ai/multica"
+added = 2026-10-23

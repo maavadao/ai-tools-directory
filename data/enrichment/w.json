@@ -8,6 +8,9 @@
 "url": "https://www.warp.dev/pricing"
 }
 },
+"weknora": {
+"checked": "2026-10-23"
+},
 "woebot-health": {
 "checked": "2026-10-23",
 "image": "https://woebothealth.com/wp-content/uploads/2022/07/Feature-image-option-3.jpg"
@@ -19,6 +22,10 @@
 "trial": true,
 "url": "https://www.wordtune.com/plans"
 }
+},
+"world-monitor": {
+"checked": "2026-10-23",
+"image": "https://www.worldmonitor.app/favico/og-image.png"
 },
 "writesonic": {
 "checked": "2026-10-23",

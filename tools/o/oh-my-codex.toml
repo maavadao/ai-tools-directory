@@ -1,0 +1,7 @@
+name = "oh-my-codex"
+description = "v0.21.5 is live: stronger HUD/session ownership, safer Autopilot replay, stricter plugin hook/cache behavior, clearer Team runtime safety, and tighter release evidence."
+category = "agents"
+website = "https://oh-my-codex.dev"
+open_source = true
+repository = "https://github.com/Yeachan-Heo/oh-my-codex"
+added = 2026-10-23

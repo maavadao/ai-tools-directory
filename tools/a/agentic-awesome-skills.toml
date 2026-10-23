@@ -1,0 +1,7 @@
+name = "Agentic Awesome Skills"
+description = "AAS Core records and validates your agent’s skill selection and previews a plan before project changes. Explore 2,743+ reusable skills in the catalog."
+category = "coding"
+website = "https://aaskills.tech"
+open_source = true
+repository = "https://github.com/sickn33/agentic-awesome-skills"
+added = 2026-10-23

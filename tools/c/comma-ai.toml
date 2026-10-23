@@ -1,0 +1,7 @@
+name = "comma.ai"
+description = "Hands free driving for the car you already have"
+category = "other"
+website = "https://comma.ai"
+open_source = true
+repository = "https://github.com/commaai/openpilot"
+added = 2026-10-23

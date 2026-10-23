@@ -1,0 +1,7 @@
+name = "unsloth"
+description = "Unsloth is an open-source, no-code deskop UI for training and running open models on your local hardware."
+category = "audio"
+website = "https://unsloth.ai"
+open_source = true
+repository = "https://github.com/unslothai/unsloth"
+added = 2026-10-23

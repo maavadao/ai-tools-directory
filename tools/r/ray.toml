@@ -1,0 +1,7 @@
+name = "ray"
+description = "Ray is an open source framework for managing, executing, and optimizing compute needs. Unify AI workloads with Ray by Anyscale. Try it for free today."
+category = "other"
+website = "https://www.ray.io"
+open_source = true
+repository = "https://github.com/ray-project/ray"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "NanoClaw"
+description = "NanoClaw is a secure, lightweight alternative to OpenClaw. Your personal AI agent that runs in containers, built to be understood and customized for your own needs."
+category = "other"
+website = "https://nanoclaw.dev"
+open_source = true
+repository = "https://github.com/nanocoai/nanoclaw"
+added = 2026-10-23

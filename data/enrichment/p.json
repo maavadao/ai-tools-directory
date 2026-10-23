@@ -1,4 +1,19 @@
 {
+"paddleocr": {
+"checked": "2026-10-23"
+},
+"pageindex": {
+"checked": "2026-10-23",
+"image": "https://pageindex.ai/static/images/twitter-card.jpg",
+"pricing": {
+"free": true,
+"url": "https://pageindex.ai/developer"
+}
+},
+"pake": {
+"checked": "2026-10-23",
+"image": "https://pake.run/img/og.png?v=9edc4d3d8acb"
+},
 "pancake": {
 "checked": "2026-10-23",
 "image": "https://pancake.ai/og-image-2026-10.png",
@@ -8,6 +23,10 @@
 "trial": true,
 "url": "https://pancake.ai/pricing"
 }
+},
+"paperclip": {
+"checked": "2026-10-23",
+"image": "https://paperclip.ing/og-v4.jpg"
 },
 "parakeetai": {
 "checked": "2026-10-23",
@@ -26,6 +45,17 @@
 "url": "https://pasteapp.io/pricing"
 }
 },
+"pathway": {
+"checked": "2026-10-23",
+"image": "https://pathway.com/_og/s/o_qhizs2.png"
+},
+"pdfmathtranslate": {
+"checked": "2026-10-23"
+},
+"pentagi": {
+"checked": "2026-10-23",
+"image": "https://pentagi.com/opengraph-image"
+},
 "perplexity-ai": {
 "checked": "2026-10-23",
 "image": "https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png"
@@ -37,6 +67,10 @@
 "free": true,
 "url": "https://pexo.ai/pricing"
 }
+},
+"photoprism": {
+"checked": "2026-10-23",
+"image": "https://i.photoprism.app/prism?cover=64&style=centered+dark"
 },
 "pika": {
 "checked": "2026-10-23",
@@ -81,5 +115,46 @@
 "from": 50.0,
 "url": "https://pomerado.ai/"
 }
+},
+"ponytail": {
+"checked": "2026-10-23",
+"image": "https://ponytail.dev/assets/v5/social-card.png"
+},
+"posthog": {
+"checked": "2026-10-23",
+"image": "https://posthog.com/images/og/default.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://posthog.com/pricing"
+}
+},
+"postiz-app": {
+"checked": "2026-10-23",
+"image": "https://cms.postiz.com/wp-content/uploads/2024/06/OG-1-1024x538.png",
+"pricing": {
+"currency": "USD",
+"from": 29.0,
+"trial": true,
+"url": "https://postiz.com/pricing"
+}
+},
+"private-gpt": {
+"checked": "2026-10-23",
+"image": "https://framerusercontent.com/assets/krxtn3RfwXQLTWNHwaYuWFI.png"
+},
+"prompt-always200-com": {
+"checked": "2026-10-23"
+},
+"prompt-engineering-guide": {
+"checked": "2026-10-23"
+},
+"prompts-chat": {
+"checked": "2026-10-23",
+"image": "https://prompts.chat/opengraph-image.png?opengraph-image.57ebefa7.png"
+},
+"pytorch": {
+"checked": "2026-10-23",
+"image": "https://pytorch.org/wp-content/uploads/2025/01/pytorch_seo.png"
 }
 }

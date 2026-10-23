@@ -1,0 +1,7 @@
+name = "rufus"
+description = "Rufus is a small application that creates bootable USB drives, which can then be used to install or run Microsoft Windows, Linux or DOS. In just a few minutes, and with very few clicks, Rufus can help you run a new Operating System on your computer..."
+category = "other"
+website = "https://rufus.ie"
+open_source = true
+repository = "https://github.com/pbatard/rufus"
+added = 2026-10-23

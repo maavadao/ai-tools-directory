@@ -1,0 +1,7 @@
+name = "Context Mode"
+description = "The control plane between your coding agents and models. Spend less on context, remember across sessions, and run only what you allow."
+category = "other"
+website = "https://context-mode.com"
+open_source = true
+repository = "https://github.com/mksglu/context-mode"
+added = 2026-10-23

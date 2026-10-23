@@ -1,0 +1,7 @@
+name = "ApplyingML"
+description = "Curated papers and blogs, ghost knowledge, and interviews with experienced ML practitioners on how to apply machine learning in industry."
+category = "data"
+website = "https://applyingml.com"
+open_source = true
+repository = "https://github.com/eugeneyan/applied-ml"
+added = 2026-10-23

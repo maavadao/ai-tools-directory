@@ -1,0 +1,7 @@
+name = "shannon"
+description = "Continuous agentic pentesting for the enterprise. Vulnerabilities are validated with working exploits against your live app. Built by the team behind Shannon."
+category = "other"
+website = "https://keygraph.io"
+open_source = true
+repository = "https://github.com/KeygraphHQ/shannon"
+added = 2026-10-23

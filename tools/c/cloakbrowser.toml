@@ -1,0 +1,7 @@
+name = "CloakBrowser"
+description = "Drop-in Playwright/Puppeteer replacement with a real patched Chromium binary. Passes 50+ bot detection tests."
+category = "other"
+website = "https://cloakbrowser.dev"
+open_source = true
+repository = "https://github.com/CloakHQ/CloakBrowser"
+added = 2026-10-23

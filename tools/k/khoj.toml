@@ -1,0 +1,7 @@
+name = "khoj"
+description = "Khoj is an applied artificial intelligence company building safe, useful AI software for humans."
+category = "chatbots"
+website = "https://khoj.dev"
+open_source = true
+repository = "https://github.com/khoj-ai/khoj"
+added = 2026-10-23

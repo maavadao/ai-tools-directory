@@ -1,0 +1,7 @@
+name = "jan"
+description = "Jan is an open-source alternative to ChatGPT. Run open-source AI models locally or connect to cloud models like GPT, Claude and others."
+category = "chatbots"
+website = "https://www.jan.ai"
+open_source = true
+repository = "https://github.com/janhq/jan"
+added = 2026-10-23

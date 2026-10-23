@@ -1,0 +1,7 @@
+name = "VoxCPM"
+description = "Choose your language to continue to the official VoxCPM landing page."
+category = "audio"
+website = "https://voxcpm.com"
+open_source = true
+repository = "https://github.com/OpenBMB/VoxCPM"
+added = 2026-10-23

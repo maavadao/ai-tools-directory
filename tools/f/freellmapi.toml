@@ -1,0 +1,7 @@
+name = "FreeLLMAPI"
+description = "A free LLM API: one OpenAI-compatible key for 600+ models across 34 providers, 7.4 billion free tokens per month, tracked in one live catalog."
+category = "other"
+website = "https://freellmapi.co"
+open_source = true
+repository = "https://github.com/tashfeenahmed/freellmapi"
+added = 2026-10-23

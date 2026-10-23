@@ -1,0 +1,7 @@
+name = "Heretic"
+description = "Fully automatic censorship removal for language models"
+category = "chatbots"
+website = "https://heretic-project.org"
+open_source = true
+repository = "https://github.com/p-e-w/heretic"
+added = 2026-10-23

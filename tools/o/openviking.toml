@@ -1,0 +1,7 @@
+name = "OpenViking"
+description = "OpenViking is an open-source context database for AI agents. Organize memory, resources, and skills, retrieve context, and connect your agent harness."
+category = "other"
+website = "https://openviking.ai"
+open_source = true
+repository = "https://github.com/volcengine/OpenViking"
+added = 2026-10-23

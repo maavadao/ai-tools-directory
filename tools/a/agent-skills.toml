@@ -1,0 +1,7 @@
+name = "agent-skills"
+description = "Encode senior-engineer workflows, quality gates, and best practices across the full software lifecycle. 24 skills that work with Claude Code, Codex, Cursor and 70+ agents."
+category = "other"
+website = "https://skills.addy.ie"
+open_source = true
+repository = "https://github.com/addyosmani/agent-skills"
+added = 2026-10-23

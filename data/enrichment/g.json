@@ -7,6 +7,18 @@
 "checked": "2026-10-23",
 "image": "https://www.gstatic.com/lamda/images/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718.png"
 },
+"gemini-cli": {
+"checked": "2026-10-23",
+"image": "https://geminicli.com/assets/social-poster.png",
+"pricing": {
+"free": true,
+"url": "https://geminicli.com/docs/resources/quota-and-pricing/"
+}
+},
+"getdesign-md": {
+"checked": "2026-10-23",
+"image": "https://getdesign.md/api/og/default?v=2"
+},
 "ghost-ai": {
 "checked": "2026-10-23",
 "image": "https://ghost.ai/opengraph-image.jpg?opengraph-image.13anp_69f8ba9.jpg"
@@ -26,9 +38,25 @@
 "checked": "2026-10-23",
 "image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png"
 },
+"google-for-developers": {
+"checked": "2026-10-23",
+"image": "https://developers.google.com/static/site-assets/images/home/developers-landing-social-media.png"
+},
+"google-research": {
+"checked": "2026-10-23",
+"image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+},
 "grammarly": {
 "checked": "2026-10-23",
 "image": "https://static-web.grammarly.com/1e6ajr2k4140/1kGiUxfxoLhCPH7wGcvknN/c218a7bbcdfc24301fbbfb6ae9892ec6/default_social_share.png"
+},
+"graphify": {
+"checked": "2026-10-23",
+"image": "https://graphify.com/opengraph-image.png?opengraph-image.3ssypa_91yyrh.png",
+"pricing": {
+"free": true,
+"url": "https://graphify.com/pricing"
+}
 },
 "groq": {
 "checked": "2026-10-23",

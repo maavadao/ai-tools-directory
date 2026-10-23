@@ -1,0 +1,7 @@
+name = "ToolJet"
+description = "ToolJet is the open-source, AI-native low-code platform for internal tools. Build with AI, coding agents or a visual builder, on ToolJet Cloud or self-hosted."
+category = "agents"
+website = "https://tooljet.com"
+open_source = true
+repository = "https://github.com/ToolJet/ToolJet"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "Next AI Draw.io"
+description = "Create AWS architecture diagrams, flowcharts, and technical diagrams using AI. Free online tool integrating draw.io with AI assistance for professional diagram creation."
+category = "other"
+website = "https://next-ai-drawio.jiang.jp"
+open_source = true
+repository = "https://github.com/DayuanJiang/next-ai-draw-io"
+added = 2026-10-23

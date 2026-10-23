@@ -1,0 +1,7 @@
+name = "B3log"
+description = "B3log 是一个开源组织，名字来源于“Bulletin Board Blog”缩写，目标是将独立博客与论坛结合，形成一种新的网络社区体验，详细请看 B3log 构思。目前 B3log 已经开源了多款产品：Sym、Solo、Pipe、Vditor、Lute、思源笔记等，欢迎大家加入，贡献开源。"
+category = "other"
+website = "https://b3log.org"
+open_source = true
+repository = "https://github.com/siyuan-note/siyuan"
+added = 2026-10-23

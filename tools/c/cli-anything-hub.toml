@@ -1,0 +1,7 @@
+name = "CLI-Anything Hub"
+description = "Discover, install, and launch agent-friendly CLI tools for GUI applications, developer tools, creative software, web APIs, and public SaaS platforms."
+category = "agents"
+website = "https://clianything.cc"
+open_source = true
+repository = "https://github.com/HKUDS/CLI-Anything"
+added = 2026-10-23

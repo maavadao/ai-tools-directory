@@ -1,0 +1,7 @@
+name = "marker"
+description = "Transform unstructured content into precise, production-ready data. Datalab equips organizations to feed AI systems and automate workflows with dependable, audit-ready data."
+category = "other"
+website = "https://www.datalab.to"
+open_source = true
+repository = "https://github.com/datalab-to/marker"
+added = 2026-10-23

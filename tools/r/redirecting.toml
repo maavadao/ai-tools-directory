@@ -1,0 +1,7 @@
+name = "Redirecting"
+description = "DSPy: The framework for programming—not prompting—language models"
+category = "other"
+website = "https://dspy.ai"
+open_source = true
+repository = "https://github.com/stanfordnlp/dspy"
+added = 2026-10-23

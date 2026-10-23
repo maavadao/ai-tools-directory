@@ -1,0 +1,7 @@
+name = "context7"
+description = "Get the latest docs into Claude, Codex, Cursor and other agents. Context7 serves current, version-specific docs and code examples for any library."
+category = "chatbots"
+website = "https://context7.com"
+open_source = true
+repository = "https://github.com/upstash/context7"
+added = 2026-10-23

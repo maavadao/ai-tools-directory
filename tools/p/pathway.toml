@@ -1,0 +1,7 @@
+name = "pathway"
+description = "Frontier AI lab building architectures and models that autonomously reason, learn, and evolve."
+category = "other"
+website = "https://pathway.com"
+open_source = true
+repository = "https://github.com/pathwaycom/pathway"
+added = 2026-10-23

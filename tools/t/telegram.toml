@@ -1,0 +1,7 @@
+name = "Telegram"
+description = "Fast. Secure. Powerful."
+category = "chatbots"
+website = "https://telegram.org"
+open_source = true
+repository = "https://github.com/xtekky/gpt4free"
+added = 2026-10-23

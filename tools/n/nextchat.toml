@@ -1,0 +1,7 @@
+name = "NextChat"
+description = "An open-source intelligent assistant for conversations, analysis, documents, and multimedia creation with flexible pay-as-you-go credits."
+category = "chatbots"
+website = "https://nextchat.club"
+open_source = true
+repository = "https://github.com/ChatGPTNextWeb/NextChat"
+added = 2026-10-23

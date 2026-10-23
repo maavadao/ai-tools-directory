@@ -9,6 +9,14 @@
 "url": "https://daily.dev/pricing/"
 }
 },
+"daily-stock-analysis": {
+"checked": "2026-10-23",
+"image": "https://dsa.zhulinsen.tech/assets/dsa-webui.png"
+},
+"dailydoseofds-mcp-pdf": {
+"checked": "2026-10-23",
+"image": "https://embed.filekitcdn.com/e/k7YHPN24SoxyM8nGKZnDxa/qaJumgHH69bv8MHNjYTxba"
+},
 "dailyhelm": {
 "checked": "2026-10-23",
 "image": "https://dailyhelm.com/og-image.svg"
@@ -38,6 +46,9 @@
 "checked": "2026-10-23",
 "image": "https://www.datarobot.com/wp-content/uploads/2026/06/default-image-2026.jpg"
 },
+"dbeaver": {
+"checked": "2026-10-23"
+},
 "deepcell": {
 "checked": "2026-10-23",
 "image": "https://deepcell.net/og-image.png"
@@ -54,9 +65,18 @@
 "url": "https://www.deepl.com/en/pro"
 }
 },
+"deeplivecam": {
+"checked": "2026-10-23"
+},
 "deepseek": {
 "checked": "2026-10-23",
 "image": "https://www.deepseek.com/images/deepseek-social.jpg"
+},
+"deepspeed": {
+"checked": "2026-10-23"
+},
+"deerflow": {
+"checked": "2026-10-23"
 },
 "descript": {
 "checked": "2026-10-23",
@@ -74,6 +94,34 @@
 "free": true,
 "from": 20.0,
 "url": "https://devin.ai/pricing"
+}
+},
+"dify": {
+"checked": "2026-10-23",
+"image": "https://dify.ai/assets/og/default.png",
+"pricing": {
+"free": true,
+"url": "https://dify.ai/pricing"
+}
+},
+"dokploy": {
+"checked": "2026-10-23",
+"image": "https://dokploy.com/og.png",
+"pricing": {
+"currency": "USD",
+"from": 4.5,
+"trial": true,
+"url": "https://dokploy.com/pricing"
+}
+},
+"dragonfly": {
+"checked": "2026-10-23",
+"image": "https://www.dragonflydb.io/dragonfly-OG.jpg",
+"pricing": {
+"currency": "USD",
+"from": 77.0,
+"trial": true,
+"url": "https://www.dragonflydb.io/pricing"
 }
 },
 "duolingo": {

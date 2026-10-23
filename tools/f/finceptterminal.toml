@@ -1,0 +1,7 @@
+name = "FinceptTerminal"
+description = "Agentic research, a quant lab with backtesting, derivatives and macro coverage, and a private dataroom — in one terminal built for investment teams."
+category = "agents"
+website = "https://fincept.in"
+open_source = true
+repository = "https://github.com/Fincept-Corporation/FinceptTerminal"
+added = 2026-10-23

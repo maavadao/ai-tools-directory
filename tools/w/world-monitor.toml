@@ -1,0 +1,7 @@
+name = "World Monitor"
+description = "World Monitor: real-time geopolitical intelligence dashboard. A free live map of conflicts, shipping, flights, markets and cyber, with an API and MCP server."
+category = "other"
+website = "https://www.worldmonitor.app"
+open_source = true
+repository = "https://github.com/koala73/worldmonitor"
+added = 2026-10-23

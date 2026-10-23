@@ -1,0 +1,7 @@
+name = "annotated_deep_learning_paper_implementations"
+description = "60+ Implementations/tutorials of deep learning papers with side-by-side notes ; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), reinforcement learning (ppo, dqn), capsnet…"
+category = "education"
+website = "https://nn.labml.ai"
+open_source = true
+repository = "https://github.com/labmlai/annotated_deep_learning_paper_implementations"
+added = 2026-10-23

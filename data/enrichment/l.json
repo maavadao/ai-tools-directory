@@ -2,6 +2,32 @@
 "labs": {
 "checked": "2026-10-23"
 },
+"langchain": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/6a907b277587adb77be09e34_Website%20preview%20.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 49.0,
+"url": "https://www.langchain.com/pricing"
+}
+},
+"langflow": {
+"checked": "2026-10-23",
+"image": "https://www.langflow.org/images/og-image.png"
+},
+"langfuse": {
+"checked": "2026-10-23",
+"image": "https://langfuse.com/api/og?title=Langfuse+%E2%80%93+Open+Source+Agent+Evals+%26+Observability&description=Trace%2C+evaluate%2C+and+improve+AI+agents+with+one+open+platform.+Use+production+data+to+understand+behavior%2C+collaborate+on+fixes%2C+and+ship+better+quality+at+lower+cost+and+latency.",
+"pricing": {
+"currency": "USD",
+"from": 300.0,
+"url": "https://langfuse.com/pricing"
+}
+},
+"learn-claude-code": {
+"checked": "2026-10-23"
+},
 "lemlist": {
 "checked": "2026-10-23",
 "image": "https://web-assets.lemlist.com/lemlist/revamp/lemlist-og.png",
@@ -10,6 +36,20 @@
 "from": 16.0,
 "trial": true,
 "url": "https://www.lemlist.com/pricing"
+}
+},
+"librechat": {
+"checked": "2026-10-23",
+"image": "https://www.librechat.ai/api/og?v=a40e77512dc1"
+},
+"lightning-ai": {
+"checked": "2026-10-23",
+"image": "https://lightning.ai/media/social-preview-2026.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 140.0,
+"url": "https://lightning.ai/pricing/"
 }
 },
 "lindy": {
@@ -21,6 +61,39 @@
 "trial": true,
 "url": "https://www.lindy.ai/pricing"
 }
+},
+"litellm": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/69eb241da3f923869c226875/6abea2df3acf85b946e5ab7d_litellm-og-2026.png"
+},
+"llama-cpp": {
+"checked": "2026-10-23",
+"image": "https://llama.app/og-image.png"
+},
+"llamaindex": {
+"checked": "2026-10-23",
+"image": "https://www.llamaindex.ai/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 50.0,
+"url": "https://www.llamaindex.ai/pricing"
+}
+},
+"lobehub": {
+"checked": "2026-10-23",
+"image": "https://lobehub.com/assets/cao-og.webp",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 9.9,
+"trial": true,
+"url": "https://lobehub.com/pricing"
+}
+},
+"localai": {
+"checked": "2026-10-23",
+"image": "https://localai.io/img/logo-full.png"
 },
 "lovable": {
 "checked": "2026-10-23",

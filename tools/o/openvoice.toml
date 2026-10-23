@@ -1,0 +1,7 @@
+name = "OpenVoice"
+description = "Instant voice cloning by MIT and MyShell. Audio foundation model."
+category = "audio"
+website = "https://research.myshell.ai"
+open_source = true
+repository = "https://github.com/myshell-ai/OpenVoice"
+added = 2026-10-23

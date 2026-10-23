@@ -1,0 +1,7 @@
+name = "PostHog"
+description = "PostHog automatically diagnoses problems, fixes bugs, and generates pull requests – all without you having to prompt it."
+category = "data"
+website = "https://posthog.com"
+open_source = true
+repository = "https://github.com/PostHog/posthog"
+added = 2026-10-23

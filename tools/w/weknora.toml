@@ -1,0 +1,7 @@
+name = "WeKnora"
+description = "腾讯开源知识框架 WeKnora，集 RAG 问答、Agent 推理与自动 Wiki 于一体。v0.8.3 新增画廊、多模态 Embedding、原文引用定位、附件按需读取和平台用户管理；支持私有化部署。"
+category = "chatbots"
+website = "https://weknora.weixin.qq.com"
+open_source = true
+repository = "https://github.com/Tencent/WeKnora"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "Onyx AI"
+description = "The open-source AI enterprise search platform that helps teams find information across all company data."
+category = "other"
+website = "https://onyx.app"
+open_source = true
+repository = "https://github.com/onyx-dot-app/onyx"
+added = 2026-10-23

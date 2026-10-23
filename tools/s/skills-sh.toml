@@ -1,0 +1,7 @@
+name = "skills"
+description = "Discover and install skills for AI agents."
+category = "other"
+website = "https://www.skills.sh"
+open_source = true
+repository = "https://github.com/vercel-labs/skills"
+added = 2026-10-23

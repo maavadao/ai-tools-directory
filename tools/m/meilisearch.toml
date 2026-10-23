@@ -1,0 +1,7 @@
+name = "meilisearch"
+description = "Lightning-fast search and AI retrieval, trusted by 20,000+ teams. Fully managed on Meilisearch Cloud, or self-host the open source engine."
+category = "research"
+website = "https://www.meilisearch.com"
+open_source = true
+repository = "https://github.com/meilisearch/meilisearch"
+added = 2026-10-23

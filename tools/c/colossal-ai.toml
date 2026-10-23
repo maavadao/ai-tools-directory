@@ -1,0 +1,7 @@
+name = "Colossal-AI"
+description = "Making big AI models cheaper, easier, and scalable"
+category = "other"
+website = "https://colossalai.org"
+open_source = true
+repository = "https://github.com/hpcaitech/ColossalAI"
+added = 2026-10-23

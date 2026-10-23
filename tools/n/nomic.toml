@@ -1,0 +1,7 @@
+name = "Nomic"
+description = "Run open-source AI models locally on your device. GPT4All delivers private, high-performance AI with no cloud required—your data stays on your machine."
+category = "other"
+website = "https://www.nomic.ai"
+open_source = true
+repository = "https://github.com/nomic-ai/gpt4all"
+added = 2026-10-23

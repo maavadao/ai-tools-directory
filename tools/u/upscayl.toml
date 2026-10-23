@@ -1,0 +1,7 @@
+name = "upscayl"
+description = "The #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. Upscayl uses the power of AI to upscale your images with the best quality possible."
+category = "image"
+website = "https://upscayl.org"
+open_source = true
+repository = "https://github.com/upscayl/upscayl"
+added = 2026-10-23

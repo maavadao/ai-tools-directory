@@ -1,0 +1,7 @@
+name = "graphify"
+description = "Your codebase as a knowledge graph your AI assistant queries instead of grepping: no embeddings, just a graph it can trace. Hosted at app.graphify.com, or free and open source on your own machine."
+category = "other"
+website = "https://graphify.com"
+open_source = true
+repository = "https://github.com/Graphify-Labs/graphify"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "postiz-app"
+description = "Postiz is the agentic social media scheduling platform. Claude, ChatGPT, Cursor or OpenClaw plan, schedule and publish to 30+ channels from one calendar."
+category = "agents"
+website = "https://postiz.com"
+open_source = true
+repository = "https://github.com/gitroomhq/postiz-app"
+added = 2026-10-23

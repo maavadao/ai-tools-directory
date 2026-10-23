@@ -1,0 +1,7 @@
+name = "dify"
+description = "Dify is the platform for production-ready agentic workflows. Build agents, knowledge pipelines, models, and tools on one canvas, deployable on Cloud, in your VPC, or self-hosted."
+category = "chatbots"
+website = "https://dify.ai"
+open_source = true
+repository = "https://github.com/langgenius/dify"
+added = 2026-10-23

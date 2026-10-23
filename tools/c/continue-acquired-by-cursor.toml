@@ -1,0 +1,7 @@
+name = "Continue (acquired by Cursor)"
+description = "Continue has been acquired by Cursor."
+category = "coding"
+website = "https://continue.dev"
+open_source = true
+repository = "https://github.com/continuedev/continue"
+added = 2026-10-23

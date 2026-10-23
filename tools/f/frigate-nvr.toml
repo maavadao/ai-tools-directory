@@ -1,0 +1,7 @@
+name = "Frigate NVR"
+description = "NVR with realtime local object detection for IP cameras"
+category = "other"
+website = "https://frigate.video"
+open_source = true
+repository = "https://github.com/blakeblackshear/frigate"
+added = 2026-10-23

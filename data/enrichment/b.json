@@ -1,4 +1,8 @@
 {
+"b3log": {
+"checked": "2026-10-23",
+"image": "https://b3log.org/images/brand/b3log-128.png"
+},
 "band": {
 "checked": "2026-10-23",
 "image": "https://a.storyblok.com/f/291236425241163/1200x630/898e037b86/og-image.png",
@@ -53,6 +57,23 @@
 "pricing": {
 "free": true,
 "url": "https://bolt.new/pricing"
+}
+},
+"browser": {
+"checked": "2026-10-23",
+"image": "https://cdn.lightpanda.io/website/assets/images/opengraph/og.png",
+"pricing": {
+"currency": "USD",
+"from": 19.0,
+"url": "https://lightpanda.io/pricing"
+}
+},
+"browser-use": {
+"checked": "2026-10-23",
+"image": "https://browser-use.com/og/home-og.png",
+"pricing": {
+"free": true,
+"url": "https://browser-use.com/pricing"
 }
 },
 "buffer": {

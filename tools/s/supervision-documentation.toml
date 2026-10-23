@@ -1,0 +1,7 @@
+name = "Supervision documentation"
+description = "We write your reusable computer vision tools."
+category = "agents"
+website = "https://supervision.roboflow.com"
+open_source = true
+repository = "https://github.com/roboflow/supervision"
+added = 2026-10-23

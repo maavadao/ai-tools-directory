@@ -1,0 +1,7 @@
+name = "cognee"
+description = "Connect Slack, GitHub, Linear to Cognee and help agents recall what your company knows."
+category = "other"
+website = "https://www.cognee.ai"
+open_source = true
+repository = "https://github.com/topoteretes/cognee"
+added = 2026-10-23

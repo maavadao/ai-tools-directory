@@ -1,0 +1,7 @@
+name = "LibreChat"
+description = "LibreChat brings together all your AI conversations in one unified, customizable interface."
+category = "chatbots"
+website = "https://www.librechat.ai"
+open_source = true
+repository = "https://github.com/LibreChat-AI/LibreChat"
+added = 2026-10-23

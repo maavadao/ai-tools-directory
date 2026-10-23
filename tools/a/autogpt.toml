@@ -1,0 +1,7 @@
+name = "AutoGPT"
+description = "Build your team of AI Experts for content, sales, research, and recurring work. Share the context, connect your tools, and let Otto coordinate."
+category = "agents"
+website = "https://agpt.co"
+open_source = true
+repository = "https://github.com/Significant-Gravitas/AutoGPT"
+added = 2026-10-23

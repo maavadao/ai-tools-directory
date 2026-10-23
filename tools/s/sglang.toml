@@ -1,0 +1,7 @@
+name = "SGLang"
+description = "SGLang powers fast, scalable inference for large language and multimodal models. Open-source serving framework with state-of-the-art performance."
+category = "chatbots"
+website = "https://www.sglang.io"
+open_source = true
+repository = "https://github.com/sgl-project/sglang"
+added = 2026-10-23

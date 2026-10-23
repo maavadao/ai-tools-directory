@@ -1,0 +1,7 @@
+name = "Dragonfly"
+description = "Discover Dragonfly - the most performant in-memory data store, engineered for extreme throughput at scale."
+category = "other"
+website = "https://www.dragonflydb.io"
+open_source = true
+repository = "https://github.com/dragonflydb/dragonfly"
+added = 2026-10-23

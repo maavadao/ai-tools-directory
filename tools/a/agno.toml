@@ -1,0 +1,7 @@
+name = "agno"
+description = "Agno is a self-driving agent platform that runs in your cloud. Build, deploy and improve customer-facing and internal agents with coding agents."
+category = "coding"
+website = "https://www.agno.com"
+open_source = true
+repository = "https://github.com/agno-agi/agno"
+added = 2026-10-23

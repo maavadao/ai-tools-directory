@@ -11,6 +11,9 @@
 "checked": "2026-10-23",
 "image": "https://heal.dev/opengraph-image?e0625de47d2d2e2b"
 },
+"hello-python": {
+"checked": "2026-10-23"
+},
 "hemory": {
 "checked": "2026-10-23",
 "image": "https://www.hemory.com/assets/og-image.png",
@@ -20,6 +23,17 @@
 "trial": true,
 "url": "https://www.hemory.com/pricing/?hmgeo=1"
 }
+},
+"herdr": {
+"checked": "2026-10-23",
+"image": "https://herdr.dev/assets/og-card-v9.png"
+},
+"heretic": {
+"checked": "2026-10-23"
+},
+"hermes-agent": {
+"checked": "2026-10-23",
+"image": "https://web-assets.nousresearch.com/marketing/706fb678b93ec8750030067c0778e57d9203985f/assets/hermes-agent/og-image.png"
 },
 "heygen": {
 "checked": "2026-10-23",
@@ -45,6 +59,10 @@
 "url": "https://hirekey.io"
 }
 },
+"home": {
+"checked": "2026-10-23",
+"image": "https://madewithml.com/static/images/mlops.png"
+},
 "hookest": {
 "checked": "2026-10-23",
 "image": "https://hookest.com/og-image.png",
@@ -54,6 +72,10 @@
 "from": 19.99,
 "url": "https://hookest.com/pricing"
 }
+},
+"https-dsc-gg": {
+"checked": "2026-10-23",
+"image": "https://dsc.gg/static/img/banner.png"
 },
 "hubspot": {
 "checked": "2026-10-23",

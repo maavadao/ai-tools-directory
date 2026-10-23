@@ -1,0 +1,7 @@
+name = "skills"
+description = "AI Engineering for Curious Professional Developers"
+category = "other"
+website = "https://www.aihero.dev"
+open_source = true
+repository = "https://github.com/mattpocock/skills"
+added = 2026-10-23

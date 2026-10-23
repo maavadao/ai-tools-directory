@@ -1,0 +1,7 @@
+name = "dbeaver"
+description = "Free universal database tool and SQL client"
+category = "data"
+website = "https://dbeaver.io"
+open_source = true
+repository = "https://github.com/dbeaver/dbeaver"
+added = 2026-10-23

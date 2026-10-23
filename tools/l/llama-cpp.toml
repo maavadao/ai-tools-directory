@@ -1,0 +1,7 @@
+name = "llama.cpp"
+description = "Run the latest open models on your computer. Chat with them, or connect them to your coding agents, editors, and apps. Free, private, and nothing to configure."
+category = "other"
+website = "https://llama.app"
+open_source = true
+repository = "https://github.com/ggml-org/llama.cpp"
+added = 2026-10-23

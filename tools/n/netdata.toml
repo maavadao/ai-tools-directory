@@ -1,0 +1,7 @@
+name = "netdata"
+description = "Real-time observability with per-second metrics, logs and traces, ML anomaly detection, and AI troubleshooting. Open source, #1 on GitHub. Cut MTTR by 80%."
+category = "other"
+website = "https://www.netdata.cloud"
+open_source = true
+repository = "https://github.com/netdata/netdata"
+added = 2026-10-23

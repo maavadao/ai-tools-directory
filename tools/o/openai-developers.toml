@@ -1,0 +1,7 @@
+name = "OpenAI Developers"
+description = "Cookbooks to help you build with OpenAI models."
+category = "education"
+website = "https://developers.openai.com"
+open_source = true
+repository = "https://github.com/openai/openai-cookbook"
+added = 2026-10-23

@@ -1,0 +1,7 @@
+name = "ArtCraft"
+description = "ArtCraft is the open-source desktop app for generating AI video and images — built for artists who want real control."
+category = "other"
+website = "https://getartcraft.com"
+open_source = true
+repository = "https://github.com/storytold/artcraft"
+added = 2026-10-23

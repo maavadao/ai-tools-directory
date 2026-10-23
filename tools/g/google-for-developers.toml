@@ -1,0 +1,7 @@
+name = "Google for Developers"
+description = "From AI and Cloud to Mobile and Web: Explore developer resources and community events to help you build with Gemini."
+category = "agents"
+website = "https://developers.google.com"
+open_source = true
+repository = "https://github.com/googleworkspace/cli"
+added = 2026-10-23

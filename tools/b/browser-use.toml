@@ -1,0 +1,7 @@
+name = "browser-use"
+description = "Browser Use is the cloud browser for AI agents. Run web agents that finish the task, or connect your own agent to stealth browsers at $0.02 an hour."
+category = "chatbots"
+website = "https://browser-use.com"
+open_source = true
+repository = "https://github.com/browser-use/browser-use"
+added = 2026-10-23
