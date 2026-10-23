@@ -110,6 +110,7 @@ def hf_spaces(pages: int = 10) -> list[dict]:
 
 def product_hunt(tok: str, pages: int = 10) -> list[dict]:
     out, cursor = [], None
+    seen = unresolved = 0
     query = """query($after: String) { posts(order: VOTES, topic: "artificial-intelligence", first: 20, after: $after) {
       pageInfo { hasNextPage endCursor }
       edges { node { name tagline website votesCount topics { edges { node { name } } } } } } }"""
@@ -124,7 +125,10 @@ def product_hunt(tok: str, pages: int = 10) -> list[dict]:
             n = e["node"]
             if len(n.get("tagline") or "") < 10 or n.get("votesCount", 0) < 100:
                 continue
+            seen += 1
             site = resolve(n["website"])
+            if not site:
+                unresolved += 1
             if site:
                 out.append({
                     "name": clean(n["name"], 80), "description": clean(n["tagline"], 300), "website": site,
@@ -135,6 +139,9 @@ def product_hunt(tok: str, pages: int = 10) -> list[dict]:
             break
         cursor = posts["pageInfo"]["endCursor"]
         time.sleep(1)
+    if unresolved:
+        print(f"last redirect error: {getattr(resolve, 'last_error', 'none (redirected to a platform page)')}")
+    print(f"Product Hunt: {seen} launches with enough votes, {unresolved} whose site we couldn't resolve")
     return out
 
 
@@ -144,7 +151,8 @@ def resolve(url: str) -> str | None:
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT}, method="HEAD")
         with urllib.request.urlopen(req, timeout=20) as resp:
             final = resp.geturl()
-    except Exception:  # noqa: BLE001
+    except Exception as exc:  # noqa: BLE001
+        resolve.last_error = str(exc)
         return None
     p = urllib.parse.urlsplit(final)
     if p.scheme != "https" or "producthunt.com" in p.netloc:
