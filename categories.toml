@@ -1,0 +1,78 @@
+# Every tool belongs to exactly one category: put its id (the name in [brackets]) in the
+# tool file's `category` field. To propose a new category, open an issue first.
+
+[chatbots]
+name = "Chatbots & assistants"
+description = "General-purpose AI assistants you chat with."
+
+[writing]
+name = "Writing & copy"
+description = "Drafting, editing, SEO and marketing copy."
+
+[coding]
+name = "Coding"
+description = "AI help to write, review, test and ship software."
+
+[image]
+name = "Image generation & editing"
+description = "Text-to-image, upscaling, background removal and photo editing."
+
+[video]
+name = "Video"
+description = "Generate, edit and repurpose video."
+
+[audio]
+name = "Voice & audio"
+description = "Text-to-speech, voice cloning, transcription, music and dubbing."
+
+[design]
+name = "Design & creative"
+description = "Logos, slides, UI design, branding and presentations."
+
+[productivity]
+name = "Productivity"
+description = "Notes, meetings, email, calendars and workspace assistants."
+
+[research]
+name = "Research & search"
+description = "AI search engines, research assistants and literature tools."
+
+[data]
+name = "Data & analytics"
+description = "Spreadsheets, BI, data cleaning and forecasting."
+
+[sales-marketing]
+name = "Sales & marketing"
+description = "Lead generation, outreach, ads, social media and CRM."
+
+[customer-support]
+name = "Customer support"
+description = "Support chatbots, help desks and voice agents."
+
+[agents]
+name = "Agents & automation"
+description = "Tools that plan and act for you, and no-code workflow automation."
+
+[education]
+name = "Education"
+description = "Tutors, lesson planning, study aids and school tools."
+
+[healthcare]
+name = "Health & wellbeing"
+description = "Health, fitness, mental wellbeing and care tools."
+
+[legal-finance]
+name = "Legal & finance"
+description = "Contracts, compliance, accounting and investing."
+
+[hr]
+name = "HR & recruiting"
+description = "Hiring, interviews, onboarding and people analytics."
+
+[developer-platforms]
+name = "Developer platforms & APIs"
+description = "Model APIs, hosting, evaluation and AI infrastructure."
+
+[other]
+name = "Other"
+description = "AI tools that don't fit anywhere else yet."

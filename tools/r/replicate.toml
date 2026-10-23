@@ -1,0 +1,5 @@
+name = "Replicate"
+description = "Run open-source machine learning models with a cloud API"
+category = "developer-platforms"
+website = "https://replicate.com"
+added = 2026-10-23

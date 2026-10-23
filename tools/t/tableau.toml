@@ -1,0 +1,5 @@
+name = "Tableau"
+description = "Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click."
+category = "data"
+website = "https://www.tableau.com"
+added = 2026-10-23

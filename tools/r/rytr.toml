@@ -1,0 +1,5 @@
+name = "Rytr"
+description = "Rytr is an AI relationship manager for professionals. It brings client context from Gmail, Slack, calendars, and meeting notes into one brief, prepares meetings, and drafts follow-ups in your voice."
+category = "writing"
+website = "https://rytr.me"
+added = 2026-10-23

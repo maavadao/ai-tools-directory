@@ -1,0 +1,91 @@
+{
+"canva": {
+"checked": "2026-10-23",
+"image": "https://static.canva.com/static/images/fb_cover-1.jpg"
+},
+"casetext": {
+"checked": "2026-10-23",
+"image": "https://www.thomsonreuters.com/content/dam/ue/en-us/images/product-images/248901.png.transform/rect-768/q90/image.png"
+},
+"character-ai": {
+"checked": "2026-10-23",
+"image": "https://character.ai/character-ai.jpg"
+},
+"chatgpt": {
+"checked": "2026-10-23",
+"image": "https://cdn.openai.com/chatgpt/share-og.png",
+"pricing": {
+"free": true,
+"url": "https://chatgpt.com/pricing/"
+}
+},
+"claude": {
+"checked": "2026-10-23"
+},
+"claude-api": {
+"checked": "2026-10-23",
+"image": "https://assets.claude.com/cbd2591e5af9bc49b1d7557d997cb73d4d85b068.jpg?w=1200&h=630&fit=crop",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 100.0,
+"url": "https://claude.com/pricing"
+}
+},
+"clay": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a3ab15061812432ead96f56_Clay_Homepage_og-image%201000.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 54.0,
+"trial": true,
+"url": "https://www.clay.com/pricing"
+}
+},
+"clickup": {
+"checked": "2026-10-23",
+"image": "https://clickup.com/assets/brand/clickup-meta.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 7.0,
+"url": "https://clickup.com/pricing"
+}
+},
+"clipdrop": {
+"checked": "2026-10-23",
+"image": "https://static.clipdrop.co/web/homepage/og-twitter-image.webp",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://clipdrop.co/pricing"
+}
+},
+"coda": {
+"checked": "2026-10-23",
+"image": "https://sanity-images.imgix.net/production/6b46953798756d87bc1ad579a32d2af427ba6d3d-1200x628.png?w=&auto=format%2Ccompress"
+},
+"consensus-ai-for-research": {
+"checked": "2026-10-23",
+"image": "https://consensus.app/images/og-default.png"
+},
+"copy-ai": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/67111b6951504ebf1467be96_6708d064807b31c351b41284_share-og-image%20(1)-min.png",
+"pricing": {
+"currency": "USD",
+"from": 24.0,
+"url": "https://www.copy.ai/prices"
+}
+},
+"cursor": {
+"checked": "2026-10-23",
+"image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+"pricing": {
+"currency": "USD",
+"from": 8.0,
+"url": "https://cursor.com/pricing"
+}
+}
+}

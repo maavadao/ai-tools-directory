@@ -1,0 +1,5 @@
+name = "Claude API"
+description = "Everything your team needs to build AI agents and run them in production: frontier models, a managed harness, context management, and infrastructure."
+category = "developer-platforms"
+website = "https://www.anthropic.com/api"
+added = 2026-10-23

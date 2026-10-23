@@ -1,0 +1,60 @@
+{
+"magicschool": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/645187265d5e5e386be40629/69ceae79868b0ed8e9c46587_Open_Graph_HOME_APR2.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"trial": true,
+"url": "https://www.magicschool.ai/pricing"
+}
+},
+"make": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/6a294495bc84130c6dd0c4fd/6a706624f7fdfc3470419256_og-img.png",
+"pricing": {
+"free": true,
+"url": "https://www.make.com/pricing"
+}
+},
+"mem": {
+"checked": "2026-10-23",
+"image": "https://mem.ai/assets/seo/mem-open-graph-card.png"
+},
+"metaview": {
+"checked": "2026-10-23",
+"image": "https://www.metaview.ai/_next/static/immutable/media/og-image-social-1200x630.3-id2nmakfwf4.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 100.0,
+"url": "https://www.metaview.ai/pricing"
+}
+},
+"microsoft-copilot": {
+"checked": "2026-10-23",
+"image": "https://res.cdn.office.net/officehub/images/content/images/unauth-copilotcom/og-image-4986dc5dbb.png",
+"pricing": {
+"trial": true,
+"url": "https://www.microsoft.com/en-in/copilot/pricing/business?ocid=cmm2nvxwm2c?ocid=cmm2nvxwm2c"
+}
+},
+"midjourney": {
+"checked": "2026-10-23"
+},
+"mistral": {
+"checked": "2026-10-23",
+"image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 14.99,
+"url": "https://mistral.ai/pricing/"
+}
+},
+"murf": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/66b3765153a8a0c399c70981/670584e2dab709883eed3793_Home.webp"
+}
+}

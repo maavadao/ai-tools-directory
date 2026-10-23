@@ -1,0 +1,27 @@
+{
+"abridge": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/6279c9d10eb860662e5ec006/665f41408181f8fdda5f1e7e_abridge-opengraph-home.webp"
+},
+"adobe-firefly": {
+"checked": "2026-10-23",
+"image": "https://www.adobe.com/products/media_1912d2dfb102c668252eb9dda176f925d677fc5e2.png?width=1200&format=pjpg&optimize=medium"
+},
+"apollo": {
+"checked": "2026-10-23",
+"image": "https://www.apollo.io/og-images/home.jpg",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.apollo.io/pricing"
+}
+},
+"assemblyai": {
+"checked": "2026-10-23",
+"image": "https://www.assemblyai.com/_aai/images/meta/og-default.jpg",
+"pricing": {
+"free": true,
+"url": "https://www.assemblyai.com/pricing"
+}
+}
+}

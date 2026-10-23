@@ -1,0 +1,34 @@
+{
+"lemlist": {
+"checked": "2026-10-23",
+"image": "https://web-assets.lemlist.com/lemlist/revamp/lemlist-og.png",
+"pricing": {
+"currency": "USD",
+"from": 16.0,
+"trial": true,
+"url": "https://www.lemlist.com/pricing"
+}
+},
+"lindy": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/69a20da89a23a65ce1b211c3_3ca1c8cedd19958a4fa76e3387d064a2_Lindy%20OG.jpg",
+"pricing": {
+"currency": "USD",
+"from": 29.99,
+"trial": true,
+"url": "https://www.lindy.ai/pricing"
+}
+},
+"lovable": {
+"checked": "2026-10-23",
+"image": "https://lovable.dev/img/opengraph-image.png",
+"pricing": {
+"free": true,
+"url": "https://lovable.dev/pricing"
+}
+},
+"luma": {
+"checked": "2026-10-23",
+"image": "https://cdn.sanity.io/images/2ylxvaa2/production/ff7469d468f6f7e447ccb4a50276f1cb03c6664d-1200x630.jpg?w=1200&h=630&fm=jpg"
+}
+}

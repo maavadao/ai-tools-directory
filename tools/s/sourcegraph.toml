@@ -1,0 +1,5 @@
+name = "Sourcegraph"
+description = "Give humans and agents complete context to understand, oversee, and evolve the world's largest, most complex codebases."
+category = "coding"
+website = "https://sourcegraph.com"
+added = 2026-10-23

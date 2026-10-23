@@ -1,0 +1,18 @@
+name: Remove a listing
+description: You make this tool and want it taken off the directory.
+labels: [removal]
+body:
+  - type: input
+    id: website
+    attributes:
+      label: Website of the tool
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Your role
+      description: For example "founder" or "works at the company". We only remove a listing when its makers ask, so we may check using the company's email.
+    validations:
+      required: true

@@ -1,0 +1,5 @@
+name = "Warp"
+description = "Build your software factory on Warp: factories as code, any model or harness, with evals, benchmarks, and self-improvement built in."
+category = "coding"
+website = "https://www.warp.dev"
+added = 2026-10-23

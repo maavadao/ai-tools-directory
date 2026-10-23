@@ -1,0 +1,25 @@
+{
+"tableau": {
+"checked": "2026-10-23",
+"image": "https://wp.sfdcdigital.com/tableau/en-us/wp-content/uploads/sites/47/2026/09/Tableau-OG-Agentic-Analytics-1.png?w=1024",
+"pricing": {
+"free": true,
+"url": "https://www.tableau.com/pricing"
+}
+},
+"tidio": {
+"checked": "2026-10-23",
+"image": "https://www.tidio.com/images/seo/tidio-og.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 24.17,
+"trial": true,
+"url": "https://www.tidio.com/pricing/"
+}
+},
+"together-ai": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a49f86fc70648ca04854f6_OG-image-home.png"
+}
+}

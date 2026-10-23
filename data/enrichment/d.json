@@ -1,0 +1,40 @@
+{
+"datarobot": {
+"checked": "2026-10-23",
+"image": "https://www.datarobot.com/wp-content/uploads/2026/06/default-image-2026.jpg"
+},
+"deepgram": {
+"checked": "2026-10-23",
+"image": "https://cdn.sanity.io/images/10fppwnn/production/0418428f854c966e333d3657f13fee40a205f914-1800x945.jpg"
+},
+"deepl": {
+"checked": "2026-10-23",
+"image": "https://www.deepl.com/img/favicon/automatic_social_share_deepl.png",
+"pricing": {
+"trial": true,
+"url": "https://www.deepl.com/en/pro"
+}
+},
+"descript": {
+"checked": "2026-10-23",
+"image": "https://cdn.sanity.io/images/lsw4j9eq/production/126b70d12a747eb60c81bad5b72942f7d75041dd-1200x630.jpg?fit=max&auto=format",
+"pricing": {
+"free": true,
+"url": "https://www.descript.com/pricing"
+}
+},
+"devin": {
+"checked": "2026-10-23",
+"image": "https://devin.ai/assets/images/desktop/og-desktop.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://devin.ai/pricing"
+}
+},
+"duolingo": {
+"checked": "2026-10-23",
+"image": "https://www.duolingo.com/images/facebook/duo-08523a2.jpg"
+}
+}

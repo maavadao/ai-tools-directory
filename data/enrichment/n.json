@@ -1,0 +1,20 @@
+{
+"n8n": {
+"checked": "2026-10-23",
+"image": "https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/og_image_website_3_afd66761a9.png",
+"pricing": {
+"trial": true,
+"url": "https://n8n.io/pricing/"
+}
+},
+"notion": {
+"checked": "2026-10-23",
+"image": "https://www.notion.com/front-static/meta/teams-and-agents.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 8.0,
+"url": "https://www.notion.com/pricing"
+}
+}
+}

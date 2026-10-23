@@ -1,0 +1,48 @@
+name: Find and refresh tools
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # before the daily publish, which then lists what this adds
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Find new tools
+        # Product Hunt needs a free developer token in the PRODUCT_HUNT_TOKEN secret; without one
+        # this step finds nothing and the run carries on.
+        continue-on-error: true
+        env:
+          PRODUCT_HUNT_TOKEN: ${{ secrets.PRODUCT_HUNT_TOKEN }}
+        run: python scripts/discover.py --max-new 100
+      - name: Refresh preview images and pricing flags
+        # Oldest first, 300 tools a day, each page read politely (robots.txt, one request a second).
+        continue-on-error: true
+        run: python scripts/enrich.py --limit 300
+      - run: python scripts/validate.py
+      - name: Commit
+        run: |
+          git add tools data
+          if git diff --cached --quiet; then
+            echo "nothing new"
+            exit 0
+          fi
+          n=$(git diff --cached --name-only -- tools | wc -l)
+          git config user.name "maavadao-bot"
+          git config user.email "maavadao-bot@users.noreply.github.com"
+          git commit -m "Daily update: $n new tools, refreshed site data"
+          git push

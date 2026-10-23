@@ -1,0 +1,5 @@
+name = "Otter Meeting Agent"
+description = "Otter AI Meeting Agent supports real-time transcription, live chat, automated summaries, insights, and action items."
+category = "audio"
+website = "https://otter.ai"
+added = 2026-10-23

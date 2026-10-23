@@ -1,0 +1,28 @@
+{
+"beautiful": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/59deb588800ae30001ec19c9/679345319c7f2f3d2301228b_Open%20Graph_final.jpg",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.beautiful.ai/pricing"
+}
+},
+"bolt-new": {
+"checked": "2026-10-23",
+"image": "https://bolt.new/static/social_preview_index-v2.png",
+"pricing": {
+"free": true,
+"url": "https://bolt.new/pricing"
+}
+},
+"buffer": {
+"checked": "2026-10-23",
+"image": "https://buffer.com/ogImages/homepage-og.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://buffer.com/pricing?cta=bufferSite-globalNav-pricing-pricing-1"
+}
+}
+}

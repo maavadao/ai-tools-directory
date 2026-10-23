@@ -1,0 +1,35 @@
+{
+"openai-api": {
+"checked": "2026-10-23",
+"image": "https://images.ctfassets.net/kftzwdyauwt9/2QkEfHzYEJhFvNWAkNolg5/264f9db2d3020b1ff65c12aa9c6632e0/API_Refresh_Art_Card_1920x108.png?w=1600&h=900&fit=fill"
+},
+"openrouter": {
+"checked": "2026-10-23",
+"image": "https://openrouter.ai/dynamic-og?pathname=default&title=OpenRouter&description=The+unified+interface+for+every+model.+Find+the+best+models+%26+prices+for+your+prompts&v=2",
+"pricing": {
+"free": true,
+"url": "https://openrouter.ai/pricing"
+}
+},
+"opus": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/6893fad68d6058a917d7f3c6_mainpage_thumbnail.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 14.5,
+"trial": true,
+"url": "https://www.opus.pro/pricing"
+}
+},
+"otter-meeting-agent": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/618e9316785b3582a5178502/67dd5a945aeed07e329d4e10_fb6d82f0792801a1a0d814599859e23e_og-image-otter-optim.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 8.33,
+"url": "https://otter.ai/pricing"
+}
+}
+}

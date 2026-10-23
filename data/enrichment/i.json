@@ -1,0 +1,17 @@
+{
+"intercom": {
+"checked": "2026-10-23",
+"image": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/9d9c4802c510e9279b7525a4dd289dd793725b83-2400x1260.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 99.0,
+"trial": true,
+"url": "https://www.intercom.com/pricing"
+}
+},
+"invideo": {
+"checked": "2026-10-23",
+"image": "https://pro-static-assets.invideo.io/images/large/Pasted_16_10_2026_at_19_54_50_8d5fd22857.png"
+}
+}

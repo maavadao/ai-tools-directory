@@ -1,0 +1,27 @@
+{
+"perplexity-ai": {
+"checked": "2026-10-23",
+"image": "https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png"
+},
+"pika": {
+"checked": "2026-10-23",
+"image": "https://pika.art/brand/opengraph.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 35.0,
+"url": "https://pika.art/pricing"
+}
+},
+"pinecone": {
+"checked": "2026-10-23",
+"image": "https://www.pinecone.io/api/og/?title=Trusted+knowledge+for&highlight=AI+in+production&alignment=center",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"trial": true,
+"url": "https://www.pinecone.io/pricing/"
+}
+}
+}

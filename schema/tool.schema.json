@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/maavadao/ai-tools-directory/schema/tool.schema.json",
+  "title": "maavaDao AI tool",
+  "description": "One AI product, site or suite (open source or not). The file lives at tools/<first character>/<slug>.toml.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "description", "category", "website", "added"],
+  "properties": {
+    "name": { "type": "string", "minLength": 1, "maxLength": 80, "description": "The product's name as its makers write it." },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 300,
+      "description": "One or two plain sentences: what it does and who it helps. Your own words or the tool's own site, never text copied from another directory."
+    },
+    "category": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "One id from categories.toml." },
+    "website": { "type": "string", "pattern": "^https://\\S+$", "description": "The tool's home page." },
+    "company": { "type": "string", "maxLength": 80 },
+    "tags": { "type": "array", "maxItems": 8, "uniqueItems": true, "items": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{0,39}$" } },
+    "pricing": {
+      "enum": ["free", "freemium", "paid", "contact"],
+      "description": "free: no charge. freemium: free plan plus paid plans. paid: no free plan (a trial doesn't count). contact: price on request."
+    },
+    "starting_price": { "type": "number", "minimum": 0, "description": "Cheapest paid plan, per month." },
+    "currency": { "type": "string", "pattern": "^[A-Z]{3}$", "description": "ISO 4217 code for starting_price. USD if not set." },
+    "free_trial": { "type": "boolean" },
+    "pricing_url": { "type": "string", "pattern": "^https://\\S+$", "description": "The tool's own pricing page, where the prices above were read." },
+    "pricing_checked": { "type": "string", "format": "date", "description": "When someone last checked the prices against the pricing page." },
+    "open_source": { "type": "boolean", "description": "True if the source code is open." },
+    "repository": { "type": "string", "pattern": "^https://(github\\.com|gitlab\\.com|codeberg\\.org|huggingface\\.co)/[A-Za-z0-9._-]+/[A-Za-z0-9._-]+$" },
+    "platforms": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "enum": ["web", "ios", "android", "mac", "windows", "linux", "api", "browser-extension", "slack", "discord"] }
+    },
+    "education_discount": { "type": "boolean", "description": "Has a free or discounted plan for schools, teachers or students." },
+    "added": { "type": "string", "format": "date" }
+  }
+}

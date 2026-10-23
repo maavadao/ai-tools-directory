@@ -1,0 +1,5 @@
+name = "Clipdrop"
+description = "Remove background, cleanup pictures, upscaling, Stable diffusion and more…"
+category = "image"
+website = "https://clipdrop.co"
+added = 2026-10-23

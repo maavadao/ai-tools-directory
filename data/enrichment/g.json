@@ -1,0 +1,25 @@
+{
+"gemini": {
+"checked": "2026-10-23",
+"image": "https://www.gstatic.com/lamda/images/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718.png"
+},
+"github-copilot": {
+"checked": "2026-10-23",
+"image": "https://images.ctfassets.net/8aevphvgewt8/4KxWJH8PVVXdqBLs1V3UJ8/8926c7d150a8b8f3bf33c1c8a133724b/github-copilot-social-img.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 4.0,
+"trial": true,
+"url": "https://github.com/pricing"
+}
+},
+"grammarly": {
+"checked": "2026-10-23",
+"image": "https://static-web.grammarly.com/1e6ajr2k4140/1kGiUxfxoLhCPH7wGcvknN/c218a7bbcdfc24301fbbfb6ae9892ec6/default_social_share.png"
+},
+"groq": {
+"checked": "2026-10-23",
+"image": "https://groq.com/images/og.png"
+}
+}

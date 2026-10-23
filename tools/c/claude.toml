@@ -1,0 +1,5 @@
+name = "Claude"
+description = "Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work."
+category = "chatbots"
+website = "https://claude.ai"
+added = 2026-10-23

@@ -1,0 +1,14 @@
+# tools/n/notion-ai.toml  (the file name is the tool's slug: lowercase letters, digits, hyphens)
+name = "Notion AI"                          # text goes in "double quotes"
+description = "Writing, summaries and Q&A built into your Notion workspace."
+category = "productivity"                   # an id from categories.toml
+website = "https://www.notion.com/product/ai"
+company = "Notion Labs"
+tags = ["notes", "wiki", "summaries"]       # lists go in [square brackets]
+pricing = "freemium"                        # free, freemium, paid or contact
+starting_price = 10                         # per month, cheapest paid plan
+free_trial = true
+pricing_url = "https://www.notion.com/pricing"
+pricing_checked = 2026-10-23
+education_discount = true
+added = 2026-10-23                          # YYYY-MM-DD, no quotes

@@ -1,0 +1,16 @@
+{
+"elevenlabs": {
+"checked": "2026-10-23",
+"image": "https://elevenlabs.io/cover.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 99.0,
+"url": "https://elevenlabs.io/pricing"
+}
+},
+"elicit": {
+"checked": "2026-10-23",
+"image": "https://framerusercontent.com/images/s7irwYwOOfdSFu6EPduaB8EDsIg.png"
+}
+}

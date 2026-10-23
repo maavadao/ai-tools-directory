@@ -1,0 +1,27 @@
+{
+"warp": {
+"checked": "2026-10-23",
+"image": "https://www.warp.dev/og/default.png",
+"pricing": {
+"currency": "USD",
+"from": 18.0,
+"url": "https://www.warp.dev/pricing"
+}
+},
+"woebot-health": {
+"checked": "2026-10-23",
+"image": "https://woebothealth.com/wp-content/uploads/2022/07/Feature-image-option-3.jpg"
+},
+"wordtune": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/5f7e0f9d75fee6f6f546df46/66bc50ae0f2962888d8e06a2_OG%20-%20HOME%20PAGE%20.png",
+"pricing": {
+"trial": true,
+"url": "https://www.wordtune.com/plans"
+}
+},
+"writesonic": {
+"checked": "2026-10-23",
+"image": "https://writesonic.com/opengraph-image"
+}
+}

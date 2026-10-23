@@ -1,0 +1,33 @@
+{
+"harvey": {
+"checked": "2026-10-23",
+"image": "https://cdn.sanity.io/images/07s0r5r6/production/9a4b2e0eec438fb56057db128a11ade2c04c01cf-2400x1260.png?w=1200&h=630&fm=jpg&q=95&fit=crop"
+},
+"heygen": {
+"checked": "2026-10-23",
+"image": "https://cdn.sanity.io/images/pdhqcmb1/production/e6fbae484791e59b8d30413bb33dda951fb1027c-1200x630.png?fit=max&fm=png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 24.0,
+"url": "https://www.heygen.com/en-in/pricing"
+}
+},
+"hireez": {
+"checked": "2026-10-23",
+"image": "https://hireez.com/wp-content/uploads/2026/08/hireez-agent-native.jpg"
+},
+"hubspot": {
+"checked": "2026-10-23",
+"image": "https://www.hubspot.com/hubfs/assets/hubspot.com/homepage/hero-backgrounds-2025/HS_Full_Bleed_1.jpg"
+},
+"hugging-face": {
+"checked": "2026-10-23",
+"image": "https://huggingface.co/front/thumbnails/v2-2.png",
+"pricing": {
+"currency": "USD",
+"from": 9.0,
+"url": "https://huggingface.co/pricing"
+}
+}
+}

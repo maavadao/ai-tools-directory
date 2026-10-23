@@ -1,0 +1,22 @@
+{
+"jasper": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/6807ee8d73c233fb82842313/6846454bda26628fcf51d54c_9650916b48ce089735bcc21cc8e43f2f_OpenGraph%20-%20Home.png",
+"pricing": {
+"currency": "USD",
+"from": 59.0,
+"trial": true,
+"url": "https://www.jasper.ai/pricing"
+}
+},
+"julius-ai": {
+"checked": "2026-10-23",
+"image": "https://julius.ai/opengraph-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 16.0,
+"url": "https://julius.ai/pricing"
+}
+}
+}

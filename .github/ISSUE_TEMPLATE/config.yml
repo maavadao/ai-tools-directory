@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: List an open-source AI repo
+    url: https://github.com/maavadao/open-source-ai-repos
+    about: Open-source projects live in the open-source AI repos directory.

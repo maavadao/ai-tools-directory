@@ -1,0 +1,3 @@
+# Domains of tools whose makers asked to be removed. Discovery skips them and validation rejects
+# any file whose website is on this list. Add a domain through the "Remove a listing" issue.
+domains = []

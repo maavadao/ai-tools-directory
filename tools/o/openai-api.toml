@@ -1,0 +1,5 @@
+name = "OpenAI API"
+description = "Our API platform offers our latest models and guides for safety best practices."
+category = "developer-platforms"
+website = "https://openai.com/api"
+added = 2026-10-23

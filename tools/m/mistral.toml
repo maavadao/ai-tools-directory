@@ -1,0 +1,5 @@
+name = "Mistral"
+description = "Frontier open-weight models you own and control. Customize with Forge, deploy with Studio, run on-prem, your VPC, or our cloud."
+category = "developer-platforms"
+website = "https://mistral.ai"
+added = 2026-10-23

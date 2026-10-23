@@ -1,0 +1,48 @@
+{
+"reclaim": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/5ec848ec2b50b6cfae06f6cc/65e2563b7c0658aed71828ac_open_graph_final.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 8.0,
+"trial": true,
+"url": "https://reclaim.ai/pricing"
+}
+},
+"relevance-ai": {
+"checked": "2026-10-23",
+"image": "https://cdn.relevanceai.com/images/og-image.webp"
+},
+"remove-bg": {
+"checked": "2026-10-23",
+"image": "https://sb.kaleidousercontent.com/67418/600x315/48eb30a742/emilia-og-image.jpg"
+},
+"replicate": {
+"checked": "2026-10-23"
+},
+"replit": {
+"checked": "2026-10-23",
+"image": "https://replit.com/public/images/opengraph_rebrand.jpg"
+},
+"runway": {
+"checked": "2026-10-23",
+"image": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/homepage-og-card-v3.webp",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 12.0,
+"url": "https://runway.com/pricing"
+}
+},
+"rytr": {
+"checked": "2026-10-23",
+"image": "https://rytr.me/assets/product/home-brief.webp",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 9.0,
+"url": "https://rytr.me/pricing"
+}
+}
+}

@@ -1,0 +1,5 @@
+name = "Groq"
+description = "Groq is the premier neocloud for fast inference. One fully integrated platform for infrastructure, inference, and control. Millions of developers run trillions of tokens on Groq every week."
+category = "developer-platforms"
+website = "https://groq.com"
+added = 2026-10-23

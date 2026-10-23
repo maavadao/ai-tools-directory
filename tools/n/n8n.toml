@@ -1,0 +1,5 @@
+name = "n8n"
+description = "n8n is a workflow automation platform that uniquely combines AI capabilities with business process automation, giving technical teams the flexibility of code with the speed of no-code."
+category = "agents"
+website = "https://n8n.io"
+added = 2026-10-23

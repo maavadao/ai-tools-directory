@@ -1,0 +1,23 @@
+{
+"zapier": {
+"checked": "2026-10-23",
+"image": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/f_auto/v1776210705/Governance/og-image-homepage_mskeaq.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 19.99,
+"trial": true,
+"url": "https://zapier.com/pricing"
+}
+},
+"zendesk": {
+"checked": "2026-10-23",
+"image": "https://d1eipm3vz40hy0.cloudfront.net/images/logos/favicons/zendesk-image.png",
+"pricing": {
+"currency": "GBP",
+"from": 19.0,
+"trial": true,
+"url": "https://www.zendesk.com/in/pricing/"
+}
+}
+}

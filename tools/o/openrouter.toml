@@ -1,0 +1,5 @@
+name = "OpenRouter"
+description = "The unified interface for every model. Find the best models & prices for your prompts"
+category = "developer-platforms"
+website = "https://openrouter.ai"
+added = 2026-10-23

@@ -1,0 +1,22 @@
+name: Suggest a tool
+description: Know an AI tool, site or suite that should be listed? Tell us, even if you can't open a pull request.
+labels: [new tool]
+body:
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What it does and who it helps
+      description: In your own words, not copied from another directory.
+  - type: input
+    id: pricing
+    attributes:
+      label: Pricing page
+      description: The tool's own pricing page, if it has one.
+      placeholder: https://example.com/pricing

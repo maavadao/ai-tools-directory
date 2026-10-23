@@ -1,0 +1,5 @@
+name = "GitHub Copilot"
+description = "GitHub Copilot works every step of the way, from an open issue to reviewing and merging a pull request. Use it in your editor, the terminal, on your desktop, and on GitHub."
+category = "coding"
+website = "https://github.com/features/copilot"
+added = 2026-10-23
