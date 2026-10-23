@@ -1,4 +1,14 @@
 {
+"schole": {
+"checked": "2026-10-23",
+"image": "https://schole.ai/og.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 75.0,
+"url": "https://schole.ai/pricing"
+}
+},
 "sourcegraph": {
 "checked": "2026-10-23",
 "image": "https://storage.googleapis.com/marketing-site-static-assets-prod/og-image-homepage.webp",
@@ -10,12 +20,44 @@
 "speak": {
 "checked": "2026-10-23"
 },
+"spira-ai": {
+"checked": "2026-10-23",
+"image": "https://spira.ai/opengraph-image",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 12.0,
+"url": "https://spira.ai/pricing"
+}
+},
+"statable-analytics": {
+"checked": "2026-10-23",
+"image": "https://statable.com/thumbnail.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 9.0,
+"trial": true,
+"url": "https://statable.com/pricing"
+}
+},
 "suno": {
 "checked": "2026-10-23",
 "image": "https://cdn-o.suno.com/meta-preview.jpg",
 "pricing": {
 "free": true,
 "url": "https://suno.com"
+}
+},
+"supademo": {
+"checked": "2026-10-23",
+"image": "https://supademo.com/api/og/page",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 50.0,
+"trial": true,
+"url": "https://supademo.com/pricing"
 }
 },
 "superhuman": {

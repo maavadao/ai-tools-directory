@@ -1,0 +1,5 @@
+name = "Opengeni"
+description = "Opengeni is the open-source agent harness in the cloud. Every agent gets its own computer, your tools and secrets are set up once, and your team shares the work. Any model."
+category = "coding"
+website = "https://opengeni.ai"
+added = 2026-10-23

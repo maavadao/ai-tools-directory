@@ -1,0 +1,5 @@
+name = "Navige"
+description = "Cut your AI agent and LLM spend without changing the output. Navige routes each call to the right model, blocks wasted calls and reuses work already done."
+category = "coding"
+website = "https://navige.ai"
+added = 2026-10-23

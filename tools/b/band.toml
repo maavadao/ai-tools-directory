@@ -1,0 +1,5 @@
+name = "BAND"
+description = "Enterprise-grade interaction infrastructure that enables real-time, multi-peer collaboration between agents and humans through a shared interaction layer with built-in governance."
+category = "coding"
+website = "https://www.band.ai"
+added = 2026-10-23

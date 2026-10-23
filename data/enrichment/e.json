@@ -1,4 +1,12 @@
 {
+"eclatira": {
+"checked": "2026-10-23",
+"pricing": {
+"currency": "USD",
+"from": 35.0,
+"url": "https://eclatira.com/pricing"
+}
+},
 "elevenlabs": {
 "checked": "2026-10-23",
 "image": "https://elevenlabs.io/cover.png",
@@ -12,5 +20,13 @@
 "elicit": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/images/s7irwYwOOfdSFu6EPduaB8EDsIg.png"
+},
+"exa-3-0": {
+"checked": "2026-10-23",
+"image": "https://exa.imgix.net/og-image-v4.png/",
+"pricing": {
+"free": true,
+"url": "https://exa.ai/pricing"
+}
 }
 }

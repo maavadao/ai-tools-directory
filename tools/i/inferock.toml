@@ -1,0 +1,5 @@
+name = "Inferock"
+description = "End-to-end encrypted inference, verifiable by design, on our intended confidential routes."
+category = "coding"
+website = "https://inferock.ai"
+added = 2026-10-23

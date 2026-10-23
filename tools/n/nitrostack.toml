@@ -1,0 +1,5 @@
+name = "NitroStack"
+description = "The complete Model Context Protocol platform. Build MCP servers and MCP apps with our TypeScript SDK & CLI, test in NitroStudio, and deploy agentic AI to NitroCloud."
+category = "coding"
+website = "https://nitrostack.ai"
+added = 2026-10-23

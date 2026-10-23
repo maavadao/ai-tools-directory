@@ -1,7 +1,42 @@
 {
+"pancake": {
+"checked": "2026-10-23",
+"image": "https://pancake.ai/og-image-2026-10.png",
+"pricing": {
+"currency": "USD",
+"from": 39.0,
+"trial": true,
+"url": "https://pancake.ai/pricing"
+}
+},
+"parakeetai": {
+"checked": "2026-10-23",
+"image": "https://www.parakeet-ai.com/og-image.png",
+"pricing": {
+"free": true,
+"url": "https://www.parakeet-ai.com"
+}
+},
+"paste": {
+"checked": "2026-10-23",
+"image": "https://pasteapp.io/opengraph-image.png?opengraph-image.25xi3iyy1tz8p.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://pasteapp.io/pricing"
+}
+},
 "perplexity-ai": {
 "checked": "2026-10-23",
 "image": "https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png"
+},
+"pexo": {
+"checked": "2026-10-23",
+"image": "https://pexo.ai/og-image.png",
+"pricing": {
+"free": true,
+"url": "https://pexo.ai/pricing"
+}
 },
 "pika": {
 "checked": "2026-10-23",
@@ -22,6 +57,29 @@
 "from": 20.0,
 "trial": true,
 "url": "https://www.pinecone.io/pricing/"
+}
+},
+"pixverse-r2": {
+"checked": "2026-10-23",
+"image": "https://world-media.pixverse.ai/realtime/r2-tab.png?x-oss-process=style/cover-webp"
+},
+"polylane": {
+"checked": "2026-10-23",
+"image": "https://polylane.com/og.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 80.0,
+"url": "https://polylane.com/pricing/"
+}
+},
+"pomerado": {
+"checked": "2026-10-23",
+"image": "https://pomerado.ai/opengraph-image?b492d95fc1fd4e74",
+"pricing": {
+"currency": "USD",
+"from": 50.0,
+"url": "https://pomerado.ai/"
 }
 }
 }

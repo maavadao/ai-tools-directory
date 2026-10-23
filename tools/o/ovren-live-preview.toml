@@ -1,0 +1,5 @@
+name = "Ovren Live Preview"
+description = "Works on your existing product. Describe the task in any language: Ovren writes the code and opens a pull request you or your team reviews. Previews frontend changes."
+category = "coding"
+website = "https://www.ovren.ai"
+added = 2026-10-23

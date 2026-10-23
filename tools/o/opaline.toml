@@ -1,0 +1,5 @@
+name = "Opaline"
+description = "Opaline tracks token cost, time, and skill usage for every single message across your team’s sessions."
+category = "coding"
+website = "https://opaline.so"
+added = 2026-10-23

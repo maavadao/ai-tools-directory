@@ -1,0 +1,5 @@
+name = "Command Line"
+description = "Founded in 2026, Command Line is a technical blog from Microsoft where we share how we build and what we learn—from both our wins and failures"
+category = "other"
+website = "https://commandline.microsoft.com"
+added = 2026-10-23

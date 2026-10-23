@@ -1,0 +1,5 @@
+name = "Rool"
+description = "A full private cloud machine with files, software, and persistent memory. Hosted in the EU, with AI models we self-host in the EU."
+category = "productivity"
+website = "https://rool.dev"
+added = 2026-10-23

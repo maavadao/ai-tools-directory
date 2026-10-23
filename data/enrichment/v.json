@@ -7,5 +7,18 @@
 "from": 90.0,
 "url": "https://v0.app/pricing"
 }
+},
+"velozity": {
+"checked": "2026-10-23",
+"image": "https://getvelozity.com/assets/meta/og-card-v3.png"
+},
+"veltrix": {
+"checked": "2026-10-23",
+"pricing": {
+"currency": "USD",
+"from": 49.0,
+"trial": true,
+"url": "https://veltrix.com/pricing"
+}
 }
 }

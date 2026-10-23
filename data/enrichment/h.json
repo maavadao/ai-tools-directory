@@ -1,7 +1,25 @@
 {
+"harness-by-autonomous": {
+"checked": "2026-10-23",
+"image": "https://cdn.autonomous.ai/production/ecm/260805/metadata.webp"
+},
 "harvey": {
 "checked": "2026-10-23",
 "image": "https://cdn.sanity.io/images/07s0r5r6/production/9a4b2e0eec438fb56057db128a11ade2c04c01cf-2400x1260.png?w=1200&h=630&fm=jpg&q=95&fit=crop"
+},
+"heal": {
+"checked": "2026-10-23",
+"image": "https://heal.dev/opengraph-image?e0625de47d2d2e2b"
+},
+"hemory": {
+"checked": "2026-10-23",
+"image": "https://www.hemory.com/assets/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"trial": true,
+"url": "https://www.hemory.com/pricing/?hmgeo=1"
+}
 },
 "heygen": {
 "checked": "2026-10-23",
@@ -17,6 +35,26 @@
 "checked": "2026-10-23",
 "image": "https://hireez.com/wp-content/uploads/2026/08/hireez-agent-native.jpg"
 },
+"hirekey": {
+"checked": "2026-10-23",
+"image": "https://hirekey.io/wp-content/plugins/hirekey-social-metadata/assets/home.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 39.0,
+"url": "https://hirekey.io"
+}
+},
+"hookest": {
+"checked": "2026-10-23",
+"image": "https://hookest.com/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 19.99,
+"url": "https://hookest.com/pricing"
+}
+},
 "hubspot": {
 "checked": "2026-10-23",
 "image": "https://www.hubspot.com/hubfs/assets/hubspot.com/homepage/hero-backgrounds-2025/HS_Full_Bleed_1.jpg"
@@ -29,5 +67,13 @@
 "from": 9.0,
 "url": "https://huggingface.co/pricing"
 }
+},
+"humalike": {
+"checked": "2026-10-23",
+"image": "https://humalike.ai/humalike-og.jpg?v=2"
+},
+"hyperframes": {
+"checked": "2026-10-23",
+"image": "https://www.hyperframes.dev/og-studio-redesign-2026-10.png"
 }
 }

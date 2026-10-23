@@ -1,0 +1,5 @@
+name = "heal"
+description = "Code review reads the diff; Heal runs the product. It builds a sandbox that replicates production and finds reproducible bugs and runtime vulnerabilities, each with the failing test that proves it. Runs locally or in the cloud."
+category = "coding"
+website = "https://www.heal.dev"
+added = 2026-10-23

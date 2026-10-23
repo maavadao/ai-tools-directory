@@ -1,0 +1,5 @@
+name = "MentionBird"
+description = "MentionBird shows which sources ChatGPT, Gemini, Perplexity and Claude cite in your category, why competitors get recommended, and what to fix to win the mention."
+category = "writing"
+website = "https://www.mentionbird.ai"
+added = 2026-10-23

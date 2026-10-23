@@ -3,9 +3,23 @@
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/6279c9d10eb860662e5ec006/665f41408181f8fdda5f1e7e_abridge-opengraph-home.webp"
 },
+"adant": {
+"checked": "2026-10-23",
+"image": "https://adant.ai/og-image-2026-10-11.jpg",
+"pricing": {
+"currency": "USD",
+"from": 15.0,
+"trial": true,
+"url": "https://adant.ai/pricing"
+}
+},
 "adobe-firefly": {
 "checked": "2026-10-23",
 "image": "https://www.adobe.com/products/media_1912d2dfb102c668252eb9dda176f925d677fc5e2.png?width=1200&format=pjpg&optimize=medium"
+},
+"agent-hunt": {
+"checked": "2026-10-23",
+"image": "https://monid.ai/share-card.png"
 },
 "apollo": {
 "checked": "2026-10-23",
@@ -16,12 +30,41 @@
 "url": "https://www.apollo.io/pricing"
 }
 },
+"articos-mcp": {
+"checked": "2026-10-23",
+"image": "https://www.articos.com/articos-og-image.jpg",
+"pricing": {
+"currency": "USD",
+"from": 79.0,
+"trial": true,
+"url": "https://www.articos.com/pricing"
+}
+},
 "assemblyai": {
 "checked": "2026-10-23",
 "image": "https://www.assemblyai.com/_aai/images/meta/og-default.jpg",
 "pricing": {
 "free": true,
 "url": "https://www.assemblyai.com/pricing"
+}
+},
+"autonomyware": {
+"checked": "2026-10-23",
+"image": "https://autonomyware.ai/assets/og-card.png",
+"pricing": {
+"currency": "EUR",
+"from": 19.99,
+"url": "https://www.autonomyware.ai/pricing"
+}
+},
+"ayven": {
+"checked": "2026-10-23",
+"image": "https://www.ayven.ai/res/images/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 398.0,
+"url": "https://www.ayven.ai/pricing"
 }
 }
 }

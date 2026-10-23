@@ -7,6 +7,18 @@
 "url": "https://www.tableau.com/pricing"
 }
 },
+"teachoo": {
+"checked": "2026-10-23",
+"image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4fc6ce87-ec73-42d0-83dc-7c85059937ae/id-preview-687cf3db--70f423a8-a933-48cb-b46a-0112e655cad8.lovable.app-1784088734535.png"
+},
+"tiden": {
+"checked": "2026-10-23",
+"image": "https://tiden.ai/opengraph-image?37cb0ca4c70e0739",
+"pricing": {
+"trial": true,
+"url": "https://tiden.ai/pricing"
+}
+},
 "tidio": {
 "checked": "2026-10-23",
 "image": "https://www.tidio.com/images/seo/tidio-og.png",
@@ -21,5 +33,9 @@
 "together-ai": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a49f86fc70648ca04854f6_OG-image-home.png"
+},
+"twinmind-for-desktop": {
+"checked": "2026-10-23",
+"image": "https://framerusercontent.com/images/Bx7YhgGepAKMIrXwqHHdtPPeWQ.jpg"
 }
 }

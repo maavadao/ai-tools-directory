@@ -1,0 +1,5 @@
+name = "CopilotKit"
+description = "The Enterprise-Ready Frontend Stack for Agents. CopilotKit lets you integrate LLMs or agents with real-time context, UI control, and full flexibility."
+category = "coding"
+website = "https://www.copilotkit.ai"
+added = 2026-10-23

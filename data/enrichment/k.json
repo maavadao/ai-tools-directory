@@ -1,4 +1,14 @@
 {
+"kai": {
+"checked": "2026-10-23",
+"image": "https://hirekai.ai/opengraph-image?c5d626a72f39b70a",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"trial": true,
+"url": "https://hirekai.ai/pricing"
+}
+},
 "khanmigo": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/659ee90e075c502b5cc49dae/6618517343d5ef21ac0ec603_Frame%20625094.png"
@@ -6,6 +16,16 @@
 "klingai": {
 "checked": "2026-10-23",
 "image": "https://s16-kling.klingai.com/kos/s101/nlav112918/kling-web/kling-logo-payment-en.png"
+},
+"kodlo": {
+"checked": "2026-10-23",
+"image": "https://kodlo.ai/wp-content/themes/kodlo_landing/assets/images/titlelogo.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 42.0,
+"url": "https://kodlo.ai/pricing/"
+}
 },
 "krea": {
 "checked": "2026-10-23",

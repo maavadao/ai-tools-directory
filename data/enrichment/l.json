@@ -1,4 +1,7 @@
 {
+"labs": {
+"checked": "2026-10-23"
+},
 "lemlist": {
 "checked": "2026-10-23",
 "image": "https://web-assets.lemlist.com/lemlist/revamp/lemlist-og.png",
@@ -25,6 +28,16 @@
 "pricing": {
 "free": true,
 "url": "https://lovable.dev/pricing"
+}
+},
+"luci": {
+"checked": "2026-10-23",
+"image": "https://luci.memories.ai/og-luci-agents.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 17.0,
+"url": "https://luci.memories.ai/pricing"
 }
 },
 "luma": {

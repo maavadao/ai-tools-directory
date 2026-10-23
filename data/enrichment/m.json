@@ -18,9 +18,44 @@
 "url": "https://www.make.com/pricing"
 }
 },
+"manifold": {
+"checked": "2026-10-23",
+"image": "https://www.manifoldmcp.com/og.png?v=2",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://www.manifoldmcp.com/pricing"
+}
+},
+"mausbot": {
+"checked": "2026-10-23",
+"image": "https://mausbot.com/opengraph-image?78aec392592697f3",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"trial": true,
+"url": "https://mausbot.com/pricing"
+}
+},
 "mem": {
 "checked": "2026-10-23",
 "image": "https://mem.ai/assets/seo/mem-open-graph-card.png"
+},
+"mentionbird": {
+"checked": "2026-10-23",
+"image": "https://cdn.prod.website-files.com/6a112cb0b0f19744b4d4cdc7/6a6c6a565781839765a931fd_MentionBird-OG%20Image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 19.0,
+"trial": true,
+"url": "https://www.mentionbird.ai/pricing"
+}
+},
+"meta-ai-research": {
+"checked": "2026-10-23",
+"image": "https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp"
 },
 "metaview": {
 "checked": "2026-10-23",
@@ -43,6 +78,14 @@
 "midjourney": {
 "checked": "2026-10-23"
 },
+"minimi-2-0": {
+"checked": "2026-10-23",
+"image": "https://framerusercontent.com/assets/IRAj5ULLLszD1Dx3XZQDb8373ww.png"
+},
+"miso-com": {
+"checked": "2026-10-23",
+"image": "https://miso.com/assets/link-card-v4.jpg"
+},
 "mistral": {
 "checked": "2026-10-23",
 "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
@@ -53,8 +96,20 @@
 "url": "https://mistral.ai/pricing/"
 }
 },
+"movo-ai": {
+"checked": "2026-10-23",
+"image": "https://movoai.pro/assets/brand/movo-ai-social-preview.png"
+},
 "murf": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/66b3765153a8a0c399c70981/670584e2dab709883eed3793_Home.webp"
+},
+"muse-gadgets": {
+"checked": "2026-10-23",
+"image": "https://gadgets.muse.ai/gadgets/og/social.png"
+},
+"mylens": {
+"checked": "2026-10-23",
+"image": "https://mylens.ai/opengraph-image"
 }
 }

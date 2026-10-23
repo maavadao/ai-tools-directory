@@ -1,0 +1,5 @@
+name = "OpenBot"
+description = "A free desktop app that runs AI agents as a team on your own computer, with the ChatGPT, Claude, Gemini or Grok plan you already pay for, or your own model."
+category = "coding"
+website = "https://openbot.run"
+added = 2026-10-23

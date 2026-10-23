@@ -7,6 +7,10 @@
 "checked": "2026-10-23",
 "image": "https://www.thomsonreuters.com/content/dam/ue/en-us/images/product-images/248901.png.transform/rect-768/q90/image.png"
 },
+"cekura-bench": {
+"checked": "2026-10-23",
+"image": "https://benchmarks.cekura.ai/opengraph-image?d63bd4d18ec698db"
+},
 "character-ai": {
 "checked": "2026-10-23",
 "image": "https://character.ai/character-ai.jpg"
@@ -25,6 +29,16 @@
 "claude-api": {
 "checked": "2026-10-23",
 "image": "https://assets.claude.com/cbd2591e5af9bc49b1d7557d997cb73d4d85b068.jpg?w=1200&h=630&fit=crop",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 100.0,
+"url": "https://claude.com/pricing"
+}
+},
+"claude-duet": {
+"checked": "2026-10-23",
+"image": "https://assets.claude.com/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg?w=2400&h=1260&fit=crop",
 "pricing": {
 "currency": "USD",
 "free": true,
@@ -66,9 +80,32 @@
 "checked": "2026-10-23",
 "image": "https://sanity-images.imgix.net/production/6b46953798756d87bc1ad579a32d2af427ba6d3d-1200x628.png?w=&auto=format%2Ccompress"
 },
+"command-line": {
+"checked": "2026-10-23",
+"image": "https://commandline.microsoft.com/wp-content/uploads/2026/05/command-line-intro-16x9-bigger-cursor-scaled.png"
+},
+"composio-instant": {
+"checked": "2026-10-23",
+"image": "https://composio.dev/og.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 29.0,
+"url": "https://composio.dev/pricing"
+}
+},
 "consensus-ai-for-research": {
 "checked": "2026-10-23",
 "image": "https://consensus.app/images/og-default.png"
+},
+"copilotkit": {
+"checked": "2026-10-23",
+"image": "https://www.copilotkit.ai/images/og/generic.webp",
+"pricing": {
+"currency": "USD",
+"from": 49.0,
+"url": "https://www.copilotkit.ai/pricing"
+}
 },
 "copy-ai": {
 "checked": "2026-10-23",
@@ -77,6 +114,14 @@
 "currency": "USD",
 "from": 24.0,
 "url": "https://www.copy.ai/prices"
+}
+},
+"cuey": {
+"checked": "2026-10-23",
+"image": "https://cuey.io/og-image.png",
+"pricing": {
+"free": true,
+"url": "https://cuey.io/pricing"
 }
 },
 "cursor": {

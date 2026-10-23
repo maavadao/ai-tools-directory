@@ -1,4 +1,25 @@
 {
+"fastrouter-ai": {
+"checked": "2026-10-23",
+"image": "https://fastrouter.ai/opengraph-image",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 199.0,
+"trial": true,
+"url": "https://fastrouter.ai/pricing"
+}
+},
+"ferndesk": {
+"checked": "2026-10-23",
+"image": "https://ferndesk.com/assets/og-image-2026-10.png",
+"pricing": {
+"currency": "USD",
+"from": 75.0,
+"trial": true,
+"url": "https://ferndesk.com/pricing"
+}
+},
 "figma": {
 "checked": "2026-10-23",
 "image": "https://cdn.sanity.io/images/599r6htc/regionalized/b08d37520f7d5ad8d6562975b5932dd2d9a862bb-1200x630.gif?w=1200&q=70&fit=max&auto=format",
@@ -15,6 +36,25 @@
 "pricing": {
 "free": true,
 "url": "https://fireflies.ai/pricing"
+}
+},
+"floot-mcp": {
+"checked": "2026-10-23",
+"image": "https://floot.com/opengraph-image?73d44ab152b4e4a6",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 25.0,
+"url": "https://floot.com/en/pricing"
+}
+},
+"fuse": {
+"checked": "2026-10-23",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 60.0,
+"url": "https://fuseai.com/pricing"
 }
 }
 }

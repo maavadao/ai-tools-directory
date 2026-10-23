@@ -1,7 +1,61 @@
 {
+"odyssey-3": {
+"checked": "2026-10-23",
+"image": "https://framerusercontent.com/images/Ztmb5fzsBj2oaVgWRUqBnP4yRU.jpg"
+},
+"okara": {
+"checked": "2026-10-23",
+"image": "https://okara.ai/images/og-cmo.png",
+"pricing": {
+"currency": "USD",
+"from": 108.0,
+"url": "https://okara.ai/pricing"
+}
+},
+"omnia": {
+"checked": "2026-10-23",
+"image": "https://www.useomnia.com/_astro/og-image.DnVXl_jx_Z1xqwm9.jpg",
+"pricing": {
+"currency": "EUR",
+"free": true,
+"from": 63.0,
+"trial": true,
+"url": "https://www.useomnia.com/pricing"
+}
+},
+"onepin": {
+"checked": "2026-10-23",
+"image": "https://onepin.ai/onepin-og-image.jpg",
+"pricing": {
+"free": true,
+"url": "https://onepin.ai/pricing"
+}
+},
+"opaline": {
+"checked": "2026-10-23",
+"image": "https://opaline.so/images/opaline-social.png",
+"pricing": {
+"free": true,
+"url": "https://opaline.so/pricing"
+}
+},
 "openai-api": {
 "checked": "2026-10-23",
 "image": "https://images.ctfassets.net/kftzwdyauwt9/2QkEfHzYEJhFvNWAkNolg5/264f9db2d3020b1ff65c12aa9c6632e0/API_Refresh_Art_Card_1920x108.png?w=1600&h=900&fit=fill"
+},
+"openbot": {
+"checked": "2026-10-23",
+"image": "https://openbot.run/openbot-social.png"
+},
+"opengeni": {
+"checked": "2026-10-23",
+"image": "https://storage.googleapis.com/gpt-engineer-file-uploads/Hf4ZStO6mQfrguXHbUR4xW6KcOj1/social-images/social-1778687621456-Screenshot_2026-05-13_at_17.53.25.webp",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://opengeni.ai/pricing"
+}
 },
 "openrouter": {
 "checked": "2026-10-23",
@@ -10,6 +64,10 @@
 "free": true,
 "url": "https://openrouter.ai/pricing"
 }
+},
+"openswarm": {
+"checked": "2026-10-23",
+"image": "https://www.openswarm.com/media/og.jpg"
 },
 "opus": {
 "checked": "2026-10-23",
@@ -31,5 +89,9 @@
 "from": 8.33,
 "url": "https://otter.ai/pricing"
 }
+},
+"ovren-live-preview": {
+"checked": "2026-10-23",
+"image": "https://www.ovren.ai/opengraph-image"
 }
 }

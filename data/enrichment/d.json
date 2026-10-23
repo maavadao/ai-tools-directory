@@ -1,7 +1,46 @@
 {
+"daily-dev": {
+"checked": "2026-10-23",
+"image": "https://daily.dev/og-image.png?v=a830cdf1",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 14.99,
+"url": "https://daily.dev/pricing/"
+}
+},
+"dailyhelm": {
+"checked": "2026-10-23",
+"image": "https://dailyhelm.com/og-image.svg"
+},
+"databench-by-alkera": {
+"checked": "2026-10-23",
+"image": "https://www.alkera.ai/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 50.0,
+"url": "https://www.alkera.ai/pricing"
+}
+},
+"databox": {
+"checked": "2026-10-23",
+"image": "https://cdnwebsite.databox.com/wp-content/uploads/2026/09/07082959/databox-og-agentic-analytics-platform-2026.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 14.0,
+"trial": true,
+"url": "https://databox.com/pricing"
+}
+},
 "datarobot": {
 "checked": "2026-10-23",
 "image": "https://www.datarobot.com/wp-content/uploads/2026/06/default-image-2026.jpg"
+},
+"deepcell": {
+"checked": "2026-10-23",
+"image": "https://deepcell.net/og-image.png"
 },
 "deepgram": {
 "checked": "2026-10-23",
@@ -14,6 +53,10 @@
 "trial": true,
 "url": "https://www.deepl.com/en/pro"
 }
+},
+"deepseek": {
+"checked": "2026-10-23",
+"image": "https://www.deepseek.com/images/deepseek-social.jpg"
 },
 "descript": {
 "checked": "2026-10-23",

@@ -1,0 +1,5 @@
+name = "Statable Analytics"
+description = "Statable is a privacy-friendly web analytics platform and a simple Google Analytics alternative: no cookies, no analytics consent banner, GA4 import, EU-hosted."
+category = "data"
+website = "https://statable.com"
+added = 2026-10-23

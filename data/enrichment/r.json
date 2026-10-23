@@ -1,4 +1,8 @@
 {
+"readywhen": {
+"checked": "2026-10-23",
+"image": "https://app.readywhen.ai/opengraph-image.jpg?opengraph-image.0j4iyf128lxuz.jpg"
+},
 "reclaim": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/5ec848ec2b50b6cfae06f6cc/65e2563b7c0658aed71828ac_open_graph_final.png",
@@ -24,6 +28,39 @@
 "replit": {
 "checked": "2026-10-23",
 "image": "https://replit.com/public/images/opengraph_rebrand.jpg"
+},
+"reso": {
+"checked": "2026-10-23",
+"image": "https://resollm.ai/white_reso.png",
+"pricing": {
+"free": true,
+"url": "https://www.resollm.ai/pricing/"
+}
+},
+"retriever-ai": {
+"checked": "2026-10-23",
+"image": "https://rtrvr.ai/meta/rtrvr-paper-route-og.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 9.99,
+"trial": true,
+"url": "https://rtrvr.ai/pricing"
+}
+},
+"rill-browser": {
+"checked": "2026-10-23",
+"image": "https://rill.love/assets/og-image.png"
+},
+"rool": {
+"checked": "2026-10-23",
+"image": "https://rool.dev/og-image.png",
+"pricing": {
+"currency": "EUR",
+"free": true,
+"from": 9.0,
+"url": "https://rool.dev/pricing"
+}
 },
 "runway": {
 "checked": "2026-10-23",

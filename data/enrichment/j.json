@@ -9,6 +9,16 @@
 "url": "https://www.jasper.ai/pricing"
 }
 },
+"jockey-by-twelvelabs": {
+"checked": "2026-10-23",
+"image": "https://framerusercontent.com/images/HCQkFF3Rw3hgP3u68YqGAP4s.webp",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 29.0,
+"url": "https://www.twelvelabs.io/pricing"
+}
+},
 "julius-ai": {
 "checked": "2026-10-23",
 "image": "https://julius.ai/opengraph-image.png",

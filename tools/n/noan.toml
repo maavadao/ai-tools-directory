@@ -1,0 +1,5 @@
+name = "NOAN"
+description = "One API for your verified facts, over REST and MCP. Every agent, app and site reads them live. We keep it true. You keep shipping."
+category = "coding"
+website = "https://www.getnoan.com"
+added = 2026-10-23

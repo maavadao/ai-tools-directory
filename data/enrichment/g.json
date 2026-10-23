@@ -1,7 +1,15 @@
 {
+"gauth": {
+"checked": "2026-10-23",
+"image": "https://sf16-ehi-tos.gauthstatic.com/obj/ehi-apk-sg/share-link-preview.png"
+},
 "gemini": {
 "checked": "2026-10-23",
 "image": "https://www.gstatic.com/lamda/images/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718.png"
+},
+"ghost-ai": {
+"checked": "2026-10-23",
+"image": "https://ghost.ai/opengraph-image.jpg?opengraph-image.13anp_69f8ba9.jpg"
 },
 "github-copilot": {
 "checked": "2026-10-23",
@@ -13,6 +21,10 @@
 "trial": true,
 "url": "https://github.com/pricing"
 }
+},
+"google-cloud": {
+"checked": "2026-10-23",
+"image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png"
 },
 "grammarly": {
 "checked": "2026-10-23",

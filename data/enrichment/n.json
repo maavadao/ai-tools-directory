@@ -7,6 +7,46 @@
 "url": "https://n8n.io/pricing/"
 }
 },
+"navige": {
+"checked": "2026-10-23",
+"image": "https://framerusercontent.com/images/ksJspuSmGbfuts4VWMX3qQqUpSk.png"
+},
+"needle": {
+"checked": "2026-10-23",
+"image": "https://needle.app/images/og/landing-hero-og.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 69.0,
+"trial": true,
+"url": "https://needle.app/pricing"
+}
+},
+"ngram": {
+"checked": "2026-10-23",
+"image": "https://www.ngram.com/opengraph-image?16e0eec4c567a8a4",
+"pricing": {
+"free": true,
+"url": "https://www.ngram.com/pricing"
+}
+},
+"nitrostack": {
+"checked": "2026-10-23",
+"image": "https://nitrostack.ai/og-image.png",
+"pricing": {
+"free": true,
+"url": "https://nitrostack.ai/cloud/pricing"
+}
+},
+"noan": {
+"checked": "2026-10-23",
+"image": "https://www.getnoan.com/assets/og-default.png",
+"pricing": {
+"currency": "USD",
+"from": 59.0,
+"url": "https://www.getnoan.com/pricing"
+}
+},
 "notion": {
 "checked": "2026-10-23",
 "image": "https://www.notion.com/front-static/meta/teams-and-agents.jpg",

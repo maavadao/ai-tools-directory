@@ -1,0 +1,5 @@
+name = "Muse Gadgets"
+description = "Muse gadgets are open source devices you build yourself. Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you’ve got lying on your workbench."
+category = "coding"
+website = "https://gadgets.muse.ai"
+added = 2026-10-23

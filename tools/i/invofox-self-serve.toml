@@ -1,0 +1,5 @@
+name = "Invofox Self Serve"
+description = "Turn invoices, payslips, contracts and any document into structured JSON via one API. 99.2% accuracy with continuous learning. SOC 2, GDPR, ISO 27001."
+category = "coding"
+website = "https://www.invofox.com"
+added = 2026-10-23

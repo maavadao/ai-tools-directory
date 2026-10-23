@@ -1,0 +1,5 @@
+name = "Cekura Bench"
+description = "Compare voice agent platforms, realtime speech-to-speech models, speech-to-text systems and text-to-speech voices on reliability, accuracy, conversation quality, and latency."
+category = "coding"
+website = "https://benchmarks.cekura.ai"
+added = 2026-10-23
