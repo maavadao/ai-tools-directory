@@ -148,7 +148,7 @@ def product_hunt(tok: str, pages: int = 10) -> list[dict]:
 def resolve(url: str) -> str | None:
     """Follow Product Hunt's redirect to the tool's own site, dropping tracking parameters."""
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT}, method="HEAD")
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
         with urllib.request.urlopen(req, timeout=20) as resp:
             final = resp.geturl()
     except Exception as exc:  # noqa: BLE001
