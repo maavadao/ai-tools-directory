@@ -46,4 +46,6 @@ jobs:
           git config user.name "maavadao-bot"
           git config user.email "maavadao-bot@users.noreply.github.com"
           git commit -m "Daily update: $n new tools, refreshed site data"
+          # Someone may have pushed while this ran (it takes a few minutes).
+          git pull --rebase origin main
           git push
