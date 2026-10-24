@@ -14,6 +14,10 @@
 "checked": "2026-10-23",
 "image": "https://pake.run/img/og.png?v=9edc4d3d8acb"
 },
+"palmier-pro": {
+"checked": "2026-10-24",
+"image": "https://www.palmier.io/palmier.png"
+},
 "pancake": {
 "checked": "2026-10-23",
 "image": "https://pancake.ai/og-image-2026-10.png",
@@ -23,6 +27,9 @@
 "trial": true,
 "url": "https://pancake.ai/pricing"
 }
+},
+"pandasai": {
+"checked": "2026-10-24"
 },
 "paperclip": {
 "checked": "2026-10-23",
@@ -35,6 +42,14 @@
 "free": true,
 "url": "https://www.parakeet-ai.com"
 }
+},
+"parlant-io": {
+"checked": "2026-10-24",
+"image": "https://parlant.io/logo/icons/og-image-parlant.png"
+},
+"paseo": {
+"checked": "2026-10-24",
+"image": "https://paseo.sh/og-image.png"
 },
 "paste": {
 "checked": "2026-10-23",
@@ -72,6 +87,10 @@
 "checked": "2026-10-23",
 "image": "https://i.photoprism.app/prism?cover=64&style=centered+dark"
 },
+"pii-tools": {
+"checked": "2026-10-24",
+"image": "https://pii-tools.com/wp-content/uploads/2021/05/PII-Tools_og-image.png"
+},
 "pika": {
 "checked": "2026-10-23",
 "image": "https://pika.art/brand/opengraph.png",
@@ -93,9 +112,16 @@
 "url": "https://www.pinecone.io/pricing/"
 }
 },
+"pipecat": {
+"checked": "2026-10-24"
+},
 "pixverse-r2": {
 "checked": "2026-10-23",
 "image": "https://world-media.pixverse.ai/realtime/r2-tab.png?x-oss-process=style/cover-webp"
+},
+"planning-with-files": {
+"checked": "2026-10-24",
+"image": "https://gilded-laurel-c7nj.here.now/assets/context-recovery.jpg"
 },
 "polylane": {
 "checked": "2026-10-23",
@@ -153,8 +179,29 @@
 "checked": "2026-10-23",
 "image": "https://prompts.chat/opengraph-image.png?opengraph-image.57ebefa7.png"
 },
+"pydantic-docs": {
+"checked": "2026-10-24",
+"image": "https://pydantic.dev/opengraph-image.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://pydantic.dev/pricing"
+}
+},
+"python-telegram-bot": {
+"checked": "2026-10-24",
+"image": "https://github.com/python-telegram-bot/logos/raw/master/logo/png/ptb-logo_2048.png"
+},
 "pytorch": {
 "checked": "2026-10-23",
 "image": "https://pytorch.org/wp-content/uploads/2025/01/pytorch_seo.png"
+},
+"pytorch-deep-learning": {
+"checked": "2026-10-24",
+"image": "https://www.learnpytorch.io/assets/images/social/index.png"
+},
+"pyvideotrans": {
+"checked": "2026-10-24"
 }
 }

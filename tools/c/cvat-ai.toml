@@ -1,0 +1,7 @@
+name = "CVAT.ai"
+description = "Turn raw images, videos, audio and 3D data into model-ready datasets with CVAT. Use AI-assisted annotation, quality control, analytics, collaboration tools, APIs, and expert labeling services."
+category = "other"
+website = "https://www.cvat.ai"
+open_source = true
+repository = "https://github.com/cvat-ai/cvat"
+added = 2026-10-24

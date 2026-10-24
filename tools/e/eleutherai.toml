@@ -1,0 +1,7 @@
+name = "EleutherAI"
+description = "EleutherAI is a non-profit AI research lab advancing open science through models, datasets, tools, and research."
+category = "other"
+website = "https://eleuther.ai"
+open_source = true
+repository = "https://github.com/EleutherAI/lm-evaluation-harness"
+added = 2026-10-24

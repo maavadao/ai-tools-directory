@@ -1,0 +1,7 @@
+name = "Instructor"
+description = "structured outputs for llms"
+category = "other"
+website = "https://python.useinstructor.com"
+open_source = true
+repository = "https://github.com/567-labs/instructor"
+added = 2026-10-24

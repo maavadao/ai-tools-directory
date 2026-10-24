@@ -1,0 +1,7 @@
+name = "Agent User Interaction Protocol"
+description = "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+category = "agents"
+website = "https://docs.ag-ui.com"
+open_source = true
+repository = "https://github.com/ag-ui-protocol/ag-ui"
+added = 2026-10-24

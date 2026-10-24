@@ -1,0 +1,7 @@
+name = "optuna"
+description = "Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API."
+category = "other"
+website = "https://optuna.org"
+open_source = true
+repository = "https://github.com/optuna/optuna"
+added = 2026-10-24

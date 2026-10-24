@@ -1,0 +1,7 @@
+name = "MaxKB"
+description = "MaxKB 是飞致云旗下开源企业级智能体平台，支持 RAG 知识库、工作流编排与企业级权限治理。"
+category = "chatbots"
+website = "https://maxkb.cn"
+open_source = true
+repository = "https://github.com/1Panel-dev/MaxKB"
+added = 2026-10-24

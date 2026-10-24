@@ -1,0 +1,7 @@
+name = "PandasAI"
+description = "Turn data into insights in seconds with PandasAI. The best AI dashboard solution for business intelligence, data visualization, and automated reporting."
+category = "chatbots"
+website = "https://pandas-ai.com"
+open_source = true
+repository = "https://github.com/sinaptik-ai/pandas-ai"
+added = 2026-10-24

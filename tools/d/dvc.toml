@@ -1,0 +1,7 @@
+name = "DVC"
+description = "Open-source version control system for Data Science and Machine Learning projects. Git-like experience to organize your data, models, and experiments."
+category = "coding"
+website = "https://dvc.org"
+open_source = true
+repository = "https://github.com/treeverse/dvc"
+added = 2026-10-24

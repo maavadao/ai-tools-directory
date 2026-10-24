@@ -1,0 +1,7 @@
+name = "BrowserOS"
+description = "BrowserOS neo, formerly BrowserClaw, is a local, open-source browser your AI agents (Claude, Cowork, Codex, Cursor) drive using your logged-in accounts. Watch every step, run agents in parallel, replay any session. Free."
+category = "chatbots"
+website = "https://BrowserOS.com"
+open_source = true
+repository = "https://github.com/browseros-ai/BrowserOS"
+added = 2026-10-24

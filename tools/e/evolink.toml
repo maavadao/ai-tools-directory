@@ -1,0 +1,7 @@
+name = "EvoLink"
+description = "Access GPT, Claude, Gemini, Seedance, Kling & more via one EvoLink API. Get production-ready, cost-efficient access across LLM, image, and video models."
+category = "image"
+website = "https://evolink.ai"
+open_source = true
+repository = "https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "teable"
+description = "Build 100% business-fit AI workflows and custom apps, while connecting and migrating any data into one place."
+category = "data"
+website = "https://teable.ai"
+open_source = true
+repository = "https://github.com/teableio/teable"
+added = 2026-10-24

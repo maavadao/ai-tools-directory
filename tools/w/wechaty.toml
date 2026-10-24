@@ -1,0 +1,7 @@
+name = "wechaty"
+description = "RPA SDK for Chatbot Makers."
+category = "chatbots"
+website = "https://wechaty.js.org"
+open_source = true
+repository = "https://github.com/wechaty/wechaty"
+added = 2026-10-24

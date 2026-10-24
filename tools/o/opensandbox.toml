@@ -1,0 +1,7 @@
+name = "OpenSandbox"
+description = "Universal Sandbox Infrastructure for AI Applications"
+category = "agents"
+website = "https://open-sandbox.ai"
+open_source = true
+repository = "https://github.com/opensandbox-group/OpenSandbox"
+added = 2026-10-24

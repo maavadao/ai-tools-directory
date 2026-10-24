@@ -1,0 +1,7 @@
+name = "HOML Books"
+description = "Info on Hands-On Machine Learning books"
+category = "education"
+website = "https://ageron.github.io"
+open_source = true
+repository = "https://github.com/ageron/handson-ml3"
+added = 2026-10-24

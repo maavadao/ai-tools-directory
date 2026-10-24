@@ -1,0 +1,7 @@
+name = "SuperAGI"
+description = "SuperAGI is an AI sales agent that works 24×7 to find & engage with prospects without the hassle of hiring."
+category = "agents"
+website = "https://superagi.com"
+open_source = true
+repository = "https://github.com/TransformerOptimus/SuperAGI"
+added = 2026-10-24

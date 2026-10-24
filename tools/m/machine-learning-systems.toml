@@ -1,0 +1,7 @@
+name = "Machine Learning Systems"
+description = "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai"
+category = "other"
+website = "https://mlsysbook.ai"
+open_source = true
+repository = "https://github.com/harvard-edge/cs249r_book"
+added = 2026-10-24

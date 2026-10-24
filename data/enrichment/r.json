@@ -17,6 +17,10 @@
 "checked": "2026-10-23",
 "image": "https://rea.tools/assets/social-card.png"
 },
+"react-doctor": {
+"checked": "2026-10-24",
+"image": "https://www.react.doctor/opengraph-image"
+},
 "readywhen": {
 "checked": "2026-10-23",
 "image": "https://app.readywhen.ai/opengraph-image.jpg?opengraph-image.0j4iyf128lxuz.jpg"
@@ -50,6 +54,10 @@
 "checked": "2026-10-23",
 "image": "https://replit.com/public/images/opengraph_rebrand.jpg"
 },
+"repomix": {
+"checked": "2026-10-24",
+"image": "https://repomix.com/images/og-image-large.png"
+},
 "reso": {
 "checked": "2026-10-23",
 "image": "https://resollm.ai/white_reso.png",
@@ -57,6 +65,10 @@
 "free": true,
 "url": "https://www.resollm.ai/pricing/"
 }
+},
+"resume-matcher": {
+"checked": "2026-10-24",
+"image": "https://resumematcher.fyi/images/meta/og-image.jpg"
 },
 "retriever-ai": {
 "checked": "2026-10-23",
@@ -82,6 +94,10 @@
 "from": 9.0,
 "url": "https://rool.dev/pricing"
 }
+},
+"rowboat": {
+"checked": "2026-10-24",
+"image": "https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901"
 },
 "rtk": {
 "checked": "2026-10-23",

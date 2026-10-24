@@ -1,0 +1,7 @@
+name = "sim"
+description = "Sim is the open-source AI workspace where companies build, distribute, and govern AI agents. 270+ integrations, every major LLM, permission groups, spend limits, and self-hosting."
+category = "agents"
+website = "https://www.sim.ai"
+open_source = true
+repository = "https://github.com/simstudioai/sim"
+added = 2026-10-24

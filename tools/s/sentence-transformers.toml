@@ -1,0 +1,7 @@
+name = "sentence-transformers"
+description = "State-of-the-Art Embeddings, Retrieval, and Reranking"
+category = "other"
+website = "https://www.sbert.net"
+open_source = true
+repository = "https://github.com/huggingface/sentence-transformers"
+added = 2026-10-24

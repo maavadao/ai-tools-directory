@@ -1,0 +1,7 @@
+name = "dagger"
+description = "Dagger is third-generation CI, after Jenkins and GitHub Actions. It is built to match the speed and scale of coding agents and give them the guardrails and context they need."
+category = "agents"
+website = "https://dagger.io"
+open_source = true
+repository = "https://github.com/dagger/dagger"
+added = 2026-10-24

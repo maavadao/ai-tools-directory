@@ -1,0 +1,7 @@
+name = "nltk"
+description = "NLTK Source"
+category = "data"
+website = "https://www.nltk.org"
+open_source = true
+repository = "https://github.com/nltk/nltk"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "d2l-en"
+description = "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge."
+category = "education"
+website = "https://d2l.ai"
+open_source = true
+repository = "https://github.com/d2l-ai/d2l-en"
+added = 2026-10-24

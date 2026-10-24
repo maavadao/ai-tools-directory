@@ -1,0 +1,7 @@
+name = "ego(lite)"
+description = "Always free, no set up. Claude Code or Codex runs 100+ browser automation tasks at the same time. The fastest agent browser in our open Real-World Bench."
+category = "agents"
+website = "https://lite.ego.app"
+open_source = true
+repository = "https://github.com/citrolabs/ego-lite"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "pyvideotrans"
+description = "pyVideoTrans视频翻译软件：是一款将视频从一种语言翻译到另一种语言发音和字幕的开源软件,是开源免费使用简单的视频翻译配音软件，pyVideoTrans官网，pyvideotrans.com ,github.com/jianchang512/pyvideotrans 本软件通过识别视频中的说话声音来进行翻译和处理，与视频中原有的字幕无关。只要视频里有人类说话的声音，就可以进行处理，无论视频是否包含字幕。"
+category = "audio"
+website = "https://pyvideotrans.com"
+open_source = true
+repository = "https://github.com/jianchang512/pyvideotrans"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "OpenSEO"
+description = "OpenSEO is the open source alternative to Ahrefs and Semrush. Keyword research, backlinks, rank tracking, and site audits, billed by usage instead of a $100-plus monthly subscription. Self-host it free, or connect it to your AI agents over MCP."
+category = "writing"
+website = "https://openseo.so"
+open_source = true
+repository = "https://github.com/every-app/open-seo"
+added = 2026-10-24

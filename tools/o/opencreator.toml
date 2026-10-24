@@ -1,0 +1,7 @@
+name = "OpenCreator"
+description = "Build an evolving creative workflow for video, images, audio, and Agents in one workspace."
+category = "audio"
+website = "https://www.open-creator.ai"
+open_source = true
+repository = "https://github.com/krillinai/OpenCreator"
+added = 2026-10-24

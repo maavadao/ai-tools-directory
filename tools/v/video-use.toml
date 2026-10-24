@@ -1,0 +1,7 @@
+name = "video-use"
+description = "Drop raw footage in a folder, chat with Claude Code or Codex, get final.mp4 back. Open source. Join the waitlist for the cloud-hosted version."
+category = "coding"
+website = "https://video-use.com"
+open_source = true
+repository = "https://github.com/browser-use/video-use"
+added = 2026-10-24

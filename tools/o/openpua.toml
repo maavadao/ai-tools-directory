@@ -1,0 +1,7 @@
+name = "OpenPUA"
+description = "Forces Claude Code into exhaustive debugging before giving up. 4-level pressure escalation, 7-item mandatory checklist, 5-step methodology. Tested on 9 real scenarios."
+category = "agents"
+website = "https://openpua.ai"
+open_source = true
+repository = "https://github.com/tanweai/pua"
+added = 2026-10-24

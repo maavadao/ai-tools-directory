@@ -1,0 +1,7 @@
+name = "Hermes"
+description = "Persistent memory, autonomous scheduling, and multi-surface access — all on hardware you control."
+category = "agents"
+website = "https://get-hermes.ai"
+open_source = true
+repository = "https://github.com/nesquena/hermes-webui"
+added = 2026-10-24

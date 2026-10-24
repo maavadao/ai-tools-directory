@@ -1,4 +1,15 @@
 {
+"d2l-en": {
+"checked": "2026-10-24"
+},
+"dagger": {
+"checked": "2026-10-24",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://dagger.io/pricing/"
+}
+},
 "daily-dev": {
 "checked": "2026-10-23",
 "image": "https://daily.dev/og-image.png?v=a830cdf1",
@@ -20,6 +31,20 @@
 "dailyhelm": {
 "checked": "2026-10-23",
 "image": "https://dailyhelm.com/og-image.svg"
+},
+"dapr": {
+"checked": "2026-10-24",
+"image": "https://dapr.io/images/dapr-og-default.png"
+},
+"dash": {
+"checked": "2026-10-24",
+"image": "https://plotly.com/cms/img/45139d28-6d34-4168-9480-2c57ee3a81c8_plotly.png?auto=compress&fm=webp",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 29.0,
+"url": "https://plotly.com/pricing/"
+}
 },
 "databench-by-alkera": {
 "checked": "2026-10-23",
@@ -49,9 +74,17 @@
 "dbeaver": {
 "checked": "2026-10-23"
 },
+"dbx": {
+"checked": "2026-10-24",
+"image": "https://dl.dbxio.com/assets/readme-hero-20260925.png"
+},
 "deepcell": {
 "checked": "2026-10-23",
 "image": "https://deepcell.net/og-image.png"
+},
+"deepeval": {
+"checked": "2026-10-24",
+"image": "https://deepeval.com/img/social_card.png"
 },
 "deepgram": {
 "checked": "2026-10-23",
@@ -96,6 +129,10 @@
 "url": "https://devin.ai/pricing"
 }
 },
+"diamantai-nir-diamant": {
+"checked": "2026-10-24",
+"image": "https://diamant-ai.com/lovable-uploads/052de04b-d104-473b-9104-886cbee5716a.png"
+},
 "dify": {
 "checked": "2026-10-23",
 "image": "https://dify.ai/assets/og/default.png",
@@ -103,6 +140,10 @@
 "free": true,
 "url": "https://dify.ai/pricing"
 }
+},
+"docsgpt": {
+"checked": "2026-10-24",
+"image": "https://app.docsgpt.cloud/og_image.png"
 },
 "dokploy": {
 "checked": "2026-10-23",
@@ -114,6 +155,13 @@
 "url": "https://dokploy.com/pricing"
 }
 },
+"dolthub": {
+"checked": "2026-10-24",
+"image": "https://www.dolthub.com/dolthub-preview.png"
+},
+"doris": {
+"checked": "2026-10-24"
+},
 "dragonfly": {
 "checked": "2026-10-23",
 "image": "https://www.dragonflydb.io/dragonfly-OG.jpg",
@@ -124,8 +172,20 @@
 "url": "https://www.dragonflydb.io/pricing"
 }
 },
+"dsh-desktop": {
+"checked": "2026-10-24",
+"image": "https://dshdesktop.com/assets/og-dsh-desktop-en-v1.png"
+},
 "duolingo": {
 "checked": "2026-10-23",
 "image": "https://www.duolingo.com/images/facebook/duo-08523a2.jpg"
+},
+"dvc": {
+"checked": "2026-10-24",
+"image": "https://dvc.org/wp-content/uploads/2026/09/Sandeep-Raveesh.webp"
+},
+"dyad": {
+"checked": "2026-10-24",
+"image": "https://www.dyad.sh/opengraph-image"
 }
 }

@@ -1,0 +1,7 @@
+name = "airbyte"
+description = "Airbyte is the open-source data movement platform. Run ELT pipelines across 700+ connectors to any warehouse, lake, vector database, or AI agent."
+category = "data"
+website = "https://airbyte.com"
+open_source = true
+repository = "https://github.com/airbytehq/airbyte"
+added = 2026-10-24

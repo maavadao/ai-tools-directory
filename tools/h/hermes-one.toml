@@ -1,0 +1,7 @@
+name = "Hermes One"
+description = "Hermes One is a self-improving AI assistant with tool use, multi-platform messaging, and a closed learning loop. Free, open source, and available for macOS, Windows, and Linux."
+category = "chatbots"
+website = "https://hermesone.org"
+open_source = true
+repository = "https://github.com/fathah/hermes-desktop"
+added = 2026-10-24

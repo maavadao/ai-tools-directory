@@ -1,0 +1,7 @@
+name = "CAMEL-AI"
+description = "CAMEL-AI is an open-source community for finding the scaling laws of agents for data generation, world simulation, task automation."
+category = "agents"
+website = "https://www.camel-ai.org"
+open_source = true
+repository = "https://github.com/camel-ai/camel"
+added = 2026-10-24

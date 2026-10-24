@@ -1,0 +1,7 @@
+name = "Eliza Research"
+description = "Products at the intersection of AI and people."
+category = "chatbots"
+website = "https://elizaresearch.ai"
+open_source = true
+repository = "https://github.com/elizaOS/eliza"
+added = 2026-10-24

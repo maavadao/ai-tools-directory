@@ -1,0 +1,7 @@
+name = "Build Secure AI Applications"
+description = "The AI Security Platform that catches vulnerabilities in development. Trusted by 156 of the Fortune 500 and 300,000+ developers worldwide."
+category = "chatbots"
+website = "https://www.promptfoo.dev"
+open_source = true
+repository = "https://github.com/promptfoo/promptfoo"
+added = 2026-10-24

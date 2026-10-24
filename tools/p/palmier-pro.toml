@@ -1,0 +1,7 @@
+name = "Palmier Pro"
+description = "Automate repeatable video work with Claude or Codex, generate media on the timeline, and export to your professional editor."
+category = "other"
+website = "https://www.palmier.io"
+open_source = true
+repository = "https://github.com/palmier-io/palmier-pro"
+added = 2026-10-24

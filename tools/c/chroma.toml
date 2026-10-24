@@ -1,0 +1,7 @@
+name = "Chroma"
+description = "Open-source search infrastructure for AI"
+category = "agents"
+website = "https://www.trychroma.com"
+open_source = true
+repository = "https://github.com/chroma-core/chroma"
+added = 2026-10-24

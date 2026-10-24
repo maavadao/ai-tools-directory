@@ -1,0 +1,7 @@
+name = "pipecat"
+description = "Open-source framework for voice and multimodal conversational AI."
+category = "audio"
+website = "https://www.pipecat.ai"
+open_source = true
+repository = "https://github.com/pipecat-ai/pipecat"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "GPT Researcher"
+description = "GPT Researcher is an open source autonomous AI research agent that produces deep research reports from many sources, with inline citations. #1 on Carnegie Mellon's DeepResearchGym benchmark."
+category = "research"
+website = "https://gptr.dev"
+open_source = true
+repository = "https://github.com/assafelovic/gpt-researcher"
+added = 2026-10-24

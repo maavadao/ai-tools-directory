@@ -1,0 +1,7 @@
+name = "GitDiagram"
+description = "Turn any GitHub repository into an interactive diagram for visualization."
+category = "video"
+website = "https://gitdiagram.com"
+open_source = true
+repository = "https://github.com/ahmedkhaleel2004/gitdiagram"
+added = 2026-10-24

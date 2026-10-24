@@ -1,0 +1,7 @@
+name = "learnopencv"
+description = "Master Computer Vision, Deep Learning, and AI with expert tutorials, code examples, and guides. Learn OpenCV in Python & C++ — from beginner to advanced."
+category = "education"
+website = "https://learnopencv.com"
+open_source = true
+repository = "https://github.com/spmallick/learnopencv"
+added = 2026-10-24

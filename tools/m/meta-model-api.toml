@@ -1,0 +1,7 @@
+name = "Meta Model API"
+description = "Build with Meta's AI models and tools. Access Muse Spark through Muse Code and Meta Model API with resources to get started."
+category = "chatbots"
+website = "https://dev.meta.ai"
+open_source = true
+repository = "https://github.com/meta-llama/llama-cookbook"
+added = 2026-10-24

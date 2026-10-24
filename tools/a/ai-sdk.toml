@@ -1,0 +1,7 @@
+name = "AI SDK"
+description = "A unified TypeScript SDK for building AI apps with modern streaming, fallbacks, and multi-model support—powered by Vercel."
+category = "chatbots"
+website = "https://ai-sdk.dev"
+open_source = true
+repository = "https://github.com/vercel/ai"
+added = 2026-10-24

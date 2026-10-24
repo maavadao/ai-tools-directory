@@ -1,4 +1,8 @@
 {
+"wan2-1": {
+"checked": "2026-10-24",
+"image": "https://img.alicdn.com/imgextra/i1/O1CN01WlNesT1EWvfm8mzKw_!!6000000000360-2-tps-600-315.png"
+},
 "warp": {
 "checked": "2026-10-23",
 "image": "https://www.warp.dev/og/default.png",
@@ -8,8 +12,38 @@
 "url": "https://www.warp.dev/pricing"
 }
 },
+"wasp": {
+"checked": "2026-10-24"
+},
+"weaviate": {
+"checked": "2026-10-24",
+"image": "https://weaviate.io/og/website/home.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 45.0,
+"url": "https://weaviate.io/pricing"
+}
+},
+"webllm": {
+"checked": "2026-10-24"
+},
+"wechaty": {
+"checked": "2026-10-24",
+"image": "https://wechaty.js.org/img/wechaty-logo.svg"
+},
+"weclone": {
+"checked": "2026-10-24"
+},
 "weknora": {
 "checked": "2026-10-23"
+},
+"windmill": {
+"checked": "2026-10-24"
+},
+"winfunc": {
+"checked": "2026-10-24",
+"image": "https://winfunc.com/og/index.png"
 },
 "woebot-health": {
 "checked": "2026-10-23",

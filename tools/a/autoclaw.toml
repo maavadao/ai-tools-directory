@@ -1,0 +1,7 @@
+name = "AutoClaw"
+description = "AutoClaw is an AI IM workspace for team collaboration: bring agent clones, local tool execution, IM sync, and real-time progress into a single browser workspace."
+category = "agents"
+website = "https://autoclaw.z.ai"
+open_source = true
+repository = "https://github.com/zai-org/Open-AutoGLM"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "NLP-progress"
+description = "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks."
+category = "data"
+website = "https://nlpprogress.com"
+open_source = true
+repository = "https://github.com/sebastianruder/NLP-progress"
+added = 2026-10-24

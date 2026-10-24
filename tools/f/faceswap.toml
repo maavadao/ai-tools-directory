@@ -1,0 +1,7 @@
+name = "faceswap"
+description = "Faceswap is the leading free and Open Source multi-platform Deepfakes software. Important information for Patreon and PayPal supporters. Please see this forum post: https://forum.faceswap.dev/viewtopic.php?f=14&t=3120 Powered by Tensorflow, Keras and Python; Faceswap will run on Windows, macOS and…"
+category = "other"
+website = "https://faceswap.dev"
+open_source = true
+repository = "https://github.com/deepfakes/faceswap"
+added = 2026-10-24

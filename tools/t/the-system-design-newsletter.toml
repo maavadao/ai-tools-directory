@@ -1,0 +1,7 @@
+name = "The System Design Newsletter"
+description = "Download my AI engineering playbook on newsletter signup for free. Click to read The System Design Newsletter, by Neo Kim, a Substack publication with hundreds of thousands of subscribers."
+category = "education"
+website = "https://newsletter.systemdesign.one"
+open_source = true
+repository = "https://github.com/systemdesign42/system-design-academy"
+added = 2026-10-24

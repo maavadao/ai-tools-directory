@@ -1,0 +1,7 @@
+name = "pytorch-deep-learning"
+description = "Learn important machine learning concepts hands-on by writing PyTorch code."
+category = "education"
+website = "https://www.learnpytorch.io"
+open_source = true
+repository = "https://github.com/mrdbourke/pytorch-deep-learning"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "Figma-Context-MCP"
+description = "Framelink connects your Figma designs to your code editor with MCP."
+category = "other"
+website = "https://www.framelink.ai"
+open_source = true
+repository = "https://github.com/GLips/Figma-Context-MCP"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "AGENTS.md"
+description = "AGENTS.md is a simple, open format for guiding coding agents. Think of it as a README for agents."
+category = "coding"
+website = "https://agents.md"
+open_source = true
+repository = "https://github.com/agentsmd/agents.md"
+added = 2026-10-24

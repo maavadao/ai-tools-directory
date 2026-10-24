@@ -1,0 +1,7 @@
+name = "dash"
+description = "Millions of data teams build with Plotly. Open-source graphing libraries, Dash, and Plotly Studio for interactive data apps in Python."
+category = "data"
+website = "https://plotly.com"
+open_source = true
+repository = "https://github.com/plotly/dash"
+added = 2026-10-24

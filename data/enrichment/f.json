@@ -1,6 +1,30 @@
 {
+"facefusion": {
+"checked": "2026-10-24",
+"image": "https://facefusion.io/images/facefusion.png"
+},
+"faceswap": {
+"checked": "2026-10-24",
+"image": "https://faceswap.dev/wp-content/uploads/2019/09/Patreon_white-e1570062028296.jpg"
+},
 "faiss": {
 "checked": "2026-10-23"
+},
+"fastbook": {
+"checked": "2026-10-24",
+"image": "https://course.fast.ai/www/social.png"
+},
+"fastgpt": {
+"checked": "2026-10-24",
+"image": "https://fastgpt.io/opengraph-image.png",
+"pricing": {
+"free": true,
+"url": "https://fastgpt.io/price"
+}
+},
+"fastmcp": {
+"checked": "2026-10-24",
+"image": "https://fastmcp.mintlify.app/_mintlify/api/og/v2?division=Get+Started&title=FastMCP%3A+The+Framework+for+MCP&description=FastMCP+is+the+standard+framework+for+building+Model+Context+Protocol+%28MCP%29+servers%2C+clients%2C+and+interactive+applications.&theme=eccfc557d41f0e9854966f28&signature=339eb9d0d1bf18803a1fb753aa8789156e210cc4d1716326020ac0ac57b44b8e"
 },
 "fastrouter-ai": {
 "checked": "2026-10-23",
@@ -33,9 +57,15 @@
 "url": "https://www.figma.com/pricing/"
 }
 },
+"figma-context-mcp": {
+"checked": "2026-10-24"
+},
 "finceptterminal": {
 "checked": "2026-10-23",
 "image": "https://fincept.in/capture.png"
+},
+"fingpt": {
+"checked": "2026-10-24"
 },
 "firecrawl": {
 "checked": "2026-10-23",

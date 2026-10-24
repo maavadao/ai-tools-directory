@@ -1,0 +1,7 @@
+name = "Jina AI"
+description = "Embeddings, rerankers, web reader, deepsearch, small language models. Search AI for multilingual and multimodal data."
+category = "other"
+website = "https://jina.ai"
+open_source = true
+repository = "https://github.com/jina-ai/serve"
+added = 2026-10-24

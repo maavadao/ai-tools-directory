@@ -1,0 +1,7 @@
+name = "stagehand"
+description = "Stagehand is the SDK for browser agents. Playwright-style API, self-healing selectors, and TypeScript, Python, and Go."
+category = "agents"
+website = "https://www.stagehand.dev"
+open_source = true
+repository = "https://github.com/browserbase/stagehand"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "Trigger.dev"
+description = "Trigger.dev is the open source platform for durable AI agents and workflows in TypeScript. Long-running tasks with retries, queues, and LLM observability."
+category = "agents"
+website = "https://trigger.dev"
+open_source = true
+repository = "https://github.com/triggerdotdev/trigger.dev"
+added = 2026-10-24

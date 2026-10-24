@@ -1,0 +1,7 @@
+name = "botpress"
+description = "Botpress is the enterprise-grade AI agent platform for customer support, with no technical ceiling and no per-seat cost."
+category = "chatbots"
+website = "https://botpress.com"
+open_source = true
+repository = "https://github.com/botpress/botpress"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "Semantica"
+description = "A governed context and semantic layer for enterprise AI: business semantics, causal reasoning, and full decision provenance."
+category = "agents"
+website = "https://getsemantica.ai"
+open_source = true
+repository = "https://github.com/semantica-agi/semantica"
+added = 2026-10-24

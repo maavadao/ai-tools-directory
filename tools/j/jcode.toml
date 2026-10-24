@@ -1,0 +1,7 @@
+name = "jcode"
+description = "jcode is an open-source terminal coding agent in Rust: fast startup, tiny RAM footprint, background tasks, and agent swarms."
+category = "chatbots"
+website = "https://jcode.sh"
+open_source = true
+repository = "https://github.com/1jehuang/jcode"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "OpenFang"
+description = "Open-source Agent OS built in Rust. 7 autonomous Hands. 16 security layers. 40 channels. 27 providers. Beats OpenClaw, ZeroClaw, CrewAI, AutoGen, and LangGraph."
+category = "chatbots"
+website = "https://www.openfang.sh"
+open_source = true
+repository = "https://github.com/RightNow-AI/openfang"
+added = 2026-10-24

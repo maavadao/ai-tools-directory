@@ -1,0 +1,7 @@
+name = "Andrej Karpathy"
+description = "Neural Networks: Zero to Hero"
+category = "education"
+website = "https://karpathy.ai"
+open_source = true
+repository = "https://github.com/karpathy/nn-zero-to-hero"
+added = 2026-10-24

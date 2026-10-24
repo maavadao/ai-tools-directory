@@ -1,0 +1,7 @@
+name = "MLflow"
+description = "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data."
+category = "agents"
+website = "https://mlflow.org"
+open_source = true
+repository = "https://github.com/mlflow/mlflow"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "hummingbot"
+description = "Hummingbot documentation and website"
+category = "agents"
+website = "https://hummingbot.org"
+open_source = true
+repository = "https://github.com/hummingbot/hummingbot"
+added = 2026-10-24

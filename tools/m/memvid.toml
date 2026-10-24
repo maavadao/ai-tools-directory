@@ -1,0 +1,7 @@
+name = "memvid"
+description = "Replace complex RAG pipelines with a single portable file that gives every agent instant retrieval and long-term memory."
+category = "chatbots"
+website = "https://memvid.com"
+open_source = true
+repository = "https://github.com/memvid/memvid"
+added = 2026-10-24

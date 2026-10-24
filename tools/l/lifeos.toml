@@ -1,0 +1,7 @@
+name = "LifeOS"
+description = "LifeOS is the open-source AI harness that moves you from current state to ideal state. Intent engineering: your goals, memory, skills, and verification — yours, local, sovereign."
+category = "coding"
+website = "https://ourlifeos.ai"
+open_source = true
+repository = "https://github.com/danielmiessler/LifeOS"
+added = 2026-10-24

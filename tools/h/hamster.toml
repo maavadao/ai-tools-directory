@@ -1,0 +1,7 @@
+name = "Hamster"
+description = "Hamster proposes strategies, turns them into initiatives, and carries the work through to delivery. Your team steers every step."
+category = "coding"
+website = "https://tryhamster.com"
+open_source = true
+repository = "https://github.com/eyaltoledano/claude-task-master"
+added = 2026-10-24

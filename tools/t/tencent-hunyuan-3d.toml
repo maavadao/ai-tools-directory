@@ -1,0 +1,7 @@
+name = "Tencent Hunyuan 3D"
+description = "Based on Tencent Hunyuan 3D Generate Large Model, it is the industry's first one-stop 3D content AI creation platform. It supports functions such as text-based 3D, image-based 3D, 3D animation generation, and texture generation."
+category = "image"
+website = "https://3d.hunyuan.tencent.com"
+open_source = true
+repository = "https://github.com/Tencent-Hunyuan/Hunyuan3D-2"
+added = 2026-10-24

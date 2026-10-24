@@ -1,0 +1,7 @@
+name = "Pydantic Docs"
+description = "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end."
+category = "chatbots"
+website = "https://pydantic.dev"
+open_source = true
+repository = "https://github.com/pydantic/pydantic-ai"
+added = 2026-10-24

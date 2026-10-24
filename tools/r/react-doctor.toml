@@ -1,0 +1,7 @@
+name = "React Doctor"
+description = "Find complex React functions, repeated JSX, and production risks with deterministic static analysis."
+category = "agents"
+website = "https://www.react.doctor"
+open_source = true
+repository = "https://github.com/millionco/react-doctor"
+added = 2026-10-24

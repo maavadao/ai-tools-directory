@@ -1,0 +1,7 @@
+name = "iii"
+description = "Connect functions, agents, APIs, models, browsers, and machines into one live, composable system. The convenience of a platform, without the lock-in."
+category = "coding"
+website = "https://iii.dev"
+open_source = true
+repository = "https://github.com/iii-hq/iii"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "fastbook"
+description = "A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems."
+category = "data"
+website = "https://course.fast.ai"
+open_source = true
+repository = "https://github.com/fastai/fastbook"
+added = 2026-10-24

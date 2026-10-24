@@ -1,0 +1,7 @@
+name = "skyvern"
+description = "Skyvern automates browser workflows with AI. No brittle selectors, no maintenance. Automate logins, form fills, data extraction, and more across any website."
+category = "chatbots"
+website = "https://www.skyvern.com"
+open_source = true
+repository = "https://github.com/Skyvern-AI/skyvern"
+added = 2026-10-24

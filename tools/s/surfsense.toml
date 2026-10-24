@@ -1,0 +1,7 @@
+name = "SurfSense"
+description = "A private, self-hosted NotebookLM alternative that runs air-gapped on your own machine. Your documents, your model keys, no cloud, no account."
+category = "research"
+website = "https://www.surfsense.com"
+open_source = true
+repository = "https://github.com/MODSetter/SurfSense"
+added = 2026-10-24

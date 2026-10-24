@@ -1,0 +1,7 @@
+name = "Home"
+description = "The conversational control layer for customer-facing AI agents"
+category = "chatbots"
+website = "https://www.parlant.io"
+open_source = true
+repository = "https://github.com/emcie-co/parlant"
+added = 2026-10-24

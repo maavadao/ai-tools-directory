@@ -1,0 +1,7 @@
+name = "OpenMetadata"
+description = "OpenMetadata is the open-source AI context layer — powered by metadata, semantics, and memory that give people and AI a shared, rich understanding of your data. Built by the founders of Apache Hadoop, Apache Atlas, and Uber Databook. The unified platform for data cataloging, discovery, quality, obs…"
+category = "other"
+website = "https://open-metadata.org"
+open_source = true
+repository = "https://github.com/open-metadata/OpenMetadata"
+added = 2026-10-24

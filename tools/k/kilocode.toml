@@ -1,0 +1,7 @@
+name = "kilocode"
+description = "Open source AI coding agent for VS Code, JetBrains, CLI, and Cloud. 500+ models at zero markup, your own keys, or local models for privacy."
+category = "coding"
+website = "https://kilo.ai"
+open_source = true
+repository = "https://github.com/Kilo-Org/kilocode"
+added = 2026-10-24

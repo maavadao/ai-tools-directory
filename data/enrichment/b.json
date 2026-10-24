@@ -13,6 +13,10 @@
 "url": "https://www.band.ai/pricing"
 }
 },
+"beads-documentation": {
+"checked": "2026-10-24",
+"image": "https://beads.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=Introduction&description=Dependency-aware%2C+Dolt-backed+issue+tracker+built+for+AI+coding+agents+that+survive+context+loss&theme=8bc693752845bc102a4baded&signature=fc3d4f8a842c7a1ec57cad5c8af25d4514625a22ec30a072d9055de665fb9a9b"
+},
 "beam-win": {
 "checked": "2026-10-23",
 "image": "https://beam.win/img/og.jpg",
@@ -31,6 +35,10 @@
 "trial": true,
 "url": "https://www.beautiful.ai/pricing"
 }
+},
+"bit-dev": {
+"checked": "2026-10-24",
+"image": "https://static.bit.dev/og-images/bit-marketing-og-img-facebook-2025.png"
 },
 "bitrise-build-hub": {
 "checked": "2026-10-23",
@@ -59,6 +67,15 @@
 "url": "https://bolt.new/pricing"
 }
 },
+"botpress": {
+"checked": "2026-10-24",
+"image": "https://cdn.prod.website-files.com/635c4eeb78332f7971255095/6a1ded7960de29af20457f6d_f7714877d559cb98adc053a44d48870d_bp_opengraph.jpg",
+"pricing": {
+"currency": "USD",
+"from": 40.0,
+"url": "https://botpress.com/pricing"
+}
+},
 "browser": {
 "checked": "2026-10-23",
 "image": "https://cdn.lightpanda.io/website/assets/images/opengraph/og.png",
@@ -76,6 +93,21 @@
 "url": "https://browser-use.com/pricing"
 }
 },
+"browseros": {
+"checked": "2026-10-24",
+"image": "https://www.browseros.com/og/home.png"
+},
+"budibase": {
+"checked": "2026-10-24",
+"image": "https://budibase.com/og.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.0,
+"trial": true,
+"url": "https://budibase.com/pricing/"
+}
+},
 "buffer": {
 "checked": "2026-10-23",
 "image": "https://buffer.com/ogImages/homepage-og.png",
@@ -83,6 +115,31 @@
 "free": true,
 "trial": true,
 "url": "https://buffer.com/pricing?cta=bufferSite-globalNav-pricing-pricing-1"
+}
+},
+"build-secure-ai-applications": {
+"checked": "2026-10-24",
+"image": "https://www.promptfoo.dev/img/meta/homepage.png",
+"pricing": {
+"free": true,
+"url": "https://www.promptfoo.dev/pricing/"
+}
+},
+"build-your-rich-text-editor": {
+"checked": "2026-10-24",
+"image": "https://platejs.org/og?title=Build%20your%20rich-text%20editor&description=A%20set%20of%20beautifully-designed%2C%20customizable%20plugins%20and%20components%20to%20help%20you%20build%20your%20rich-text%20editor.%20Open%20Source."
+},
+"burn": {
+"checked": "2026-10-24"
+},
+"bytebase": {
+"checked": "2026-10-24",
+"image": "https://www.bytebase.com/images/social-previews/index.jpg",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"trial": true,
+"url": "https://www.bytebase.com/pricing/"
 }
 }
 }

@@ -20,6 +20,16 @@
 "checked": "2026-10-23",
 "image": "https://www.tasteskill.dev/og-image.jpg"
 },
+"teable": {
+"checked": "2026-10-24",
+"image": "https://teable.ai/assets/images/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 12.0,
+"url": "https://teable.ai/pricing"
+}
+},
 "teachoo": {
 "checked": "2026-10-23",
 "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4fc6ce87-ec73-42d0-83dc-7c85059937ae/id-preview-687cf3db--70f423a8-a933-48cb-b46a-0112e655cad8.lovable.app-1784088734535.png"
@@ -28,13 +38,28 @@
 "checked": "2026-10-23",
 "image": "https://telegram.org/img/t_logo_2x.png"
 },
+"tencent-hunyuan-3d": {
+"checked": "2026-10-24",
+"image": "https://cdn-3d-prod.hunyuan.tencent.com/public/static/favicon/android-chrome-512x512.png"
+},
 "tensorflow": {
 "checked": "2026-10-23",
 "image": "https://www.tensorflow.org/static/images/tf_logo_social.png"
 },
+"text-to-cad": {
+"checked": "2026-10-24",
+"image": "https://www.texttocad.dev/social-preview.png"
+},
+"tf-router": {
+"checked": "2026-10-24"
+},
 "the-julia-programming-language": {
 "checked": "2026-10-23",
 "image": "https://julialang.org/assets/images/julia-open-graph.png"
+},
+"the-system-design-newsletter": {
+"checked": "2026-10-24",
+"image": "https://substackcdn.com/image/fetch/$s_!W5r-!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1c8067a-95bb-416b-9114-e0b9fb8821d4_256x256.png"
 },
 "tidb": {
 "checked": "2026-10-23",
@@ -95,9 +120,23 @@
 "url": "https://tooljet.com/pricing"
 }
 },
+"toon": {
+"checked": "2026-10-24",
+"image": "https://toonformat.dev/og_v4.png"
+},
 "trendradar": {
 "checked": "2026-10-23",
 "image": "https://trendradar.sandev.cc/images/og-image.png"
+},
+"trigger-dev": {
+"checked": "2026-10-24",
+"image": "https://trigger.dev/assets/og-image-hAiXVmBp.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.0,
+"url": "https://trigger.dev/pricing"
+}
 },
 "twinmind-for-desktop": {
 "checked": "2026-10-23",

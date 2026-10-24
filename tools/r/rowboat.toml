@@ -1,0 +1,7 @@
+name = "Rowboat"
+description = "Rowboat is a desktop app that turns your work into a living knowledge graph and uses it to accomplish tasks on your computer."
+category = "coding"
+website = "https://www.rowboatlabs.com"
+open_source = true
+repository = "https://github.com/rowboatlabs/rowboat"
+added = 2026-10-24

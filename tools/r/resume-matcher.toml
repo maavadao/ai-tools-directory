@@ -1,0 +1,7 @@
+name = "Resume Matcher"
+description = "Free, open-source AI resume builder. Paste a job description, get a tailored resume, ATS score and cover letter. Runs locally with Ollama or any AI provider."
+category = "other"
+website = "https://resumematcher.fyi"
+open_source = true
+repository = "https://github.com/srbhr/Resume-Matcher"
+added = 2026-10-24

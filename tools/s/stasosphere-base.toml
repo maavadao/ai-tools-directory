@@ -1,0 +1,7 @@
+name = "StasoSphere Base"
+description = "You will find information about StasoSphere-run projects on this site"
+category = "chatbots"
+website = "https://stasosphere.com"
+open_source = true
+repository = "https://github.com/stas00/ml-engineering"
+added = 2026-10-24

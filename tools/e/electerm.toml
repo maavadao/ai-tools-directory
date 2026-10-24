@@ -1,0 +1,7 @@
+name = "electerm"
+description = "Free and open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client (Linux, Mac, Windows, Android, HarmonyOS, iOS)"
+category = "other"
+website = "https://electerm.org"
+open_source = true
+repository = "https://github.com/electerm/electerm"
+added = 2026-10-24

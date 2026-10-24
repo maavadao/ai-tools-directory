@@ -1,0 +1,7 @@
+name = "OpenDataLoader PDF"
+description = "Convert PDFs to LLM-ready Markdown and JSON. #1 in benchmarks (0.90 overall hybrid, 0.84 local at 0.05s/page). Auto-tag untagged PDFs into Tagged PDFs for accessibility remediation. Open source (Apache-2.0)."
+category = "other"
+website = "https://opendataloader.org"
+open_source = true
+repository = "https://github.com/opendataloader-project/opendataloader-pdf"
+added = 2026-10-24

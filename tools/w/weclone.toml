@@ -1,0 +1,7 @@
+name = "WeClone"
+description = "One-stop solution for creating your digital avatar from chat history"
+category = "chatbots"
+website = "https://www.weclone.love"
+open_source = true
+repository = "https://github.com/xming521/WeClone"
+added = 2026-10-24

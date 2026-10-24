@@ -1,4 +1,18 @@
 {
+"h4cker": {
+"checked": "2026-10-24"
+},
+"hamster": {
+"checked": "2026-10-24",
+"image": "https://tryhamster.com/images/og-image.png",
+"pricing": {
+"free": true,
+"url": "https://tryhamster.com/pricing"
+}
+},
+"hands-on-large-language-models": {
+"checked": "2026-10-24"
+},
 "harness-by-autonomous": {
 "checked": "2026-10-23",
 "image": "https://cdn.autonomous.ai/production/ecm/260805/metadata.webp"
@@ -6,6 +20,10 @@
 "harvey": {
 "checked": "2026-10-23",
 "image": "https://cdn.sanity.io/images/07s0r5r6/production/9a4b2e0eec438fb56057db128a11ade2c04c01cf-2400x1260.png?w=1200&h=630&fm=jpg&q=95&fit=crop"
+},
+"haystack": {
+"checked": "2026-10-24",
+"image": "https://haystack.deepset.ai/images/haystack-ogimage.png"
 },
 "heal": {
 "checked": "2026-10-23",
@@ -31,9 +49,17 @@
 "heretic": {
 "checked": "2026-10-23"
 },
+"hermes": {
+"checked": "2026-10-24",
+"image": "https://nesquena.github.io/hermes-webui/images/ui-hero.png"
+},
 "hermes-agent": {
 "checked": "2026-10-23",
 "image": "https://web-assets.nousresearch.com/marketing/706fb678b93ec8750030067c0778e57d9203985f/assets/hermes-agent/og-image.png"
+},
+"hermes-one": {
+"checked": "2026-10-24",
+"image": "https://hermesone.org/thumb.png"
 },
 "heygen": {
 "checked": "2026-10-23",
@@ -62,6 +88,10 @@
 "home": {
 "checked": "2026-10-23",
 "image": "https://madewithml.com/static/images/mlops.png"
+},
+"homl-books": {
+"checked": "2026-10-24",
+"image": "https://homl.info/og.jpg"
 },
 "hookest": {
 "checked": "2026-10-23",
@@ -93,6 +123,10 @@
 "humalike": {
 "checked": "2026-10-23",
 "image": "https://humalike.ai/humalike-og.jpg?v=2"
+},
+"hummingbot": {
+"checked": "2026-10-24",
+"image": "https://hummingbot.org/assets/images/social/index.png"
 },
 "hyperframes": {
 "checked": "2026-10-23",

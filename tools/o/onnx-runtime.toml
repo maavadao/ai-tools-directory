@@ -1,0 +1,7 @@
+name = "ONNX Runtime"
+description = "Cross-platform accelerated machine learning. Built-in optimizations speed up training and inferencing with your existing technology stack."
+category = "other"
+website = "https://onnxruntime.ai"
+open_source = true
+repository = "https://github.com/microsoft/onnxruntime"
+added = 2026-10-24

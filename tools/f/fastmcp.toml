@@ -1,0 +1,7 @@
+name = "FastMCP"
+description = "FastMCP is the standard framework for building Model Context Protocol (MCP) servers, clients, and interactive applications."
+category = "agents"
+website = "https://gofastmcp.com"
+open_source = true
+repository = "https://github.com/PrefectHQ/fastmcp"
+added = 2026-10-24

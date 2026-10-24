@@ -1,0 +1,7 @@
+name = "windmill"
+description = "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal."
+category = "agents"
+website = "https://www.windmill.dev"
+open_source = true
+repository = "https://github.com/windmill-labs/windmill"
+added = 2026-10-24

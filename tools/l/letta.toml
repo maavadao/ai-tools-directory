@@ -1,0 +1,7 @@
+name = "letta"
+description = "Making machines that learn. Create stateful agents that remember everything, learn continuously, and improve themselves over time."
+category = "chatbots"
+website = "https://www.letta.com"
+open_source = true
+repository = "https://github.com/letta-ai/letta"
+added = 2026-10-24

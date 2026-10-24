@@ -1,0 +1,7 @@
+name = "sealos"
+description = "Sealos is an AI-native cloud platform that lets you deploy AI agents, databases, and full-stack apps with a single prompt. 100% source-available. Self-host or use managed cloud. No DevOps required."
+category = "coding"
+website = "https://sealos.io"
+open_source = true
+repository = "https://github.com/labring/sealos"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "Wan2.1"
+description = "Wan is an AI creative platform. It aims to lower the barrier to creative work using artificial intelligence, offering features like text-to-image, image-to-image, text-to-video, image-to-video, and image editing."
+category = "video"
+website = "https://wan.video"
+open_source = true
+repository = "https://github.com/Wan-Video/Wan2.1"
+added = 2026-10-24

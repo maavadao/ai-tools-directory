@@ -1,0 +1,7 @@
+name = "casdoor"
+description = "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD"
+category = "other"
+website = "https://casdoor.ai"
+open_source = true
+repository = "https://github.com/casdoor/casdoor"
+added = 2026-10-24

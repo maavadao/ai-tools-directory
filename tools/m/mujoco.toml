@@ -1,0 +1,7 @@
+name = "mujoco"
+description = "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+category = "other"
+website = "https://mujoco.org"
+open_source = true
+repository = "https://github.com/google-deepmind/mujoco"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "OpenObserve"
+description = "High-performance, unified observability for the AI era. 140x lower storage cost."
+category = "data"
+website = "https://openobserve.ai"
+open_source = true
+repository = "https://github.com/openobserve/openobserve"
+added = 2026-10-24

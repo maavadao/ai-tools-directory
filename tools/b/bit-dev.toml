@@ -1,0 +1,7 @@
+name = "bit.dev"
+description = "Give your team and AI tools a single source of truth for proven, trusted components."
+category = "other"
+website = "https://bit.dev"
+open_source = true
+repository = "https://github.com/teambit/bit"
+added = 2026-10-24

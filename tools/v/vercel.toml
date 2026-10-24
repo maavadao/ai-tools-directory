@@ -1,0 +1,7 @@
+name = "Vercel"
+description = "Chatbot is a free, open-source template that helps you dive right into building powerful chatbot applications."
+category = "chatbots"
+website = "https://chatbot.ai-sdk.dev"
+open_source = true
+repository = "https://github.com/vercel/chatbot"
+added = 2026-10-24

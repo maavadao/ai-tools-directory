@@ -1,0 +1,7 @@
+name = "marimo"
+description = "Explore data and build apps seamlessly with marimo, a next-generation Python notebook."
+category = "coding"
+website = "https://marimo.io"
+open_source = true
+repository = "https://github.com/marimo-team/marimo"
+added = 2026-10-24

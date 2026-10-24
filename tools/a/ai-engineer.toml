@@ -1,0 +1,7 @@
+name = "AI Engineer"
+description = "Master coding agents, build complete AI systems and launch your own project. Practical courses, working code and expert group support with Owain Lewis."
+category = "education"
+website = "https://aiengineer.co"
+open_source = true
+repository = "https://github.com/owainlewis/awesome-artificial-intelligence"
+added = 2026-10-24

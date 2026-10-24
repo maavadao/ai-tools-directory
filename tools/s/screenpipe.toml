@@ -1,0 +1,7 @@
+name = "screenpipe"
+description = "Turn daily work into searchable AI memory. Discover recurring workflows, document the steps, and find opportunities to automate across your apps."
+category = "chatbots"
+website = "https://screenpipe.com"
+open_source = true
+repository = "https://github.com/screenpipe/screenpipe"
+added = 2026-10-24

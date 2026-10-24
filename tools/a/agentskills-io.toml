@@ -1,0 +1,7 @@
+name = "Agent Skills"
+description = "A standardized way to give AI agents new capabilities and expertise."
+category = "other"
+website = "https://agentskills.io"
+open_source = true
+repository = "https://github.com/agentskills/agentskills"
+added = 2026-10-24

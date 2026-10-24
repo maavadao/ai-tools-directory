@@ -1,0 +1,7 @@
+name = "Kratos"
+description = "Kratos is a web application framework with expressive, elegant syntax. We've already laid the foundation."
+category = "other"
+website = "https://go-kratos.dev"
+open_source = true
+repository = "https://github.com/go-kratos/kratos"
+added = 2026-10-24

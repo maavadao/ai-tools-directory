@@ -1,0 +1,7 @@
+name = "labelme"
+description = "AI-powered image annotation that runs locally on your machine. Polygons, bounding boxes, segmentation. SAM2, SAM3 and YOLO-World download once, then run offline."
+category = "other"
+website = "https://labelme.io"
+open_source = true
+repository = "https://github.com/wkentaro/labelme"
+added = 2026-10-24

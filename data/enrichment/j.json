@@ -13,6 +13,23 @@
 "url": "https://www.jasper.ai/pricing"
 }
 },
+"jcode": {
+"checked": "2026-10-24",
+"image": "https://jcode.sh/og.png",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"trial": true,
+"url": "https://jcode.sh/pricing"
+}
+},
+"jdai-lab": {
+"checked": "2026-10-24"
+},
+"jina-ai": {
+"checked": "2026-10-24",
+"image": "https://jina.ai/og/page.png?title=Your+Search+Foundation%2C+Supercharged.&subtitle=Embeddings%2C+rerankers%2C+web+reader%2C+deepsearch%2C+small+language+models.+Search+AI+for+multilingual+and+multimodal+data."
+},
 "jockey-by-twelvelabs": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/images/HCQkFF3Rw3hgP3u68YqGAP4s.webp",

@@ -1,0 +1,7 @@
+name = "cube.dev"
+description = "Cube is the agentic analytics platform, built on a semantic layer — AI-native business intelligence and embedded analytics with answers your team and your customers can trust."
+category = "data"
+website = "https://cube.dev"
+open_source = true
+repository = "https://github.com/cube-js/cube"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "dapr"
+description = "Dapr is the durable execution engine for workflows and AI agents. A graduated CNCF project whose APIs keep work running through crashes, restarts, and outages."
+category = "agents"
+website = "https://dapr.io"
+open_source = true
+repository = "https://github.com/dapr/dapr"
+added = 2026-10-24

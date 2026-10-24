@@ -1,0 +1,7 @@
+name = "text-to-cad"
+description = "Give your agent CAD superpowers. Free, open-source CAD for AI agents like Codex and Claude Code: generate STEP, STL and 3MF models, check DFM, make drawings."
+category = "agents"
+website = "https://www.texttocad.dev"
+open_source = true
+repository = "https://github.com/earthtojake/text-to-cad"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "maxun"
+description = "Turn any website into clean, structured data. Scrape, crawl, extract, search and monitor via API, SDKs, CLI, MCP or a no-code interface. Try free for 7 days."
+category = "agents"
+website = "https://maxun.dev"
+open_source = true
+repository = "https://github.com/getmaxun/maxun"
+added = 2026-10-24

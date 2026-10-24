@@ -1,0 +1,7 @@
+name = "WebLLM"
+description = "WebLLM: High-Performance In-Browser LLM Inference Engine"
+category = "chatbots"
+website = "https://webllm.mlc.ai"
+open_source = true
+repository = "https://github.com/mlc-ai/web-llm"
+added = 2026-10-24

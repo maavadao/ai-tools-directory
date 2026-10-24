@@ -1,0 +1,7 @@
+name = "semantic-kernel"
+description = "Find official documentation, practical know-how, and expert guidance for builders working and troubleshooting in Microsoft products."
+category = "chatbots"
+website = "https://learn.microsoft.com"
+open_source = true
+repository = "https://github.com/microsoft/semantic-kernel"
+added = 2026-10-24

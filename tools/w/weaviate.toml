@@ -1,0 +1,7 @@
+name = "weaviate"
+description = "Bring AI-native applications to life with less hallucination, data leakage, and vendor lock-in"
+category = "other"
+website = "https://weaviate.io"
+open_source = true
+repository = "https://github.com/weaviate/weaviate"
+added = 2026-10-24

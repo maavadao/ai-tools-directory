@@ -1,0 +1,7 @@
+name = "OpenWork"
+description = "Free, open-source desktop AI agent app for macOS, Windows, and Linux. Any model, local models, your own keys. Share skills and MCPs with your team."
+category = "other"
+website = "https://openworklabs.com"
+open_source = true
+repository = "https://github.com/different-ai/openwork"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "Nuclear Music Player"
+description = "Nuclear is a free, open-source music player without ads or tracking. Search for any song or artist, build playlists, and start listening."
+category = "audio"
+website = "https://nuclearplayer.com"
+open_source = true
+repository = "https://github.com/nukeop/nuclear"
+added = 2026-10-24

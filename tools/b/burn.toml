@@ -1,0 +1,7 @@
+name = "burn"
+description = "Next-generation AI infrastructure"
+category = "other"
+website = "https://burn.dev"
+open_source = true
+repository = "https://github.com/tracel-ai/burn"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "Midscene.js"
+description = "Midscene.js provides a vision-based GUI Agent and a natural-language E2E testing framework for web, mobile, and desktop apps. 🔥 Latest news Starting with v1.16, Midscene supports using Jev 1.4’s visual capabilities to drive E2E testing. See what’s new"
+category = "other"
+website = "https://midscenejs.com"
+open_source = true
+repository = "https://github.com/web-infra-dev/midscene"
+added = 2026-10-24

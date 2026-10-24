@@ -1,0 +1,7 @@
+name = "obscura"
+description = "Obscura is an open source, headless browser engine for AI agents and web scraping. Spin up a clean, isolated session in milliseconds."
+category = "other"
+website = "https://www.obscura.sh"
+open_source = true
+repository = "https://github.com/h4ckf0r0day/obscura"
+added = 2026-10-24

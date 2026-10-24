@@ -1,0 +1,7 @@
+name = "doris"
+description = "Apache Doris is a real-time analytics and hybrid search database for AI agents."
+category = "agents"
+website = "https://doris.apache.org"
+open_source = true
+repository = "https://github.com/apache/doris"
+added = 2026-10-24

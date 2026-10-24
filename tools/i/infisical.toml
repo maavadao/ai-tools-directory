@@ -1,0 +1,7 @@
+name = "infisical"
+description = "Infisical is the all-in-one identity security platform for developers, machines, and AI agents. Manage identities, secrets, certs, and access."
+category = "agents"
+website = "https://infisical.com"
+open_source = true
+repository = "https://github.com/Infisical/infisical"
+added = 2026-10-24

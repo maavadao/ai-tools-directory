@@ -1,0 +1,7 @@
+name = "LangBot Space"
+description = "Production-grade platform for building agentic IM bots, integrated with Telegram, Slack, Discord, WeChat, QQ, etc. Supports Dify, Langflow, Coze, Claude, Google Gemini, Nano Banana, MiniMax, Ollama, SiliconFlow, Moonshot, Mimo."
+category = "chatbots"
+website = "https://space.langbot.app"
+open_source = true
+repository = "https://github.com/langbot-app/LangBot"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "VideoCaptioner"
+description = "免费开源的AI视频字幕处理助手。支持Whisper语音识别、LLM智能断句与翻译、多语言字幕生成。适用于YouTube、B站等平台，支持99种语言。一键处理，专业质量。"
+category = "video"
+website = "https://www.videocaptioner.cn"
+open_source = true
+repository = "https://github.com/WEIFENG2333/VideoCaptioner"
+added = 2026-10-24

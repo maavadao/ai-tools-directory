@@ -7,6 +7,14 @@
 "url": "https://www.ifixai.ai/"
 }
 },
+"iii": {
+"checked": "2026-10-24",
+"image": "https://iii.dev/opengraph-image.png"
+},
+"img2threejs": {
+"checked": "2026-10-24",
+"image": "https://img2threejs.io/og-cover.png"
+},
 "inbox-zero": {
 "checked": "2026-10-23",
 "image": "https://www.getinboxzero.com/opengraph-image.jpg?opengraph-image.2_3tl_gj8wvk_.jpg",
@@ -32,6 +40,26 @@
 "checked": "2026-10-23",
 "image": "https://inferock.ai/assets/og-card-ec1e4a4a.png"
 },
+"infisical": {
+"checked": "2026-10-24",
+"image": "https://infisical.com/images/ogimage.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://infisical.com/pricing"
+}
+},
+"influxdata": {
+"checked": "2026-10-24",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.influxdata.com/influxdb-pricing/"
+}
+},
+"instructor": {
+"checked": "2026-10-24"
+},
 "intercom": {
 "checked": "2026-10-23",
 "image": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/9d9c4802c510e9279b7525a4dd289dd793725b83-2400x1260.jpg",
@@ -54,6 +82,10 @@
 "free": true,
 "url": "https://www.invofox.com/en/pricing/"
 }
+},
+"invokeai-documentation": {
+"checked": "2026-10-24",
+"image": "https://invoke.ai/coverimage.png"
 },
 "irisgo": {
 "checked": "2026-10-23",

@@ -1,0 +1,7 @@
+name = "Chat2DB"
+description = "Chat2DB is an AI-powered SQL client that transforms natural language into SQL queries. Supports MySQL, Redis, MongoDB, and enhances database management with Text2SQL and BI features."
+category = "other"
+website = "https://chat2db.ai"
+open_source = true
+repository = "https://github.com/OtterMind/Chat2DB"
+added = 2026-10-24

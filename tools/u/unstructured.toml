@@ -1,0 +1,7 @@
+name = "unstructured"
+description = "Turn PDFs, scans, spreadsheets and 50+ file types into clean, structured data for RAG and AI agents. Use Unstructured Transform via API or MCP. Start free."
+category = "other"
+website = "https://unstructured.io"
+open_source = true
+repository = "https://github.com/Unstructured-IO/unstructured"
+added = 2026-10-24

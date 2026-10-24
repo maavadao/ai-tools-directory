@@ -1,0 +1,7 @@
+name = "MemU"
+description = "One shared, inspectable memory for Codex, Claude Code, Cursor, OpenClaw, Hermes, WorkBuddy, and other agents."
+category = "other"
+website = "https://memu.pro"
+open_source = true
+repository = "https://github.com/NevaMind-AI/memU"
+added = 2026-10-24

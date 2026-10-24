@@ -1,0 +1,7 @@
+name = "winfunc"
+description = "winfunc is an AI security platform: autonomous agents audit your codebase, prove what is exploitable, and ship the fix as a pull request. SOC 2 Type II."
+category = "agents"
+website = "https://winfunc.com"
+open_source = true
+repository = "https://github.com/stitionai/devika"
+added = 2026-10-24

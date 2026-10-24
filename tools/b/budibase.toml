@@ -1,0 +1,7 @@
+name = "budibase"
+description = "Build AI agents, chat and automate internal workflows instantly. The fastest way to automate internal business processes."
+category = "agents"
+website = "https://budibase.com"
+open_source = true
+repository = "https://github.com/Budibase/budibase"
+added = 2026-10-24

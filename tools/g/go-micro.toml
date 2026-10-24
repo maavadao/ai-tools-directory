@@ -1,0 +1,7 @@
+name = "Go Micro"
+description = "Build services in Go. Connect them, give agents tools to use them, and coordinate work with workflows."
+category = "other"
+website = "https://go-micro.dev"
+open_source = true
+repository = "https://github.com/micro/go-micro"
+added = 2026-10-24

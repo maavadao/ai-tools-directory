@@ -1,0 +1,7 @@
+name = "Build your rich-text editor"
+description = "A set of beautifully-designed, customizable plugins and components to help you build your rich-text editor. Open Source."
+category = "other"
+website = "https://platejs.org"
+open_source = true
+repository = "https://github.com/udecode/plate"
+added = 2026-10-24

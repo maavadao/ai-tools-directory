@@ -1,0 +1,7 @@
+name = "coder"
+description = "Give developers a secure, governed environment to run AI coding agents at scale. Self-hosted infrastructure with full control over agent permissions, audit logging, and compliance."
+category = "agents"
+website = "https://coder.com"
+open_source = true
+repository = "https://github.com/coder/coder"
+added = 2026-10-24

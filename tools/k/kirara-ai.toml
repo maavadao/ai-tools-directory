@@ -1,0 +1,7 @@
+name = "Kirara AI"
+description = "大模型 Agent 编排引擎官方文档"
+category = "other"
+website = "https://kirara-docs.app.lss233.com"
+open_source = true
+repository = "https://github.com/lss233/kirara-ai"
+added = 2026-10-24

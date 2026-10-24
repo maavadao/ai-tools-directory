@@ -1,0 +1,7 @@
+name = "鱼皮AI导航"
+description = "鱼皮AI导航收录全球AI工具网站应用，涵盖AIGC写作、AI绘画设计、AI视频音频、AI编程开发、AI对话聊天等领域；提供AI提示词、AI学习课程、AI项目教程、最新AI资讯与专业全面的AI知识库，打造全方位AI学习与交流社区。"
+category = "chatbots"
+website = "https://ai.codefather.cn"
+open_source = true
+repository = "https://github.com/liyupi/ai-guide"
+added = 2026-10-24

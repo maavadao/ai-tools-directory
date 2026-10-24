@@ -1,0 +1,7 @@
+name = "openship"
+description = "Deploy anything, own everything. Self-hostable, AI-powered deployment platform with free SSL, unlimited domains, instant rollbacks, and CLI/MCP support. Open source and free to self-host, forever."
+category = "agents"
+website = "https://openship.io"
+open_source = true
+repository = "https://github.com/oblien/openship"
+added = 2026-10-24

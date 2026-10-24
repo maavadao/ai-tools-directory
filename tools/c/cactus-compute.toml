@@ -1,0 +1,7 @@
+name = "Cactus Compute"
+description = "Automation foundation models for mobile, wearables, AR glasses, smart homes, robots, automotive, laptops, game consoles, TVs and microcontrollers. 2-bit, 8-29MB, runs locally, up to 4k tokens/sec."
+category = "chatbots"
+website = "https://cactuscompute.com"
+open_source = true
+repository = "https://github.com/cactus-compute/needle"
+added = 2026-10-24

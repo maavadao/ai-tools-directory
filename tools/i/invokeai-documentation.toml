@@ -1,0 +1,7 @@
+name = "InvokeAI Documentation"
+description = "A leading creative engine built to empower professionals and enthusiasts alike."
+category = "image"
+website = "https://invoke.ai"
+open_source = true
+repository = "https://github.com/invoke-ai/InvokeAI"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "cmux"
+description = "Free and open source macOS terminal for AI coding agents. Works with Claude Code, Codex, OpenCode, Gemini CLI, Kiro, Aider, and any CLI tool."
+category = "coding"
+website = "https://cmux.com"
+open_source = true
+repository = "https://github.com/manaflow-ai/cmux"
+added = 2026-10-24

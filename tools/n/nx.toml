@@ -1,0 +1,7 @@
+name = "nx"
+description = "The Monorepo Platform that amplifies both developers and AI agents."
+category = "agents"
+website = "https://nx.dev"
+open_source = true
+repository = "https://github.com/nrwl/nx"
+added = 2026-10-24

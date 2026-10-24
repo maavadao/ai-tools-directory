@@ -1,0 +1,7 @@
+name = "FaceFusion"
+description = "Industry leading face manipulation platform"
+category = "video"
+website = "https://facefusion.io"
+open_source = true
+repository = "https://github.com/facefusion/facefusion"
+added = 2026-10-24

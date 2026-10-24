@@ -1,0 +1,7 @@
+name = "DSH Desktop"
+description = "DSH Desktop 是 Dataelem 团队打造的开源 AI 桌面客户端，面向个人与企业，支持 Windows 和 macOS。特色功能：AI 行业工作台、Office 三件套、手机端。"
+category = "agents"
+website = "https://dshdesktop.com"
+open_source = true
+repository = "https://github.com/dataelement/dsh-desktop"
+added = 2026-10-24

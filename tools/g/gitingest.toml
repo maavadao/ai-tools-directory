@@ -1,0 +1,7 @@
+name = "gitingest"
+description = "Replace 'hub' with 'ingest' in any GitHub URL for a prompt-friendly text."
+category = "coding"
+website = "https://gitingest.com"
+open_source = true
+repository = "https://github.com/coderamp-labs/gitingest"
+added = 2026-10-24

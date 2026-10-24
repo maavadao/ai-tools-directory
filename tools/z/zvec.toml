@@ -1,0 +1,7 @@
+name = "zvec"
+description = "An open-source, in-process vector database by Alibaba — lightweight, lightning-fast, and battle-tested."
+category = "other"
+website = "https://zvec.org"
+open_source = true
+repository = "https://github.com/alibaba/zvec"
+added = 2026-10-24

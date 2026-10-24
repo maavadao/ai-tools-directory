@@ -1,0 +1,7 @@
+name = "OpenMythos"
+description = "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out."
+category = "coding"
+website = "https://discord.com"
+open_source = true
+repository = "https://github.com/kyegomez/OpenMythos"
+added = 2026-10-24

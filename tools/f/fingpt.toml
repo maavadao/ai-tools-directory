@@ -1,0 +1,7 @@
+name = "FinGPT"
+description = "Democratizing financial AI with open-source LLMs."
+category = "chatbots"
+website = "https://fingpt.io"
+open_source = true
+repository = "https://github.com/AI4Finance-Foundation/FinGPT"
+added = 2026-10-24

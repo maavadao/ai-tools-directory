@@ -1,0 +1,7 @@
+name = "FastGPT"
+description = "Flexible AI Workflow + AI Knowledge Base + Template System + Agentic RAG = Powerful AI Agent Builder. Trusted by 500,000+ users worldwide."
+category = "chatbots"
+website = "https://fastgpt.io"
+open_source = true
+repository = "https://github.com/labring/FastGPT"
+added = 2026-10-24

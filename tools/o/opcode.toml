@@ -1,0 +1,7 @@
+name = "opcode"
+description = "Transform your AI coding workflow with a beautiful GUI that makes managing Claude sessions, creating custom agents, and tracking usage effortless."
+category = "coding"
+website = "https://opcode.sh"
+open_source = true
+repository = "https://github.com/winfunc/opcode"
+added = 2026-10-24

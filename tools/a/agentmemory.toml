@@ -1,0 +1,7 @@
+name = "agentmemory"
+description = "Persistent memory for AI coding agents. agentmemory captures what your agent did, keeps it on your machine, and hands the right context back in the next session. Open source, Apache-2.0."
+category = "coding"
+website = "https://www.agent-memory.dev"
+open_source = true
+repository = "https://github.com/rohitg00/agentmemory"
+added = 2026-10-24

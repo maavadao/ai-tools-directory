@@ -1,0 +1,7 @@
+name = "gitleaks"
+description = "Find secrets with Gitleaks"
+category = "other"
+website = "https://gitleaks.io"
+open_source = true
+repository = "https://github.com/gitleaks/gitleaks"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "DiamantAI - Nir Diamant"
+description = "Nir Diamant is an AI educator and Amazon Bestseller author of RAG Made Simple. DiamantAI publishes 130+ free GenAI tutorials on AI agents, RAG systems, and..."
+category = "chatbots"
+website = "https://diamant-ai.com"
+open_source = true
+repository = "https://github.com/NirDiamant/RAG_Techniques"
+added = 2026-10-24

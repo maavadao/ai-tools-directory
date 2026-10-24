@@ -1,0 +1,7 @@
+name = "agent-zero"
+description = "Easily build your own AI agents that work on their own operating system, create tools intelligently, learn, self-correct, and execute workflows with complete transparency."
+category = "chatbots"
+website = "https://www.agent-zero.ai"
+open_source = true
+repository = "https://github.com/agent0ai/agent-zero"
+added = 2026-10-24

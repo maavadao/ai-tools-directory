@@ -1,0 +1,7 @@
+name = "n8n MCP"
+description = "Connect your AI tools to n8n via MCP — build, validate, and deploy workflows, then test, debug, and keep them running. Works with n8n's native MCP. Free to start."
+category = "other"
+website = "https://www.n8n-mcp.com"
+open_source = true
+repository = "https://github.com/czlonkowski/n8n-mcp"
+added = 2026-10-24

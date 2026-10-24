@@ -1,0 +1,7 @@
+name = "haystack"
+description = "Create agentic, context engineered AI systems using Haystack’s modular and customizable building blocks, built for real-world, production-ready applications."
+category = "chatbots"
+website = "https://haystack.deepset.ai"
+open_source = true
+repository = "https://github.com/deepset-ai/haystack"
+added = 2026-10-24

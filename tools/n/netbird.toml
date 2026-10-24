@@ -1,0 +1,7 @@
+name = "NetBird"
+description = "WireGuard®-based overlay network and Zero Trust Network Access in one platform for reliable and secure connectivity"
+category = "agents"
+website = "https://netbird.io"
+open_source = true
+repository = "https://github.com/netbirdio/netbird"
+added = 2026-10-24

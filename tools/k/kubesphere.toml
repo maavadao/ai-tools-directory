@@ -1,0 +1,7 @@
+name = "kubesphere"
+description = "KubeSphere is a distributed operating system for cloud-native application management, using Kubernetes as its kernel. It provides a plug-and-play architecture, allowing third-party applications to be seamlessly integrated into its ecosystem."
+category = "other"
+website = "https://kubesphere.io"
+open_source = true
+repository = "https://github.com/kubesphere/kubesphere"
+added = 2026-10-24

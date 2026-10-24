@@ -1,0 +1,7 @@
+name = "Planning with Files"
+description = "The patch is written. The tests are unfinished. Give the next session a plan it can pick up."
+category = "other"
+website = "https://gilded-laurel-c7nj.here.now"
+open_source = true
+repository = "https://github.com/OthmanAdi/planning-with-files"
+added = 2026-10-24

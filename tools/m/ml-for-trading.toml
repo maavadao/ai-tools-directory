@@ -1,0 +1,7 @@
+name = "ML for Trading"
+description = "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution."
+category = "data"
+website = "https://ml4trading.io"
+open_source = true
+repository = "https://github.com/stefan-jansen/machine-learning-for-trading"
+added = 2026-10-24

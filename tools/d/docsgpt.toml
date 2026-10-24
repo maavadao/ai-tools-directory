@@ -1,0 +1,7 @@
+name = "DocsGPT"
+description = "DocsGPT Cloud by Arc53: An open-source assistant designed to provide instant answers about documents.DocsGPT seamlessly integrates with various data sources, chatbots, and internal tools, enhancing team productivity and customer engagement."
+category = "chatbots"
+website = "https://app.docsgpt.cloud"
+open_source = true
+repository = "https://github.com/arc53/DocsGPT"
+added = 2026-10-24

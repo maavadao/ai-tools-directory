@@ -1,0 +1,7 @@
+name = "dyad"
+description = "Build full-stack AI apps on your desktop with Dyad, the free, local, open-source AI app builder. Use any AI model, own your code. Zero lock-in."
+category = "other"
+website = "https://www.dyad.sh"
+open_source = true
+repository = "https://github.com/dyad-sh/dyad"
+added = 2026-10-24

@@ -1,0 +1,7 @@
+name = "CodexBar"
+description = "Track usage windows, credits, and resets across 110 AI coding providers from your macOS menu bar."
+category = "coding"
+website = "https://codexbar.app"
+open_source = true
+repository = "https://github.com/steipete/CodexBar"
+added = 2026-10-24

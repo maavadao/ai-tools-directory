@@ -1,0 +1,7 @@
+name = "awesome-mlops"
+description = "Machine Learning Operations"
+category = "data"
+website = "https://ml-ops.org"
+open_source = true
+repository = "https://github.com/visenger/awesome-mlops"
+added = 2026-10-24

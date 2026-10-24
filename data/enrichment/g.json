@@ -23,6 +23,10 @@
 "checked": "2026-10-23",
 "image": "https://ghost.ai/opengraph-image.jpg?opengraph-image.13anp_69f8ba9.jpg"
 },
+"gitdiagram": {
+"checked": "2026-10-24",
+"image": "https://gitdiagram.com/opengraph-image.png?opengraph-image.174h-oeczhgif.png"
+},
 "github-copilot": {
 "checked": "2026-10-23",
 "image": "https://images.ctfassets.net/8aevphvgewt8/4KxWJH8PVVXdqBLs1V3UJ8/8926c7d150a8b8f3bf33c1c8a133724b/github-copilot-social-img.png",
@@ -33,6 +37,16 @@
 "trial": true,
 "url": "https://github.com/pricing"
 }
+},
+"gitingest": {
+"checked": "2026-10-24",
+"image": "https://gitingest.com/static/og-image.png"
+},
+"gitleaks": {
+"checked": "2026-10-24"
+},
+"go-micro": {
+"checked": "2026-10-24"
 },
 "google-cloud": {
 "checked": "2026-10-23",
@@ -45,6 +59,14 @@
 "google-research": {
 "checked": "2026-10-23",
 "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+},
+"gpt-researcher": {
+"checked": "2026-10-24",
+"image": "https://gptr.dev/thumbnail.png",
+"pricing": {
+"free": true,
+"url": "https://gptr.dev/pricing"
+}
 },
 "grammarly": {
 "checked": "2026-10-23",
@@ -61,5 +83,8 @@
 "groq": {
 "checked": "2026-10-23",
 "image": "https://groq.com/images/og.png"
+},
+"gun": {
+"checked": "2026-10-24"
 }
 }

@@ -1,0 +1,7 @@
+name = "superset"
+description = "Bring Claude Code, Codex, OpenCode, or any coding agent into one workspace. Run tasks in parallel, isolate changes, and review everything in one place."
+category = "other"
+website = "https://superset.sh"
+open_source = true
+repository = "https://github.com/superset-sh/superset"
+added = 2026-10-24

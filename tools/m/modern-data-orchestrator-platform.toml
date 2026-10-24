@@ -1,0 +1,7 @@
+name = "Modern Data Orchestrator Platform"
+description = "Build data your team trusts—and AI can run on."
+category = "data"
+website = "https://dagster.io"
+open_source = true
+repository = "https://github.com/dagster-io/dagster"
+added = 2026-10-24

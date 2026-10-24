@@ -1,0 +1,7 @@
+name = "ONNX"
+description = "Open standard for machine learning interoperability"
+category = "other"
+website = "https://onnx.ai"
+open_source = true
+repository = "https://github.com/onnx/onnx"
+added = 2026-10-24

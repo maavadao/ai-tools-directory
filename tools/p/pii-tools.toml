@@ -1,0 +1,7 @@
+name = "PII Tools"
+description = "Find, classify and remediate PII across your files, email, databases and cloud. Accurate AI-powered PII discovery – on-premise or SaaS."
+category = "data"
+website = "https://pii-tools.com"
+open_source = true
+repository = "https://github.com/piskvorky/gensim"
+added = 2026-10-24

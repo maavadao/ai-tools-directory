@@ -7,6 +7,18 @@
 "url": "https://n8n.io/pricing/"
 }
 },
+"n8n-mcp": {
+"checked": "2026-10-24",
+"image": "https://www.n8n-mcp.com/opengraph-image.png?opengraph-image.37_02n-ygxj6_.png",
+"pricing": {
+"free": true,
+"url": "https://www.n8n-mcp.com"
+}
+},
+"nanobrowser": {
+"checked": "2026-10-24",
+"image": "https://nanobrowser.ai/og.jpg"
+},
 "nanoclaw": {
 "checked": "2026-10-23",
 "image": "https://nanoclaw.dev/social-preview.jpg"
@@ -28,6 +40,14 @@
 "from": 69.0,
 "trial": true,
 "url": "https://needle.app/pricing"
+}
+},
+"netbird": {
+"checked": "2026-10-24",
+"pricing": {
+"currency": "EUR",
+"from": 6.0,
+"url": "https://netbird.io/pricing"
 }
 },
 "netdata": {
@@ -64,6 +84,12 @@
 "url": "https://nitrostack.ai/cloud/pricing"
 }
 },
+"nlp-progress": {
+"checked": "2026-10-24"
+},
+"nltk": {
+"checked": "2026-10-24"
+},
 "noan": {
 "checked": "2026-10-23",
 "image": "https://www.getnoan.com/assets/og-default.png",
@@ -72,6 +98,10 @@
 "from": 59.0,
 "url": "https://www.getnoan.com/pricing"
 }
+},
+"nocobase": {
+"checked": "2026-10-24",
+"image": "https://static-docs.nocobase.com/20260513-og-github-v3.jpg"
 },
 "nomic": {
 "checked": "2026-10-23",
@@ -93,6 +123,10 @@
 "url": "https://www.notion.com/pricing"
 }
 },
+"novel": {
+"checked": "2026-10-24",
+"image": "https://novel.sh/opengraph-image.png?73cb1c6d8589016e"
+},
 "novu": {
 "checked": "2026-10-23",
 "image": "https://www.novu.co/social-previews/index.jpg",
@@ -100,6 +134,21 @@
 "currency": "USD",
 "from": 30.0,
 "url": "https://www.novu.co/pricing/"
+}
+},
+"nuclear-music-player": {
+"checked": "2026-10-24",
+"image": "https://nuclearplayer.com/images/social-banner.png"
+},
+"nx": {
+"checked": "2026-10-24",
+"image": "https://framerusercontent.com/images/j1jV7CWbn9IzkoNe9UR4STK8TQ.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 29.0,
+"trial": true,
+"url": "https://nx.dev/pricing"
 }
 }
 }

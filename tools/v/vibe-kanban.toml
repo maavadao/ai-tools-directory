@@ -1,0 +1,7 @@
+name = "Vibe Kanban"
+description = "Get the most out of coding agents like Claude Code, Gemini CLI and Amp. Orchestrate multiple AI coding agents, track tasks, and manage your development workflow efficiently."
+category = "agents"
+website = "https://www.vibekanban.com"
+open_source = true
+repository = "https://github.com/BloopAI/vibe-kanban"
+added = 2026-10-24

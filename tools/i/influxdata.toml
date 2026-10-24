@@ -1,0 +1,7 @@
+name = "InfluxData"
+description = "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+category = "data"
+website = "https://www.influxdata.com"
+open_source = true
+repository = "https://github.com/influxdata/telegraf"
+added = 2026-10-24

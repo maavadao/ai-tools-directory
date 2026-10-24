@@ -1,0 +1,7 @@
+name = "jDai Lab"
+description = "AI research lab by the creators of EasyOCR. Now exploring Agentic AI."
+category = "other"
+website = "https://www.jaided.ai"
+open_source = true
+repository = "https://github.com/JaidedAI/EasyOCR"
+added = 2026-10-24

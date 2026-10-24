@@ -1,0 +1,7 @@
+name = "kestra"
+description = "Use declarative language to build simpler, faster, scalable and flexible workflows"
+category = "agents"
+website = "https://kestra.io"
+open_source = true
+repository = "https://github.com/kestra-io/kestra"
+added = 2026-10-24

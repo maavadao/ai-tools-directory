@@ -1,0 +1,7 @@
+name = "novel"
+description = "Novel is a Notion-style WYSIWYG editor with AI-powered autocompletions. Built with Tiptap, OpenAI, and Vercel AI SDK."
+category = "chatbots"
+website = "https://novel.sh"
+open_source = true
+repository = "https://github.com/steven-tey/novel"
+added = 2026-10-24

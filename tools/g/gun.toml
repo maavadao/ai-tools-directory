@@ -1,0 +1,7 @@
+name = "GUN"
+description = "Decentralized Database"
+category = "data"
+website = "https://gun.eco"
+open_source = true
+repository = "https://github.com/amark/gun"
+added = 2026-10-24

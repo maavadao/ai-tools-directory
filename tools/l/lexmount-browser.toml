@@ -1,0 +1,7 @@
+name = "Lexmount Browser"
+description = "Connect AI agents and Playwright to remote browsers with Lexmount. Use Cloud Browser API for web automation and Web Fetch API for structured web content extraction."
+category = "other"
+website = "https://browser.lexmount.com"
+open_source = true
+repository = "https://github.com/lexmount/moli"
+added = 2026-10-24

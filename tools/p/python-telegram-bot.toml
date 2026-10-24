@@ -1,0 +1,7 @@
+name = "python-telegram-bot"
+description = "A Python framework for the Telegram Bot API"
+category = "chatbots"
+website = "https://python-telegram-bot.org"
+open_source = true
+repository = "https://github.com/python-telegram-bot/python-telegram-bot"
+added = 2026-10-24

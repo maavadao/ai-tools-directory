@@ -1,6 +1,26 @@
 {
+"label-studio": {
+"checked": "2026-10-24",
+"image": "https://cdn.sanity.io/images/k7elabj6/production/91e23a79f08972e22abe23b7f70866fddecbb17b-1200x630.png",
+"pricing": {
+"trial": true,
+"url": "https://humansignal.com/pricing/?utm_source=labelstud.io&amp;utm_medium=hero_cta_2"
+}
+},
+"labelme": {
+"checked": "2026-10-24",
+"image": "https://cdn.labelme.io/og5.webp",
+"pricing": {
+"trial": true,
+"url": "https://labelme.io/pricing"
+}
+},
 "labs": {
 "checked": "2026-10-23"
+},
+"langbot-space": {
+"checked": "2026-10-24",
+"image": "https://space.langbot.app/social/space-v3.png"
 },
 "langchain": {
 "checked": "2026-10-23",
@@ -28,6 +48,10 @@
 "learn-claude-code": {
 "checked": "2026-10-23"
 },
+"learnopencv": {
+"checked": "2026-10-24",
+"image": "https://cdn.learnopencv.com/wp-content/uploads/2017/12/04104052/favicon.png"
+},
 "lemlist": {
 "checked": "2026-10-23",
 "image": "https://web-assets.lemlist.com/lemlist/revamp/lemlist-og.png",
@@ -38,9 +62,29 @@
 "url": "https://www.lemlist.com/pricing"
 }
 },
+"leon": {
+"checked": "2026-10-24",
+"image": "https://getleon.ai/img/facebook-preview.png"
+},
+"letta": {
+"checked": "2026-10-24",
+"image": "https://www.letta.com/assets/images/meta-card.png"
+},
+"lexmount-browser": {
+"checked": "2026-10-24",
+"image": "https://browser.lexmount.com/brand/lexmount-og.png",
+"pricing": {
+"free": true,
+"url": "https://browser.lexmount.com/pricing"
+}
+},
 "librechat": {
 "checked": "2026-10-23",
 "image": "https://www.librechat.ai/api/og?v=a40e77512dc1"
+},
+"lifeos": {
+"checked": "2026-10-24",
+"image": "https://ourlifeos.ai/og/home.jpg"
 },
 "lightning-ai": {
 "checked": "2026-10-23",
@@ -79,6 +123,10 @@
 "from": 50.0,
 "url": "https://www.llamaindex.ai/pricing"
 }
+},
+"llmware": {
+"checked": "2026-10-24",
+"image": "https://framerusercontent.com/assets/23wYSDFvfVgijx9jM1Roq3r1qHQ.png"
 },
 "lobehub": {
 "checked": "2026-10-23",

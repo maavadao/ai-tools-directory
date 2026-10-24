@@ -1,0 +1,7 @@
+name = "DBX"
+description = "DBX 是免费开源的数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis 等 100+ 种数据系统，提供 SQL 编辑、可选 AI 助手、MCP 和 Docker 自托管，覆盖 Windows、macOS 与 Linux。"
+category = "other"
+website = "https://dbxio.com"
+open_source = true
+repository = "https://github.com/t8y2/dbx"
+added = 2026-10-24

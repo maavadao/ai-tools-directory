@@ -1,0 +1,7 @@
+name = "repomix"
+description = "Pack local or remote repositories into AI-friendly XML, Markdown, JSON, or plain text for Claude, ChatGPT, Gemini, MCP, and code review workflows."
+category = "coding"
+website = "https://repomix.com"
+open_source = true
+repository = "https://github.com/yamadashy/repomix"
+added = 2026-10-24

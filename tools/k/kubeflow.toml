@@ -1,0 +1,7 @@
+name = "kubeflow"
+description = "Kubeflow makes deployment of ML Workflows on Kubernetes straightforward and automated"
+category = "agents"
+website = "https://www.kubeflow.org"
+open_source = true
+repository = "https://github.com/kubeflow/kubeflow"
+added = 2026-10-24

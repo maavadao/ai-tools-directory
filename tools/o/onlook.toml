@@ -1,0 +1,7 @@
+name = "onlook"
+description = "Onlook is a visual code editor that lets designers work directly in real codebases. Edit live React components on an infinite canvas with your team’s real Storybook design system. AI helps. The code is the source of truth. Open-source."
+category = "coding"
+website = "https://www.onlook.com"
+open_source = true
+repository = "https://github.com/onlook-dev/onlook"
+added = 2026-10-24

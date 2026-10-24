@@ -9,6 +9,10 @@
 "url": "https://hirekai.ai/pricing"
 }
 },
+"kestra": {
+"checked": "2026-10-24",
+"image": "https://kestra.io/og-image.png"
+},
 "khanmigo": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/659ee90e075c502b5cc49dae/6618517343d5ef21ac0ec603_Frame%20625094.png"
@@ -16,6 +20,19 @@
 "khoj": {
 "checked": "2026-10-23",
 "image": "https://khoj.dev/social-banner.jpg"
+},
+"kilocode": {
+"checked": "2026-10-24",
+"image": "https://kilo.ai/kilocode-social.png",
+"pricing": {
+"currency": "USD",
+"from": 15.0,
+"trial": true,
+"url": "https://kilo.ai/pricing"
+}
+},
+"kirara-ai": {
+"checked": "2026-10-24"
 },
 "klingai": {
 "checked": "2026-10-23",
@@ -42,6 +59,9 @@
 "url": "https://konghq.com/pricing"
 }
 },
+"kratos": {
+"checked": "2026-10-24"
+},
 "krea": {
 "checked": "2026-10-23",
 "pricing": {
@@ -49,5 +69,13 @@
 "from": 5.0,
 "url": "https://www.krea.ai/pricing"
 }
+},
+"kubeflow": {
+"checked": "2026-10-24",
+"image": "https://www.kubeflow.org/social/social_home.b4b276a78751053b254216bb34638f95.png"
+},
+"kubesphere": {
+"checked": "2026-10-24",
+"image": "https://www.kubesphere.io/images/common/snapshot-en.png"
 }
 }

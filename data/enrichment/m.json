@@ -1,4 +1,11 @@
 {
+"maaassistantarknights": {
+"checked": "2026-10-24"
+},
+"machine-learning-systems": {
+"checked": "2026-10-24",
+"image": "https://mlsysbook.ai/vol1/assets/images/covers/cover-hardcover-book-vol1.png"
+},
 "magiclearn": {
 "checked": "2026-10-23"
 },
@@ -31,6 +38,10 @@
 "url": "https://www.manifoldmcp.com/pricing"
 }
 },
+"marimo": {
+"checked": "2026-10-24",
+"image": "https://marimo.io/og.png"
+},
 "marker": {
 "checked": "2026-10-23",
 "image": "https://www.datalab.to/images/og-default.png",
@@ -45,6 +56,16 @@
 "checked": "2026-10-23",
 "image": "https://marketing-skills.com/opengraph-image?93f898d7f9bb3d56"
 },
+"mastra": {
+"checked": "2026-10-24",
+"image": "https://mastra.ai/api/og/page?title=TypeScript%20AI%20Framework%20for%20Agents%20and%20Apps",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 250.0,
+"url": "https://mastra.ai/pricing"
+}
+},
 "mausbot": {
 "checked": "2026-10-23",
 "image": "https://mausbot.com/opengraph-image?78aec392592697f3",
@@ -53,6 +74,21 @@
 "from": 10.0,
 "trial": true,
 "url": "https://mausbot.com/pricing"
+}
+},
+"maxkb": {
+"checked": "2026-10-24",
+"image": "https://www.maxkb.cn/images/dashboard.png"
+},
+"maxun": {
+"checked": "2026-10-24",
+"image": "https://maxun.dev/maxun_prev.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 19.0,
+"trial": true,
+"url": "https://maxun.dev/pricing"
 }
 },
 "mcp-for-blender": {
@@ -103,6 +139,18 @@
 "url": "https://mem0.ai/pricing"
 }
 },
+"memori": {
+"checked": "2026-10-24",
+"image": "https://memorilabs.ai/og-image.png"
+},
+"memu": {
+"checked": "2026-10-24",
+"image": "https://memu.pro/static/memu-logo.png"
+},
+"memvid": {
+"checked": "2026-10-24",
+"image": "https://memvid.com/og-image.png"
+},
 "mentionbird": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/6a112cb0b0f19744b4d4cdc7/6a6c6a565781839765a931fd_MentionBird-OG%20Image.png",
@@ -117,6 +165,10 @@
 "meta-ai-research": {
 "checked": "2026-10-23",
 "image": "https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp"
+},
+"meta-model-api": {
+"checked": "2026-10-24",
+"image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/769175271_1785147112638659_5144768927528247182_n.png?_nc_cat=105&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=JB6JWgP-8J4Q7kNvwGyEaPY&_nc_oc=Ado2fAcs_2AQLjAQKN-l12MkUQI1hqOLyo9LcZL7kyXliNSjykUrJrYO3KACdsGEOWY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&edm=ADsB9xMEAAAA&_nc_gid=r729DpHbOy1pLK37T7aeRg&oh=00_AQMJSQ5iQomf9NkfgyUcUEp6Ba70qONKMiQLUM-eKGXd9g&oe=6AE22F30"
 },
 "metagpt": {
 "checked": "2026-10-23",
@@ -149,6 +201,10 @@
 "midjourney": {
 "checked": "2026-10-23"
 },
+"midscene-js": {
+"checked": "2026-10-24",
+"image": "https://midscenejs.com/og-image.png"
+},
 "mindshub-by-mindsdb": {
 "checked": "2026-10-23",
 "image": "https://mindshub.ai/og/og-home-control.png",
@@ -179,9 +235,31 @@
 "url": "https://mistral.ai/pricing/"
 }
 },
+"ml-for-trading": {
+"checked": "2026-10-24",
+"image": "https://ml4trading.io/static/img/og-image.a0471320e8d2.jpg"
+},
+"mlc-llm": {
+"checked": "2026-10-24"
+},
+"mlflow": {
+"checked": "2026-10-24"
+},
+"modern-data-orchestrator-platform": {
+"checked": "2026-10-24",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"trial": true,
+"url": "https://dagster.io/pricing"
+}
+},
 "movo-ai": {
 "checked": "2026-10-23",
 "image": "https://movoai.pro/assets/brand/movo-ai-social-preview.png"
+},
+"mujoco": {
+"checked": "2026-10-24"
 },
 "multica": {
 "checked": "2026-10-23"

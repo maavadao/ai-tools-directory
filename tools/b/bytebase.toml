@@ -1,0 +1,7 @@
+name = "bytebase"
+description = "Production database governance platform for schema migration, change review, data fix, and query access across Postgres, MySQL, SQL Server, Oracle, and 20+ engines."
+category = "agents"
+website = "https://www.bytebase.com"
+open_source = true
+repository = "https://github.com/bytebase/bytebase"
+added = 2026-10-24

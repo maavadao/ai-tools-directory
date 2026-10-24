@@ -1,0 +1,7 @@
+name = "Memori"
+description = "A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems."
+category = "coding"
+website = "https://memorilabs.ai"
+open_source = true
+repository = "https://github.com/MemoriLabs/Memori"
+added = 2026-10-24

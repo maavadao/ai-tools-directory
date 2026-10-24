@@ -15,6 +15,18 @@
 "url": "https://eclatira.com/pricing"
 }
 },
+"ego-lite": {
+"checked": "2026-10-24",
+"image": "https://lite.ego.app/og.png"
+},
+"electerm": {
+"checked": "2026-10-24",
+"image": "https://electerm.org/android-chrome-512x512.png"
+},
+"eleutherai": {
+"checked": "2026-10-24",
+"image": "https://www.eleuther.ai/assets/social/eleutherai-social-card.png"
+},
 "elevenlabs": {
 "checked": "2026-10-23",
 "image": "https://elevenlabs.io/cover.png",
@@ -29,6 +41,14 @@
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/images/s7irwYwOOfdSFu6EPduaB8EDsIg.png"
 },
+"eliza-research": {
+"checked": "2026-10-24",
+"image": "https://elizaresearch.ai/assets/og.png"
+},
+"evolink": {
+"checked": "2026-10-24",
+"image": "https://cdn.evolink.ai/2026/File/evolink.ai/og-image.png"
+},
 "exa-3-0": {
 "checked": "2026-10-23",
 "image": "https://exa.imgix.net/og-image-v4.png/",
@@ -36,5 +56,8 @@
 "free": true,
 "url": "https://exa.ai/pricing"
 }
+},
+"excelize": {
+"checked": "2026-10-24"
 }
 }

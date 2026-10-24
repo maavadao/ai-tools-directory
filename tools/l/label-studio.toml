@@ -1,0 +1,7 @@
+name = "Label Studio"
+description = "Multi-modal data labeling and annotation platform for agent traces, LLM evals, RLHF, computer vision, document AI, NLP, audio transcription, and more."
+category = "other"
+website = "https://labelstud.io"
+open_source = true
+repository = "https://github.com/HumanSignal/label-studio"
+added = 2026-10-24

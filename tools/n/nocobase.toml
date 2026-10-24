@@ -1,0 +1,7 @@
+name = "NocoBase"
+description = "Open-source AI no-code platform for building reliable business systems. Use AI coding agents and AI employees on proven infrastructure, self-hosted, with full data control."
+category = "education"
+website = "https://www.nocobase.com"
+open_source = true
+repository = "https://github.com/nocobase/nocobase"
+added = 2026-10-24

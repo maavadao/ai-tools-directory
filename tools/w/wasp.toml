@@ -1,0 +1,7 @@
+name = "wasp"
+description = "The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command…"
+category = "other"
+website = "https://wasp.sh"
+open_source = true
+repository = "https://github.com/wasp-lang/wasp"
+added = 2026-10-24

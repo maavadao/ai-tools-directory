@@ -1,0 +1,7 @@
+name = "img2threejs"
+description = "Explore procedural Three.js models and a source-preserving robot studio with segment colors and rigged animations. No GLB is fetched at runtime."
+category = "coding"
+website = "https://img2threejs.io"
+open_source = true
+repository = "https://github.com/img2threejs/img2threejs"
+added = 2026-10-24

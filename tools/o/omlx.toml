@@ -1,0 +1,7 @@
+name = "oMLX"
+description = "Native macOS inference server built on MLX. Paged SSD KV caching, continuous batching, and drop-in API for Claude Code, OpenClaw, and Cursor."
+category = "chatbots"
+website = "https://omlx.ai"
+open_source = true
+repository = "https://github.com/jundot/omlx"
+added = 2026-10-24

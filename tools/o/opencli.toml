@@ -1,0 +1,7 @@
+name = "OpenCLI"
+description = "Navigate, click, fill forms, and extract content without site adapters. An agent-browser alternative with reusable site commands."
+category = "other"
+website = "https://opencli.info"
+open_source = true
+repository = "https://github.com/jackwener/OpenCLI"
+added = 2026-10-24

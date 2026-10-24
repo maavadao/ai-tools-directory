@@ -1,0 +1,7 @@
+name = "Beads Documentation"
+description = "Dependency-aware, Dolt-backed issue tracker built for AI coding agents that survive context loss"
+category = "coding"
+website = "https://beads.gascity.com"
+open_source = true
+repository = "https://github.com/gastownhall/beads"
+added = 2026-10-24
