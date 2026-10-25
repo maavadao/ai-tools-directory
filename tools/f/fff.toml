@@ -1,0 +1,7 @@
+name = "fff"
+description = "Blazing-fast file finder and content grep across massive repositories. Search Linux (38M loc), Chromium (42M loc), and more in milliseconds."
+category = "agents"
+website = "https://fff.dmtrkovalenko.dev"
+open_source = true
+repository = "https://github.com/dmtrKovalenko/fff"
+added = 2026-10-25

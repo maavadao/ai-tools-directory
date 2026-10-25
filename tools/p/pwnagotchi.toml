@@ -1,0 +1,7 @@
+name = "pwnagotchi"
+description = "(_) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning."
+category = "other"
+website = "https://pwnagotchi.ai"
+open_source = true
+repository = "https://github.com/evilsocket/pwnagotchi"
+added = 2026-10-25

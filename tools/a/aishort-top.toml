@@ -1,0 +1,7 @@
+name = "AI 提示词库"
+description = "Stop writing prompts from scratch — a searchable prompt library for ChatGPT, Claude, Gemini and Cursor · Русский 한국어 العربية हिन्दी ไทย ｜ 别再从头写提示词：现成的拿来就用，好用的收进自己的库"
+category = "education"
+website = "https://www.aishort.top"
+open_source = true
+repository = "https://github.com/rockbenben/ChatGPT-Shortcut"
+added = 2026-10-25

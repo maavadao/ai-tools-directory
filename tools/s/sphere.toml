@@ -1,0 +1,7 @@
+name = "sphere"
+description = "The OS that runs your agents - with the identity, enforcement, and proof to trust them when no one is watching."
+category = "agents"
+website = "https://www.unicity.ai"
+open_source = true
+repository = "https://github.com/unicity-sphere/sphere"
+added = 2026-10-25

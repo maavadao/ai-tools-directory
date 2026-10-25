@@ -1,0 +1,7 @@
+name = "Microsoft"
+description = ".NET is a developer platform with tools and libraries for building any type of app, including web, mobile, desktop, games, IoT, cloud, and microservices."
+category = "data"
+website = "https://dotnet.microsoft.com"
+open_source = true
+repository = "https://github.com/dotnet/machinelearning"
+added = 2026-10-25

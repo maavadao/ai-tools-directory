@@ -1,0 +1,7 @@
+name = "magpie"
+description = "Every agent’s model. One place."
+category = "chatbots"
+website = "https://usemagpie.ai"
+open_source = true
+repository = "https://github.com/yetone/magpie"
+added = 2026-10-25

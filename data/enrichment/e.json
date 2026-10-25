@@ -19,9 +19,35 @@
 "checked": "2026-10-24",
 "image": "https://lite.ego.app/og.png"
 },
+"eigent": {
+"checked": "2026-10-25",
+"image": "https://www.eigent.ai/thumbnail.png",
+"pricing": {
+"currency": "USD",
+"from": 19.99,
+"trial": true,
+"url": "https://www.eigent.ai/pricing"
+}
+},
+"einops": {
+"checked": "2026-10-25"
+},
+"ekko-studio": {
+"checked": "2026-10-25"
+},
 "electerm": {
 "checked": "2026-10-24",
 "image": "https://electerm.org/android-chrome-512x512.png"
+},
+"electric": {
+"checked": "2026-10-25",
+"image": "https://electric.ax/.netlify/images?url=https%3A%2F%2Felectric.ax%2Fimg%2Fmeta%2Felectric.jpg&w=1200&h=630&fit=cover&fm=jpg&q=80",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.0,
+"url": "https://electric.ax/pricing"
+}
 },
 "eleutherai": {
 "checked": "2026-10-24",
@@ -45,9 +71,21 @@
 "checked": "2026-10-24",
 "image": "https://elizaresearch.ai/assets/og.png"
 },
+"evermind": {
+"checked": "2026-10-25",
+"image": "https://framerusercontent.com/images/krmM5lcHDcxwJssaZnZtLbHrX2o.png"
+},
 "evolink": {
 "checked": "2026-10-24",
 "image": "https://cdn.evolink.ai/2026/File/evolink.ai/og-image.png"
+},
+"evolution": {
+"checked": "2026-10-25",
+"image": "https://evolutionfoundation.com.br/og/home.png"
+},
+"evomap": {
+"checked": "2026-10-25",
+"image": "https://evomap.ai/og-image.png"
 },
 "exa-3-0": {
 "checked": "2026-10-23",

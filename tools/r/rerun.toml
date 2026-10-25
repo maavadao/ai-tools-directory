@@ -1,0 +1,7 @@
+name = "rerun"
+description = "The data primitives to build, understand, and improve your data loop. Designed for multi-rate, multimodal data, from the first recording to massive scale."
+category = "other"
+website = "https://rerun.io"
+open_source = true
+repository = "https://github.com/rerun-io/rerun"
+added = 2026-10-25

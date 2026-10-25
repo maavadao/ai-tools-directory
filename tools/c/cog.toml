@@ -1,0 +1,7 @@
+name = "cog"
+description = "Containers for machine learning"
+category = "other"
+website = "https://cog.run"
+open_source = true
+repository = "https://github.com/replicate/cog"
+added = 2026-10-25

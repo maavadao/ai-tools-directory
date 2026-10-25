@@ -1,0 +1,7 @@
+name = "OpenMined"
+description = "Unlock insights from data you can't access. Create value from data you can't share. OpenMined builds the technology to make it happen. Non-profit. Open-source."
+category = "other"
+website = "https://openmined.org"
+open_source = true
+repository = "https://github.com/OpenMined/PySyft"
+added = 2026-10-25

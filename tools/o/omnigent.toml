@@ -1,0 +1,7 @@
+name = "omnigent"
+description = "Omnigent is an open-source meta-harness: a common layer for composing, governing, and collaborating on AI agents — coding and otherwise — on top of the harnesses you already use."
+category = "coding"
+website = "https://omnigent.ai"
+open_source = true
+repository = "https://github.com/omnigent-ai/omnigent"
+added = 2026-10-25

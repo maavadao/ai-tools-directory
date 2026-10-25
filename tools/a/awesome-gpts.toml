@@ -1,0 +1,7 @@
+name = "Awesome GPTs"
+description = "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers."
+category = "research"
+website = "https://awesomegpt.vip"
+open_source = true
+repository = "https://github.com/ai-boost/awesome-prompts"
+added = 2026-10-25

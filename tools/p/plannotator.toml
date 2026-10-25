@@ -1,0 +1,7 @@
+name = "plannotator"
+description = "Free, open-source review tooling for Claude Code, OpenCode, Codex, Pi, and Droid. Review agent plans before they execute, annotate agent-written code, and send structured feedback back locally."
+category = "coding"
+website = "https://plannotator.ai"
+open_source = true
+repository = "https://github.com/backnotprop/plannotator"
+added = 2026-10-25

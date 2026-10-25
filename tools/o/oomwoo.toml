@@ -1,0 +1,7 @@
+name = "OOMWOO"
+description = "Raspberry Pi · ROS2 · Home Assistant · 2D LiDAR · 3D printed. Local-first, no cloud, no vendor lock-in."
+category = "other"
+website = "https://oomwoo.com"
+open_source = true
+repository = "https://github.com/makerspet/oomwoo"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "autoware"
+description = "Autoware - the world's leading open-source software project for autonomous driving"
+category = "other"
+website = "https://autoware.org"
+open_source = true
+repository = "https://github.com/autowarefoundation/autoware"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "Cookiecutter Data Science"
+description = "A project template and directory structure for Python data science projects."
+category = "data"
+website = "https://cookiecutter-data-science.drivendata.org"
+open_source = true
+repository = "https://github.com/drivendataorg/cookiecutter-data-science"
+added = 2026-10-25

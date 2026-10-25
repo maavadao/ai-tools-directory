@@ -1,0 +1,7 @@
+name = "IronClaw"
+description = "IronClaw: Unleash Your AI Agent, With Peace of Mind. The open-source secure runtime that runs AI agents in encrypted enclaves on NEAR AI Cloud."
+category = "agents"
+website = "https://www.ironclaw.com"
+open_source = true
+repository = "https://github.com/nearai/ironclaw"
+added = 2026-10-25

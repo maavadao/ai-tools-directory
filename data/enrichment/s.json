@@ -1,4 +1,8 @@
 {
+"sapient-intelligence": {
+"checked": "2026-10-25",
+"image": "https://sapient.inc/og.png"
+},
 "schole": {
 "checked": "2026-10-23",
 "image": "https://schole.ai/og.png",
@@ -92,6 +96,10 @@
 "url": "https://www.sim.ai/pricing"
 }
 },
+"skill-seekers": {
+"checked": "2026-10-25",
+"image": "https://skillseekersweb.com/og-image.png"
+},
 "skills": {
 "checked": "2026-10-23",
 "image": "https://res.cloudinary.com/total-typescript/image/upload/v1777557385/og-image-root_2x.jpg"
@@ -99,6 +107,14 @@
 "skills-sh": {
 "checked": "2026-10-23",
 "image": "https://www.skills.sh/og.jpeg"
+},
+"sktime": {
+"checked": "2026-10-25",
+"image": "https://www.sktime.net/sktime-thumbnail.png"
+},
+"skypilot": {
+"checked": "2026-10-25",
+"image": "https://cdn.sanity.io/images/9qcljuzt/production/1d7efde891b608b79232e7cb65725cdae2b8666c-1200x630.png?rect=0,2,1200,627&w=1200&h=627&fit=crop&auto=format"
 },
 "skyvern": {
 "checked": "2026-10-24",
@@ -108,6 +124,10 @@
 "from": 10.0,
 "url": "https://www.skyvern.com/pricing"
 }
+},
+"soup-cli": {
+"checked": "2026-10-25",
+"image": "https://trysoup.dev/opengraph-image?249851e5188a5dd8"
 },
 "sourcegraph": {
 "checked": "2026-10-23",
@@ -124,6 +144,10 @@
 "speak": {
 "checked": "2026-10-23"
 },
+"sphere": {
+"checked": "2026-10-25",
+"image": "https://unicity-website-uploads-prod-654654299933-eu-central-1.s3.eu-central-1.amazonaws.com/Homepage_OG_09f198be27.png"
+},
 "spira-ai": {
 "checked": "2026-10-23",
 "image": "https://spira.ai/opengraph-image",
@@ -134,8 +158,18 @@
 "url": "https://spira.ai/pricing"
 }
 },
+"spring-ai-alibaba": {
+"checked": "2026-10-25",
+"image": "https://spring-ai-alibaba.github.io/img/social-card.jpg"
+},
+"spug": {
+"checked": "2026-10-25"
+},
 "srs-simple-realtime-server": {
 "checked": "2026-10-24"
+},
+"stability-matrix": {
+"checked": "2026-10-25"
 },
 "stagehand": {
 "checked": "2026-10-24",

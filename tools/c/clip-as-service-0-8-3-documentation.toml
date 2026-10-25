@@ -1,0 +1,7 @@
+name = "CLIP-as-service 0.8.3 Documentation"
+description = "CLIP-as-service is a low-latency high-scalability service for embedding images and text. It can be easily integrated as a microservice into neural search solutions. ⚡ Fast: Serve CLIP models with TensorRT, ONNX runtime and PyTorch w/o JIT with 800QPS[*]. Non-blocking duplex streaming on requests ..."
+category = "other"
+website = "https://clip-as-service.jina.ai"
+open_source = true
+repository = "https://github.com/jina-ai/clip-as-service"
+added = 2026-10-25

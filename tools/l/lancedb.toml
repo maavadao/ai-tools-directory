@@ -1,0 +1,7 @@
+name = "LanceDB"
+description = "The multimodal lakehouse for AI, accelerating large-scale data curation and feature engineering so teams can build better models faster."
+category = "other"
+website = "https://www.lancedb.com"
+open_source = true
+repository = "https://github.com/lancedb/lancedb"
+added = 2026-10-25

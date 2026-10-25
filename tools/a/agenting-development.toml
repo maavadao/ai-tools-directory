@@ -1,0 +1,7 @@
+name = "Agenting Development"
+description = "A lightweight, powerful agent orchestration plugin for OpenCode. Transform your AI assistant into a manager capable of delegating complex tasks to specialized sub-agents."
+category = "agents"
+website = "https://ohmyopencodeslim.com"
+open_source = true
+repository = "https://github.com/alvinunreal/oh-my-opencode-slim"
+added = 2026-10-25

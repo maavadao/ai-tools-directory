@@ -1,0 +1,7 @@
+name = "gobot"
+description = "Gobot is a framework for robotics, drones, and the Internet of Things (IoT), written in the <span> Go programming language</span>."
+category = "other"
+website = "https://gobot.io"
+open_source = true
+repository = "https://github.com/hybridgroup/gobot"
+added = 2026-10-25

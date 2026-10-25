@@ -1,0 +1,7 @@
+name = "petals"
+description = "Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading"
+category = "chatbots"
+website = "https://petals.dev"
+open_source = true
+repository = "https://github.com/bigscience-workshop/petals"
+added = 2026-10-25

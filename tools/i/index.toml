@@ -1,0 +1,7 @@
+name = "Index"
+description = "PII anonymization for text, images, and structured data."
+category = "other"
+website = "https://presidio.dataprivacystack.org"
+open_source = true
+repository = "https://github.com/data-privacy-stack/presidio"
+added = 2026-10-25

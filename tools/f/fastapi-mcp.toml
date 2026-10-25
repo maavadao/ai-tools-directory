@@ -1,0 +1,7 @@
+name = "FastAPI MCP"
+description = "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!"
+category = "chatbots"
+website = "https://fastapi-mcp.tadata.com"
+open_source = true
+repository = "https://github.com/tadata-org/fastapi_mcp"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "TRAE"
+description = "TraeCode integrates seamlessly into your workflow, collaborating with you to maximize performance and efficiency."
+category = "chatbots"
+website = "https://www.trae.ai"
+open_source = true
+repository = "https://github.com/bytedance/trae-agent"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "rig"
+description = "Rig is a Rust library for building LLM-powered applications and AI agents — one unified API across 20+ providers, with type-safe tools, structured output, and production-ready performance."
+category = "chatbots"
+website = "https://rig.rs"
+open_source = true
+repository = "https://github.com/0xPlaygrounds/rig"
+added = 2026-10-25

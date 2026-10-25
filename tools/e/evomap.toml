@@ -1,0 +1,7 @@
+name = "EvoMap"
+description = "EvoMap is the infrastructure for AI self-evolution. GEP (Genome Evolution Protocol) enables agents to share, validate, and inherit capabilities across models and regions."
+category = "other"
+website = "https://evomap.ai"
+open_source = true
+repository = "https://github.com/EvoMap/evolver"
+added = 2026-10-25

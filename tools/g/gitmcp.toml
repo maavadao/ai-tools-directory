@@ -1,0 +1,7 @@
+name = "GitMCP"
+description = "Instantly create an MCP server for any GitHub project"
+category = "chatbots"
+website = "https://gitmcp.io"
+open_source = true
+repository = "https://github.com/idosal/git-mcp"
+added = 2026-10-25

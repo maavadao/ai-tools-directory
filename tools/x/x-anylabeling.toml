@@ -1,0 +1,7 @@
+name = "X-AnyLabeling"
+description = "X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, point cloud and multimodal data, combining versatile built-in tools with state-of-the-art AI models and flexible multi-format export."
+category = "other"
+website = "https://xanylabeling.com"
+open_source = true
+repository = "https://github.com/CVHub520/X-AnyLabeling"
+added = 2026-10-25

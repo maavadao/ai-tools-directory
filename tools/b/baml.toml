@@ -1,0 +1,7 @@
+name = "BAML"
+description = "BAML is a programming language for agents. Python and TypeScript were built for human productivity. BAML was designed with a different goal in mind."
+category = "chatbots"
+website = "https://boundaryml.com"
+open_source = true
+repository = "https://github.com/BoundaryML/baml"
+added = 2026-10-25

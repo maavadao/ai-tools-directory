@@ -1,0 +1,7 @@
+name = "Redirecting"
+description = "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]"
+category = "other"
+website = "https://rfdetr.roboflow.com"
+open_source = true
+repository = "https://github.com/roboflow/rf-detr"
+added = 2026-10-25

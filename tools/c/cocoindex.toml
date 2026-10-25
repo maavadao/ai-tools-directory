@@ -1,0 +1,7 @@
+name = "CocoIndex"
+description = "Open-source incremental data framework for AI agents. Keep codebases, docs, and knowledge continuously indexed — fresh context, zero re-processing. Python API."
+category = "agents"
+website = "https://cocoindex.io"
+open_source = true
+repository = "https://github.com/cocoindex-io/cocoindex"
+added = 2026-10-25

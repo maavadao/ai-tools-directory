@@ -1,0 +1,7 @@
+name = "KAG"
+description = "语义增强可编程知识图谱SPG"
+category = "other"
+website = "https://spg.openkg.cn"
+open_source = true
+repository = "https://github.com/OpenSPG/KAG"
+added = 2026-10-25

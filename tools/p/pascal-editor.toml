@@ -1,0 +1,7 @@
+name = "Pascal Editor"
+description = "Design, build, and share 3D home projects in your browser. Pascal Editor is a free, open-source building editor for walls, rooms, levels, roofs, furniture, and interior planning. No signup required."
+category = "other"
+website = "https://editor.pascal.app"
+open_source = true
+repository = "https://github.com/pascalorg/editor"
+added = 2026-10-25

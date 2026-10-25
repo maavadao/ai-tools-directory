@@ -1,0 +1,7 @@
+name = "mobilerun"
+description = "Cloud phones for AI agents. Real Android & iOS devices in the cloud, plug in Claude Code or your own AI. Network, SIM, API, device, all from code."
+category = "other"
+website = "https://mobilerun.ai"
+open_source = true
+repository = "https://github.com/droidrun/mobilerun"
+added = 2026-10-25

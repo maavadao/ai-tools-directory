@@ -1,0 +1,7 @@
+name = "OpenChamber"
+description = "OpenChamber is an agentic development environment for AI coding across desktop, browser, phone, and VS Code. Watch agents work, review diffs, branch sessions, and keep the whole board visible."
+category = "coding"
+website = "https://openchamber.dev"
+open_source = true
+repository = "https://github.com/openchamber/openchamber"
+added = 2026-10-25

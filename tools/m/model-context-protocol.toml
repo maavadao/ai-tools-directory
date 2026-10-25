@@ -1,0 +1,7 @@
+name = "Model Context Protocol"
+description = "Specification and documentation for the Model Context Protocol"
+category = "other"
+website = "https://modelcontextprotocol.io"
+open_source = true
+repository = "https://github.com/modelcontextprotocol/modelcontextprotocol"
+added = 2026-10-25

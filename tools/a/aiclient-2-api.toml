@@ -1,0 +1,7 @@
+name = "AIClient-2-API"
+description = "A unified API service for LLM projects"
+category = "other"
+website = "https://aiproxy.justlikemaki.vip"
+open_source = true
+repository = "https://github.com/justlovemaki/AIClient2API"
+added = 2026-10-25

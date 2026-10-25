@@ -1,0 +1,7 @@
+name = "electric"
+description = "Electric provides the data primitives and infra to build collaborative, multi-agent systems. Including Postgres Sync, Durable Streams, TanStack DB and PGlite."
+category = "agents"
+website = "https://electric.ax"
+open_source = true
+repository = "https://github.com/electric-sql/electric"
+added = 2026-10-25

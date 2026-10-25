@@ -1,0 +1,7 @@
+name = "Soup CLI"
+description = "Fine-tune Llama-3.1-8B on a 4 GB laptop GPU, and align on the same card. Soup is at v0.76.1, tagged 14 October 2026, a maintainer patch on the v0.76.0 line: the bundled DPO examples train again, every YAML file Soup reads goes through one loader with nesting and expansion limits and a size cap per…"
+category = "image"
+website = "https://trysoup.dev"
+open_source = true
+repository = "https://github.com/MakazhanAlpamys/Soup"
+added = 2026-10-25

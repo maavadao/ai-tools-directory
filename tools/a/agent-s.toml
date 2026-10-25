@@ -1,0 +1,7 @@
+name = "Agent-S"
+description = "Research-driven AI agents that operate real computers. Try Sai, your first robosecretary"
+category = "other"
+website = "https://www.simular.ai"
+open_source = true
+repository = "https://github.com/simular-ai/Agent-S"
+added = 2026-10-25

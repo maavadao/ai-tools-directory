@@ -1,0 +1,7 @@
+name = "deeplake"
+description = "On-premise Databricks for your datacenter"
+category = "chatbots"
+website = "https://deeplake.ai"
+open_source = true
+repository = "https://github.com/activeloopai/deeplake"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "Trail"
+description = "Turn your docs, Notion, Slack and SOPs into governed business rules any AI agent can follow — with every answer cited back to its source."
+category = "coding"
+website = "https://trailhq.com"
+open_source = true
+repository = "https://github.com/trailhq/Trail-Code"
+added = 2026-10-25

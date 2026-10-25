@@ -1,0 +1,7 @@
+name = "Bob"
+description = "一款 macOS 平台的翻译和 OCR 软件"
+category = "other"
+website = "https://bobtranslate.com"
+open_source = true
+repository = "https://github.com/ripperhe/Bob"
+added = 2026-10-25

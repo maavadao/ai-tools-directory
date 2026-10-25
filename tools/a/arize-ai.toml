@@ -1,0 +1,7 @@
+name = "Arize AI"
+description = "Trace, evaluate, and debug AI agents and LLM applications with Arize Phoenix. Run experiments, compare results, and self-host in your own environment."
+category = "agents"
+website = "https://arize.com"
+open_source = true
+repository = "https://github.com/Arize-ai/phoenix"
+added = 2026-10-25

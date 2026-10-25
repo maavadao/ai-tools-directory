@@ -1,0 +1,7 @@
+name = "oumi"
+description = "Own your intelligence. Compound it. Oumi is your AI factory. It builds, deploys, and keeps improving the specialized models you own, with up to +50% accuracy and up to 90% lower cost vs. frontier models, and 2 hours from prompt to production."
+category = "image"
+website = "https://oumi.ai"
+open_source = true
+repository = "https://github.com/oumi-ai/oumi"
+added = 2026-10-25

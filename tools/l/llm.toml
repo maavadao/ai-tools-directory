@@ -1,0 +1,7 @@
+name = "llm"
+description = "Access large language models from the command-line"
+category = "other"
+website = "https://llm.datasette.io"
+open_source = true
+repository = "https://github.com/simonw/llm"
+added = 2026-10-25

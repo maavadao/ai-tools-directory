@@ -1,0 +1,7 @@
+name = "Apache TVM"
+description = "Open Machine Learning Compiler Framework"
+category = "other"
+website = "https://tvm.apache.org"
+open_source = true
+repository = "https://github.com/apache/tvm"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "einops"
+description = "Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)"
+category = "other"
+website = "https://einops.rocks"
+open_source = true
+repository = "https://github.com/arogozhnikov/einops"
+added = 2026-10-25

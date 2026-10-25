@@ -1,0 +1,7 @@
+name = "HumanLayer"
+description = "A multiplayer coding agent IDE and cloud that brings agent sessions, plan artifacts, and code diffs together in one place for your team to collaborate and ship."
+category = "coding"
+website = "https://www.humanlayer.dev"
+open_source = true
+repository = "https://github.com/humanlayer/humanlayer"
+added = 2026-10-25

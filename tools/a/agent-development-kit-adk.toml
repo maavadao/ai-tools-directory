@@ -1,0 +1,7 @@
+name = "Agent Development Kit (ADK)"
+description = "Build powerful multi-agent systems with Agent Development Kit (ADK)"
+category = "agents"
+website = "https://adk.dev"
+open_source = true
+repository = "https://github.com/google/adk-recipes"
+added = 2026-10-25

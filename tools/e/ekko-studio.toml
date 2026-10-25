@@ -1,0 +1,7 @@
+name = "Ekko Studio"
+description = "Ekko Studio brings multiple AI agents into one workspace across desktop, mobile, and web — chat, collaborate, build visual workflows, and manage models and profiles."
+category = "chatbots"
+website = "https://ekkostudio.xyz"
+open_source = true
+repository = "https://github.com/EKKOLearnAI/ekko-studio"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "assistant-ui"
+description = "Open-source React components and runtimes for building AI chat. Streaming, tools, and persistence in TypeScript."
+category = "coding"
+website = "https://www.assistant-ui.com"
+open_source = true
+repository = "https://github.com/assistant-ui/assistant-ui"
+added = 2026-10-25

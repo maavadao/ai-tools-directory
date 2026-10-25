@@ -1,0 +1,7 @@
+name = "Magic Resume"
+description = "魔方简历是一款开源的简历编辑器，免费，隐私优先。无需注册登录，数据完全存储在本地，支持数据导出备份，确保您的简历数据随时可用。"
+category = "other"
+website = "https://magicv.art"
+open_source = true
+repository = "https://github.com/JOYCEQL/magic-resume"
+added = 2026-10-25

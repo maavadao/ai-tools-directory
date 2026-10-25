@@ -1,0 +1,7 @@
+name = "krita-ai-diffusion"
+description = "Image generation service"
+category = "image"
+website = "https://www.interstice.cloud"
+open_source = true
+repository = "https://github.com/Acly/krita-ai-diffusion"
+added = 2026-10-25

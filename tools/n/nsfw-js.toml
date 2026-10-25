@@ -1,0 +1,7 @@
+name = "NSFW JS"
+description = "A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate... and it's getting more accurate all the time."
+category = "data"
+website = "https://nsfwjs.com"
+open_source = true
+repository = "https://github.com/infinitered/nsfwjs"
+added = 2026-10-25

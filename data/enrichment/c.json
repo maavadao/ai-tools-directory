@@ -28,6 +28,10 @@
 "checked": "2026-10-23",
 "image": "https://www.thomsonreuters.com/content/dam/ue/en-us/images/product-images/248901.png.transform/rect-768/q90/image.png"
 },
+"catboost": {
+"checked": "2026-10-25",
+"image": "https://catboost-opensource.s3.yandex.net/logo_white_for_dark_theme.svg"
+},
 "cc-haha": {
 "checked": "2026-10-24",
 "image": "https://cchaha.ai/images/banner.png"
@@ -40,9 +44,16 @@
 "checked": "2026-10-23",
 "image": "https://benchmarks.cekura.ai/opengraph-image?d63bd4d18ec698db"
 },
+"certgames": {
+"checked": "2026-10-25",
+"image": "https://certgames.com/assets/certgames-social.png"
+},
 "character-ai": {
 "checked": "2026-10-23",
 "image": "https://character.ai/character-ai.jpg"
+},
+"chat-aimakex-com": {
+"checked": "2026-10-25"
 },
 "chat2db": {
 "checked": "2026-10-24",
@@ -52,6 +63,9 @@
 "trial": true,
 "url": "https://chat2db.ai/pricing"
 }
+},
+"chatanywhere": {
+"checked": "2026-10-25"
 },
 "chatbox-ai": {
 "checked": "2026-10-23",
@@ -129,6 +143,21 @@
 "url": "https://cmem.ai/pricing"
 }
 },
+"claudecodeui": {
+"checked": "2026-10-25",
+"image": "https://cdn.sanity.io/images/s150envk/production/0dcef7522508c0162b22f1ee2ddf5391cca4b5e9-1200x630.png?w=1200&h=630&q=85&auto=format",
+"pricing": {
+"currency": "EUR",
+"free": true,
+"from": 5.0,
+"trial": true,
+"url": "https://cloudcli.ai/"
+}
+},
+"claurst": {
+"checked": "2026-10-25",
+"image": "https://claurst.kuber.studio/public/social-image.png"
+},
 "clawskills-sh": {
 "checked": "2026-10-23",
 "image": "https://clawskills.sh/api/og/default"
@@ -143,6 +172,10 @@
 "trial": true,
 "url": "https://www.clay.com/pricing"
 }
+},
+"cleanlab": {
+"checked": "2026-10-25",
+"image": "https://cleanlab.ai/_next/static/media/social-share-card-homepage.71fc9f90.png"
 },
 "cli-anything-hub": {
 "checked": "2026-10-23"
@@ -168,6 +201,10 @@
 "cline": {
 "checked": "2026-10-23",
 "image": "https://cline.bot/cline_og_img.png"
+},
+"clip-as-service-0-8-3-documentation": {
+"checked": "2026-10-25",
+"image": "https://clip-as-service.jina.ai/_static/banner.png"
 },
 "clipdrop": {
 "checked": "2026-10-23",
@@ -196,6 +233,14 @@
 "url": "https://cmux.com/pricing"
 }
 },
+"coai-dev": {
+"checked": "2026-10-25",
+"image": "https://www.coai.dev/og-image.png"
+},
+"cocoindex": {
+"checked": "2026-10-25",
+"image": "https://cocoindex.io/og/home.png"
+},
 "coda": {
 "checked": "2026-10-23",
 "image": "https://sanity-images.imgix.net/production/6b46953798756d87bc1ad579a32d2af427ba6d3d-1200x628.png?w=&auto=format%2Ccompress"
@@ -219,6 +264,9 @@
 "codexbar": {
 "checked": "2026-10-24",
 "image": "https://codexbar.app/social.png?v=1436859e75bb3a24"
+},
+"cog": {
+"checked": "2026-10-25"
 },
 "cognee": {
 "checked": "2026-10-23",
@@ -260,6 +308,10 @@
 "url": "https://composio.dev/pricing"
 }
 },
+"concat": {
+"checked": "2026-10-25",
+"image": "https://concat.standalones.org/og.png"
+},
 "consensus-ai-for-research": {
 "checked": "2026-10-23",
 "image": "https://consensus.app/images/og-default.png"
@@ -286,6 +338,9 @@
 "continue-acquired-by-cursor": {
 "checked": "2026-10-23"
 },
+"cookiecutter-data-science": {
+"checked": "2026-10-25"
+},
 "copilotkit": {
 "checked": "2026-10-23",
 "image": "https://www.copilotkit.ai/images/og/generic.webp",
@@ -304,6 +359,15 @@
 "url": "https://www.copy.ai/prices"
 }
 },
+"corsair": {
+"checked": "2026-10-25",
+"image": "https://corsair.dev/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 200.0,
+"url": "https://corsair.dev/"
+}
+},
 "cowagent": {
 "checked": "2026-10-23",
 "image": "https://cowagent.ai/logo/cow-logo.png"
@@ -319,9 +383,17 @@
 "crawlee": {
 "checked": "2026-10-24"
 },
+"creative-tim": {
+"checked": "2026-10-25",
+"image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/refs/heads/master/creative-tim/creative-tim-new-thumb-opt.jpg"
+},
 "crewai": {
 "checked": "2026-10-23",
 "image": "https://images.ctfassets.net/rmv9a2eqdsyw/26ld4zbjbNkeg6KGxkyLXE/7d686ce386ed7eb61f3d0f1d3709949c/og-image__2_.png"
+},
+"crucix": {
+"checked": "2026-10-25",
+"image": "https://crucix.live/og-image.png"
 },
 "cua-spaces": {
 "checked": "2026-10-23",
@@ -341,6 +413,9 @@
 "from": 20.0,
 "url": "https://cube.dev/pricing"
 }
+},
+"cubesandbox": {
+"checked": "2026-10-25"
 },
 "cuey": {
 "checked": "2026-10-23",
@@ -365,6 +440,14 @@
 "pricing": {
 "free": true,
 "url": "https://www.cvat.ai/pricing/cvat-online"
+}
+},
+"cyber-bara": {
+"checked": "2026-10-25",
+"image": "https://cyberbara.com/preview.jpg",
+"pricing": {
+"free": true,
+"url": "https://cyberbara.com/pricing"
 }
 }
 }

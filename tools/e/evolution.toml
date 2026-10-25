@@ -1,0 +1,7 @@
+name = "Evolution"
+description = "Venda e fidelize mais com atendimento, CRM, funis, campanhas e inteligência artificial em um só lugar."
+category = "chatbots"
+website = "https://evolutionfoundation.com.br"
+open_source = true
+repository = "https://github.com/evolution-foundation/evolution-api"
+added = 2026-10-25

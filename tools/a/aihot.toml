@@ -1,0 +1,7 @@
+name = "AIHOT"
+description = "AIHOT 由数字生命卡兹克出品，每天从全网挑出真正值得看的 AI 动态：AI 写中文摘要、打分筛掉水文，每天发布 AI 日报。模型发布、新产品、行业大事、论文、教程与观点，一站看完今天的 AI 新闻。"
+category = "chatbots"
+website = "https://aihot.news"
+open_source = true
+repository = "https://github.com/KKKKhazix/AIHOT"
+added = 2026-10-25

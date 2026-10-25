@@ -1,0 +1,7 @@
+name = "CubeSandbox"
+description = "Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents"
+category = "agents"
+website = "https://cubesandbox.com"
+open_source = true
+repository = "https://github.com/TencentCloud/CubeSandbox"
+added = 2026-10-25

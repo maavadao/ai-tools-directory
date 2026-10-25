@@ -1,0 +1,7 @@
+name = "OpenLLM"
+description = "Inference Platform built for speed and control. Deploy any model anywhere, with tailored inference optimization, efficient scaling, and streamlined operations."
+category = "chatbots"
+website = "https://bentoml.com"
+open_source = true
+repository = "https://github.com/bentoml/OpenLLM"
+added = 2026-10-25

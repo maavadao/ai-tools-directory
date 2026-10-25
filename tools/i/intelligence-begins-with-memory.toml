@@ -1,0 +1,7 @@
+name = "INTELLIGENCE BEGINS WITH MEMORY"
+description = "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support."
+category = "chatbots"
+website = "https://memos.openmem.net"
+open_source = true
+repository = "https://github.com/MemTensor/MemOS"
+added = 2026-10-25

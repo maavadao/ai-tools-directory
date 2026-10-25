@@ -1,0 +1,7 @@
+name = "kubeshark"
+description = "Deep packet inspection with complete API and Kubernetes contexts."
+category = "other"
+website = "https://kubeshark.com"
+open_source = true
+repository = "https://github.com/kubeshark/kubeshark"
+added = 2026-10-25

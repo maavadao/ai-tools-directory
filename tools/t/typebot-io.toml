@@ -1,0 +1,7 @@
+name = "typebot.io"
+description = "Typebot is a no-code platform that enables you to effortlessly create and integrate advanced chatbots into websites and chat platforms like WhatsApp."
+category = "chatbots"
+website = "https://typebot.com"
+open_source = true
+repository = "https://github.com/baptisteArno/typebot.io"
+added = 2026-10-25

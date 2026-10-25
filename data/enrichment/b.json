@@ -3,6 +3,14 @@
 "checked": "2026-10-23",
 "image": "https://b3log.org/images/brand/b3log-128.png"
 },
+"baml": {
+"checked": "2026-10-25",
+"image": "https://boundaryml.com/api/og?title=The+programming+language+for+agents&desc=New+paradigm%2C+new+language.&timeline=1"
+},
+"banana-slides": {
+"checked": "2026-10-25",
+"image": "https://bananaslides.online/social/cover.png"
+},
 "band": {
 "checked": "2026-10-23",
 "image": "https://a.storyblok.com/f/291236425241163/1200x630/898e037b86/og-image.png",
@@ -36,6 +44,15 @@
 "url": "https://www.beautiful.ai/pricing"
 }
 },
+"bifrost-by-maxim-ai": {
+"checked": "2026-10-25",
+"image": "https://bifrost-website.getmaxim.workers.dev/marketing/TEMoNkNbpcTVKd8275wElrbTx8.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.getmaxim.ai/pricing"
+}
+},
 "bit-dev": {
 "checked": "2026-10-24",
 "image": "https://static.bit.dev/og-images/bit-marketing-og-img-facebook-2025.png"
@@ -55,9 +72,22 @@
 "checked": "2026-10-23",
 "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_2h6zcs1ppc9w5vw8fj72vn763s/0da7660965d2d10218896de3e7216398_1792196505044.png"
 },
+"blinko": {
+"checked": "2026-10-25",
+"image": "https://blinko.space/preview.webp",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.99,
+"url": "https://blinko.space/en/pricing"
+}
+},
 "blog-google": {
 "checked": "2026-10-23",
 "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-1440x810.jpg"
+},
+"bob": {
+"checked": "2026-10-25"
 },
 "bolt-new": {
 "checked": "2026-10-23",
@@ -75,6 +105,10 @@
 "from": 40.0,
 "url": "https://botpress.com/pricing"
 }
+},
+"brigade": {
+"checked": "2026-10-25",
+"image": "https://brigade.spinabot.com/opengraph-image?ffa252a9d4aab850"
 },
 "browser": {
 "checked": "2026-10-23",
@@ -131,6 +165,10 @@
 },
 "burn": {
 "checked": "2026-10-24"
+},
+"buy-me-a-coffee": {
+"checked": "2026-10-25",
+"image": "https://cdn.buymeacoffee.com/assets/homepage/meta/home-page-og.png"
 },
 "bytebase": {
 "checked": "2026-10-24",

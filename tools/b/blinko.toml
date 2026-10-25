@@ -1,0 +1,7 @@
+name = "blinko"
+description = "Capture ideas, organize notes, write with AI, and publish your personal blog. Start free with Blinko Cloud, without managing a server."
+category = "other"
+website = "https://blinko.space"
+open_source = true
+repository = "https://github.com/blinkospace/blinko"
+added = 2026-10-25

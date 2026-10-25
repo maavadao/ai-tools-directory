@@ -1,0 +1,7 @@
+name = "Getting started"
+description = "The research engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one."
+category = "data"
+website = "https://vectorbt.dev"
+open_source = true
+repository = "https://github.com/polakowo/vectorbt"
+added = 2026-10-25

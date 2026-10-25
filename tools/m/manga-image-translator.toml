@@ -1,0 +1,7 @@
+name = "manga-image-translator"
+description = "Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)"
+category = "other"
+website = "https://cotrans.touhou.ai"
+open_source = true
+repository = "https://github.com/zyddnys/manga-image-translator"
+added = 2026-10-25

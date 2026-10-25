@@ -1,0 +1,7 @@
+name = "kedro"
+description = "An open-source framework for data engineering and data science code"
+category = "agents"
+website = "https://kedro.org"
+open_source = true
+repository = "https://github.com/kedro-org/kedro"
+added = 2026-10-25

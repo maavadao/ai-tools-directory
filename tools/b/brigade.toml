@@ -1,0 +1,7 @@
+name = "brigade"
+description = "Brigade is a self-hostable crew of AI agents on a real org chart that delegate, remember, and improve across 1,000+ connected apps. Open source and free."
+category = "coding"
+website = "https://brigade.spinabot.com"
+open_source = true
+repository = "https://github.com/spinabot/brigade"
+added = 2026-10-25

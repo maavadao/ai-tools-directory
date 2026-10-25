@@ -1,0 +1,7 @@
+name = "Apify MCP server"
+description = "Connect Claude, Cursor, and your AI agents with thousands of web scraping and automation tools. Run Actors, access results, and search Apify documentation."
+category = "agents"
+website = "https://mcp.apify.com"
+open_source = true
+repository = "https://github.com/apify/apify-mcp-server"
+added = 2026-10-25

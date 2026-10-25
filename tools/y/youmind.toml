@@ -1,0 +1,7 @@
+name = "YouMind"
+description = "Learn deeper and create bolder with YouMind. Explore your sources with AI and turn ideas into your own articles, slides, images, videos, and webpages."
+category = "education"
+website = "https://youmind.com"
+open_source = true
+repository = "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
+added = 2026-10-25

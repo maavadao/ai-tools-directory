@@ -1,0 +1,7 @@
+name = "holaboss"
+description = "Run your service business on agents: website building, AI employees, customer management, delivery management, company brain, and service templates."
+category = "other"
+website = "https://www.holaboss.ai"
+open_source = true
+repository = "https://github.com/holaboss-ai/holaOS"
+added = 2026-10-25

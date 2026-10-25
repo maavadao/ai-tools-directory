@@ -10,6 +10,18 @@
 "faiss": {
 "checked": "2026-10-23"
 },
+"falkordb": {
+"checked": "2026-10-25",
+"image": "https://www.falkordb.com/wp-content/uploads/2026/10/falkordb-og-homepage.png",
+"pricing": {
+"free": true,
+"url": "https://www.falkordb.com/plans/"
+}
+},
+"fastapi-mcp": {
+"checked": "2026-10-25",
+"image": "https://tadata-a67d782f.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=Welcome+to+FastAPI-MCP%21&description=Expose+your+FastAPI+endpoints+as+Model+Context+Protocol+%28MCP%29+tools%2C+with+Auth%21&theme=3cd45186f5f01d3b5844570a&signature=57403da8369affe5e77bcc67a208020812dcae386e345dda409de805d0e15f4a"
+},
 "fastbook": {
 "checked": "2026-10-24",
 "image": "https://course.fast.ai/www/social.png"
@@ -45,6 +57,17 @@
 "from": 75.0,
 "trial": true,
 "url": "https://ferndesk.com/pricing"
+}
+},
+"fff": {
+"checked": "2026-10-25",
+"image": "https://fff.dmtrkovalenko.dev/og-image.png"
+},
+"fiftyone-documentation": {
+"checked": "2026-10-25",
+"pricing": {
+"free": true,
+"url": "https://voxel51.com/pricing"
 }
 },
 "figma": {
@@ -83,6 +106,12 @@
 "url": "https://fireflies.ai/pricing"
 }
 },
+"firerpa": {
+"checked": "2026-10-25"
+},
+"fish-audio": {
+"checked": "2026-10-25"
+},
 "floot-mcp": {
 "checked": "2026-10-23",
 "image": "https://floot.com/opengraph-image?73d44ab152b4e4a6",
@@ -92,6 +121,12 @@
 "from": 25.0,
 "url": "https://floot.com/en/pricing"
 }
+},
+"flowgram-ai": {
+"checked": "2026-10-25"
+},
+"fluidvoice": {
+"checked": "2026-10-25"
 },
 "folo": {
 "checked": "2026-10-23",

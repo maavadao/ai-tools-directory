@@ -1,0 +1,7 @@
+name = "JEECG官方网站"
+description = "JeecgBoot 是企业级 AI 低代码开发平台，提供代码生成、零代码搭建、BPM 工作流、表单、报表大屏、AI 知识库与移动端能力，帮助企业快速构建数字化应用。"
+category = "agents"
+website = "https://www.jeecg.com"
+open_source = true
+repository = "https://github.com/jeecgboot/JeecgBoot"
+added = 2026-10-25

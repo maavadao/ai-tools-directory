@@ -1,0 +1,7 @@
+name = "Bifrost (by Maxim AI)"
+description = "The fastest open-source AI gateway for LLMs, MCP and agents: 50x faster than LiteLLM, with routing, governance, guardrails and observability built in."
+category = "other"
+website = "https://www.getmaxim.ai"
+open_source = true
+repository = "https://github.com/maximhq/bifrost"
+added = 2026-10-25

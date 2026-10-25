@@ -1,0 +1,7 @@
+name = "MCP TypeScript SDK"
+description = "Documentation for v1.x of the MCP TypeScript SDK."
+category = "other"
+website = "https://ts.sdk.modelcontextprotocol.io"
+open_source = true
+repository = "https://github.com/modelcontextprotocol/typescript-sdk"
+added = 2026-10-25

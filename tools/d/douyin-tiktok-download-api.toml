@@ -1,0 +1,7 @@
+name = "Douyin_TikTok_Download_API"
+description = "A self-hosted data API for Douyin, TikTok and Bilibili. REST, MCP and a web console, with an identity pool that maintains itself, watermark-free downloads and offline speech to text. Open source, free, and it runs on your own machine."
+category = "other"
+website = "https://douyin.wtf"
+open_source = true
+repository = "https://github.com/Evil0ctal/Douyin_TikTok_Download_API"
+added = 2026-10-25

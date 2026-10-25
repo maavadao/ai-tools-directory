@@ -1,0 +1,7 @@
+name = "hello-agents"
+description = "Description"
+category = "chatbots"
+website = "https://hello-agents.datawhale.cc"
+open_source = true
+repository = "https://github.com/datawhalechina/hello-agents"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "Open Policy Agent"
+description = "Open Policy Agent (OPA) is an open source, general-purpose policy engine."
+category = "agents"
+website = "https://www.openpolicyagent.org"
+open_source = true
+repository = "https://github.com/open-policy-agent/opa"
+added = 2026-10-25

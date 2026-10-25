@@ -1,0 +1,7 @@
+name = "Atlas"
+description = "Install any coding agent, run them across projects, capture every session on a team timeline, and chat with your team — in one native macOS window."
+category = "other"
+website = "https://www.tryatlas.cc"
+open_source = true
+repository = "https://github.com/pacifio/atlas"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "CatBoost"
+description = "CatBoost is a machine learning algorithm that uses gradient boosting on decision trees. It is available as an open source library."
+category = "education"
+website = "https://catboost.ai"
+open_source = true
+repository = "https://github.com/catboost/catboost"
+added = 2026-10-25

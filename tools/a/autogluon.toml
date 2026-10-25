@@ -1,0 +1,7 @@
+name = "autogluon"
+description = "Fast and Accurate ML in 3 Lines of Code"
+category = "data"
+website = "https://auto.gluon.ai"
+open_source = true
+repository = "https://github.com/autogluon/autogluon"
+added = 2026-10-25

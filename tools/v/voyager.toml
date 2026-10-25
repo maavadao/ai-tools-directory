@@ -1,0 +1,7 @@
+name = "voyager"
+description = "直观的导航。强大的组织。简洁优雅。"
+category = "chatbots"
+website = "https://voyager.nagi.fun"
+open_source = true
+repository = "https://github.com/voyager-crew/voyager"
+added = 2026-10-25

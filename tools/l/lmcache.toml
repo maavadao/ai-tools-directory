@@ -1,0 +1,7 @@
+name = "LMCache"
+description = "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer"
+category = "chatbots"
+website = "https://lmcache.ai"
+open_source = true
+repository = "https://github.com/LMCache/LMCache"
+added = 2026-10-25

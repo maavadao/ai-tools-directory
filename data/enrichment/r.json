@@ -21,9 +21,23 @@
 "checked": "2026-10-24",
 "image": "https://www.react.doctor/opengraph-image"
 },
+"read-frog": {
+"checked": "2026-10-25",
+"image": "https://www.readfrog.app/og/og-en.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 2.5,
+"url": "https://www.readfrog.app/en/pricing"
+}
+},
 "readywhen": {
 "checked": "2026-10-23",
 "image": "https://app.readywhen.ai/opengraph-image.jpg?opengraph-image.0j4iyf128lxuz.jpg"
+},
+"realsense": {
+"checked": "2026-10-25",
+"image": "https://www.realsenseai.com/wp-content/uploads/2025/07/home-page-detail.jpg"
 },
 "reclaim": {
 "checked": "2026-10-23",
@@ -38,6 +52,9 @@
 },
 "redirecting": {
 "checked": "2026-10-23"
+},
+"redirecting-to-https-sonnet-readthedocs-io": {
+"checked": "2026-10-25"
 },
 "relevance-ai": {
 "checked": "2026-10-23",
@@ -57,6 +74,14 @@
 "repomix": {
 "checked": "2026-10-24",
 "image": "https://repomix.com/images/og-image-large.png"
+},
+"rerun": {
+"checked": "2026-10-25",
+"image": "https://rerun.io/og.png?title=The+Data+Layer+for+Physical+AI",
+"pricing": {
+"free": true,
+"url": "https://rerun.io/pricing"
+}
 },
 "reso": {
 "checked": "2026-10-23",
@@ -81,9 +106,21 @@
 "url": "https://rtrvr.ai/pricing"
 }
 },
+"revision-39841": {
+"checked": "2026-10-25"
+},
+"rfdetr-roboflow-com": {
+"checked": "2026-10-25"
+},
+"rig": {
+"checked": "2026-10-25"
+},
 "rill-browser": {
 "checked": "2026-10-23",
 "image": "https://rill.love/assets/og-image.png"
+},
+"robotgo": {
+"checked": "2026-10-25"
 },
 "rool": {
 "checked": "2026-10-23",
@@ -105,6 +142,10 @@
 },
 "rufus": {
 "checked": "2026-10-23"
+},
+"runanywhere": {
+"checked": "2026-10-25",
+"image": "https://runanywhere.ai/share/runanywhere.png"
 },
 "runway": {
 "checked": "2026-10-23",

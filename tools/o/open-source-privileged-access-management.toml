@@ -1,0 +1,7 @@
+name = "Open-Source Privileged Access Management"
+description = "JumpServer is a free, open-source privileged access management platform for DevOps & IT teams. Secure SSH, RDP, Kubernetes & databases. 500K+ deployments. Free trial."
+category = "other"
+website = "https://www.jumpserver.com"
+open_source = true
+repository = "https://github.com/jumpserver/jumpserver"
+added = 2026-10-25

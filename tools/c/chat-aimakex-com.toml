@@ -1,0 +1,7 @@
+name = "智造喵"
+description = "智造喵, AI中文智能对话, 与AI对话"
+category = "chatbots"
+website = "https://chat.aimakex.com"
+open_source = true
+repository = "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "mcp-use"
+description = "Get on ChatGPT and Claude plugin stores, understand how agents use them and test every release across clients and harnesses."
+category = "other"
+website = "https://manufact.com"
+open_source = true
+repository = "https://github.com/mcp-use/mcp-use"
+added = 2026-10-25

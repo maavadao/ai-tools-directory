@@ -1,0 +1,7 @@
+name = "moondream"
+description = "A fast & powerful vision model that rocks."
+category = "other"
+website = "https://moondream.ai"
+open_source = true
+repository = "https://github.com/m87-labs/moondream"
+added = 2026-10-25

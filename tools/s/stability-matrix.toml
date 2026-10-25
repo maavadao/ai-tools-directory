@@ -1,0 +1,7 @@
+name = "Stability Matrix"
+description = "Multi-Platform Package Manager for Stable Diffusion"
+category = "image"
+website = "https://lykos.ai"
+open_source = true
+repository = "https://github.com/LykosAI/StabilityMatrix"
+added = 2026-10-25

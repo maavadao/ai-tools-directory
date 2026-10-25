@@ -1,0 +1,7 @@
+name = "FalkorDB"
+description = "FalkorDB is an open source graph database for AI agents and GraphRAG. Multi-tenant, OpenCypher compatible, built for real-time queries. Free to start."
+category = "coding"
+website = "https://www.falkordb.com"
+open_source = true
+repository = "https://github.com/FalkorDB/FalkorDB"
+added = 2026-10-25

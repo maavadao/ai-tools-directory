@@ -1,0 +1,7 @@
+name = "Pest"
+description = "Pest is the elegant PHP testing framework built for developers and AI agents — with browser testing, AI evals, an agent browser that verifies your coding agent's work end-to-end, and the Tia Engine for near-instant test runs."
+category = "agents"
+website = "https://pestphp.com"
+open_source = true
+repository = "https://github.com/pestphp/pest"
+added = 2026-10-25

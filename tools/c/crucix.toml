@@ -1,0 +1,7 @@
+name = "Crucix"
+description = "Real-time OSINT intelligence dashboard - 25 sources, live global threat map."
+category = "agents"
+website = "https://www.crucix.live"
+open_source = true
+repository = "https://github.com/calesthio/Crucix"
+added = 2026-10-25

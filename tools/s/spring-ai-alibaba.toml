@@ -1,0 +1,7 @@
+name = "Spring AI Alibaba"
+description = "Agentic AI Framework for Java Developers. Built on the core concept of DAG Graph, it can easily achieve single agent, multi-agent, and complex workflow orchestration."
+category = "agents"
+website = "https://java2ai.com"
+open_source = true
+repository = "https://github.com/alibaba/spring-ai-alibaba"
+added = 2026-10-25

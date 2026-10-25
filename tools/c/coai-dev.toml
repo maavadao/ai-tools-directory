@@ -1,0 +1,7 @@
+name = "CoAI.Dev"
+description = "Open-source LLM Assets management platform with 35+ AI providers, enterprise security, cost optimization and seamless integration."
+category = "chatbots"
+website = "https://www.coai.dev"
+open_source = true
+repository = "https://github.com/coaidev/coai"
+added = 2026-10-25

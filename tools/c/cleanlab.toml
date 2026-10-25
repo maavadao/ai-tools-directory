@@ -1,0 +1,7 @@
+name = "cleanlab"
+description = "Cleanlab helps teams build safer AI agents by preventing incorrect responses from reaching users. Detect and remediate incorrect responses from any AI agent to ensure safety, compliance, and trust at scale."
+category = "data"
+website = "https://cleanlab.ai"
+open_source = true
+repository = "https://github.com/cleanlab/cleanlab"
+added = 2026-10-25

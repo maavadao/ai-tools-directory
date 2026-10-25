@@ -1,0 +1,7 @@
+name = "Overview"
+description = "Open-source AI agent that reviews, describes and improves pull requests on GitHub, GitLab, Bitbucket, Azure DevOps and Gitea."
+category = "coding"
+website = "https://docs.pr-agent.ai"
+open_source = true
+repository = "https://github.com/The-PR-Agent/pr-agent"
+added = 2026-10-25

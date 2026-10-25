@@ -1,0 +1,7 @@
+name = "Mage AI"
+description = "Automate production data pipelines with Mage AI. Run SQL and Python workflows, validate data quality, recover from failures, and optimize performance."
+category = "data"
+website = "https://www.mage.ai"
+open_source = true
+repository = "https://github.com/mage-ai/mage-ai"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "TEN Agent"
+description = "Multi-Purpose Voice Assistant Agent Example Powered by TEN"
+category = "video"
+website = "https://agent.theten.ai"
+open_source = true
+repository = "https://github.com/TEN-framework/ten-framework"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "sktime"
+description = "The unified open-source AI framework for time series forecasting, classification, and anomaly detection."
+category = "data"
+website = "https://www.sktime.net"
+open_source = true
+repository = "https://github.com/sktime/sktime"
+added = 2026-10-25

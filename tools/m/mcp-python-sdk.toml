@@ -1,0 +1,7 @@
+name = "MCP Python SDK"
+description = "The official Python SDK for the Model Context Protocol"
+category = "other"
+website = "https://py.sdk.modelcontextprotocol.io"
+open_source = true
+repository = "https://github.com/modelcontextprotocol/python-sdk"
+added = 2026-10-25

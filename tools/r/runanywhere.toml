@@ -1,0 +1,7 @@
+name = "RunAnywhere"
+description = "RunAnywhere makes the best open models faster and cheaper to run, for everyone. Wally serves frontier open models through one API key and one CLI, and our open-source SDKs run models on the device."
+category = "image"
+website = "https://runanywhere.ai"
+open_source = true
+repository = "https://github.com/RunanywhereAI/runanywhere-sdks"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "eigent"
+description = "Eigent Open Source Cowork is a desktop multi-agent workforce that connects to your context and can control the browser and desktop apps to automate real work."
+category = "agents"
+website = "https://www.eigent.ai"
+open_source = true
+repository = "https://github.com/eigent-ai/eigent"
+added = 2026-10-25

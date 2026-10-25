@@ -1,0 +1,7 @@
+name = "Operit AI"
+description = "全平台 Operit 2：iOS 与 macOS 公测已开放，其他平台内测逐步开放。两代产品拥有独立下载与教程，共用插件市场。"
+category = "chatbots"
+website = "https://operit.app"
+open_source = true
+repository = "https://github.com/AAswordman/Operit"
+added = 2026-10-25

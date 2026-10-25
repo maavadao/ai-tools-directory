@@ -1,0 +1,7 @@
+name = "GenOffice"
+description = "Edit Word, Excel, PowerPoint and PDF files with built-in AI. Free, open-source desktop office apps for macOS, Windows and Linux. Download GenOffice."
+category = "coding"
+website = "https://genoffice.ai"
+open_source = true
+repository = "https://github.com/genspark-ai/genoffice"
+added = 2026-10-25

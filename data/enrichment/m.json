@@ -6,6 +6,20 @@
 "checked": "2026-10-24",
 "image": "https://mlsysbook.ai/vol1/assets/images/covers/cover-hardcover-book-vol1.png"
 },
+"mage-ai": {
+"checked": "2026-10-25",
+"image": "https://www.mage.ai/assets/shared/meta/default.png",
+"pricing": {
+"currency": "USD",
+"from": 29.0,
+"trial": true,
+"url": "https://www.mage.ai/pricing"
+}
+},
+"magic-resume": {
+"checked": "2026-10-25",
+"image": "https://magicv.art/web-shot.png"
+},
 "magiclearn": {
 "checked": "2026-10-23"
 },
@@ -20,6 +34,10 @@
 "url": "https://www.magicschool.ai/pricing"
 }
 },
+"magpie": {
+"checked": "2026-10-25",
+"image": "https://usemagpie.ai/img/og.png"
+},
 "make": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/6a294495bc84130c6dd0c4fd/6a706624f7fdfc3470419256_og-img.png",
@@ -27,6 +45,9 @@
 "free": true,
 "url": "https://www.make.com/pricing"
 }
+},
+"manga-image-translator": {
+"checked": "2026-10-25"
 },
 "manifold": {
 "checked": "2026-10-23",
@@ -38,9 +59,16 @@
 "url": "https://www.manifoldmcp.com/pricing"
 }
 },
+"mariadb-org": {
+"checked": "2026-10-25",
+"image": "https://mariadb.org/wp-content/uploads/2023/05/Default_socail-card.png"
+},
 "marimo": {
 "checked": "2026-10-24",
 "image": "https://marimo.io/og.png"
+},
+"markdown": {
+"checked": "2026-10-25"
 },
 "marker": {
 "checked": "2026-10-23",
@@ -93,6 +121,22 @@
 },
 "mcp-for-blender": {
 "checked": "2026-10-23"
+},
+"mcp-python-sdk": {
+"checked": "2026-10-25"
+},
+"mcp-typescript-sdk": {
+"checked": "2026-10-25"
+},
+"mcp-use": {
+"checked": "2026-10-25",
+"image": "https://manufact.com/og-image.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 250.0,
+"url": "https://manufact.com/pricing"
+}
 },
 "medusa": {
 "checked": "2026-10-23",
@@ -170,6 +214,10 @@
 "checked": "2026-10-24",
 "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/769175271_1785147112638659_5144768927528247182_n.png?_nc_cat=105&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=JB6JWgP-8J4Q7kNvwGyEaPY&_nc_oc=Ado2fAcs_2AQLjAQKN-l12MkUQI1hqOLyo9LcZL7kyXliNSjykUrJrYO3KACdsGEOWY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&edm=ADsB9xMEAAAA&_nc_gid=r729DpHbOy1pLK37T7aeRg&oh=00_AQMJSQ5iQomf9NkfgyUcUEp6Ba70qONKMiQLUM-eKGXd9g&oe=6AE22F30"
 },
+"metaflow": {
+"checked": "2026-10-25",
+"image": "https://tuulos.github.io/mf-site/images/og-metaflow.png"
+},
 "metagpt": {
 "checked": "2026-10-23",
 "image": "https://atoms-cos.metadl.com/cms_medias/logo_only_blue_d7ad9c419a.png",
@@ -190,6 +238,10 @@
 "url": "https://www.metaview.ai/pricing"
 }
 },
+"microsoft": {
+"checked": "2026-10-25",
+"image": "https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png"
+},
 "microsoft-copilot": {
 "checked": "2026-10-23",
 "image": "https://res.cdn.office.net/officehub/images/content/images/unauth-copilotcom/og-image-4986dc5dbb.png",
@@ -205,6 +257,9 @@
 "checked": "2026-10-24",
 "image": "https://midscenejs.com/og-image.png"
 },
+"mimo-code": {
+"checked": "2026-10-25"
+},
 "mindshub-by-mindsdb": {
 "checked": "2026-10-23",
 "image": "https://mindshub.ai/og/og-home-control.png",
@@ -216,6 +271,9 @@
 "mineru": {
 "checked": "2026-10-23",
 "image": "https://webpub.shlab.tech/MinerU/static/image/mineru-logo.svg"
+},
+"mini-swe-agent-com": {
+"checked": "2026-10-25"
 },
 "minimi-2-0": {
 "checked": "2026-10-23",
@@ -235,6 +293,10 @@
 "url": "https://mistral.ai/pricing/"
 }
 },
+"mit-deep-learning": {
+"checked": "2026-10-25",
+"image": "https://deeplearning.mit.edu/lex_fridman_lecture.jpg"
+},
 "ml-for-trading": {
 "checked": "2026-10-24",
 "image": "https://ml4trading.io/static/img/og-image.a0471320e8d2.jpg"
@@ -242,8 +304,39 @@
 "mlc-llm": {
 "checked": "2026-10-24"
 },
+"mlcourse-ai": {
+"checked": "2026-10-25"
+},
 "mlflow": {
 "checked": "2026-10-24"
+},
+"mobile-next": {
+"checked": "2026-10-25",
+"image": "https://mobilenext.ai/mobile-next-social-banner.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 29.0,
+"url": "https://mobilenext.ai/pricing"
+}
+},
+"mobilerun": {
+"checked": "2026-10-25",
+"image": "https://mobilerun.ai/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 2.0,
+"url": "https://mobilerun.ai/pricing/"
+}
+},
+"model-context-protocol": {
+"checked": "2026-10-25",
+"image": "https://raw.githubusercontent.com/modelcontextprotocol/docs/2eb6171ddbfeefde349dc3b8d5e2b87414c26250/images/og-image.png"
+},
+"modelscope-cn": {
+"checked": "2026-10-25",
+"image": "https://cdn.modelscope.cn/social-thumbnails/home.png"
 },
 "modern-data-orchestrator-platform": {
 "checked": "2026-10-24",
@@ -254,6 +347,20 @@
 "url": "https://dagster.io/pricing"
 }
 },
+"moondream": {
+"checked": "2026-10-25",
+"image": "https://moondream.ai/images/og/site.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.0,
+"url": "https://moondream.ai/pricing"
+}
+},
+"morphic": {
+"checked": "2026-10-25",
+"image": "https://morphic.sh/opengraph-image.png?0720a92459949c23"
+},
 "movo-ai": {
 "checked": "2026-10-23",
 "image": "https://movoai.pro/assets/brand/movo-ai-social-preview.png"
@@ -263,6 +370,10 @@
 },
 "multica": {
 "checked": "2026-10-23"
+},
+"munder-difflin": {
+"checked": "2026-10-25",
+"image": "https://munderdiffl.in/media/og.png"
 },
 "murf": {
 "checked": "2026-10-23",

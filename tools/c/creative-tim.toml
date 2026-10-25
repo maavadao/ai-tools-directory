@@ -1,0 +1,7 @@
+name = "Creative Tim"
+description = "The modern platform for developers, makers, and teams to ship products 10x faster with UI, Automations, and AI Agents."
+category = "agents"
+website = "https://www.creative-tim.com"
+open_source = true
+repository = "https://github.com/creativetimofficial/ui"
+added = 2026-10-25

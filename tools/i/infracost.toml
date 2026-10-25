@@ -1,0 +1,7 @@
+name = "infracost"
+description = "FinOps governance for platform teams. Prevent cloud waste and budget overruns before every deploy."
+category = "coding"
+website = "https://www.infracost.io"
+open_source = true
+repository = "https://github.com/infracost/infracost"
+added = 2026-10-25

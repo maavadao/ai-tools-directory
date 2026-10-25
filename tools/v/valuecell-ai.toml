@@ -1,0 +1,7 @@
+name = "ValueCell AI"
+description = "ValueCell is an agentic AI researcher that thinks, codes, and converts market insights into action—empowering investors to stay in command."
+category = "agents"
+website = "https://valuecell.ai"
+open_source = true
+repository = "https://github.com/ValueCell-ai/valuecell"
+added = 2026-10-25

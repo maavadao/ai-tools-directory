@@ -1,0 +1,7 @@
+name = "Agency Orchestrator"
+description = "一句话 → AI 自动拆解任务 → 从 276 个角色中匹配 → 按 DAG 并行执行 → 输出完整方案。"
+category = "other"
+website = "https://ao.aiolaola.com"
+open_source = true
+repository = "https://github.com/jnMetaCode/agency-agents-zh"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "- Revision 39841: /"
+description = "Nmap - the Network Mapper. Github mirror of official SVN repository."
+category = "data"
+website = "https://svn.nmap.org"
+open_source = true
+repository = "https://github.com/nmap/nmap"
+added = 2026-10-25

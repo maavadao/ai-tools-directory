@@ -1,0 +1,7 @@
+name = "openui"
+description = "Open-source infrastructure for AI apps and agents to respond with interactive UI, not just text. Build with your own components, models and design system."
+category = "chatbots"
+website = "https://www.openui.com"
+open_source = true
+repository = "https://github.com/thesysdev/openui"
+added = 2026-10-25

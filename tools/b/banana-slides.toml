@@ -1,0 +1,7 @@
+name = "Banana Slides"
+description = "用自然语言描述想法，让 AI 生成完整演示文稿。支持资料解析、自然语言修改与 PPTX、PDF 导出，立即体验 Banana Slides。"
+category = "chatbots"
+website = "https://bananaslides.online"
+open_source = true
+repository = "https://github.com/Anionex/banana-slides"
+added = 2026-10-25

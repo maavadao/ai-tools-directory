@@ -1,0 +1,7 @@
+name = "NVIDIA Developer"
+description = "NVIDIA TensorRT is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT."
+category = "other"
+website = "https://developer.nvidia.com"
+open_source = true
+repository = "https://github.com/NVIDIA/TensorRT"
+added = 2026-10-25

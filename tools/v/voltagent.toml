@@ -1,0 +1,7 @@
+name = "VoltAgent"
+description = "VoltAgent is an observability-first TypeScript AI Agent framework."
+category = "chatbots"
+website = "https://voltagent.dev"
+open_source = true
+repository = "https://github.com/VoltAgent/voltagent"
+added = 2026-10-25

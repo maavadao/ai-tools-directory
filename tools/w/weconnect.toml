@@ -1,0 +1,7 @@
+name = "WeConnect"
+description = "실시간 번역으로 전 세계 사람들과 안전하게 소통하고 커뮤니티를 만들어보세요."
+category = "audio"
+website = "https://www.wctokyoseoul.com"
+open_source = true
+repository = "https://github.com/abus-aikorea/voice-pro"
+added = 2026-10-25

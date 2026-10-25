@@ -1,0 +1,7 @@
+name = "Apache SeaTunnel"
+description = "Description will go into a meta tag in <head />"
+category = "other"
+website = "https://seatunnel.apache.org"
+open_source = true
+repository = "https://github.com/apache/seatunnel"
+added = 2026-10-25

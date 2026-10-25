@@ -1,0 +1,7 @@
+name = "Gymnasium Documentation"
+description = "A standard API for reinforcement learning and a diverse set of reference environments (formerly Gym)"
+category = "developer-platforms"
+website = "https://gymnasium.farama.org"
+open_source = true
+repository = "https://github.com/Farama-Foundation/Gymnasium"
+added = 2026-10-25

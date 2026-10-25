@@ -1,0 +1,7 @@
+name = "FlowGram.AI"
+description = "FlowGram.AI"
+category = "agents"
+website = "https://flowgram.ai"
+open_source = true
+repository = "https://github.com/bytedance/flowgram.ai"
+added = 2026-10-25

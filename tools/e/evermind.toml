@@ -1,0 +1,7 @@
+name = "EverMind"
+description = "EverMind empowers AI with continuous, near-infinite memory and long-term identity. Discover EverOS, open-source memory infrastructure, SOTA benchmarks, and next-gen AI models that evolve, understand, and collaborate beyond today’s stateless tools."
+category = "chatbots"
+website = "https://evermind.ai"
+open_source = true
+repository = "https://github.com/EverMind-AI/EverOS"
+added = 2026-10-25

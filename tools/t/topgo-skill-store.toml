@@ -1,0 +1,7 @@
+name = "TOPGO Skill Store"
+description = "收录最全、更新最快的 AI Agent 技能商店：65 原创技能包 + 187 官方技能 + 2326 自动索引 + 4834 N8N 工作流。知易 = AI 智能基座 · 四色卡片记录层。"
+category = "other"
+website = "https://skill.miyucaicai.cn"
+open_source = true
+repository = "https://github.com/anbeime/skill"
+added = 2026-10-25

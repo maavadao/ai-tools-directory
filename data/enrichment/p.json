@@ -47,6 +47,10 @@
 "checked": "2026-10-24",
 "image": "https://parlant.io/logo/icons/og-image-parlant.png"
 },
+"pascal-editor": {
+"checked": "2026-10-25",
+"image": "https://editor.pascal.app/og-default.webp"
+},
 "paseo": {
 "checked": "2026-10-24",
 "image": "https://paseo.sh/og-image.png"
@@ -74,6 +78,13 @@
 "perplexity-ai": {
 "checked": "2026-10-23",
 "image": "https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png"
+},
+"pest": {
+"checked": "2026-10-25",
+"image": "https://pestphp.com/www/og.png?v=5"
+},
+"petals": {
+"checked": "2026-10-25"
 },
 "pexo": {
 "checked": "2026-10-23",
@@ -123,6 +134,13 @@
 "checked": "2026-10-24",
 "image": "https://gilded-laurel-c7nj.here.now/assets/context-recovery.jpg"
 },
+"plannotator": {
+"checked": "2026-10-25",
+"image": "https://plannotator.ai/assets/plannotator-generic-og-v1.jpg"
+},
+"point-cloud-library": {
+"checked": "2026-10-25"
+},
 "polylane": {
 "checked": "2026-10-23",
 "image": "https://polylane.com/og.png",
@@ -165,6 +183,14 @@
 "url": "https://postiz.com/pricing"
 }
 },
+"pr-agent-ai": {
+"checked": "2026-10-25",
+"image": "https://docs.pr-agent.ai/img/social-card.png"
+},
+"praison-ai": {
+"checked": "2026-10-25",
+"image": "https://praison.ai/app/uploads/2026/06/praison-ai-customer-service.png"
+},
 "private-gpt": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/assets/krxtn3RfwXQLTWNHwaYuWFI.png"
@@ -178,6 +204,32 @@
 "prompts-chat": {
 "checked": "2026-10-23",
 "image": "https://prompts.chat/opengraph-image.png?opengraph-image.57ebefa7.png"
+},
+"puck": {
+"checked": "2026-10-25",
+"image": "https://puckeditor.com/social.png",
+"pricing": {
+"currency": "USD",
+"from": 199.0,
+"url": "https://puckeditor.com/pricing"
+}
+},
+"pwnagotchi": {
+"checked": "2026-10-25"
+},
+"px4-autopilot": {
+"checked": "2026-10-25",
+"image": "https://px4.io/wp-content/uploads/2020/12/compatible_hw.svg"
+},
+"pyannote-audio": {
+"checked": "2026-10-25",
+"image": "https://framerusercontent.com/assets/44E4ItJK7vNnWe7GDdJYvnWOhYc.png",
+"pricing": {
+"currency": "EUR",
+"from": 19.0,
+"trial": true,
+"url": "https://www.pyannote.ai/pricing"
+}
 },
 "pydantic-docs": {
 "checked": "2026-10-24",

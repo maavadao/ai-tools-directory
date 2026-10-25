@@ -1,0 +1,7 @@
+name = "NarratoAI"
+description = "上传自有或已授权的视频素材，一次完成字幕识别、画面理解、解说脚本、旁白配音和成片导出。"
+category = "chatbots"
+website = "https://www.narratoai.cn"
+open_source = true
+repository = "https://github.com/linyqh/NarratoAI"
+added = 2026-10-25

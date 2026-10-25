@@ -1,0 +1,7 @@
+name = "claudecodeui"
+description = "Run Claude Code, Cursor CLI, Codex and Gemini CLI in persistent cloud environments. Start on your phone, continue in VS Code or SSH. Open source. From €7/month."
+category = "other"
+website = "https://cloudcli.ai"
+open_source = true
+repository = "https://github.com/siteboon/claudecodeui"
+added = 2026-10-25

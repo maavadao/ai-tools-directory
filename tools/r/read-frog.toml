@@ -1,0 +1,7 @@
+name = "Read Frog"
+description = "Open-source side-by-side translation for web pages and YouTube or X videos. Save words and sentences, then review them as flashcards on an FSRS schedule."
+category = "chatbots"
+website = "https://www.readfrog.app"
+open_source = true
+repository = "https://github.com/mengxi-ream/read-frog"
+added = 2026-10-25

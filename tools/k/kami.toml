@@ -1,0 +1,7 @@
+name = "Kami"
+description = "Templates and layout rules for AI-generated documents and landing pages. Export PDF, PNG, or editable PowerPoint slides."
+category = "other"
+website = "https://kami.tw93.fun"
+open_source = true
+repository = "https://github.com/tw93/Kami"
+added = 2026-10-25

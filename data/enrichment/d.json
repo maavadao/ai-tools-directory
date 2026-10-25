@@ -46,6 +46,10 @@
 "url": "https://plotly.com/pricing/"
 }
 },
+"dashboard-icons": {
+"checked": "2026-10-25",
+"image": "https://dashboardicons.com/og-image.png"
+},
 "databench-by-alkera": {
 "checked": "2026-10-23",
 "image": "https://www.alkera.ai/og-image.png",
@@ -98,6 +102,14 @@
 "url": "https://www.deepl.com/en/pro"
 }
 },
+"deeplake": {
+"checked": "2026-10-25",
+"image": "https://deeplake.ai/opengraph-image-1jdwle?1ae5f204c09da073",
+"pricing": {
+"trial": true,
+"url": "https://deeplake.ai/pricing"
+}
+},
 "deeplivecam": {
 "checked": "2026-10-23"
 },
@@ -119,6 +131,15 @@
 "url": "https://www.descript.com/pricing"
 }
 },
+"desktop-commander": {
+"checked": "2026-10-25",
+"image": "https://desktopcommander.app/bg-social-share.png",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://desktopcommander.app/pricing/"
+}
+},
 "devin": {
 "checked": "2026-10-23",
 "image": "https://devin.ai/assets/images/desktop/og-desktop.png",
@@ -132,6 +153,10 @@
 "diamantai-nir-diamant": {
 "checked": "2026-10-24",
 "image": "https://diamant-ai.com/lovable-uploads/052de04b-d104-473b-9104-886cbee5716a.png"
+},
+"diffusionbee": {
+"checked": "2026-10-25",
+"image": "https://diffusionbee.com/diffusionbee_banner.jpg"
 },
 "dify": {
 "checked": "2026-10-23",
@@ -162,6 +187,10 @@
 "doris": {
 "checked": "2026-10-24"
 },
+"douyin-tiktok-download-api": {
+"checked": "2026-10-25",
+"image": "https://douyin.wtf/og.png"
+},
 "dragonfly": {
 "checked": "2026-10-23",
 "image": "https://www.dragonflydb.io/dragonfly-OG.jpg",
@@ -171,6 +200,9 @@
 "trial": true,
 "url": "https://www.dragonflydb.io/pricing"
 }
+},
+"draw-a-ui": {
+"checked": "2026-10-25"
 },
 "dsh-desktop": {
 "checked": "2026-10-24",

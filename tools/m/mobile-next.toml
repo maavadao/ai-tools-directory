@@ -1,0 +1,7 @@
+name = "Mobile Next"
+description = "The programmable mobile runtime for AI agents. Run deterministic automation on real iOS and Android devices through APIs."
+category = "agents"
+website = "https://mobilenext.ai"
+open_source = true
+repository = "https://github.com/mobile-next/mobile-mcp"
+added = 2026-10-25

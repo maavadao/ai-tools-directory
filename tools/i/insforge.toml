@@ -1,0 +1,7 @@
+name = "InsForge"
+description = "Model gateway, compute, deployment, database, auth, and more. Every service built for AI coding agents to operate end to end through CLI and skills."
+category = "coding"
+website = "https://insforge.dev"
+open_source = true
+repository = "https://github.com/InsForge/InsForge"
+added = 2026-10-25

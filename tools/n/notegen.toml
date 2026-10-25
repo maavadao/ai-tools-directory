@@ -1,0 +1,7 @@
+name = "NoteGen"
+description = "NoteGen is an open-source AI Markdown note-taking app for capturing first, organizing later, and syncing plain files across devices with OneDrive, iCloud Drive, and more."
+category = "chatbots"
+website = "https://notegen.top"
+open_source = true
+repository = "https://github.com/codexu/note-gen"
+added = 2026-10-25

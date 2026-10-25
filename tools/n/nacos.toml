@@ -1,0 +1,7 @@
+name = "Nacos 官网"
+description = "Nacos 提供动态服务发现、配置和管理，助力用户在私有云、混合云、公有云等环境中快速构建和交付微服务平台，提升业务复用和创新交付速度，为用户赢得市场竞争力。"
+category = "agents"
+website = "https://nacos.io"
+open_source = true
+repository = "https://github.com/alibaba/nacos"
+added = 2026-10-25

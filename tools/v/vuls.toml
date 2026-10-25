@@ -1,0 +1,7 @@
+name = "vuls"
+description = "Agentless Vulnerability Scanner for Linux/FreeBSD"
+category = "agents"
+website = "https://vuls.io"
+open_source = true
+repository = "https://github.com/future-architect/vuls"
+added = 2026-10-25

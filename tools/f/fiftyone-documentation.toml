@@ -1,0 +1,7 @@
+name = "FiftyOne Documentation"
+description = "FiftyOne is the open-source tool for building high-quality datasets and computer vision models, with dataset visualization, curation, and model evaluation built in."
+category = "coding"
+website = "https://docs.voxel51.com:443"
+open_source = true
+repository = "https://github.com/voxel51/fiftyone"
+added = 2026-10-25

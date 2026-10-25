@@ -1,0 +1,7 @@
+name = "小白兔AI"
+description = "小白兔AI 是一款功能非常强大的人工智能桌面软件,内置了声音克隆、AI绘画、语音合成、视频抠图、动漫超分辨、视频补帧、语音降噪、视频修复、人脸动漫化、图片OCR批量识别等50余种功能，致力于打造一款实用、好玩又有趣的AI生产力聚合工具箱。"
+category = "image"
+website = "https://xiaobaituai.com"
+open_source = true
+repository = "https://github.com/Baiyuetribe/paper2gui"
+added = 2026-10-25

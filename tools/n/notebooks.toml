@@ -1,0 +1,7 @@
+name = "notebooks"
+description = "Turn images, videos, and streams into intelligence. Roboflow is the vision AI platform for companies that run in the physical world."
+category = "education"
+website = "https://roboflow.com"
+open_source = true
+repository = "https://github.com/roboflow/notebooks"
+added = 2026-10-25

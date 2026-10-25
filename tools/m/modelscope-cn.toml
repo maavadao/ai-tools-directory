@@ -1,0 +1,7 @@
+name = "首页"
+description = "ModelScope 魔搭社区——开源模型社区，提供模型、数据集与在线 Demo 的一站式服务。"
+category = "audio"
+website = "https://www.modelscope.cn"
+open_source = true
+repository = "https://github.com/modelscope/modelscope"
+added = 2026-10-25

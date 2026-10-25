@@ -1,4 +1,7 @@
 {
+"kag": {
+"checked": "2026-10-25"
+},
 "kai": {
 "checked": "2026-10-23",
 "image": "https://hirekai.ai/opengraph-image?c5d626a72f39b70a",
@@ -8,6 +11,14 @@
 "trial": true,
 "url": "https://hirekai.ai/pricing"
 }
+},
+"kami": {
+"checked": "2026-10-25",
+"image": "https://kami.tw93.fun/assets/showcase/kami-landing.png"
+},
+"kedro": {
+"checked": "2026-10-25",
+"image": "https://kedro.org/images/kedro-social-image.png"
 },
 "kestra": {
 "checked": "2026-10-24",
@@ -70,9 +81,21 @@
 "url": "https://www.krea.ai/pricing"
 }
 },
+"krita-ai-diffusion": {
+"checked": "2026-10-25"
+},
 "kubeflow": {
 "checked": "2026-10-24",
 "image": "https://www.kubeflow.org/social/social_home.b4b276a78751053b254216bb34638f95.png"
+},
+"kubeshark": {
+"checked": "2026-10-25",
+"image": "https://cdn.prod.website-files.com/6517451b4cf3869a5219774a/651ff5f41dbf6459601154e3_header-Kubeshark%20.png",
+"pricing": {
+"currency": "USD",
+"from": 30.0,
+"url": "https://kubeshark.com/pricing"
+}
 },
 "kubesphere": {
 "checked": "2026-10-24",

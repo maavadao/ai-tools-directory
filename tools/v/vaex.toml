@@ -1,0 +1,7 @@
+name = "vaex"
+description = "Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀 | Pandas alternative"
+category = "data"
+website = "https://vaex.io"
+open_source = true
+repository = "https://github.com/vaexio/vaex"
+added = 2026-10-25

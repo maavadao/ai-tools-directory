@@ -1,0 +1,7 @@
+name = "Spug"
+description = "Spug 面向中小型企业设计的轻量级无 Agent 的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。"
+category = "agents"
+website = "https://ops.spug.cc"
+open_source = true
+repository = "https://github.com/openspug/spug"
+added = 2026-10-25

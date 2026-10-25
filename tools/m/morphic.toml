@@ -1,0 +1,7 @@
+name = "morphic"
+description = "A fully open-source AI-powered answer engine with a generative UI."
+category = "research"
+website = "https://www.morphic.sh"
+open_source = true
+repository = "https://github.com/miurla/morphic"
+added = 2026-10-25

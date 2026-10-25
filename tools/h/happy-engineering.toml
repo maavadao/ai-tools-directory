@@ -1,0 +1,7 @@
+name = "Happy Engineering"
+description = "Orchestrate Claude, Codex and Grok in one app. Happy is an open-source harness that reuses the subscriptions you already pay for."
+category = "other"
+website = "https://happy.engineering"
+open_source = true
+repository = "https://github.com/slopus/happy"
+added = 2026-10-25

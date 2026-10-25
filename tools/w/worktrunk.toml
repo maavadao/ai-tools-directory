@@ -1,0 +1,7 @@
+name = "worktrunk"
+description = "CLI for Git worktree management, designed for parallel AI agent workflows."
+category = "coding"
+website = "https://worktrunk.dev"
+open_source = true
+repository = "https://github.com/max-sixty/worktrunk"
+added = 2026-10-25

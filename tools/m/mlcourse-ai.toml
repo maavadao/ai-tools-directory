@@ -1,0 +1,7 @@
+name = "mlcourse.ai"
+description = "Open Machine Learning Course"
+category = "data"
+website = "https://mlcourse.ai"
+open_source = true
+repository = "https://github.com/Yorko/mlcourse.ai"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "Vowpal Wabbit"
+description = "Vowpal Wabbit provides a fast, flexible, online, and active learning solution that empowers you to solve complex interactive machine learning problems."
+category = "other"
+website = "https://vowpalwabbit.org"
+open_source = true
+repository = "https://github.com/VowpalWabbit/vowpal_wabbit"
+added = 2026-10-25

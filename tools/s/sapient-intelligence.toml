@@ -1,0 +1,7 @@
+name = "Sapient Intelligence"
+description = "Sapient Intelligence builds efficient, brain-inspired AI architectures for latent-space reasoning, HRM models, and agentic systems."
+category = "other"
+website = "https://sapient.inc"
+open_source = true
+repository = "https://github.com/sapientinc/HRM"
+added = 2026-10-25

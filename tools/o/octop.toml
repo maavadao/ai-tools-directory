@@ -1,0 +1,7 @@
+name = "Octop"
+description = "Octop — Understands you, helps you, grows with you"
+category = "agents"
+website = "https://octop.cloud"
+open_source = true
+repository = "https://github.com/TencentCloud/Octop"
+added = 2026-10-25

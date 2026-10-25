@@ -8,6 +8,14 @@
 "url": "https://v0.app/pricing"
 }
 },
+"vaex": {
+"checked": "2026-10-25",
+"image": "https://vaex.io/img/logos/spiral-small.png"
+},
+"valuecell-ai": {
+"checked": "2026-10-25",
+"image": "https://valuecell.ai/og-image.png"
+},
 "velozity": {
 "checked": "2026-10-23",
 "image": "https://getvelozity.com/assets/meta/og-card-v3.png"
@@ -24,6 +32,10 @@
 "vercel": {
 "checked": "2026-10-24",
 "image": "https://chatbot.ai-sdk.dev/opengraph-image.png?opengraph-image.8d2152cc.png"
+},
+"vergex": {
+"checked": "2026-10-25",
+"image": "https://vergex.trade/vergex/og-image.png?v=2"
 },
 "vibe-kanban": {
 "checked": "2026-10-24",
@@ -60,7 +72,26 @@
 "url": "https://elevenlabs.io/pricing"
 }
 },
+"voltagent": {
+"checked": "2026-10-25",
+"image": "https://voltagent.dev/img/social4.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://voltagent.dev/pricing/"
+}
+},
+"vowpal-wabbit": {
+"checked": "2026-10-25"
+},
 "voxcpm": {
 "checked": "2026-10-23"
+},
+"voyager": {
+"checked": "2026-10-25",
+"image": "https://voyager.nagi.fun/logo.png"
+},
+"vuls": {
+"checked": "2026-10-25"
 }
 }

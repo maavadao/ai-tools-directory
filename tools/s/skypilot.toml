@@ -1,0 +1,7 @@
+name = "SkyPilot"
+description = "Your AI infrastructure, frontier velocity. The AI Compute Platform that turns your fragmented AI compute into frontier intelligence."
+category = "other"
+website = "https://skypilot.ai"
+open_source = true
+repository = "https://github.com/skypilot-org/skypilot"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "ChatAnywhere"
+description = "免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！"
+category = "chatbots"
+website = "https://chatanywhere.tech"
+open_source = true
+repository = "https://github.com/chatanywhere/GPT_API_free"
+added = 2026-10-25

@@ -1,0 +1,7 @@
+name = "Point Cloud Library"
+description = "The Point Cloud Library (PCL) is a standalone, large scale, open project for 2D/3D image and point cloud processing."
+category = "other"
+website = "https://pointclouds.org"
+open_source = true
+repository = "https://github.com/PointCloudLibrary/pcl"
+added = 2026-10-25

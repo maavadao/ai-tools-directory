@@ -1,0 +1,7 @@
+name = "LTX"
+description = "LTX builds open-weight diffusion transformer foundation models for multimodal video, audio, and world simulation."
+category = "video"
+website = "https://ltx.io"
+open_source = true
+repository = "https://github.com/Lightricks/LTX-Video"
+added = 2026-10-25

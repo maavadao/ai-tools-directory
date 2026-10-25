@@ -1,0 +1,7 @@
+name = "OpenWhispr"
+description = "OpenWhispr is open-source dictation software you can rely on. Dictate, transcribe, and capture meeting notes with fast, accurate AI speech-to-text."
+category = "audio"
+website = "https://openwhispr.com"
+open_source = true
+repository = "https://github.com/OpenWhispr/openwhispr"
+added = 2026-10-25

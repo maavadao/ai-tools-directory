@@ -1,0 +1,7 @@
+name = "The PyOD Ecosystem"
+description = "PyOD is the hub library and API standard for outlier detection in Python: 60+ detectors across five data types, a 9,000-star knowledge base, and thousands of projects building on it."
+category = "agents"
+website = "https://pyod.dev"
+open_source = true
+repository = "https://github.com/yzhao062/pyod"
+added = 2026-10-25

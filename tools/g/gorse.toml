@@ -1,0 +1,7 @@
+name = "gorse"
+description = "Gorse is an AI powered open-source recommender system written in Go. Gorse aims to be a universal open-source recommender system that can be easily integrated into a wide variet..."
+category = "data"
+website = "https://gorse.io"
+open_source = true
+repository = "https://github.com/gorse-io/gorse"
+added = 2026-10-25

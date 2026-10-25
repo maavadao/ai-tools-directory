@@ -1,0 +1,7 @@
+name = "corsair"
+description = "Corsair helps AI products add secure, multi-tenant integrations with OAuth, permissions, MCP, webhooks, and hosted or self-hosted execution."
+category = "coding"
+website = "https://corsair.dev"
+open_source = true
+repository = "https://github.com/corsairdev/corsair"
+added = 2026-10-25

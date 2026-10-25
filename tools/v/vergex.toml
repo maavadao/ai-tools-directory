@@ -1,0 +1,7 @@
+name = "VergeX"
+description = "Deploy autonomous AI agents to trade smarter with community-driven strategies on any exchange."
+category = "chatbots"
+website = "https://vergex.trade"
+open_source = true
+repository = "https://github.com/NoFxAiOS/nofx"
+added = 2026-10-25

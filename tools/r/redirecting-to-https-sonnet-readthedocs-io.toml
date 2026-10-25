@@ -1,0 +1,7 @@
+name = "Redirecting to https://sonnet.readthedocs.io/"
+description = "TensorFlow-based neural network library"
+category = "other"
+website = "https://sonnet.dev"
+open_source = true
+repository = "https://github.com/google-deepmind/sonnet"
+added = 2026-10-25

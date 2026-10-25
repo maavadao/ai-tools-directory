@@ -15,6 +15,9 @@
 "url": "https://www.n8n-mcp.com"
 }
 },
+"nacos": {
+"checked": "2026-10-25"
+},
 "nanobrowser": {
 "checked": "2026-10-24",
 "image": "https://nanobrowser.ai/og.jpg"
@@ -22,6 +25,13 @@
 "nanoclaw": {
 "checked": "2026-10-23",
 "image": "https://nanoclaw.dev/social-preview.jpg"
+},
+"narratoai": {
+"checked": "2026-10-25",
+"image": "https://narratoai.cn/logos/logo-512x512.png"
+},
+"nasiko": {
+"checked": "2026-10-25"
 },
 "nautilustrader": {
 "checked": "2026-10-23",
@@ -103,6 +113,10 @@
 "checked": "2026-10-24",
 "image": "https://static-docs.nocobase.com/20260513-og-github-v3.jpg"
 },
+"noib-app": {
+"checked": "2026-10-25",
+"image": "https://noib.app/img/docusaurus-social-card.jpg"
+},
 "nomic": {
 "checked": "2026-10-23",
 "image": "https://www.nomic.ai/og/index.png?title=Accelerating+the+design+and+construction+of+the+built+world.&eyebrow=Domain-specific+AI+for+AEC&description=The+AI+agent+platform+for+AEC+firms%2C+grounded+in+your+drawings%2C+specs%2C+and+project+data.&v=1",
@@ -112,6 +126,19 @@
 "from": 20.0,
 "url": "https://www.nomic.ai/pricing"
 }
+},
+"notebooks": {
+"checked": "2026-10-25",
+"image": "https://roboflow.com/_next/static/immutable/media/share-card.1m3utg40vtbq6.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 39.0,
+"url": "https://roboflow.com/pricing"
+}
+},
+"notegen": {
+"checked": "2026-10-25"
 },
 "notion": {
 "checked": "2026-10-23",
@@ -136,9 +163,16 @@
 "url": "https://www.novu.co/pricing/"
 }
 },
+"nsfw-js": {
+"checked": "2026-10-25"
+},
 "nuclear-music-player": {
 "checked": "2026-10-24",
 "image": "https://nuclearplayer.com/images/social-banner.png"
+},
+"nvidia-developer": {
+"checked": "2026-10-25",
+"image": "https://developer.download.nvidia.com/images/og-default.jpg"
 },
 "nx": {
 "checked": "2026-10-24",

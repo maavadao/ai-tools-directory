@@ -1,0 +1,7 @@
+name = "pyannote-audio"
+description = "Diarization, speaker ID, speaker separation, and STT orchestration in one framework. Up to 52% lower error. Open source, via API or on your infrastructure."
+category = "audio"
+website = "https://www.pyannote.ai"
+open_source = true
+repository = "https://github.com/pyannote/pyannote-audio"
+added = 2026-10-25

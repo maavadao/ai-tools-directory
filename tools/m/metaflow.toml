@@ -1,0 +1,7 @@
+name = "metaflow"
+description = "Build and manage real-life ML, AI, and data science projects with Metaflow."
+category = "agents"
+website = "https://metaflow.org"
+open_source = true
+repository = "https://github.com/Netflix/metaflow"
+added = 2026-10-25

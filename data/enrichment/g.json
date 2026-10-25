@@ -15,9 +15,20 @@
 "url": "https://geminicli.com/docs/resources/quota-and-pricing/"
 }
 },
+"genoffice": {
+"checked": "2026-10-25",
+"image": "https://genoffice.ai/assets/shots/hero-shot.png"
+},
+"genxr": {
+"checked": "2026-10-25",
+"image": "https://www.genxr.co/images/opt/demo-3-5d.webp"
+},
 "getdesign-md": {
 "checked": "2026-10-23",
 "image": "https://getdesign.md/api/og/default?v=2"
+},
+"getting-started": {
+"checked": "2026-10-25"
 },
 "ghost-ai": {
 "checked": "2026-10-23",
@@ -45,8 +56,15 @@
 "gitleaks": {
 "checked": "2026-10-24"
 },
+"gitmcp": {
+"checked": "2026-10-25",
+"image": "https://gitmcp.io/img/OG.png"
+},
 "go-micro": {
 "checked": "2026-10-24"
+},
+"gobot": {
+"checked": "2026-10-25"
 },
 "google-cloud": {
 "checked": "2026-10-23",
@@ -59,6 +77,16 @@
 "google-research": {
 "checked": "2026-10-23",
 "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+},
+"gorilla": {
+"checked": "2026-10-25"
+},
+"gorse": {
+"checked": "2026-10-25",
+"image": "https://gorse.io/img/dashboard/overview.png"
+},
+"gpt-image2-prompt-gallery": {
+"checked": "2026-10-25"
 },
 "gpt-researcher": {
 "checked": "2026-10-24",
@@ -86,5 +114,9 @@
 },
 "gun": {
 "checked": "2026-10-24"
+},
+"gymnasium-documentation": {
+"checked": "2026-10-25",
+"image": "https://gymnasium.farama.org/_static/img/gymnasium-github.png"
 }
 }

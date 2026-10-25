@@ -1,0 +1,7 @@
+name = "Omi AI"
+description = "Omi is a wearable AI pendant that captures your conversations, transcribes voice to notes, and automatically creates tasks and memories, so you never forget a thing."
+category = "audio"
+website = "https://www.omi.me"
+open_source = true
+repository = "https://github.com/BasedHardware/omi"
+added = 2026-10-25

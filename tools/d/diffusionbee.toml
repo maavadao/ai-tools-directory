@@ -1,0 +1,7 @@
+name = "DiffusionBee"
+description = "DiffusionBee is the easiest way to generate AI art on your computer with Stable Diffusion. Completely free of charge."
+category = "image"
+website = "https://diffusionbee.com"
+open_source = true
+repository = "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui"
+added = 2026-10-25

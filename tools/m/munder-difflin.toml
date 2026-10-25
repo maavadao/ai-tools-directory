@@ -1,0 +1,7 @@
+name = "Munder Difflin"
+description = "Free and open source multi agent harness. Run Claude Code, Codex, Gemini CLI and nine more terminal agents as an office of clones on your own machine, on the subscriptions you already pay for. Now with the Stapler for local dictation and meeting notes."
+category = "coding"
+website = "https://munderdiffl.in"
+open_source = true
+repository = "https://github.com/HarnessMD/munder-difflin"
+added = 2026-10-25

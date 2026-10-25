@@ -1,0 +1,7 @@
+name = "mit-deep-learning"
+description = "Lectures on AI given by Lex Fridman and others at MIT."
+category = "education"
+website = "https://deeplearning.mit.edu"
+open_source = true
+repository = "https://github.com/lexfridman/mit-deep-learning"
+added = 2026-10-25

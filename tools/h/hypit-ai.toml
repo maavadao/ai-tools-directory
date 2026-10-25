@@ -1,0 +1,7 @@
+name = "hypit.ai"
+description = "Clone any viral video with AI agents and turn it into an editable, repeatable workflow. Open source, BYOK and free to use. 1 command. 100 variants. 100M views."
+category = "agents"
+website = "https://hypit.ai"
+open_source = true
+repository = "https://github.com/hypit-ai/hypit"
+added = 2026-10-25

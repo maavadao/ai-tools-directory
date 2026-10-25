@@ -1,0 +1,7 @@
+name = "GPT-Image2 Prompt Gallery"
+description = "Explore GPT-Image2 prompt cases with copyable prompts, visual filters, and direct GitHub links."
+category = "agents"
+website = "https://gpt-image2.canghe.ai"
+open_source = true
+repository = "https://github.com/freestylefly/awesome-gpt-image-2"
+added = 2026-10-25

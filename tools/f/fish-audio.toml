@@ -1,0 +1,7 @@
+name = "Fish Audio"
+description = "Targeting SOTA TTS solutions."
+category = "audio"
+website = "https://speech.fish.audio"
+open_source = true
+repository = "https://github.com/fishaudio/fish-speech"
+added = 2026-10-25

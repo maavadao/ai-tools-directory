@@ -1,0 +1,7 @@
+name = "MiMo-Code"
+description = "MiMo Code: Where Models and Agents Co-Evolve"
+category = "agents"
+website = "https://mimo.xiaomi.com"
+open_source = true
+repository = "https://github.com/XiaomiMiMo/MiMo-Code"
+added = 2026-10-25

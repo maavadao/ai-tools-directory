@@ -1,0 +1,7 @@
+name = "RealSense"
+description = "Discover RealSense 3D depth cameras built for robotics, industrial automation, logistics, dimensioning, and immersive experiences."
+category = "other"
+website = "https://www.realsenseai.com"
+open_source = true
+repository = "https://github.com/realsenseai/librealsense"
+added = 2026-10-25

@@ -13,6 +13,10 @@
 "hands-on-large-language-models": {
 "checked": "2026-10-24"
 },
+"happy-engineering": {
+"checked": "2026-10-25",
+"image": "https://happy.engineering/og/happy-harness-v25.png?v=8"
+},
 "harness-by-autonomous": {
 "checked": "2026-10-23",
 "image": "https://cdn.autonomous.ai/production/ecm/260805/metadata.webp"
@@ -28,6 +32,9 @@
 "heal": {
 "checked": "2026-10-23",
 "image": "https://heal.dev/opengraph-image?e0625de47d2d2e2b"
+},
+"hello-agents": {
+"checked": "2026-10-25"
 },
 "hello-python": {
 "checked": "2026-10-23"
@@ -85,6 +92,16 @@
 "url": "https://hirekey.io"
 }
 },
+"holaboss": {
+"checked": "2026-10-25",
+"image": "https://www.holaboss.ai/_astro/og-cover.BXNYJpLT.jpg",
+"pricing": {
+"currency": "USD",
+"from": 499.0,
+"trial": true,
+"url": "https://www.holaboss.ai/pricing"
+}
+},
 "home": {
 "checked": "2026-10-23",
 "image": "https://madewithml.com/static/images/mlops.png"
@@ -102,6 +119,9 @@
 "from": 19.99,
 "url": "https://hookest.com/pricing"
 }
+},
+"horizon": {
+"checked": "2026-10-25"
 },
 "https-dsc-gg": {
 "checked": "2026-10-23",
@@ -124,12 +144,34 @@
 "checked": "2026-10-23",
 "image": "https://humalike.ai/humalike-og.jpg?v=2"
 },
+"humanlayer": {
+"checked": "2026-10-25",
+"image": "https://humanlayer.dev/api/og",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 100.0,
+"url": "https://www.humanlayer.dev"
+}
+},
 "hummingbot": {
 "checked": "2026-10-24",
 "image": "https://hummingbot.org/assets/images/social/index.png"
 },
+"hunk": {
+"checked": "2026-10-25",
+"image": "https://hunk.dev/og.png"
+},
+"hunyuanvideo": {
+"checked": "2026-10-25",
+"image": "https://aivideo.hunyuan.tencent.com/public/static/logo/favicon.png"
+},
 "hyperframes": {
 "checked": "2026-10-23",
 "image": "https://www.hyperframes.dev/og-studio-redesign-2026-10.png"
+},
+"hypit-ai": {
+"checked": "2026-10-25",
+"image": "https://hypit.ai/opengraph-image.png?6a352f2a54b7cd2c"
 }
 }

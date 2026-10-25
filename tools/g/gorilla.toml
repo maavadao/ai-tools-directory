@@ -1,0 +1,7 @@
+name = "gorilla"
+description = "Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)"
+category = "chatbots"
+website = "https://gorilla.cs.berkeley.edu"
+open_source = true
+repository = "https://github.com/ShishirPatil/gorilla"
+added = 2026-10-25

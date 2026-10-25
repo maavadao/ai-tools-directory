@@ -1,0 +1,7 @@
+name = "robotgo"
+description = "RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use @vcaesar"
+category = "image"
+website = "https://atomai.cc"
+open_source = true
+repository = "https://github.com/go-vgo/robotgo"
+added = 2026-10-25

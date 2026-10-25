@@ -1,0 +1,7 @@
+name = "Desktop Commander"
+description = "Desktop Commander gives ChatGPT and Claude access to your computer, so they read your files, run commands, and see the results themselves. Your own machine, not a cloud sandbox."
+category = "agents"
+website = "https://desktopcommander.app"
+open_source = true
+repository = "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+added = 2026-10-25

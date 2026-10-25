@@ -2,6 +2,9 @@
 "obscura": {
 "checked": "2026-10-24"
 },
+"octop": {
+"checked": "2026-10-25"
+},
 "odyssey-3": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/images/Ztmb5fzsBj2oaVgWRUqBnP4yRU.jpg"
@@ -40,6 +43,9 @@
 "olmocr": {
 "checked": "2026-10-24"
 },
+"omi-ai": {
+"checked": "2026-10-25"
+},
 "omlx": {
 "checked": "2026-10-24",
 "image": "https://omlx.ai/images/omlx_dashboard_light.png"
@@ -54,6 +60,10 @@
 "trial": true,
 "url": "https://www.useomnia.com/pricing"
 }
+},
+"omnigent": {
+"checked": "2026-10-25",
+"image": "https://omnigent.ai/images/omnigent-social-card.png"
 },
 "omniroute-by-cheaper-inference": {
 "checked": "2026-10-23",
@@ -96,6 +106,10 @@
 "url": "https://onyx.app/pricing"
 }
 },
+"oomwoo": {
+"checked": "2026-10-25",
+"image": "https://oomwoo.com/assets/vacuum-top.webp"
+},
 "opaline": {
 "checked": "2026-10-23",
 "image": "https://opaline.so/images/opaline-social.png",
@@ -115,9 +129,21 @@
 "checked": "2026-10-23",
 "image": "https://muapi.ai/og-default.png"
 },
+"open-policy-agent": {
+"checked": "2026-10-25"
+},
 "open-saas": {
 "checked": "2026-10-24",
 "image": "https://opensaas.sh/public-banner.webp"
+},
+"open-source-privileged-access-management": {
+"checked": "2026-10-25",
+"image": "https://www.jumpserver.com/upload/og-image.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.jumpserver.com/pricing"
+}
 },
 "open-webui-community": {
 "checked": "2026-10-23",
@@ -138,6 +164,10 @@
 "openbot": {
 "checked": "2026-10-23",
 "image": "https://openbot.run/openbot-social.png"
+},
+"openchamber": {
+"checked": "2026-10-25",
+"image": "https://openchamber.dev/og/en.png"
 },
 "openclaude": {
 "checked": "2026-10-23",
@@ -202,9 +232,21 @@
 "url": "https://www.openhands.dev/pricing"
 }
 },
+"openllm": {
+"checked": "2026-10-25",
+"image": "https://admin.bentoml.com/uploads/bentoml_a77c421af1.png",
+"pricing": {
+"free": true,
+"url": "https://www.modular.com/pricing?utm_source=bentoml_pricing"
+}
+},
 "openmetadata": {
 "checked": "2026-10-24",
 "image": "https://open-metadata.org/assets/favicon.png"
+},
+"openmined": {
+"checked": "2026-10-25",
+"image": "https://openmined.org/og-default.jpg"
 },
 "openmontage": {
 "checked": "2026-10-23",
@@ -224,6 +266,10 @@
 "trial": true,
 "url": "https://openobserve.ai/pricing/"
 }
+},
+"openpencil": {
+"checked": "2026-10-25",
+"image": "https://openpencil.dev/screenshot.png"
 },
 "openpua": {
 "checked": "2026-10-24",
@@ -267,12 +313,31 @@
 "checked": "2026-10-23",
 "image": "https://www.openswarm.com/media/og.jpg"
 },
+"openui": {
+"checked": "2026-10-25",
+"image": "https://www.openui.com/og/home.jpg?v=ab061ade4a",
+"pricing": {
+"currency": "USD",
+"from": 49.0,
+"url": "https://www.openui.com/pricing"
+}
+},
 "openviking": {
 "checked": "2026-10-23",
 "image": "https://res.gcloudcache.com/volc-fe/openviking/playground/og-openviking-site-43e09c42.jpg"
 },
 "openvoice": {
 "checked": "2026-10-23"
+},
+"openwhispr": {
+"checked": "2026-10-25",
+"image": "https://openwhispr.com/link_preview.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 6.67,
+"url": "https://openwhispr.com/pricing"
+}
 },
 "openwork": {
 "checked": "2026-10-24",
@@ -283,6 +348,10 @@
 "from": 10.0,
 "url": "https://openworklabs.com/pricing"
 }
+},
+"operit-ai": {
+"checked": "2026-10-25",
+"image": "https://operit.app/logo.png?v=2"
 },
 "optuna": {
 "checked": "2026-10-24",
@@ -303,6 +372,15 @@
 "checked": "2026-10-23",
 "image": "https://www.onorca.dev/og-image.png"
 },
+"orchestrator-inc": {
+"checked": "2026-10-25",
+"image": "https://orchestrator.inc/og-image-v3.png",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://orchestrator.inc/pricing/"
+}
+},
 "otter-meeting-agent": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/618e9316785b3582a5178502/67dd5a945aeed07e329d4e10_fb6d82f0792801a1a0d814599859e23e_og-image-otter-optim.jpg",
@@ -311,6 +389,17 @@
 "free": true,
 "from": 8.33,
 "url": "https://otter.ai/pricing"
+}
+},
+"oumi": {
+"checked": "2026-10-25",
+"image": "https://oumi.ai/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 25.0,
+"trial": true,
+"url": "https://oumi.ai/pricing"
 }
 },
 "overview": {

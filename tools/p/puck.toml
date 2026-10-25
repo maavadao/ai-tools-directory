@@ -1,0 +1,7 @@
+name = "puck"
+description = "Let your users generate, review, and refine production-ready interfaces inside your application with Puck."
+category = "agents"
+website = "https://puckeditor.com"
+open_source = true
+repository = "https://github.com/puckeditor/puck"
+added = 2026-10-25

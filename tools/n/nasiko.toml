@@ -1,0 +1,7 @@
+name = "nasiko"
+description = "Nasiko helps enterprises account for what their AI agents cost, can access, and do, across every model and provider."
+category = "agents"
+website = "https://www.nasiko.com"
+open_source = true
+repository = "https://github.com/Nasiko-Labs/nasiko"
+added = 2026-10-25

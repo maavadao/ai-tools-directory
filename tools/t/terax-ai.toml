@@ -1,0 +1,7 @@
+name = "terax-ai"
+description = "Terax is a lightweight AI terminal with a built-in editor, AI agents, voice input, and live web preview. 7 MB on disk, 300 ms cold start. Free and open source. BYOK or fully local via LM Studio."
+category = "agents"
+website = "https://terax.app"
+open_source = true
+repository = "https://github.com/crynta/terax-ai"
+added = 2026-10-25

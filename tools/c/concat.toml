@@ -1,0 +1,7 @@
+name = "Concat"
+description = "A video editor with auto-captions, voices, effects and 4K export that runs entirely on your machine. No watermarks, no account, no subscription."
+category = "other"
+website = "https://concat.standalones.org"
+open_source = true
+repository = "https://github.com/jub0t/Concat"
+added = 2026-10-25

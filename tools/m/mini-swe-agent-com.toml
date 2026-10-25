@@ -1,0 +1,7 @@
+name = "Redirecting"
+description = "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!"
+category = "agents"
+website = "https://mini-swe-agent.com"
+open_source = true
+repository = "https://github.com/SWE-agent/mini-swe-agent"
+added = 2026-10-25

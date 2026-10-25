@@ -1,0 +1,7 @@
+name = "OpenPencil"
+description = "Open-source design editor that opens Figma .fig files, runs locally, and is fully programmable by you or your AI agent."
+category = "other"
+website = "https://openpencil.dev"
+open_source = true
+repository = "https://github.com/open-pencil/open-pencil"
+added = 2026-10-25

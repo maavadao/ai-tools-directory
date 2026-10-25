@@ -1,0 +1,7 @@
+name = "The CRM for agents"
+description = "The first agentic CRM experience — durable research agents that read your inbox, keep every record current and book their own follow-ups."
+category = "agents"
+website = "https://trycrm.ai"
+open_source = true
+repository = "https://github.com/trycompai/crm"
+added = 2026-10-25

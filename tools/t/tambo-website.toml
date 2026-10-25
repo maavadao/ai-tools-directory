@@ -1,0 +1,7 @@
+name = "tambo-website"
+description = "Build agents that speak your UI"
+category = "chatbots"
+website = "https://tambo.co"
+open_source = true
+repository = "https://github.com/tambo-ai/tambo"
+added = 2026-10-25

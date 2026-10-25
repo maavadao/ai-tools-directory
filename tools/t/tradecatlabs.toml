@@ -1,0 +1,7 @@
+name = "tradecatlabs"
+description = "开放研究与工程实验室：把长期问题转化为可审查、可复现、可持续维护的研究与工程基础设施。"
+category = "other"
+website = "https://tradecatlabs.com"
+open_source = true
+repository = "https://github.com/tradecatlabs/vibe-coding-cn"
+added = 2026-10-25
