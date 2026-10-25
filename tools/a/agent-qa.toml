@@ -1,0 +1,8 @@
+name = "agent-qa"
+description = "Tests web, Android and iOS apps from plain-language steps through CLI and MCP, with persistent memory and validated self-improvement. Requires configured model access; provider charges may apply."
+category = "coding"
+website = "https://vostride.com"
+company = "vostride"
+tags = ["testing", "qa", "browser-automation", "mobile", "mcp", "memory"]
+repository = "https://github.com/vostride/agent-qa"
+added = 2026-10-25
