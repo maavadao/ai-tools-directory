@@ -1,0 +1,7 @@
+name = "CCG Workflow"
+description = "CCG orchestrates Claude, Codex, Gemini & Antigravity CLI for collaborative AI coding — hook-based state tracking, auto strategy selection, and parallel Agent Teams."
+category = "chatbots"
+website = "https://ccg.fengshao1227.com"
+open_source = true
+repository = "https://github.com/fengshao1227/ccg-workflow"
+added = 2026-10-26

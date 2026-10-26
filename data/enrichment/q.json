@@ -3,6 +3,19 @@
 "checked": "2026-10-23",
 "image": "https://qdrant.tech/images/social_preview.png"
 },
+"qodo-cover": {
+"checked": "2026-10-26",
+"image": "https://www.qodo.ai/wp-content/uploads/2025/06/social-share-new.webp",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.qodo.ai/pricing/"
+}
+},
+"qownnotes": {
+"checked": "2026-10-26",
+"image": "https://www.qownnotes.org/screenshots/screenshot.png"
+},
 "quantdinger": {
 "checked": "2026-10-25"
 },

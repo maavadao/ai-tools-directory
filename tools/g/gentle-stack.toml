@@ -1,0 +1,7 @@
+name = "Gentle stack"
+description = "Open-source stack that gives AI coding agents persistent memory, a right-sized workflow, curated skills and evidence-based review. One command per machine."
+category = "other"
+website = "https://gentlemanprogramming.com"
+open_source = true
+repository = "https://github.com/Gentleman-Programming/gentle-ai"
+added = 2026-10-26

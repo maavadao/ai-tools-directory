@@ -1,0 +1,7 @@
+name = "RWKV Language Model"
+description = "The RWKV Language Model"
+category = "chatbots"
+website = "https://www.rwkv.com"
+open_source = true
+repository = "https://github.com/josStorer/RWKV-Runner"
+added = 2026-10-26

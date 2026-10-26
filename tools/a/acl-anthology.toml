@@ -1,0 +1,7 @@
+name = "ACL Anthology"
+description = "Reverse Engineering: Decompiling Binary Code with Large Language Models"
+category = "other"
+website = "https://aclanthology.org"
+open_source = true
+repository = "https://github.com/albertan017/LLM4Decompile"
+added = 2026-10-26

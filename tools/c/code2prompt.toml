@@ -1,0 +1,7 @@
+name = "code2prompt"
+description = "Transform your codebase into AI-optimized prompts effortlessly."
+category = "chatbots"
+website = "https://code2prompt.dev"
+open_source = true
+repository = "https://github.com/mufeedvh/code2prompt"
+added = 2026-10-26

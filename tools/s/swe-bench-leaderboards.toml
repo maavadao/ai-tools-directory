@@ -1,0 +1,7 @@
+name = "SWE-bench Leaderboards"
+description = "SWE-bench: Can Language Models Resolve Real-world Github Issues?"
+category = "other"
+website = "https://www.swebench.com"
+open_source = true
+repository = "https://github.com/SWE-bench/SWE-bench"
+added = 2026-10-26

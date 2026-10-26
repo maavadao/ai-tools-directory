@@ -1,0 +1,7 @@
+name = "osmedeus"
+description = "Osmedeus - Modern Orchestration Engine for Security"
+category = "agents"
+website = "https://www.osmedeus.org"
+open_source = true
+repository = "https://github.com/j3ssie/osmedeus"
+added = 2026-10-26

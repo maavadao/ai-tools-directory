@@ -1,0 +1,7 @@
+name = "BrowserAct"
+description = "Build reusable AI web scrapers without code. Collect fresh, structured data reliably at scale and connect it to your apps, workflows, and AI agents."
+category = "agents"
+website = "https://www.browseract.com"
+open_source = true
+repository = "https://github.com/browser-act/skills"
+added = 2026-10-26

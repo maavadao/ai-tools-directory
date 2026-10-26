@@ -1,0 +1,7 @@
+name = "big-AGI"
+description = "The AI workspace for experts. Multi-model reasoning, personas with memory, advanced model controls wrapped in a fresh UX. BYO API keys, zero lock-in."
+category = "chatbots"
+website = "https://big-agi.com"
+open_source = true
+repository = "https://github.com/enricoros/big-AGI"
+added = 2026-10-26

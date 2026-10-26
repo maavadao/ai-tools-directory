@@ -1,0 +1,7 @@
+name = "TaxHacker"
+description = "Your personal AI accountant"
+category = "chatbots"
+website = "https://taxhacker.app"
+open_source = true
+repository = "https://github.com/vas3k/TaxHacker"
+added = 2026-10-26

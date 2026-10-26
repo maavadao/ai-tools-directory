@@ -1,0 +1,7 @@
+name = "Julep → memory.store"
+description = "Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step."
+category = "coding"
+website = "https://julep.ai"
+open_source = true
+repository = "https://github.com/julep-ai/julep"
+added = 2026-10-26

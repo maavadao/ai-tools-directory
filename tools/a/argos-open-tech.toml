@@ -1,0 +1,7 @@
+name = "Argos Open Tech"
+description = "Argos Open Tech Main Page"
+category = "other"
+website = "https://www.argosopentech.com"
+open_source = true
+repository = "https://github.com/argosopentech/argos-translate"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "Smart Plugins for Obsidian"
+description = "Find related notes while you work in Obsidian. Smart Connections Core is free, uses local embeddings by default, and needs no API key."
+category = "other"
+website = "https://smartconnections.app"
+open_source = true
+repository = "https://github.com/brianpetro/obsidian-smart-connections"
+added = 2026-10-26

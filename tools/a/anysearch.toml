@@ -1,0 +1,7 @@
+name = "AnySearch"
+description = "Build AI-native search into your agents. Fast, secure, unified, and developer-friendly."
+category = "other"
+website = "https://www.anysearch.com"
+open_source = true
+repository = "https://github.com/anysearch-ai/anysearch-skill"
+added = 2026-10-26

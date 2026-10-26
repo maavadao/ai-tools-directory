@@ -1,0 +1,7 @@
+name = "honcho"
+description = "Honcho is open-source AI memory for agents. It remembers every user across sessions and tools, from Claude Code to your own agent. State of the art on LongMem."
+category = "chatbots"
+website = "https://honcho.dev"
+open_source = true
+repository = "https://github.com/plastic-labs/honcho"
+added = 2026-10-26

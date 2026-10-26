@@ -1,0 +1,7 @@
+name = "qodo-cover"
+description = "Qodo is an agentic code review and integrity platform for improving code quality at every stage."
+category = "agents"
+website = "https://www.qodo.ai"
+open_source = true
+repository = "https://github.com/qodo-ai/qodo-cover"
+added = 2026-10-26

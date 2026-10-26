@@ -1,0 +1,7 @@
+name = "Geoffrey Huntley"
+description = "It's an uncertain time for our profession, but one thing is certain—things will change. Drafting used to require a room of engineers, but then CAD came along..."
+category = "education"
+website = "https://ghuntley.com"
+open_source = true
+repository = "https://github.com/ghuntley/how-to-build-a-coding-agent"
+added = 2026-10-26

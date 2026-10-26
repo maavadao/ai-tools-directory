@@ -1,0 +1,7 @@
+name = "failproof ai"
+description = "the end-to-end failure layer for ai agents. observe every run, find where agents fail, write a policy that stops it, and enforce it in realtime across claude code, codex, cursor, gemini and more."
+category = "chatbots"
+website = "https://befailproof.ai"
+open_source = true
+repository = "https://github.com/FailproofAI/failproofai"
+added = 2026-10-26

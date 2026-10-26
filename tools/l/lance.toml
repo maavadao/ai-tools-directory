@@ -1,0 +1,7 @@
+name = "lance"
+description = "Documentation for Lance, an open lakehouse format for Multimodal AI"
+category = "developer-platforms"
+website = "https://lance.org"
+open_source = true
+repository = "https://github.com/lance-format/lance"
+added = 2026-10-26

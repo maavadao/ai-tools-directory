@@ -1,0 +1,7 @@
+name = "ProjectLearn"
+description = "A project-based learning approach in web development, mobile development, game development, machine learning and artificial intelligence. Learn code the right way!"
+category = "education"
+website = "https://projectlearn.io"
+open_source = true
+repository = "https://github.com/Xtremilicious/projectlearn-project-based-learning"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "llm-gateway"
+description = "The open source LLM gateway that connects your AI agents and agentic workflows to any provider in seconds. Subscriptions, pay-per-token, local models, and custom providers."
+category = "other"
+website = "https://manifest.build"
+open_source = true
+repository = "https://github.com/mnfst/llm-gateway"
+added = 2026-10-26

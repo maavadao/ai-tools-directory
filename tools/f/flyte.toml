@@ -1,0 +1,7 @@
+name = "flyte"
+description = "Recover from infra and code failures, orchestrate dynamic workflows, scale to production."
+category = "agents"
+website = "https://flyte.org"
+open_source = true
+repository = "https://github.com/flyteorg/flyte"
+added = 2026-10-26

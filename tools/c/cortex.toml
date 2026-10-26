@@ -1,0 +1,7 @@
+name = "cortex"
+description = "Production infrastructure for machine learning at scale"
+category = "data"
+website = "https://cortexlabs.com"
+open_source = true
+repository = "https://github.com/cortexlabs/cortex"
+added = 2026-10-26

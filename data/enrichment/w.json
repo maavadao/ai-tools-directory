@@ -32,6 +32,20 @@
 "url": "https://weaviate.io/pricing"
 }
 },
+"webchatgpt": {
+"checked": "2026-10-26",
+"image": "https://www.webchatgpt.app/webchatgpt-social.png"
+},
+"webiny-js": {
+"checked": "2026-10-26",
+"image": "https://www.webiny.com/social/webiny-og-cover.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 79.0,
+"url": "https://www.webiny.com/pricing"
+}
+},
 "webllm": {
 "checked": "2026-10-24"
 },
@@ -48,6 +62,13 @@
 },
 "weknora": {
 "checked": "2026-10-23"
+},
+"welcome-to-imbalanced-learn-documentation": {
+"checked": "2026-10-26"
+},
+"wigolo": {
+"checked": "2026-10-26",
+"image": "https://wigolo.app/wigolo/wigolo-social.png"
 },
 "windmill": {
 "checked": "2026-10-24"

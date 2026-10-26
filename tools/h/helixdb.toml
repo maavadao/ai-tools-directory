@@ -1,0 +1,7 @@
+name = "HelixDB"
+description = "Graph, vector, and full-text search in one Rust engine on object storage, for agent memory, RAG, and company brains. Build memory yourself, or build your memory product on top of it."
+category = "other"
+website = "https://www.helix-db.com"
+open_source = true
+repository = "https://github.com/HelixDB/helix-db"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "AgentScope Java"
+description = "Build your own Agent application with the AgentScope Harness SDK, or use managed Agent services through AgentScope Service with platform-managed runtimes."
+category = "chatbots"
+website = "https://java.agentscope.io"
+open_source = true
+repository = "https://github.com/agentscope-ai/agentscope-java"
+added = 2026-10-26

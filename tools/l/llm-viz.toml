@@ -1,0 +1,7 @@
+name = "llm-viz"
+description = "3D Visualization of an GPT-style LLM"
+category = "other"
+website = "https://bbycroft.net"
+open_source = true
+repository = "https://github.com/bbycroft/llm-viz"
+added = 2026-10-26

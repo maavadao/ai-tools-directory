@@ -1,0 +1,7 @@
+name = "Vespa.ai"
+description = "Vespa is the AI Search Platform for fast, accurate AI search, AI agents, personalization, recommendations, and retrieval."
+category = "other"
+website = "https://vespa.ai"
+open_source = true
+repository = "https://github.com/vespa-engine/vespa"
+added = 2026-10-26

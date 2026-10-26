@@ -1,0 +1,7 @@
+name = "Mission Control"
+description = "Run agent operations from one self-hosted control plane with tasks, activity, costs, approvals, and operator review."
+category = "coding"
+website = "https://mc.builderz.dev"
+open_source = true
+repository = "https://github.com/builderz-labs/mission-control"
+added = 2026-10-26

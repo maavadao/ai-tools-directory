@@ -18,6 +18,9 @@
 "labs": {
 "checked": "2026-10-23"
 },
+"lance": {
+"checked": "2026-10-26"
+},
 "lancedb": {
 "checked": "2026-10-25",
 "image": "https://cdn.prod.website-files.com/69a866b324926425eccc4cf5/69cd303f51b804e86e0d598a_og-image%20-%20home%20%26%20generic.webp"
@@ -49,6 +52,14 @@
 "url": "https://langfuse.com/pricing"
 }
 },
+"latent-space": {
+"checked": "2026-10-26",
+"image": "https://latent.space/brand/social-home-v1.jpg"
+},
+"lavague": {
+"checked": "2026-10-26",
+"image": "https://cdn.prod.website-files.com/65f2cdf991013d85c582af00/65fae15f9d9e05d00b759b64_open%20graph%20img.png"
+},
 "learn-claude-code": {
 "checked": "2026-10-23"
 },
@@ -65,6 +76,9 @@
 "trial": true,
 "url": "https://www.lemlist.com/pricing"
 }
+},
+"lemonade": {
+"checked": "2026-10-26"
 },
 "leon": {
 "checked": "2026-10-24",
@@ -131,6 +145,23 @@
 "llm": {
 "checked": "2026-10-25"
 },
+"llm-gateway": {
+"checked": "2026-10-26",
+"image": "https://manifest.build/images/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 19.0,
+"url": "https://manifest.build/pricing/"
+}
+},
+"llm-viz": {
+"checked": "2026-10-26"
+},
+"llmlingua-series": {
+"checked": "2026-10-26",
+"image": "https://llmlingua.com/videos/figures/LLMLingua.webp"
+},
 "llmware": {
 "checked": "2026-10-24",
 "image": "https://framerusercontent.com/assets/23wYSDFvfVgijx9jM1Roq3r1qHQ.png"
@@ -149,9 +180,16 @@
 "url": "https://lobehub.com/pricing"
 }
 },
+"lobsterai": {
+"checked": "2026-10-26",
+"image": "https://ydhardwarecommon.nosdn.127.net/85ca628b73b3d3ddab9394f9f85e9ced.jpg"
+},
 "localai": {
 "checked": "2026-10-23",
 "image": "https://localai.io/img/logo-full.png"
+},
+"login": {
+"checked": "2026-10-26"
 },
 "lovable": {
 "checked": "2026-10-23",

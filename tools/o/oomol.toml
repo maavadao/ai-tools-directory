@@ -1,0 +1,7 @@
+name = "OOMOL"
+description = "Connect your apps once and use them across AI agents. Share app access with your team and manage permissions in one place."
+category = "agents"
+website = "https://oomol.com"
+open_source = true
+repository = "https://github.com/oomol-lab/open-connector"
+added = 2026-10-26

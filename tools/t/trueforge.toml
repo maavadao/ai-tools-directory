@@ -1,0 +1,7 @@
+name = "TrueForge"
+description = "TrueForge is an open-source agent harness — the runtime layer that turns an LLM into a working agent, with MCP tools, skills, sandboxing, approvals, and subagents built in."
+category = "agents"
+website = "https://trueforge.dev"
+open_source = true
+repository = "https://github.com/truefoundry/trueforge"
+added = 2026-10-26

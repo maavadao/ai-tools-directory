@@ -1,0 +1,7 @@
+name = "treg"
+description = "One MCP server, one key: 4,000+ tools across 114 providers for SEO, enrichment, ads, social and scraping data at the provider's own rate, no markup."
+category = "coding"
+website = "https://treg.to"
+open_source = true
+repository = "https://github.com/superdesigndev/treg"
+added = 2026-10-26

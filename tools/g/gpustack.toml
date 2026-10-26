@@ -1,0 +1,7 @@
+name = "GPUStack"
+description = "Deploy, manage, and scale LLMs and GPU resources on any hardware. GPUStack: Enterprise MaaS + GPUaaS Platform."
+category = "chatbots"
+website = "https://gpustack.ai"
+open_source = true
+repository = "https://github.com/gpustack/gpustack"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "ClawX"
+description = "An open-source desktop AI assistant that runs locally, automates tasks 24/7, monitors data, and pushes results to 20+ messaging channels."
+category = "agents"
+website = "https://claw-x.com"
+open_source = true
+repository = "https://github.com/ValueCell-ai/ClawX"
+added = 2026-10-26

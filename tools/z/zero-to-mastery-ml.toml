@@ -1,0 +1,7 @@
+name = "zero-to-mastery-ml"
+description = "All course materials for the Zero to Mastery Machine Learning and Data Science course."
+category = "data"
+website = "https://dbourke.link"
+open_source = true
+repository = "https://github.com/mrdbourke/zero-to-mastery-ml"
+added = 2026-10-26

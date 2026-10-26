@@ -1,0 +1,7 @@
+name = "tuios"
+description = "tuios is a terminal window manager with tiling, sessions that keep running when you detach, and one Inbox for what the coding agents in your panes are waiting on."
+category = "coding"
+website = "https://tuios.dev"
+open_source = true
+repository = "https://github.com/Gaurav-Gosain/tuios"
+added = 2026-10-26

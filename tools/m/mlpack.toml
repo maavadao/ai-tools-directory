@@ -1,0 +1,7 @@
+name = "mlpack"
+description = "mlpack: a fast, header-only C++ machine learning library"
+category = "other"
+website = "https://www.mlpack.org"
+open_source = true
+repository = "https://github.com/mlpack/mlpack"
+added = 2026-10-26

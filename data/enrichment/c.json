@@ -7,6 +7,9 @@
 "checked": "2026-10-24",
 "image": "https://cdn.camel-ai.org/image/thumbnail.png"
 },
+"canopy-labs": {
+"checked": "2026-10-26"
+},
 "canva": {
 "checked": "2026-10-23",
 "image": "https://static.canva.com/static/images/fb_cover-1.jpg"
@@ -40,6 +43,14 @@
 "checked": "2026-10-23",
 "image": "https://ccswitch.io/og-image.png?v=2"
 },
+"ccg-workflow": {
+"checked": "2026-10-26",
+"image": "https://ccg.fengshao1227.com/logo/ccg-social-og.png"
+},
+"ccpm": {
+"checked": "2026-10-26",
+"image": "https://automaze.io/static/img/ogimage.webp"
+},
 "cekura-bench": {
 "checked": "2026-10-23",
 "image": "https://benchmarks.cekura.ai/opengraph-image?d63bd4d18ec698db"
@@ -47,6 +58,10 @@
 "certgames": {
 "checked": "2026-10-25",
 "image": "https://certgames.com/assets/certgames-social.png"
+},
+"chainer": {
+"checked": "2026-10-26",
+"image": "https://chainer.org/images/logo.png"
 },
 "character-ai": {
 "checked": "2026-10-23",
@@ -84,6 +99,9 @@
 "free": true,
 "url": "https://chatgpt.com/pricing/"
 }
+},
+"chatlab": {
+"checked": "2026-10-26"
 },
 "chattts-by-2noise": {
 "checked": "2026-10-23"
@@ -123,6 +141,10 @@
 "checked": "2026-10-23",
 "image": "https://www.aitmpl.com/logo.png"
 },
+"claude-code-ultimate-guide": {
+"checked": "2026-10-26",
+"image": "https://cc.bruniaux.com/og-image.png"
+},
 "claude-duet": {
 "checked": "2026-10-23",
 "image": "https://assets.claude.com/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg?w=2400&h=1260&fit=crop",
@@ -158,9 +180,16 @@
 "checked": "2026-10-25",
 "image": "https://claurst.kuber.studio/public/social-image.png"
 },
+"clawd-on-desk": {
+"checked": "2026-10-26"
+},
 "clawskills-sh": {
 "checked": "2026-10-23",
 "image": "https://clawskills.sh/api/og/default"
+},
+"clawx": {
+"checked": "2026-10-26",
+"image": "https://claw-x.com/og-image.png"
 },
 "clay": {
 "checked": "2026-10-23",
@@ -176,6 +205,15 @@
 "cleanlab": {
 "checked": "2026-10-25",
 "image": "https://cleanlab.ai/_next/static/media/social-share-card-homepage.71fc9f90.png"
+},
+"clearml": {
+"checked": "2026-10-26",
+"image": "https://clear.ml/wp-content/uploads/2025/02/pyramid-and-labels.png",
+"pricing": {
+"currency": "USD",
+"from": 15.0,
+"url": "https://clear.ml/pricing"
+}
 },
 "cli-anything-hub": {
 "checked": "2026-10-23"
@@ -223,6 +261,16 @@
 "url": "https://cloakbrowser.dev"
 }
 },
+"cloudflare-docs": {
+"checked": "2026-10-26",
+"image": "https://developers.cloudflare.com/og-docs.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.0,
+"url": "https://www.cloudflare.com/plans/"
+}
+},
 "cmux": {
 "checked": "2026-10-24",
 "image": "https://cmux.com/opengraph-image",
@@ -249,6 +297,18 @@
 "checked": "2026-10-23",
 "image": "https://code-review-graph.com/og-image.png"
 },
+"code2prompt": {
+"checked": "2026-10-26",
+"image": "https://code2prompt.dev/favicon.svg"
+},
+"codecompanion-nvim-documentation": {
+"checked": "2026-10-26",
+"image": "https://codecompanion.olimorris.dev/assets/images/social_banner.png"
+},
+"codepilot": {
+"checked": "2026-10-26",
+"image": "https://www.codepilot.sh/screenshots/en/chat-window.webp"
+},
 "coder": {
 "checked": "2026-10-24",
 "image": "https://coder.com/_next/static/media/OpenGraph.f7fb2003.jpg",
@@ -264,6 +324,10 @@
 "codexbar": {
 "checked": "2026-10-24",
 "image": "https://codexbar.app/social.png?v=1436859e75bb3a24"
+},
+"cofounder-by-openinterface": {
+"checked": "2026-10-26",
+"image": "https://storage.googleapis.com/raidenaipublic/cofounderdev/cofounder-og-black.webp"
 },
 "cog": {
 "checked": "2026-10-25"
@@ -341,6 +405,14 @@
 "cookiecutter-data-science": {
 "checked": "2026-10-25"
 },
+"copilot-for-obsidian": {
+"checked": "2026-10-26",
+"image": "https://www.obsidiancopilot.com/api/og?heading=Copilot+for+Obsidian&type=Knowledge+Work+Agent&description=Designed+for+Your+Second+Brain&badge=Free+and+open+source&mode=dark"
+},
+"copilot-for-xcode": {
+"checked": "2026-10-26",
+"image": "https://copilotforxcode.intii.com/banner.png"
+},
 "copilotkit": {
 "checked": "2026-10-23",
 "image": "https://www.copilotkit.ai/images/og/generic.webp",
@@ -359,6 +431,16 @@
 "url": "https://www.copy.ai/prices"
 }
 },
+"coroot": {
+"checked": "2026-10-26",
+"image": "https://coroot.com/assets/images/coroot-social.jpeg",
+"pricing": {
+"currency": "USD",
+"from": 40.0,
+"trial": true,
+"url": "https://coroot.com/pricing"
+}
+},
 "corsair": {
 "checked": "2026-10-25",
 "image": "https://corsair.dev/og-image.png",
@@ -366,6 +448,19 @@
 "currency": "USD",
 "from": 200.0,
 "url": "https://corsair.dev/"
+}
+},
+"cortex": {
+"checked": "2026-10-26"
+},
+"countly-server": {
+"checked": "2026-10-26",
+"image": "https://cdn.prod.website-files.com/61c1b7c3e2f3805325be4594/668ce80fb93226b6ad88d718_d587926ef3277bc26935a28e68750dcb_Meta%20Tag-Countly.com.jpg",
+"pricing": {
+"currency": "USD",
+"from": 175.0,
+"trial": true,
+"url": "https://countly.com/pricing"
 }
 },
 "cowagent": {

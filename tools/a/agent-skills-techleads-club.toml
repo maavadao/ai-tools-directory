@@ -1,0 +1,7 @@
+name = "Agent Skills"
+description = "A curated, security-scanned registry of skills for AI coding agents. Extend Cursor, Claude Code, GitHub Copilot, Windsurf, Cline and more with reusable…"
+category = "coding"
+website = "https://agent-skills.techleads.club"
+open_source = true
+repository = "https://github.com/tech-leads-club/agent-skills"
+added = 2026-10-26

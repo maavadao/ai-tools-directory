@@ -1,0 +1,7 @@
+name = "PRINTFILM"
+description = "PRINTFILM AI短视频：输入卖点与风格，自动生成分镜、画面、旁白与成片。"
+category = "other"
+website = "https://www.printfilm.com"
+open_source = true
+repository = "https://github.com/yi1108/printfilm"
+added = 2026-10-26

@@ -91,6 +91,9 @@
 "onlook": {
 "checked": "2026-10-24"
 },
+"onlyswitch": {
+"checked": "2026-10-26"
+},
 "onnx": {
 "checked": "2026-10-24"
 },
@@ -106,9 +109,17 @@
 "url": "https://onyx.app/pricing"
 }
 },
+"oomol": {
+"checked": "2026-10-26",
+"image": "https://oomol.com/img/brand/oomol-social.png"
+},
 "oomwoo": {
 "checked": "2026-10-25",
 "image": "https://oomwoo.com/assets/vacuum-top.webp"
+},
+"op-zseven-tech": {
+"checked": "2026-10-26",
+"image": "https://op.zseven.tech/_marketing/20261021-8e995406/og-image.jpg"
 },
 "opaline": {
 "checked": "2026-10-23",
@@ -122,8 +133,16 @@
 "checked": "2026-10-24",
 "image": "https://opcode.sh/opcode-og-image.jpg"
 },
+"open-agents": {
+"checked": "2026-10-26",
+"image": "https://open-agents.dev/opengraph-image?31983319aa5e44a1"
+},
 "open-code-review": {
 "checked": "2026-10-23"
+},
+"open-executive": {
+"checked": "2026-10-26",
+"image": "https://openexecutive.ai/opengraph-image?7da2ad0476344b3b"
 },
 "open-generative-ai": {
 "checked": "2026-10-23",
@@ -148,6 +167,10 @@
 "open-webui-community": {
 "checked": "2026-10-23",
 "image": "https://openwebui.com/og-image.png"
+},
+"openagent": {
+"checked": "2026-10-26",
+"image": "https://cdn.openagentai.org/img/openagent.png"
 },
 "openai-api": {
 "checked": "2026-10-23",
@@ -188,9 +211,16 @@
 "checked": "2026-10-24",
 "image": "https://opencodex.me/og.png"
 },
+"opencompass": {
+"checked": "2026-10-26"
+},
 "opencreator": {
 "checked": "2026-10-24",
 "image": "https://raw.githubusercontent.com/krillinai/OpenCreator/main/assets/opencreator-home-v2.png?v=5"
+},
+"opencursor": {
+"checked": "2026-10-26",
+"image": "https://cdn.vsassets.io/v/M281_20261021.12/_content/Header/access-marketplace.png"
 },
 "opencv": {
 "checked": "2026-10-23",
@@ -240,6 +270,19 @@
 "url": "https://www.modular.com/pricing?utm_source=bentoml_pricing"
 }
 },
+"openllmetry": {
+"checked": "2026-10-26",
+"image": "https://cdn.prod.website-files.com/6813b49cdb25f6ecabc12793/6915acf131f6d9813bf464c8_traceloop-ograph.jpg",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.traceloop.com/pricing"
+}
+},
+"openmed": {
+"checked": "2026-10-26",
+"image": "https://openmed.life/og.png"
+},
 "openmetadata": {
 "checked": "2026-10-24",
 "image": "https://open-metadata.org/assets/favicon.png"
@@ -255,6 +298,9 @@
 "openmythos": {
 "checked": "2026-10-24",
 "image": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/665643dd8c7ac752237b5cef_Discord-OG-1200x630.jpg"
+},
+"opennmt": {
+"checked": "2026-10-26"
 },
 "openobserve": {
 "checked": "2026-10-24",
@@ -309,6 +355,10 @@
 "checked": "2026-10-23",
 "image": "https://openspec.dev/og-card.jpg"
 },
+"opensquilla": {
+"checked": "2026-10-26",
+"image": "https://opensquilla.cn/logo.png"
+},
 "openswarm": {
 "checked": "2026-10-23",
 "image": "https://www.openswarm.com/media/og.jpg"
@@ -353,6 +403,10 @@
 "checked": "2026-10-25",
 "image": "https://operit.app/logo.png?v=2"
 },
+"optimate": {
+"checked": "2026-10-26",
+"image": "https://framerusercontent.com/images/YDGtc5GwgzIyGPm5VDwI7yOmpo.png"
+},
 "optuna": {
 "checked": "2026-10-24",
 "image": "https://optuna.org/assets/img/optuna-logo.png"
@@ -368,6 +422,10 @@
 "url": "https://www.opus.pro/pricing"
 }
 },
+"orange-data-mining": {
+"checked": "2026-10-26",
+"image": "https://orangedatamining.com/_next/static/media/orange-cover.6d606323.png"
+},
 "orca": {
 "checked": "2026-10-23",
 "image": "https://www.onorca.dev/og-image.png"
@@ -380,6 +438,18 @@
 "from": 20.0,
 "url": "https://orchestrator.inc/pricing/"
 }
+},
+"osaurus": {
+"checked": "2026-10-26",
+"image": "https://osaurus.ai/osaurus-og-image-1.png",
+"pricing": {
+"trial": true,
+"url": "https://osaurus.ai/pricing"
+}
+},
+"osmedeus": {
+"checked": "2026-10-26",
+"image": "https://osmedeus.org/banner.png"
 },
 "otter-meeting-agent": {
 "checked": "2026-10-23",
@@ -401,6 +471,10 @@
 "trial": true,
 "url": "https://oumi.ai/pricing"
 }
+},
+"ouroboros": {
+"checked": "2026-10-26",
+"image": "https://ouroboros.page/assets/ouroboros.jpg"
 },
 "overview": {
 "checked": "2026-10-23",

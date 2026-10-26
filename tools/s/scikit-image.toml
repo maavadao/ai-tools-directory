@@ -1,0 +1,7 @@
+name = "scikit-image"
+description = "Image processing in Python"
+category = "other"
+website = "https://scikit-image.org"
+open_source = true
+repository = "https://github.com/scikit-image/scikit-image"
+added = 2026-10-26

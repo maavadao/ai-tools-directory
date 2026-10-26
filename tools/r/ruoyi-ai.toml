@@ -1,0 +1,7 @@
+name = "RuoYi AI"
+description = "快速搭建属于自己的 AI 助手平台"
+category = "agents"
+website = "https://doc.ruoyiai.chat"
+open_source = true
+repository = "https://github.com/ageerle/ruoyi-ai"
+added = 2026-10-26

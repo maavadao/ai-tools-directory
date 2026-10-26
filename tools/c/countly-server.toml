@@ -1,0 +1,7 @@
+name = "countly-server"
+description = "Countly is a first-party digital analytics and customer engagement platform offering on-premise or private cloud hosting for mobile, web, and desktop apps."
+category = "data"
+website = "https://countly.com"
+open_source = true
+repository = "https://github.com/Countly/countly-server"
+added = 2026-10-26

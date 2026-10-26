@@ -1,0 +1,7 @@
+name = "Welcome to imbalanced-learn documentation!"
+description = "A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning"
+category = "data"
+website = "https://imbalanced-learn.org"
+open_source = true
+repository = "https://github.com/scikit-learn-contrib/imbalanced-learn"
+added = 2026-10-26

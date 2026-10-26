@@ -1,0 +1,7 @@
+name = "apfel"
+description = "Your Mac already has AI. Apple ships a language model with macOS -apfel unlocks it with one brew install. No downloads, no API keys, no config. The fastest path to local AI."
+category = "chatbots"
+website = "https://apfel.franzai.com"
+open_source = true
+repository = "https://github.com/Arthur-Ficial/apfel"
+added = 2026-10-26

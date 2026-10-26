@@ -1,0 +1,7 @@
+name = "vLLM Semantic Router"
+description = "An open, programmable decision layer for models and compute."
+category = "chatbots"
+website = "https://vllm-sr.ai"
+open_source = true
+repository = "https://github.com/vllm-project/semantic-router"
+added = 2026-10-26

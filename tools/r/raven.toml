@@ -1,0 +1,7 @@
+name = "Raven"
+description = "Raven is the harness of harnesses, built for RSI: it brings your agents, tools, skills, and memory together and turns one task into one finished result."
+category = "coding"
+website = "https://raven.evermind.ai"
+open_source = true
+repository = "https://github.com/EverMind-AI/Raven"
+added = 2026-10-26

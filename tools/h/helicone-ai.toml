@@ -1,0 +1,7 @@
+name = "Helicone.ai"
+description = "AI Gateway & LLM Observability"
+category = "data"
+website = "https://www.helicone.ai"
+open_source = true
+repository = "https://github.com/Helicone/helicone"
+added = 2026-10-26

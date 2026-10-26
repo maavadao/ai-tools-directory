@@ -1,0 +1,7 @@
+name = "Unstract.com →"
+description = "Unstract Flow turns a described process into production-grade document automation workflows — deterministic where it matters, agentic where it helps. Highly accurate."
+category = "chatbots"
+website = "https://unstract.com"
+open_source = true
+repository = "https://github.com/Zipstack/unstract"
+added = 2026-10-26

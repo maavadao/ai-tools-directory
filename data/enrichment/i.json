@@ -15,6 +15,10 @@
 "checked": "2026-10-24",
 "image": "https://img2threejs.io/og-cover.png"
 },
+"imnotai": {
+"checked": "2026-10-26",
+"image": "https://imnotai.kr/opengraph-image.png?b4616bf8da8ab9ea"
+},
 "inbox-zero": {
 "checked": "2026-10-23",
 "image": "https://www.getinboxzero.com/opengraph-image.jpg?opengraph-image.2_3tl_gj8wvk_.jpg",
@@ -60,6 +64,10 @@
 "url": "https://www.influxdata.com/influxdb-pricing/"
 }
 },
+"infographic": {
+"checked": "2026-10-26",
+"image": "https://en-US.infographic.antv.vision/images/og-home.png"
+},
 "infracost": {
 "checked": "2026-10-25",
 "image": "https://framerusercontent.com/images/aX7rIISdWuaXaEeRTGMNWm6PBg.jpg",
@@ -87,6 +95,9 @@
 "intelligence-begins-with-memory": {
 "checked": "2026-10-25"
 },
+"intentcat": {
+"checked": "2026-10-26"
+},
 "intercom": {
 "checked": "2026-10-23",
 "image": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/9d9c4802c510e9279b7525a4dd289dd793725b83-2400x1260.jpg",
@@ -97,6 +108,10 @@
 "trial": true,
 "url": "https://www.intercom.com/pricing"
 }
+},
+"interpretml": {
+"checked": "2026-10-26",
+"image": "https://interpret.ml/images/interpretml-meta-image.jpg"
 },
 "invideo": {
 "checked": "2026-10-23",

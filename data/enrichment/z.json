@@ -38,9 +38,22 @@
 "url": "https://www.zendesk.com/in/pricing/"
 }
 },
+"zenml": {
+"checked": "2026-10-26",
+"image": "https://assets.zenml.io/og/pages/home.jpg",
+"pricing": {
+"currency": "USD",
+"from": 39.0,
+"trial": true,
+"url": "https://www.zenml.io/pricing"
+}
+},
 "zep": {
 "checked": "2026-10-23",
 "image": "https://files.buildwithfern.com/zep.docs.buildwithfern.com/02c641ada228c93ddc35eb6c1bc7e334fc8b00cbce6788440d20f2d5097a0ef3/images/docs-social-card.png"
+},
+"zero-to-mastery-ml": {
+"checked": "2026-10-26"
 },
 "zeroclaw": {
 "checked": "2026-10-23",

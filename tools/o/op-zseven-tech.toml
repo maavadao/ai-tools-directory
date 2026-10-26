@@ -1,0 +1,7 @@
+name = "OpenPencil"
+description = "Generate complete, multi-screen interfaces on a live canvas, refine every layer with AI, and export an editable design or code."
+category = "design"
+website = "https://op.zseven.tech"
+open_source = true
+repository = "https://github.com/ZSeven-W/openpencil"
+added = 2026-10-26

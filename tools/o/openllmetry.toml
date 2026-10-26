@@ -1,0 +1,7 @@
+name = "openllmetry"
+description = "Traceloop turns evals and monitors into a continuous feedback loop - so every release gets better"
+category = "other"
+website = "https://www.traceloop.com"
+open_source = true
+repository = "https://github.com/traceloop/openllmetry"
+added = 2026-10-26

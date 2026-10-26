@@ -1,0 +1,7 @@
+name = "agent-native"
+description = "Build autonomous agents with intuitive UIs. Define each capability once for the agent, UI, APIs, and integrations. Open-source TypeScript."
+category = "agents"
+website = "https://www.agent-native.com"
+open_source = true
+repository = "https://github.com/BuilderIO/agent-native"
+added = 2026-10-26

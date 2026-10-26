@@ -2,6 +2,10 @@
 "kag": {
 "checked": "2026-10-25"
 },
+"kaggle-solutions": {
+"checked": "2026-10-26",
+"image": "https://kaggle.farid.one/images/logo.png"
+},
 "kai": {
 "checked": "2026-10-23",
 "image": "https://hirekai.ai/opengraph-image?c5d626a72f39b70a",
@@ -45,6 +49,9 @@
 "kirara-ai": {
 "checked": "2026-10-24"
 },
+"klavis-ai": {
+"checked": "2026-10-26"
+},
 "klingai": {
 "checked": "2026-10-23",
 "image": "https://s16-kling.klingai.com/kos/s101/nlav112918/kling-web/kling-logo-payment-en.png"
@@ -58,6 +65,13 @@
 "from": 42.0,
 "url": "https://kodlo.ai/pricing/"
 }
+},
+"koharu": {
+"checked": "2026-10-26",
+"image": "https://koharu.mintlify.app/_mintlify/api/og/v2?division=Start+here&title=Koharu+documentation&description=Everything+you+need+to+translate%2C+edit%2C+and+export+manga+with+Koharu.&theme=3f42ff101f60278a38b0edb0&signature=54ac6e4a7faf24db8ad67256822cb10eccda672528fdb43e884f5a63c4ae25ed"
+},
+"koishi": {
+"checked": "2026-10-26"
 },
 "kong-inc": {
 "checked": "2026-10-23",
@@ -84,6 +98,9 @@
 "krita-ai-diffusion": {
 "checked": "2026-10-25"
 },
+"kuafuai": {
+"checked": "2026-10-26"
+},
 "kubeflow": {
 "checked": "2026-10-24",
 "image": "https://www.kubeflow.org/social/social_home.b4b276a78751053b254216bb34638f95.png"
@@ -100,5 +117,9 @@
 "kubesphere": {
 "checked": "2026-10-24",
 "image": "https://www.kubesphere.io/images/common/snapshot-en.png"
+},
+"kun": {
+"checked": "2026-10-26",
+"image": "https://www.kun-agent.com/mascot/kun-bird-logo.png"
 }
 }

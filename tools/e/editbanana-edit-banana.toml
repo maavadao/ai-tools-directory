@@ -1,0 +1,7 @@
+name = "EditBanana | Edit Banana"
+description = "EditBanana (Edit Banana) uses AI to convert images, PDFs, screenshots, and scientific figures into editable PPT, SVG, XML, and research-ready figures."
+category = "chatbots"
+website = "https://www.editbanana.net"
+open_source = true
+repository = "https://github.com/BIT-DataLab/Edit-Banana"
+added = 2026-10-26

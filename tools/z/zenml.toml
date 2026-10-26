@@ -1,0 +1,7 @@
+name = "zenml"
+description = "ZenML Labs is the unified infrastructure layer for AI in production: ZenML orchestrates your pipelines and agents on the infra you choose, and Kitaru replays them on production data."
+category = "data"
+website = "https://www.zenml.io"
+open_source = true
+repository = "https://github.com/zenml-io/zenml"
+added = 2026-10-26

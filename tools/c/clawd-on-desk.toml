@@ -1,0 +1,7 @@
+name = "Clawd on Desk"
+description = "A desktop crab that watches your AI code. Real-time, playful, yours to theme."
+category = "other"
+website = "https://clawdondesk.com"
+open_source = true
+repository = "https://github.com/rullerzhou-afk/clawd-on-desk"
+added = 2026-10-26

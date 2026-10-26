@@ -1,0 +1,7 @@
+name = "PostgresML"
+description = "Run embeddings, vectors, and open-source LLMs on GPU-backed Postgres. Build RAG and ML apps with SQL or the Python and JavaScript SDKs."
+category = "other"
+website = "https://postgresml.org"
+open_source = true
+repository = "https://github.com/postgresml/postgresml"
+added = 2026-10-26

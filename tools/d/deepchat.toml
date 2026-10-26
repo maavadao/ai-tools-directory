@@ -1,0 +1,7 @@
+name = "DeepChat"
+description = "DeepChat 是一款智能 AI 助手，与 DeepSeek 默契配合，为您带来强大而友好的 AI 体验。"
+category = "other"
+website = "https://deepchat.thinkinai.xyz"
+open_source = true
+repository = "https://github.com/ThinkInAIXYZ/deepchat"
+added = 2026-10-26

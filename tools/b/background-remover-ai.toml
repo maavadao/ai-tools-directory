@@ -1,0 +1,7 @@
+name = "Background Remover AI"
+description = "Remove backgrounds from images and videos instantly with our free AI-powered tool. No signup required. Features transparent export, custom backgrounds, alpha matting for hair details, batch processing, and professional output formats. Trusted by millions of creators worldwide."
+category = "video"
+website = "https://backgroundremoverai.com"
+open_source = true
+repository = "https://github.com/nadermx/backgroundremover"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "OpenSquilla"
+description = "OpenSquilla is TokenRhythm's open-source microkernel AI Agent framework, built for Token efficiency. It cuts LLM cost through smart routing and multi-model ensemble — more Agent intelligence per unit of spend."
+category = "chatbots"
+website = "https://opensquilla.ai"
+open_source = true
+repository = "https://github.com/TokenRhythm/opensquilla"
+added = 2026-10-26

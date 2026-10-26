@@ -1,0 +1,7 @@
+name = "Apache HertzBeat"
+description = "AI-powered open source real-time monitoring system for metrics, logs, alerts, and observability. No agent required."
+category = "agents"
+website = "https://hertzbeat.apache.org"
+open_source = true
+repository = "https://github.com/apache/hertzbeat"
+added = 2026-10-26

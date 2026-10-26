@@ -1,0 +1,7 @@
+name = "ERNIE Blog"
+description = "The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle."
+category = "chatbots"
+website = "https://ernie.baidu.com"
+open_source = true
+repository = "https://github.com/PaddlePaddle/ERNIE"
+added = 2026-10-26

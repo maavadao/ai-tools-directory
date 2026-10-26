@@ -1,0 +1,7 @@
+name = "HuLa"
+description = "高性能通讯，Rust 核心，macOS/Windows/Linux/iOS/Android 全平台畅聊。"
+category = "chatbots"
+website = "https://hulaspark.com"
+open_source = true
+repository = "https://github.com/HuLaSpark/HuLa"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "Claude Code Ultimate Guide"
+description = "Master Claude Code with 25K+ lines of documentation, 278 templates, 473-question quiz, 184 CVE and advisory records tracked, and TDD/SDD/BDD workflows. Free & open-source."
+category = "other"
+website = "https://cc.bruniaux.com"
+open_source = true
+repository = "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+added = 2026-10-26

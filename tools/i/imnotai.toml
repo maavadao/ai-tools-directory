@@ -1,0 +1,7 @@
+name = "imnotai"
+description = "AI가 쓴 한글을 사람 글처럼 자연스럽게 다듬어 드립니다."
+category = "other"
+website = "https://imnotai.kr"
+open_source = true
+repository = "https://github.com/epoko77-ai/im-not-ai"
+added = 2026-10-26

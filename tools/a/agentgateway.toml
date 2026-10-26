@@ -1,0 +1,7 @@
+name = "agentgateway"
+description = "The open-source gateway for AI traffic — LLM, MCP, A2A, and HTTP in one data plane."
+category = "agents"
+website = "https://agentgateway.dev"
+open_source = true
+repository = "https://github.com/agentgateway/agentgateway"
+added = 2026-10-26

@@ -7,6 +7,16 @@
 "checked": "2026-10-24",
 "image": "https://faceswap.dev/wp-content/uploads/2019/09/Patreon_white-e1570062028296.jpg"
 },
+"failproof-ai": {
+"checked": "2026-10-26",
+"image": "https://befailproof.ai/opengraph-image?a17665ede67008e1",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 99.0,
+"url": "https://befailproof.ai/pricing/"
+}
+},
 "faiss": {
 "checked": "2026-10-23"
 },
@@ -17,6 +27,10 @@
 "free": true,
 "url": "https://www.falkordb.com/plans/"
 }
+},
+"faraday": {
+"checked": "2026-10-26",
+"image": "https://faradaysec.com/wp-content/uploads/2025/08/faraday-post-featured-image-background.jpg"
 },
 "fastapi-mcp": {
 "checked": "2026-10-25",
@@ -48,6 +62,10 @@
 "trial": true,
 "url": "https://fastrouter.ai/pricing"
 }
+},
+"feast": {
+"checked": "2026-10-26",
+"image": "https://feast.dev/wp-content/uploads/2023/01/feast-og@2x.png"
 },
 "ferndesk": {
 "checked": "2026-10-23",
@@ -90,6 +108,15 @@
 "fingpt": {
 "checked": "2026-10-24"
 },
+"firebase-ios-sdk": {
+"checked": "2026-10-26",
+"image": "https://firebase.google.com/images/social.png",
+"pricing": {
+"currency": "USD",
+"from": 9.37,
+"url": "https://firebase.google.com/pricing"
+}
+},
 "firecrawl": {
 "checked": "2026-10-23",
 "image": "https://www.firecrawl.dev/og.png",
@@ -112,6 +139,9 @@
 "fish-audio": {
 "checked": "2026-10-25"
 },
+"flashinfer": {
+"checked": "2026-10-26"
+},
 "floot-mcp": {
 "checked": "2026-10-23",
 "image": "https://floot.com/opengraph-image?73d44ab152b4e4a6",
@@ -122,15 +152,30 @@
 "url": "https://floot.com/en/pricing"
 }
 },
+"flower-advance-collaborative-superintelligence": {
+"checked": "2026-10-26",
+"image": "https://flower.ai/static/images/previews/1200x628/default.jpg"
+},
 "flowgram-ai": {
 "checked": "2026-10-25"
 },
 "fluidvoice": {
 "checked": "2026-10-25"
 },
+"flyte": {
+"checked": "2026-10-26",
+"image": "https://cdn.prod.website-files.com/690e2a44303093ad8549854b/69a8589a7e9f8f8da38aa412_Scale-Dragon.jpg"
+},
 "folo": {
 "checked": "2026-10-23",
 "image": "https://app.folo.is/og-image.png"
+},
+"forgecode": {
+"checked": "2026-10-26",
+"image": "https://forgecode.dev/shared/og/home.png?v=2"
+},
+"fragments-by-e2b": {
+"checked": "2026-10-26"
 },
 "freellmapi": {
 "checked": "2026-10-23",

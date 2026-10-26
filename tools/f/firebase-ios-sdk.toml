@@ -1,0 +1,7 @@
+name = "firebase-ios-sdk"
+description = "Discover Firebase, Google’s mobile and web app development platform that helps developers build apps and games that users will love."
+category = "data"
+website = "https://firebase.google.com"
+open_source = true
+repository = "https://github.com/firebase/firebase-ios-sdk"
+added = 2026-10-26

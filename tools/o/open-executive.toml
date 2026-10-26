@@ -1,0 +1,7 @@
+name = "Open Executive"
+description = "An executive, not an assistant"
+category = "chatbots"
+website = "https://openexecutive.ai"
+open_source = true
+repository = "https://github.com/SenteLabsAI/OpenExecutive"
+added = 2026-10-26

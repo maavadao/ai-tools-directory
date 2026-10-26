@@ -1,0 +1,7 @@
+name = "pyspur"
+description = "AI Agent Builder"
+category = "chatbots"
+website = "https://www.pyspur.dev"
+open_source = true
+repository = "https://github.com/PySpur-Dev/pyspur"
+added = 2026-10-26

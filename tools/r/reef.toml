@@ -1,0 +1,7 @@
+name = "Reef"
+description = "Open-source continual learning infrastructure for Self-Improving Agents. Connect agent inference, feedback, model training, and versioned deployment."
+category = "chatbots"
+website = "https://www.reefinfra.ai"
+open_source = true
+repository = "https://github.com/Human-Agent-Society/reef"
+added = 2026-10-26

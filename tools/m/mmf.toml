@@ -1,0 +1,7 @@
+name = "MMF"
+description = "MMF is a modular framework powered by PyTorch for multimodal vision and language research from Facebook AI Research"
+category = "other"
+website = "https://mmf.sh"
+open_source = true
+repository = "https://github.com/facebookresearch/mmf"
+added = 2026-10-26

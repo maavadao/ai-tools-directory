@@ -1,0 +1,7 @@
+name = "AimStack"
+description = "AimStack's recent news on everything ML best practices and MLOps tools. Find the latest releases, tutorials, guides and industry news."
+category = "data"
+website = "https://aimstack.io"
+open_source = true
+repository = "https://github.com/aimhubio/aim"
+added = 2026-10-26

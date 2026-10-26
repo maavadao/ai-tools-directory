@@ -1,0 +1,7 @@
+name = "PufferLib"
+description = "Puffing up reinforcement learning"
+category = "other"
+website = "https://puffer.ai"
+open_source = true
+repository = "https://github.com/PufferAI/PufferLib"
+added = 2026-10-26

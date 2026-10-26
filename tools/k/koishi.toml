@@ -1,0 +1,7 @@
+name = "koishi"
+description = "创建跨平台、可扩展、高性能的机器人"
+category = "chatbots"
+website = "https://koishi.chat"
+open_source = true
+repository = "https://github.com/koishijs/koishi"
+added = 2026-10-26

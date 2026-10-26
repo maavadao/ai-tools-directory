@@ -1,0 +1,7 @@
+name = "Dayflow"
+description = "Dayflow is a free, open-source automatic time tracker for Mac. Full recordings stay on your Mac, while local or optional cloud AI creates a readable timeline."
+category = "productivity"
+website = "https://www.dayflow.so"
+open_source = true
+repository = "https://github.com/JerryZLiu/Dayflow"
+added = 2026-10-26

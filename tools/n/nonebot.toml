@@ -1,0 +1,7 @@
+name = "NoneBot"
+description = "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python"
+category = "chatbots"
+website = "https://nonebot.dev"
+open_source = true
+repository = "https://github.com/nonebot/nonebot2"
+added = 2026-10-26

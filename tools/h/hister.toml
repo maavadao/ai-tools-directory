@@ -1,0 +1,7 @@
+name = "hister"
+description = "Hister is a private, self hosted search engine for the pages you visit and the files you keep. Search from the web, terminal, command line, or MCP."
+category = "research"
+website = "https://hister.org"
+open_source = true
+repository = "https://github.com/asciimoo/hister"
+added = 2026-10-26

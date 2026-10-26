@@ -1,0 +1,7 @@
+name = "AIdea"
+description = "An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code."
+category = "image"
+website = "https://ai.aicode.cc"
+open_source = true
+repository = "https://github.com/mylxsw/aidea"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "annyang"
+description = "annyang is a JavaScript SpeechRecognition library that makes adding voice commands to your site super-easy. Let your users control your site with their voice."
+category = "audio"
+website = "https://www.talater.com"
+open_source = true
+repository = "https://github.com/TalAter/annyang"
+added = 2026-10-26

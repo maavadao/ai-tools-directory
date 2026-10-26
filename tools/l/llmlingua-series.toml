@@ -1,0 +1,7 @@
+name = "LLMLingua Series"
+description = "LLMLingua Series: compressing prompts for accelerated LLM inference - LLMLingua, LongLLMLingua, LLMLingua-2 and SeCom."
+category = "other"
+website = "https://llmlingua.com"
+open_source = true
+repository = "https://github.com/microsoft/LLMLingua"
+added = 2026-10-26

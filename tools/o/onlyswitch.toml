@@ -1,0 +1,7 @@
+name = "OnlySwitch"
+description = "The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more."
+category = "agents"
+website = "https://onlyswitch.click"
+open_source = true
+repository = "https://github.com/jacklandrin/OnlySwitch"
+added = 2026-10-26

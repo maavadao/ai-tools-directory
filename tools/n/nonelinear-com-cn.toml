@@ -1,0 +1,7 @@
+name = "非线智能-大模型/智能体评测专家"
+description = "全方位大模型/智能体接入-评测-提升解决方案，助力通用及垂直领域大模型突破能力边界"
+category = "agents"
+website = "https://nonelinear.com.cn"
+open_source = true
+repository = "https://github.com/jeinlee1991/chinese-llm-benchmark"
+added = 2026-10-26

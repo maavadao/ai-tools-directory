@@ -1,0 +1,7 @@
+name = "IntentCat"
+description = "Manage your team's autonomous agents"
+category = "agents"
+website = "https://intentcat.com"
+open_source = true
+repository = "https://github.com/crestalnetwork/intentkit"
+added = 2026-10-26

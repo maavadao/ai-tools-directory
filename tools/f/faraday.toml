@@ -1,0 +1,7 @@
+name = "Faraday"
+description = "The all-in-one security platform combining offensive security, automation, and integrations to uncover what others miss."
+category = "agents"
+website = "https://faradaysec.com"
+open_source = true
+repository = "https://github.com/infobyte/faraday"
+added = 2026-10-26

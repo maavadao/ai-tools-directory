@@ -2,6 +2,9 @@
 "paddleocr": {
 "checked": "2026-10-23"
 },
+"paddlepaddle": {
+"checked": "2026-10-26"
+},
 "pageindex": {
 "checked": "2026-10-23",
 "image": "https://pageindex.ai/static/images/twitter-card.jpg",
@@ -86,6 +89,10 @@
 "petals": {
 "checked": "2026-10-25"
 },
+"peter-steinberger": {
+"checked": "2026-10-26",
+"image": "https://steipete.me/peter-avatar.jpg"
+},
 "pexo": {
 "checked": "2026-10-23",
 "image": "https://pexo.ai/og-image.png",
@@ -97,6 +104,9 @@
 "photoprism": {
 "checked": "2026-10-23",
 "image": "https://i.photoprism.app/prism?cover=64&style=centered+dark"
+},
+"pi-desktop": {
+"checked": "2026-10-26"
 },
 "pii-tools": {
 "checked": "2026-10-24",
@@ -126,6 +136,10 @@
 "pipecat": {
 "checked": "2026-10-24"
 },
+"pixie": {
+"checked": "2026-10-26",
+"image": "https://px.dev/logo.svg"
+},
 "pixverse-r2": {
 "checked": "2026-10-23",
 "image": "https://world-media.pixverse.ai/realtime/r2-tab.png?x-oss-process=style/cover-webp"
@@ -137,6 +151,10 @@
 "plannotator": {
 "checked": "2026-10-25",
 "image": "https://plannotator.ai/assets/plannotator-generic-og-v1.jpg"
+},
+"plano": {
+"checked": "2026-10-26",
+"image": "https://archgw-tau.vercel.app/Logomark.png"
 },
 "point-cloud-library": {
 "checked": "2026-10-25"
@@ -164,6 +182,10 @@
 "checked": "2026-10-23",
 "image": "https://ponytail.dev/assets/v5/social-card.png"
 },
+"postgresml": {
+"checked": "2026-10-26",
+"image": "https://postgresml.org/assets/postgresml.org/static/images/homepage-social-share.webp"
+},
 "posthog": {
 "checked": "2026-10-23",
 "image": "https://posthog.com/images/og/default.png",
@@ -183,6 +205,10 @@
 "url": "https://postiz.com/pricing"
 }
 },
+"potpie": {
+"checked": "2026-10-26",
+"image": "https://potpie.ai/og.png"
+},
 "pr-agent-ai": {
 "checked": "2026-10-25",
 "image": "https://docs.pr-agent.ai/img/social-card.png"
@@ -191,9 +217,15 @@
 "checked": "2026-10-25",
 "image": "https://praison.ai/app/uploads/2026/06/praison-ai-customer-service.png"
 },
+"printfilm": {
+"checked": "2026-10-26"
+},
 "private-gpt": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/assets/krxtn3RfwXQLTWNHwaYuWFI.png"
+},
+"projectlearn": {
+"checked": "2026-10-26"
 },
 "prompt-always200-com": {
 "checked": "2026-10-23"
@@ -213,6 +245,13 @@
 "from": 199.0,
 "url": "https://puckeditor.com/pricing"
 }
+},
+"pufferlib": {
+"checked": "2026-10-26"
+},
+"pulse": {
+"checked": "2026-10-26",
+"image": "https://pulserelay.pro/dashboard.jpg"
 },
 "pwnagotchi": {
 "checked": "2026-10-25"
@@ -240,6 +279,9 @@
 "from": 20.0,
 "url": "https://pydantic.dev/pricing"
 }
+},
+"pyspur": {
+"checked": "2026-10-26"
 },
 "python-telegram-bot": {
 "checked": "2026-10-24",

@@ -1,0 +1,7 @@
+name = "Everywhere"
+description = "Everywhere is an intuitive AI that works seamlessly alongside you. It grasps your on-screen context and assists instantly via a shortcut, hidden until needed."
+category = "other"
+website = "https://everywhere.sylinko.com"
+open_source = true
+repository = "https://github.com/Sylinko/Everywhere"
+added = 2026-10-26

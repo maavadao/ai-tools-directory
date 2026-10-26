@@ -1,0 +1,7 @@
+name = "ouroboros"
+description = "Ouroboros manages the requirements, execution, evaluation, and records of AI coding work. Your coding agent writes the code; Ouroboros pins the spec and verifies the result."
+category = "coding"
+website = "https://ouroboros.page"
+open_source = true
+repository = "https://github.com/Q00/ouroboros"
+added = 2026-10-26

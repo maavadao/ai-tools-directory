@@ -1,0 +1,7 @@
+name = "Voyager"
+description = "An Open-Ended Embodied Agent with Large Language Models"
+category = "other"
+website = "https://voyager.minedojo.org"
+open_source = true
+repository = "https://github.com/MineDojo/Voyager"
+added = 2026-10-26

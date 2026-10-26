@@ -1,0 +1,7 @@
+name = "smol machines"
+description = "Fast, isolated Linux microVMs. The same machine runs on your laptop, in smol cloud, or self-hosted — one SDK and one portable .smolmachine artifact."
+category = "chatbots"
+website = "https://smolmachines.com"
+open_source = true
+repository = "https://github.com/smol-machines/smolvm"
+added = 2026-10-26

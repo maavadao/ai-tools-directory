@@ -13,6 +13,9 @@
 "url": "https://schole.ai/pricing"
 }
 },
+"scikit-image": {
+"checked": "2026-10-26"
+},
 "scikit-learn": {
 "checked": "2026-10-23"
 },
@@ -104,6 +107,10 @@
 "checked": "2026-10-23",
 "image": "https://res.cloudinary.com/total-typescript/image/upload/v1777557385/og-image-root_2x.jpg"
 },
+"skills-manager": {
+"checked": "2026-10-26",
+"image": "https://skillsmanager.dev/og-v2.png"
+},
 "skills-sh": {
 "checked": "2026-10-23",
 "image": "https://www.skills.sh/og.jpeg"
@@ -125,6 +132,17 @@
 "url": "https://www.skyvern.com/pricing"
 }
 },
+"smart-plugins-for-obsidian": {
+"checked": "2026-10-26"
+},
+"smartsub-linxiaodong-com": {
+"checked": "2026-10-26",
+"image": "https://smartsub.linxiaodong.com/img/smartsub-social-card.png"
+},
+"smol-machines": {
+"checked": "2026-10-26",
+"image": "https://smolmachines.com/logo-480.png"
+},
 "soup-cli": {
 "checked": "2026-10-25",
 "image": "https://trysoup.dev/opengraph-image?249851e5188a5dd8"
@@ -143,6 +161,10 @@
 },
 "speak": {
 "checked": "2026-10-23"
+},
+"speedyapply": {
+"checked": "2026-10-26",
+"image": "https://www.speedyapply.com/images/og-image.png"
 },
 "sphere": {
 "checked": "2026-10-25",
@@ -164,6 +186,10 @@
 },
 "spug": {
 "checked": "2026-10-25"
+},
+"sqlbot": {
+"checked": "2026-10-26",
+"image": "https://sqlbot.org/images/logo.png"
 },
 "srs-simple-realtime-server": {
 "checked": "2026-10-24"
@@ -189,6 +215,27 @@
 "url": "https://statable.com/pricing"
 }
 },
+"steel-browser": {
+"checked": "2026-10-26",
+"image": "https://steel.dev/opengraph-image.png?opengraph-image.2o2pbo9kni2n0.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 100.0,
+"url": "https://steel.dev/pricing"
+}
+},
+"streamdown": {
+"checked": "2026-10-26",
+"image": "https://streamdown.ai/opengraph-image.png?opengraph-image.2ovlx8nlo00e8.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 10.0,
+"trial": true,
+"url": "https://vercel.com/pricing"
+}
+},
 "streamlit": {
 "checked": "2026-10-23",
 "image": "https://streamlit.io/images/uploads/sharing-image-facebook.jpg"
@@ -201,6 +248,10 @@
 "trial": true,
 "url": "https://www.strix.ai/pricing"
 }
+},
+"summarize": {
+"checked": "2026-10-26",
+"image": "https://summarize.sh/social-card.png"
 },
 "suna": {
 "checked": "2026-10-24",
@@ -241,6 +292,15 @@
 "url": "https://supademo.com/pricing"
 }
 },
+"superagent": {
+"checked": "2026-10-26",
+"image": "https://www.superagent.sh/api/og?title=Make%20your%20software%0Asecure%20itself",
+"pricing": {
+"currency": "USD",
+"from": 499.0,
+"url": "https://www.superagent.sh/pricing"
+}
+},
 "superagi": {
 "checked": "2026-10-24"
 },
@@ -260,6 +320,10 @@
 "from": 19.0,
 "url": "https://supermemory.ai/pricing/"
 }
+},
+"superpowers-zh": {
+"checked": "2026-10-26",
+"image": "https://sp.aiolaola.com/assets/og-image.jpg?v=6afc4b56a5"
 },
 "superset": {
 "checked": "2026-10-24",
@@ -289,6 +353,9 @@
 "swe-agent-com": {
 "checked": "2026-10-24"
 },
+"swe-bench-leaderboards": {
+"checked": "2026-10-26"
+},
 "swe-list": {
 "checked": "2026-10-23"
 },
@@ -301,5 +368,9 @@
 "from": 29.0,
 "url": "https://www.synthesia.io/pricing"
 }
+},
+"synthid-remover": {
+"checked": "2026-10-26",
+"image": "https://raiw.cc/static/og.png"
 }
 }

@@ -1,0 +1,7 @@
+name = "BotMan"
+description = "A framework agnostic PHP library to build chat bots"
+category = "chatbots"
+website = "https://botman.io"
+open_source = true
+repository = "https://github.com/botman/botman"
+added = 2026-10-26

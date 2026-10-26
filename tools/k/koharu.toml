@@ -1,0 +1,7 @@
+name = "koharu"
+description = "Everything you need to translate, edit, and export manga with Koharu."
+category = "other"
+website = "https://koharu.rs"
+open_source = true
+repository = "https://github.com/koharu-rs/koharu"
+added = 2026-10-26

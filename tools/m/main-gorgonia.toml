@@ -1,0 +1,7 @@
+name = "main :: Gorgonia"
+description = "Gorgonia is a library that helps facilitate machine learning in Go."
+category = "other"
+website = "https://gorgonia.org"
+open_source = true
+repository = "https://github.com/gorgonia/gorgonia"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "refly"
+description = "Refly.ai empowers non-technical creators to automate tasks, generate content, and even monetize their creations — all through natural language and a visual canvas."
+category = "coding"
+website = "https://refly.ai"
+open_source = true
+repository = "https://github.com/refly-ai/refly"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "jscpd"
+description = "jscpd finds duplicated code in 224 languages and fails the build when there is more of it than you allow. One native binary with a GitHub Action, pre-commit hooks, an MCP server for coding agents and a language server for editors."
+category = "other"
+website = "https://jscpd.dev"
+open_source = true
+repository = "https://github.com/kucherenko/jscpd"
+added = 2026-10-26

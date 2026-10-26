@@ -1,0 +1,7 @@
+name = "materialize"
+description = "Materialize is the live context layer for agents and apps. It lets engineering teams use SQL to transform siloed operational data into real-time data products they can trust. Organizations from Notion to Crane Worldwide Logistics use Materialize to deliver fresh context for AI agents, build interac…"
+category = "data"
+website = "https://materialize.com"
+open_source = true
+repository = "https://github.com/MaterializeInc/materialize"
+added = 2026-10-26

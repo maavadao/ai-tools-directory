@@ -6,6 +6,9 @@
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/6279c9d10eb860662e5ec006/665f41408181f8fdda5f1e7e_abridge-opengraph-home.webp"
 },
+"acl-anthology": {
+"checked": "2026-10-26"
+},
 "activepieces": {
 "checked": "2026-10-24",
 "image": "https://www.activepieces.com/og-default.jpg",
@@ -30,6 +33,10 @@
 "checked": "2026-10-23",
 "image": "https://www.adobe.com/products/media_1912d2dfb102c668252eb9dda176f925d677fc5e2.png?width=1200&format=pjpg&optimize=medium"
 },
+"adrian-bulat": {
+"checked": "2026-10-26",
+"image": "https://www.adrianbulat.com/user/themes/asgard3/images/me.jpg"
+},
 "agency-orchestrator": {
 "checked": "2026-10-25",
 "image": "https://ao.aiolaola.com/og-image.png"
@@ -53,6 +60,10 @@
 "checked": "2026-10-23",
 "image": "https://monid.ai/share-card.png"
 },
+"agent-native": {
+"checked": "2026-10-26",
+"image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F9ff332b274a147229544c2bf5877a10d"
+},
 "agent-s": {
 "checked": "2026-10-25",
 "image": "https://cdn.prod.website-files.com/666c58d71e64e2eb5bdf950b/6aa873794bc3db772b5daa8e_Codex%20Image%20Sep%2014%2C%202026%2C%2003_18_57%20PM.png"
@@ -61,6 +72,10 @@
 "checked": "2026-10-23",
 "image": "https://skills.addy.ie/og.png"
 },
+"agent-skills-techleads-club": {
+"checked": "2026-10-26",
+"image": "https://agent-skills.techleads.club/og-image.png"
+},
 "agent-user-interaction-protocol": {
 "checked": "2026-10-24",
 "image": "https://tawkitai.mintlify.app/_mintlify/api/og/v2?division=Get+Started&title=AG-UI+Overview&theme=e132f7eeff9e70070784bbec&signature=5a128e09682d90abe713e42bfe736db3c88a415efc04aa61d36f7ac8ac334bd0"
@@ -68,6 +83,13 @@
 "agent-zero": {
 "checked": "2026-10-24",
 "image": "https://www.agent-zero.ai/res/og.png"
+},
+"agentdesk": {
+"checked": "2026-10-26"
+},
+"agentgateway": {
+"checked": "2026-10-26",
+"image": "https://agentgateway.dev/ogimage.png"
 },
 "agentic-awesome-skills": {
 "checked": "2026-10-23",
@@ -81,9 +103,23 @@
 "checked": "2026-10-24",
 "image": "https://agent-memory.dev/opengraph-image?8f7fe93d3f9fd0d3"
 },
+"agentops": {
+"checked": "2026-10-26",
+"image": "https://agentops.ai/opengraph.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 40.0,
+"url": "https://www.agentops.ai/"
+}
+},
 "agents-md": {
 "checked": "2026-10-24",
 "image": "https://agents.md/og.png"
+},
+"agentscope-java": {
+"checked": "2026-10-26",
+"image": "https://agent-scope.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=AgentScope+Java+v2&description=Build+your+own+Agent+application+with+the+AgentScope+Harness+SDK%2C+or+use+managed+Agent+services+through+AgentScope+Service+with+platform-managed+runtimes.&theme=4fb7dd044b4760c6c748f53f&signature=3d370097b833841e38de28eeb131e4ca51199218f9fa5cdc1a7ebf4fadde8de4"
 },
 "agentskills-io": {
 "checked": "2026-10-24",
@@ -135,11 +171,17 @@
 "url": "https://vercel.com/pricing"
 }
 },
+"ai-short-video-factory": {
+"checked": "2026-10-26"
+},
 "ai-trader": {
 "checked": "2026-10-24"
 },
 "aiclient-2-api": {
 "checked": "2026-10-25"
+},
+"aidea": {
+"checked": "2026-10-26"
 },
 "aider": {
 "checked": "2026-10-23"
@@ -151,6 +193,19 @@
 "aimlinterviews-io": {
 "checked": "2026-10-25",
 "image": "https://www.aimlinterviews.io/ai-ml-interviews-cover-v2-social.jpg"
+},
+"aimstack": {
+"checked": "2026-10-26",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 11.0,
+"url": "http://aimstack.io/pricing/"
+}
+},
+"aio-sandbox": {
+"checked": "2026-10-26",
+"image": "https://rspress.rs/og-image.png"
 },
 "aionui": {
 "checked": "2026-10-23"
@@ -179,6 +234,22 @@
 "checked": "2026-10-23",
 "image": "https://avatars1.githubusercontent.com/u/64068543?s=400&v=4"
 },
+"annyang": {
+"checked": "2026-10-26",
+"image": "https://www.talater.com/annyang/images/icon_speech.png"
+},
+"antislop": {
+"checked": "2026-10-26",
+"image": "https://antislop.ai.id/assets/og-antislop.png"
+},
+"anus": {
+"checked": "2026-10-26",
+"image": "https://anus.dev/assets/og.png"
+},
+"anysearch": {
+"checked": "2026-10-26",
+"image": "https://anysearch.com/og.png?v=20260511"
+},
 "anythingllm": {
 "checked": "2026-10-23",
 "image": "https://anythingllm.com/share-card.png"
@@ -187,11 +258,19 @@
 "checked": "2026-10-23",
 "image": "https://airflow.apache.org/images/feature-image.png"
 },
+"apache-hertzbeat": {
+"checked": "2026-10-26",
+"image": "https://hertzbeat.apache.org/img/hertzbeat-logo.svg"
+},
 "apache-seatunnel": {
 "checked": "2026-10-25"
 },
 "apache-tvm": {
 "checked": "2026-10-25"
+},
+"apfel": {
+"checked": "2026-10-26",
+"image": "https://apfel.franzai.com/og.png"
 },
 "apify-mcp-server": {
 "checked": "2026-10-25"
@@ -216,6 +295,16 @@
 "archon": {
 "checked": "2026-10-24",
 "image": "https://archon.diy/brand/assets/archon-logo.png"
+},
+"arcreel": {
+"checked": "2026-10-26",
+"image": "https://arc-reel.com/og/og-zh.png"
+},
+"areal": {
+"checked": "2026-10-26"
+},
+"argos-open-tech": {
+"checked": "2026-10-26"
 },
 "arize-ai": {
 "checked": "2026-10-25",
@@ -291,6 +380,16 @@
 "url": "https://agpt.co/pricing/"
 }
 },
+"autohedge": {
+"checked": "2026-10-26",
+"image": "https://www.swarms.ai/seo_image.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 19.99,
+"url": "https://www.swarms.xyz/pricing"
+}
+},
 "autonomyware": {
 "checked": "2026-10-23",
 "image": "https://autonomyware.ai/assets/og-card.png",
@@ -307,6 +406,10 @@
 "awesome-ai-painting": {
 "checked": "2026-10-25",
 "image": "https://cdn.goenhance.ai/images/static/sites/20240718-000924.jpeg"
+},
+"awesome-gpt4o-images": {
+"checked": "2026-10-26",
+"image": "https://animeai.online/og.png"
 },
 "awesome-gpts": {
 "checked": "2026-10-25"

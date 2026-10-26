@@ -1,0 +1,7 @@
+name = "Cofounder By OpenInterface"
+description = "Generative UI + data-heavy apps for web & mobile by OpenInterface."
+category = "design"
+website = "https://cofounder.openinterface.ai"
+open_source = true
+repository = "https://github.com/nraiden/cofounder"
+added = 2026-10-26

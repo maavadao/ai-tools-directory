@@ -1,0 +1,7 @@
+name = "Cloudflare Docs"
+description = "Connect, protect, and build everywhere."
+category = "agents"
+website = "https://developers.cloudflare.com"
+open_source = true
+repository = "https://github.com/cloudflare/agents"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "ClearML"
+description = "Unlock enterprise-scale AI with ClearML’s AI Infrastructure Platform. Manage GPU clusters, streamline AI/ML workflows, and deploy GenAI models effortlessly. Try ClearML today!"
+category = "other"
+website = "https://clear.ml"
+open_source = true
+repository = "https://github.com/clearml/clearml"
+added = 2026-10-26

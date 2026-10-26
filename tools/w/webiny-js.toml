@@ -1,0 +1,7 @@
+name = "webiny-js"
+description = "Webiny is an open-source, self-hosted headless CMS platform built for enterprise scale. Multi-tenant, customizable, and fully under your control."
+category = "other"
+website = "https://www.webiny.com"
+open_source = true
+repository = "https://github.com/webiny/webiny-js"
+added = 2026-10-26

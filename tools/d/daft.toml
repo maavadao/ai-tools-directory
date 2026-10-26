@@ -1,0 +1,7 @@
+name = "Daft"
+description = "Daft is a high-performance data engine for AI workloads. Process any modality at any scale with Python DataFrames and SQL — from your laptop to petabyte-scale distributed clusters."
+category = "other"
+website = "https://www.daft.ai"
+open_source = true
+repository = "https://github.com/Eventual-Inc/Daft"
+added = 2026-10-26

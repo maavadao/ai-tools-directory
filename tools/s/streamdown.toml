@@ -1,0 +1,7 @@
+name = "streamdown"
+description = "A markdown renderer designed for streaming content from AI models. Highly interactive, customizable, and easy to use."
+category = "other"
+website = "https://streamdown.ai"
+open_source = true
+repository = "https://github.com/vercel/streamdown"
+added = 2026-10-26

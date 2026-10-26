@@ -1,0 +1,7 @@
+name = "Fragments by E2B"
+description = "Open-source version of Anthropic's Artifacts"
+category = "chatbots"
+website = "https://fragments.e2b.dev"
+open_source = true
+repository = "https://github.com/e2b-dev/fragments"
+added = 2026-10-26

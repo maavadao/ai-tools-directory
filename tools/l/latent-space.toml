@@ -1,0 +1,7 @@
+name = "Latent Space"
+description = "Technical conversations, original reporting, and practical guides for the engineers building with AI."
+category = "image"
+website = "https://latent.space"
+open_source = true
+repository = "https://github.com/swyxio/ai-notes"
+added = 2026-10-26

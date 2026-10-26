@@ -1,0 +1,7 @@
+name = "InterpretML"
+description = "An open source toolkit for analyzing models and explaining behavior"
+category = "data"
+website = "https://interpret.ml"
+open_source = true
+repository = "https://github.com/interpretml/interpret"
+added = 2026-10-26

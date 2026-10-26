@@ -1,0 +1,7 @@
+name = "jaaz"
+description = "Draw, chat, and create with AI. Bring your images, videos, and wildest ideas together in one beautifully open workspace."
+category = "image"
+website = "https://www.jaaz.app"
+open_source = true
+repository = "https://github.com/11cafe/jaaz"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "AutoHedge"
+description = "Swarms is the enterprise-grade multi-agent framework for building, deploying, and scaling AI agents in Python and Rust — with a hosted agent API and a marketplace to buy and sell agents, prompts, tools, and skills. One platform from your first agent to production swarms."
+category = "agents"
+website = "https://www.swarms.xyz"
+open_source = true
+repository = "https://github.com/The-Swarm-Corporation/AutoHedge"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "SynthID remover"
+description = "Online AI watermark remover. Strip visible overlays, invisible SynthID and ChatGPT Images 2.0 markers, C2PA Content Credentials, and AI metadata from PNG, JPG, WebP, AVIF, and HEIC files. Visible and metadata removal free; invisible watermark removal $1.49/image. Quick clean includes 3 free removal…"
+category = "image"
+website = "https://raiw.cc"
+open_source = true
+repository = "https://github.com/wiltodelta/remove-ai-watermarks"
+added = 2026-10-26

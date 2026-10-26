@@ -1,0 +1,7 @@
+name = "Vision Agents"
+description = "Build low-latency voice and video AI agents with any model"
+category = "audio"
+website = "https://visionagents.ai"
+open_source = true
+repository = "https://github.com/GetStream/Vision-Agents"
+added = 2026-10-26

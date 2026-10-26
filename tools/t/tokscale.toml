@@ -1,0 +1,7 @@
+name = "tokscale"
+description = "Track, visualize, and compete on AI coding assistant token usage across Claude Code, Cursor, OpenCode, Codex, Gemini, Kimi, and Qwen. The Kardashev Scale for AI Devs."
+category = "coding"
+website = "https://tokscale.ai"
+open_source = true
+repository = "https://github.com/junhoyeo/tokscale"
+added = 2026-10-26

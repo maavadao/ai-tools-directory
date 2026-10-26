@@ -1,0 +1,7 @@
+name = "AgentDesk"
+description = "next-gen dev tools and human-ai collaboration"
+category = "other"
+website = "https://www.agentdesk.ai"
+open_source = true
+repository = "https://github.com/AgentDeskAI/browser-tools-mcp"
+added = 2026-10-26

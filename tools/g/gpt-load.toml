@@ -1,0 +1,7 @@
+name = "GPT-Load"
+description = "One endpoint for every channel and credential."
+category = "coding"
+website = "https://www.gpt-load.com"
+open_source = true
+repository = "https://github.com/tbphp/gpt-load"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "ForgeCode"
+description = "A ForgeCode factory turns GitHub issues, Slack threads and alerts into tested, deployed changes."
+category = "coding"
+website = "https://forgecode.dev"
+open_source = true
+repository = "https://github.com/tailcallhq/forgecode"
+added = 2026-10-26

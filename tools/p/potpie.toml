@@ -1,0 +1,7 @@
+name = "potpie"
+description = "Potpie embeds engineers in your org, maps how your systems actually work into a living context graph, and runs AI agents on it inside your own VPC."
+category = "coding"
+website = "https://potpie.ai"
+open_source = true
+repository = "https://github.com/potpie-ai/potpie"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "CodeCompanion.nvim Documentation"
+description = "Code with LLMs and agents in Neovim: chat with Claude, GPT and Gemini, run agents like Claude Code and Codex, and edit code inline."
+category = "coding"
+website = "https://codecompanion.olimorris.dev"
+open_source = true
+repository = "https://github.com/olimorris/codecompanion.nvim"
+added = 2026-10-26

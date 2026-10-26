@@ -1,0 +1,7 @@
+name = "红墨 RedInk"
+description = "红墨是面向小红书创作者的 AI 图文生成工具：输入主题自动产出爆款标题、笔记正文与整套风格统一的 3:4 封面配图，博主、电商卖家、内容团队均可在线使用，无需设计基础。"
+category = "image"
+website = "https://redink.top"
+open_source = true
+repository = "https://github.com/HisMax/RedInk"
+added = 2026-10-26

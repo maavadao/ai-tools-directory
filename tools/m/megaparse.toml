@@ -1,0 +1,7 @@
+name = "megaparse"
+description = "Megaparse is a tool that parses documents and extracts it to structured data."
+category = "chatbots"
+website = "https://www.megaparse.com"
+open_source = true
+repository = "https://github.com/The-Vibe-Company/megaparse"
+added = 2026-10-26

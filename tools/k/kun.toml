@@ -1,0 +1,7 @@
+name = "Kun"
+description = "和个人 Agent 持续跟进，在群聊里拉上不同视角，在 Code 与 Work 里交付。讨论、执行、审批和交付都留在你的电脑上。"
+category = "agents"
+website = "https://www.kun-agent.com"
+open_source = true
+repository = "https://github.com/KunAgent/Kun"
+added = 2026-10-26

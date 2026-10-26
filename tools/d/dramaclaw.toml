@@ -1,0 +1,7 @@
+name = "DramaClaw"
+description = "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可"
+category = "audio"
+website = "https://dramaclaw.cdnfg.com"
+open_source = true
+repository = "https://github.com/dramaclaw/dramaclaw"
+added = 2026-10-26

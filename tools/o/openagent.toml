@@ -1,0 +1,7 @@
+name = "OpenAgent"
+description = "Open-source personal AI assistant platform. Connect 30+ model providers and deploy across 20+ messaging channels."
+category = "chatbots"
+website = "https://www.openagentai.org"
+open_source = true
+repository = "https://github.com/the-open-agent/openagent"
+added = 2026-10-26

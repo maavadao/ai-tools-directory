@@ -1,0 +1,7 @@
+name = "summarize"
+description = "summarize is a fast CLI and Chrome Side Panel for clean extraction and sharp summaries of web pages, files, YouTube videos, and podcasts."
+category = "other"
+website = "https://summarize.sh"
+open_source = true
+repository = "https://github.com/steipete/summarize"
+added = 2026-10-26

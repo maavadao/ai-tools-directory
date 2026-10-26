@@ -1,0 +1,7 @@
+name = "OpenNMT"
+description = "Open Source Neural Machine Translation and (Large) Language Models in PyTorch"
+category = "other"
+website = "https://opennmt.net"
+open_source = true
+repository = "https://github.com/OpenNMT/OpenNMT-py"
+added = 2026-10-26

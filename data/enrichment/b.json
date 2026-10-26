@@ -3,6 +3,16 @@
 "checked": "2026-10-23",
 "image": "https://b3log.org/images/brand/b3log-128.png"
 },
+"background-remover-ai": {
+"checked": "2026-10-26",
+"image": "https://backgroundremoverai.com/static/backgroundremover.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 12.0,
+"url": "https://backgroundremoverai.com/pricing/"
+}
+},
 "baml": {
 "checked": "2026-10-25",
 "image": "https://boundaryml.com/api/og?title=The+programming+language+for+agents&desc=New+paradigm%2C+new+language.&timeline=1"
@@ -20,6 +30,9 @@
 "from": 17.99,
 "url": "https://www.band.ai/pricing"
 }
+},
+"basic-pitch": {
+"checked": "2026-10-26"
 },
 "beads-documentation": {
 "checked": "2026-10-24",
@@ -44,6 +57,10 @@
 "url": "https://www.beautiful.ai/pricing"
 }
 },
+"bibigpt": {
+"checked": "2026-10-26",
+"image": "https://bibigpt.co/og-image.png?v=2023-04-26"
+},
 "bifrost-by-maxim-ai": {
 "checked": "2026-10-25",
 "image": "https://bifrost-website.getmaxim.workers.dev/marketing/TEMoNkNbpcTVKd8275wElrbTx8.png",
@@ -51,6 +68,15 @@
 "free": true,
 "trial": true,
 "url": "https://www.getmaxim.ai/pricing"
+}
+},
+"big-agi": {
+"checked": "2026-10-26",
+"image": "https://big-agi.com/icons/card-dark-1200.png",
+"pricing": {
+"currency": "USD",
+"from": 9.0,
+"url": "https://big-agi.com/"
 }
 },
 "bit-dev": {
@@ -97,6 +123,9 @@
 "url": "https://bolt.new/pricing"
 }
 },
+"botman": {
+"checked": "2026-10-26"
+},
 "botpress": {
 "checked": "2026-10-24",
 "image": "https://cdn.prod.website-files.com/635c4eeb78332f7971255095/6a1ded7960de29af20457f6d_f7714877d559cb98adc053a44d48870d_bp_opengraph.jpg",
@@ -125,6 +154,17 @@
 "pricing": {
 "free": true,
 "url": "https://browser-use.com/pricing"
+}
+},
+"browseract": {
+"checked": "2026-10-26",
+"image": "https://www.browseract.com/og/browseract-home.jpeg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 56.0,
+"trial": true,
+"url": "https://www.browseract.com/pricing"
 }
 },
 "browseros": {

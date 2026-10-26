@@ -1,0 +1,7 @@
+name = "SQLBot"
+description = "SQLBot 是一款基于大模型和 RAG 的智能问数系统。"
+category = "chatbots"
+website = "https://sqlbot.org"
+open_source = true
+repository = "https://github.com/dataease/SQLBot"
+added = 2026-10-26

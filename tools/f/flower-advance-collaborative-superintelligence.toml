@@ -1,0 +1,7 @@
+name = "Flower: Advance Collaborative Superintelligence"
+description = "Flower is a full-stack AI neolab with a mission to advance collaborative superintelligence by building open-source frontier models, agents, and infrastructure."
+category = "other"
+website = "https://flower.ai"
+open_source = true
+repository = "https://github.com/flwrlabs/flower"
+added = 2026-10-26

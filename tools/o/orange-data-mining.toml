@@ -1,0 +1,7 @@
+name = "Orange Data Mining"
+description = "Orange Data Mining Toolbox"
+category = "data"
+website = "https://orangedatamining.com"
+open_source = true
+repository = "https://github.com/biolab/orange3"
+added = 2026-10-26

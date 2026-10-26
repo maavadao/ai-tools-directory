@@ -1,0 +1,7 @@
+name = "PI-Desktop"
+description = "A modular desktop workspace for AI agents"
+category = "other"
+website = "https://pi-docs.aiuo.net"
+open_source = true
+repository = "https://github.com/vastsa/PI-Desktop"
+added = 2026-10-26

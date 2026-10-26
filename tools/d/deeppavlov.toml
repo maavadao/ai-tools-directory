@@ -1,0 +1,7 @@
+name = "DeepPavlov"
+description = "DeepPavlov is designed for development of production ready chat-bots and complex conversational systems, research in the area of NLP and, particularly, of dialog systems."
+category = "chatbots"
+website = "https://deeppavlov.ai"
+open_source = true
+repository = "https://github.com/deeppavlov/DeepPavlov"
+added = 2026-10-26

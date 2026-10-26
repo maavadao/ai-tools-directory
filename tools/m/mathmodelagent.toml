@@ -1,0 +1,7 @@
+name = "MathModelAgent"
+description = "MathModelAgent 是面向数学建模竞赛与训练场景的数学建模助手，提供题目分析、模型建立、代码执行、图表生成与论文交付能力，适合作为数学建模 AI 工具使用。"
+category = "chatbots"
+website = "https://mathmodel.top"
+open_source = true
+repository = "https://github.com/jihe520/MathModelAgent"
+added = 2026-10-26

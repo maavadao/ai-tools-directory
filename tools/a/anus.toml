@@ -1,0 +1,7 @@
+name = "ANUS"
+description = "Reads your code, edits files, runs commands. On the smartest free model that is up today. No card."
+category = "chatbots"
+website = "https://anus.dev"
+open_source = true
+repository = "https://github.com/anus-dev/ANUS"
+added = 2026-10-26

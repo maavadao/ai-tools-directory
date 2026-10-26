@@ -1,0 +1,7 @@
+name = "LobsterAI"
+description = "LobsterAI 是网易有道出品的开源桌面 AI Agent，支持文件整理、数据分析、应用开发、定时任务与手机远程协作。提供 macOS Apple 芯片、Intel 芯片和 Windows 版本，附使用教程与实战案例。"
+category = "chatbots"
+website = "https://lobsterai.youdao.com"
+open_source = true
+repository = "https://github.com/netease-youdao/LobsterAI"
+added = 2026-10-26

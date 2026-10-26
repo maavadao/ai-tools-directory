@@ -1,0 +1,7 @@
+name = "repowise"
+description = "One index of structure, history, tests and decisions, current on every commit. Explore a real codebase free."
+category = "coding"
+website = "https://repowise.dev"
+open_source = true
+repository = "https://github.com/repowise-dev/repowise"
+added = 2026-10-26

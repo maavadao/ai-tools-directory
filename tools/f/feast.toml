@@ -1,0 +1,7 @@
+name = "feast"
+description = "Feast is an end-to-end open source feature store for machine learning. It allows teams to define, manage, discover, and serve features."
+category = "developer-platforms"
+website = "https://feast.dev"
+open_source = true
+repository = "https://github.com/feast-dev/feast"
+added = 2026-10-26

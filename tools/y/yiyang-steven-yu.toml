@@ -1,0 +1,7 @@
+name = "Yiyang (Steven) Yu"
+description = "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more."
+category = "other"
+website = "https://stevenyuyy.com"
+open_source = true
+repository = "https://github.com/54yyyu/zotero-mcp"
+added = 2026-10-26

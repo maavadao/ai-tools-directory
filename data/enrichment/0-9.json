@@ -1,4 +1,7 @@
 {
+"01-ai": {
+"checked": "2026-10-26"
+},
 "10xjoy": {
 "checked": "2026-10-23",
 "image": "https://10xjoy.com/opengraph-image.jpg?opengraph-image.2thubg4lctd_u.jpg"
@@ -6,6 +9,15 @@
 "1panel": {
 "checked": "2026-10-23",
 "image": "https://1panel.pro/images/overview-full.png"
+},
+"21st": {
+"checked": "2026-10-26",
+"image": "https://21st.dev/opengraph-image.png",
+"pricing": {
+"currency": "USD",
+"from": 6.0,
+"url": "https://21st.dev/pricing"
+}
 },
 "9router": {
 "checked": "2026-10-23"

@@ -1,0 +1,7 @@
+name = "CodePilot"
+description = "Bring Claude Code, Codex, and CodePilot into one desktop workspace for project work and everyday tasks."
+category = "coding"
+website = "https://www.codepilot.sh"
+open_source = true
+repository = "https://github.com/op7418/CodePilot"
+added = 2026-10-26

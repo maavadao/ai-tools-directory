@@ -1,0 +1,7 @@
+name = "steel-browser"
+description = "Steel is an open source browser API that lets you control fleets of browsers in the cloud."
+category = "chatbots"
+website = "https://steel.dev"
+open_source = true
+repository = "https://github.com/steel-dev/steel-browser"
+added = 2026-10-26

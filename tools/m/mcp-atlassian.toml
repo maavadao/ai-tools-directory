@@ -1,0 +1,7 @@
+name = "MCP Atlassian"
+description = "Connect AI assistants to Jira and Confluence — search, create, update issues and pages via MCP"
+category = "other"
+website = "https://mcp-atlassian.soomiles.com"
+open_source = true
+repository = "https://github.com/sooperset/mcp-atlassian"
+added = 2026-10-26

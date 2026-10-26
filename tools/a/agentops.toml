@@ -1,0 +1,7 @@
+name = "AgentOps"
+description = "Every Agent Needs AgentOps."
+category = "chatbots"
+website = "https://www.agentops.ai"
+open_source = true
+repository = "https://github.com/AgentOps-AI/agentops"
+added = 2026-10-26

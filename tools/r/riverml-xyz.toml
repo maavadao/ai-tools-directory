@@ -1,0 +1,7 @@
+name = "Redirecting"
+description = "Online machine learning in Python"
+category = "data"
+website = "https://riverml.xyz"
+open_source = true
+repository = "https://github.com/online-ml/river"
+added = 2026-10-26

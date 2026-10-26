@@ -1,0 +1,7 @@
+name = "MimiClaw"
+description = "The world's first AI assistant running on a $5 ESP32-S3 chip. No Linux. No Node.js. Just pure C."
+category = "chatbots"
+website = "https://mimiclaw.io"
+open_source = true
+repository = "https://github.com/memovai/mimiclaw"
+added = 2026-10-26

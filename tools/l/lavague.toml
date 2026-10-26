@@ -1,0 +1,7 @@
+name = "LaVague"
+description = "🌊 LaVague, an open-source Large Action Model framework to automate automation."
+category = "chatbots"
+website = "https://www.lavague.ai"
+open_source = true
+repository = "https://github.com/lavague-ai/LaVague"
+added = 2026-10-26

@@ -9,6 +9,13 @@
 "url": "https://ragflow.io/"
 }
 },
+"rakazo": {
+"checked": "2026-10-26",
+"image": "https://rakazo.com/og-image.png"
+},
+"raven": {
+"checked": "2026-10-26"
+},
 "ray": {
 "checked": "2026-10-23",
 "image": "https://ray.io/images/og.png"
@@ -20,6 +27,10 @@
 "react-doctor": {
 "checked": "2026-10-24",
 "image": "https://www.react.doctor/opengraph-image"
+},
+"react-grab": {
+"checked": "2026-10-26",
+"image": "https://react-grab.com/api/og"
 },
 "read-frog": {
 "checked": "2026-10-25",
@@ -50,11 +61,22 @@
 "url": "https://reclaim.ai/pricing"
 }
 },
+"redink": {
+"checked": "2026-10-26",
+"image": "https://img.redink.top/redgen/history/showcase/brand/logo/icon-256.png"
+},
 "redirecting": {
 "checked": "2026-10-23"
 },
 "redirecting-to-https-sonnet-readthedocs-io": {
 "checked": "2026-10-25"
+},
+"reef": {
+"checked": "2026-10-26"
+},
+"refly": {
+"checked": "2026-10-26",
+"image": "https://framerusercontent.com/images/gLtXxNIfbLGzLsMUlREuy7V9qpA.png"
 },
 "relevance-ai": {
 "checked": "2026-10-23",
@@ -74,6 +96,17 @@
 "repomix": {
 "checked": "2026-10-24",
 "image": "https://repomix.com/images/og-image-large.png"
+},
+"repowise": {
+"checked": "2026-10-26",
+"image": "https://repowise.dev/api/og/home",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.0,
+"trial": true,
+"url": "https://repowise.dev/pricing"
+}
 },
 "rerun": {
 "checked": "2026-10-25",
@@ -119,6 +152,19 @@
 "checked": "2026-10-23",
 "image": "https://rill.love/assets/og-image.png"
 },
+"riverml-xyz": {
+"checked": "2026-10-26"
+},
+"rivet": {
+"checked": "2026-10-26",
+"image": "https://rivet.dev/images/og/default.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.0,
+"url": "https://rivet.dev/pricing/"
+}
+},
 "robotgo": {
 "checked": "2026-10-25"
 },
@@ -157,9 +203,15 @@
 "url": "https://runway.com/pricing"
 }
 },
+"ruoyi-ai": {
+"checked": "2026-10-26"
+},
 "ruview": {
 "checked": "2026-10-23",
 "image": "https://cognitum.one/cognitum-share-logo-v2.png"
+},
+"rwkv-language-model": {
+"checked": "2026-10-26"
 },
 "rytr": {
 "checked": "2026-10-23",
@@ -169,6 +221,16 @@
 "free": true,
 "from": 9.0,
 "url": "https://rytr.me/pricing"
+}
+},
+"ryze-ai": {
+"checked": "2026-10-26",
+"image": "https://www.get-ryze.ai/og-card.jpg",
+"pricing": {
+"currency": "USD",
+"from": 599.0,
+"trial": true,
+"url": "https://www.get-ryze.ai/payment-setup"
 }
 }
 }

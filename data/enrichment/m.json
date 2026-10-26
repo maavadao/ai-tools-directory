@@ -38,6 +38,9 @@
 "checked": "2026-10-25",
 "image": "https://usemagpie.ai/img/og.png"
 },
+"main-gorgonia": {
+"checked": "2026-10-26"
+},
 "make": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/6a294495bc84130c6dd0c4fd/6a706624f7fdfc3470419256_og-img.png",
@@ -94,6 +97,19 @@
 "url": "https://mastra.ai/pricing"
 }
 },
+"materialize": {
+"checked": "2026-10-26",
+"image": "https://cdn.sanity.io/images/rz2gt56r/production/2b473d4149f203889e951e95aff805b7b88897f5-1200x630.jpg",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://materialize.com/materialize-pricing/"
+}
+},
+"mathmodelagent": {
+"checked": "2026-10-26",
+"image": "https://mathmodel.top/mathmodel.png"
+},
 "mausbot": {
 "checked": "2026-10-23",
 "image": "https://mausbot.com/opengraph-image?78aec392592697f3",
@@ -118,6 +134,10 @@
 "trial": true,
 "url": "https://maxun.dev/pricing"
 }
+},
+"mcp-atlassian": {
+"checked": "2026-10-26",
+"image": "https://personal-1d37018d.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=MCP+Atlassian&description=Connect+AI+assistants+to+Jira+and+Confluence+%E2%80%94+search%2C+create%2C+update+issues+and+pages+via+MCP&theme=e973f3b58f90d97797885a76&signature=f7e2063e7aa88b76b7388455f4054a468c300a860e97ab229af051fcec40d65d"
 },
 "mcp-for-blender": {
 "checked": "2026-10-23"
@@ -157,6 +177,10 @@
 "trial": true,
 "url": "https://meetily.ai/pricing"
 }
+},
+"megaparse": {
+"checked": "2026-10-26",
+"image": "https://www.megaparse.com/og-image.png"
 },
 "meilisearch": {
 "checked": "2026-10-23",
@@ -257,6 +281,10 @@
 "checked": "2026-10-24",
 "image": "https://midscenejs.com/og-image.png"
 },
+"mimiclaw": {
+"checked": "2026-10-26",
+"image": "https://mimiclaw.io/bannerclaw.png"
+},
 "mimo-code": {
 "checked": "2026-10-25"
 },
@@ -283,6 +311,10 @@
 "checked": "2026-10-23",
 "image": "https://miso.com/assets/link-card-v4.jpg"
 },
+"mission-control": {
+"checked": "2026-10-26",
+"image": "https://mc.builderz.dev/og.png"
+},
 "mistral": {
 "checked": "2026-10-23",
 "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
@@ -301,6 +333,10 @@
 "checked": "2026-10-24",
 "image": "https://ml4trading.io/static/img/og-image.a0471320e8d2.jpg"
 },
+"ml5-js": {
+"checked": "2026-10-26",
+"image": "https://ml5js.org/favicon/og-image.png"
+},
 "mlc-llm": {
 "checked": "2026-10-24"
 },
@@ -309,6 +345,13 @@
 },
 "mlflow": {
 "checked": "2026-10-24"
+},
+"mlpack": {
+"checked": "2026-10-26"
+},
+"mmf": {
+"checked": "2026-10-26",
+"image": "https://mmf.sh/img/logo.png"
 },
 "mobile-next": {
 "checked": "2026-10-25",

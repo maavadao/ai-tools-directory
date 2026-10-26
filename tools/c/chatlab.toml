@@ -1,0 +1,7 @@
+name = "ChatLab"
+description = "A local-first chat analysis tool: Relive and explore your social memories powered by SQL and AI Agents."
+category = "agents"
+website = "https://chatlab.fun"
+open_source = true
+repository = "https://github.com/ChatLab/ChatLab"
+added = 2026-10-26

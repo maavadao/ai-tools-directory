@@ -1,0 +1,7 @@
+name = "Decepticon"
+description = "Coordinate specialist agents, tools, infrastructure, and evidence inside the scope you approve. Decepticon is a Bitter Security product."
+category = "chatbots"
+website = "https://decepticon.red"
+open_source = true
+repository = "https://github.com/BitterSecurity/Decepticon"
+added = 2026-10-26

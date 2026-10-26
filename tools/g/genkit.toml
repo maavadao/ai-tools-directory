@@ -1,0 +1,7 @@
+name = "genkit"
+description = "Genkit is Google's open-source framework for building AI-powered apps and agents in TypeScript, Go, Python, and Dart. Use Gemini, Claude, OpenAI, and more."
+category = "chatbots"
+website = "https://genkit.dev"
+open_source = true
+repository = "https://github.com/genkit-ai/genkit"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "basic-pitch"
+description = "A lightweight yet powerful audio-to-MIDI converter with pitch bend detection"
+category = "audio"
+website = "https://basicpitch.spotify.com"
+open_source = true
+repository = "https://github.com/spotify/basic-pitch"
+added = 2026-10-26

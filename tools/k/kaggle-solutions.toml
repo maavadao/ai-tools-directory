@@ -1,0 +1,7 @@
+name = "Kaggle Solutions"
+description = "A curated archive of Kaggle competition write-ups, codebases, notebooks, interviews, and learning resources."
+category = "data"
+website = "https://kaggle.farid.one"
+open_source = true
+repository = "https://github.com/faridrashidi/kaggle-solutions"
+added = 2026-10-26

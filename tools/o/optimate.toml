@@ -1,0 +1,7 @@
+name = "optimate"
+description = "Every conversation your employees and customers have with AI agents reveals adoption patterns, unmet needs, and ROI signals. Nebuly structures that data so leaders can act on it."
+category = "chatbots"
+website = "https://www.nebuly.com"
+open_source = true
+repository = "https://github.com/nebuly-ai/optimate"
+added = 2026-10-26

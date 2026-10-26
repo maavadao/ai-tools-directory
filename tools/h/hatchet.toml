@@ -1,0 +1,7 @@
+name = "hatchet"
+description = "Hatchet is a single platform for orchestrating AI agents, scheduling background tasks, and running mission-critical workflows."
+category = "agents"
+website = "https://hatchet.run"
+open_source = true
+repository = "https://github.com/hatchet-dev/hatchet"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "Copilot for Obsidian"
+description = "Use AI agents inside Obsidian to search, organize, and write your notes. Free and open source with Claude, ChatGPT, local models, or your own API keys."
+category = "coding"
+website = "https://www.obsidiancopilot.com"
+open_source = true
+repository = "https://github.com/logancyang/obsidian-copilot"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "Copilot for Xcode"
+description = "The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension."
+category = "coding"
+website = "https://copilotforxcode.intii.com"
+open_source = true
+repository = "https://github.com/intitni/CopilotForXcode"
+added = 2026-10-26

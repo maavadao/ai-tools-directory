@@ -1,0 +1,7 @@
+name = "Klavis AI"
+description = "Klavis AI provides live environments for training AI agents. Powering frontier AI labs with real world MCP environments and complex, long-horizon agentic tool-use data."
+category = "chatbots"
+website = "https://www.klavis.ai"
+open_source = true
+repository = "https://github.com/Klavis-AI/klavis"
+added = 2026-10-26

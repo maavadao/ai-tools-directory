@@ -37,6 +37,13 @@
 "checked": "2026-10-25",
 "image": "https://vergex.trade/vergex/og-image.png?v=2"
 },
+"vespa-ai": {
+"checked": "2026-10-26",
+"pricing": {
+"trial": true,
+"url": "https://vespa.ai/pricing/"
+}
+},
 "vibe-kanban": {
 "checked": "2026-10-24",
 "image": "https://vibekanban.com/images/cta-product-desktop.webp",
@@ -46,6 +53,10 @@
 "url": "https://www.vibekanban.com/pricing"
 }
 },
+"vibe-vibe": {
+"checked": "2026-10-26",
+"image": "https://www.vibevibe.cn/logo.png"
+},
 "video-use": {
 "checked": "2026-10-24",
 "image": "https://video-use.com/demo.png"
@@ -53,6 +64,14 @@
 "videocaptioner": {
 "checked": "2026-10-24",
 "image": "https://weifeng2333.github.io/VideoCaptioner/logo.png"
+},
+"vision-agents": {
+"checked": "2026-10-26",
+"image": "https://stream-52f5fdce.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=Vision+Agents&description=Build+low-latency+voice+and+video+AI+agents+with+any+model&theme=e154a42ebdd48682b2d75d0f&signature=ba7aade1bc640cd63ffb0a8a4ee54061b6a5fbced69b1d90377bdf3b4aeaf31a"
+},
+"vllm-semantic-router": {
+"checked": "2026-10-26",
+"image": "https://vllm-sr.ai/img/vllm-sr-logo.social.png"
 },
 "voicebox": {
 "checked": "2026-10-23",
@@ -72,6 +91,10 @@
 "url": "https://elevenlabs.io/pricing"
 }
 },
+"volcano": {
+"checked": "2026-10-26",
+"image": "https://volcano.sh/img/landing/volcano_logo.png"
+},
 "voltagent": {
 "checked": "2026-10-25",
 "image": "https://voltagent.dev/img/social4.png",
@@ -90,6 +113,9 @@
 "voyager": {
 "checked": "2026-10-25",
 "image": "https://voyager.nagi.fun/logo.png"
+},
+"voyager-minedojo-org": {
+"checked": "2026-10-26"
 },
 "vuls": {
 "checked": "2026-10-25"

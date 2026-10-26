@@ -15,6 +15,10 @@
 "url": "https://eclatira.com/pricing"
 }
 },
+"editbanana-edit-banana": {
+"checked": "2026-10-26",
+"image": "https://www.editbanana.net/banana.jpg"
+},
 "ego-lite": {
 "checked": "2026-10-24",
 "image": "https://lite.ego.app/og.png"
@@ -71,9 +75,26 @@
 "checked": "2026-10-24",
 "image": "https://elizaresearch.ai/assets/og.png"
 },
+"emdash": {
+"checked": "2026-10-26",
+"image": "https://emdash.com/opengraph-image.png?opengraph-image.bea53f98.png"
+},
+"ernie-blog": {
+"checked": "2026-10-26",
+"image": "https://ernie.baidu.com/blog/images/papermod-cover.png"
+},
 "evermind": {
 "checked": "2026-10-25",
 "image": "https://framerusercontent.com/images/krmM5lcHDcxwJssaZnZtLbHrX2o.png"
+},
+"everywhere": {
+"checked": "2026-10-26",
+"image": "https://everywhere.sylinko.com/banner.jpg",
+"pricing": {
+"currency": "USD",
+"from": 8.0,
+"url": "https://everywhere.sylinko.com/en/pricing"
+}
 },
 "evolink": {
 "checked": "2026-10-24",

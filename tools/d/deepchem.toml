@@ -1,0 +1,7 @@
+name = "DeepChem"
+description = "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
+category = "other"
+website = "https://deepchem.io"
+open_source = true
+repository = "https://github.com/deepchem/deepchem"
+added = 2026-10-26

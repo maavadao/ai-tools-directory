@@ -25,6 +25,16 @@
 "checked": "2026-10-23",
 "image": "https://cdn.sanity.io/images/07s0r5r6/production/9a4b2e0eec438fb56057db128a11ade2c04c01cf-2400x1260.png?w=1200&h=630&fm=jpg&q=95&fit=crop"
 },
+"hatchet": {
+"checked": "2026-10-26",
+"image": "https://hatchet.run/assets/og-PqKfvZWg.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 99.0,
+"url": "https://hatchet.run/announcement/pay-as-you-go-pricing?utm_source=hatchet.run&amp;utm_medium=announcement&amp;utm_campaign=pay-as-you-go-pricing"
+}
+},
 "haystack": {
 "checked": "2026-10-24",
 "image": "https://haystack.deepset.ai/images/haystack-ogimage.png"
@@ -32,6 +42,21 @@
 "heal": {
 "checked": "2026-10-23",
 "image": "https://heal.dev/opengraph-image?e0625de47d2d2e2b"
+},
+"helicone-ai": {
+"checked": "2026-10-26",
+"image": "https://www.helicone.ai/static/new-open-graph.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 79.0,
+"trial": true,
+"url": "https://www.helicone.ai/pricing"
+}
+},
+"helixdb": {
+"checked": "2026-10-26",
+"image": "https://www.helix-db.com/opengraph-image?b24bbcbc49577ce1"
 },
 "hello-agents": {
 "checked": "2026-10-25"
@@ -92,6 +117,10 @@
 "url": "https://hirekey.io"
 }
 },
+"hister": {
+"checked": "2026-10-26",
+"image": "https://hister.org/logo.png"
+},
 "holaboss": {
 "checked": "2026-10-25",
 "image": "https://www.holaboss.ai/_astro/og-cover.BXNYJpLT.jpg",
@@ -109,6 +138,10 @@
 "homl-books": {
 "checked": "2026-10-24",
 "image": "https://homl.info/og.jpg"
+},
+"honcho": {
+"checked": "2026-10-26",
+"image": "https://honcho.dev/opengraph-image.png?bdb2d68407bc6230"
 },
 "hookest": {
 "checked": "2026-10-23",
@@ -138,6 +171,14 @@
 "currency": "USD",
 "from": 9.0,
 "url": "https://huggingface.co/pricing"
+}
+},
+"hula": {
+"checked": "2026-10-26",
+"image": "https://website.hulaspark.com/img/hula-title.png?imageMogr2/format/webp/quality/60",
+"pricing": {
+"free": true,
+"url": "https://hulaspark.com/pricing"
 }
 },
 "humalike": {

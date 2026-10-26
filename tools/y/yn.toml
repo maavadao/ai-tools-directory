@@ -1,0 +1,7 @@
+name = "yn"
+description = "Official website of Yank Note. A highly extensible Markdown editor for easy and powerful editing and save private files with encryption.|Yank Note 官网。一个高度可扩展的 Markdown 编辑器，为易用和强大的编辑而优化，同时支持加密保存私人文件。"
+category = "coding"
+website = "https://yank-note.com"
+open_source = true
+repository = "https://github.com/purocean/yn"
+added = 2026-10-26

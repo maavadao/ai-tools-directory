@@ -1,0 +1,7 @@
+name = "Infographic"
+description = "AntV Infographic is a powerful visualization library for building interactive and customizable infographics. Create stunning visual stories with ease using our intuitive API and rich set of components."
+category = "chatbots"
+website = "https://infographic.antv.vision"
+open_source = true
+repository = "https://github.com/antvis/Infographic"
+added = 2026-10-26

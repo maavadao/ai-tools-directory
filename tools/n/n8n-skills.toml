@@ -1,0 +1,7 @@
+name = "n8n Skills"
+description = "14 complementary agent skills for building production-ready n8n workflows — Claude Code, Codex, Cursor, and any Agent Skills client"
+category = "agents"
+website = "https://www.n8n-skills.com"
+open_source = true
+repository = "https://github.com/czlonkowski/n8n-skills"
+added = 2026-10-26

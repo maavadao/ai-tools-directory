@@ -1,0 +1,7 @@
+name = "wigolo"
+description = "Local-first web intelligence over MCP. No keys, no cloud, no metered bill. Public beta."
+category = "coding"
+website = "https://wigolo.app"
+open_source = true
+repository = "https://github.com/KnockOutEZ/wigolo"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "coroot"
+description = "eBPF-powered and AI-guided observability platform. See every metric, log, and trace with zero code changes. 80% faster MTTR, 0 code setup."
+category = "other"
+website = "https://coroot.com"
+open_source = true
+repository = "https://github.com/coroot/coroot"
+added = 2026-10-26

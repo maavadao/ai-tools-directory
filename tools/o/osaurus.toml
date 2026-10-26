@@ -1,0 +1,7 @@
+name = "osaurus"
+description = "Osaurus runs AI agents on your own computer. Local models, private by default, works offline. Free and open source for Mac, with Windows in public beta."
+category = "chatbots"
+website = "https://osaurus.ai"
+open_source = true
+repository = "https://github.com/osaurus-ai/osaurus"
+added = 2026-10-26

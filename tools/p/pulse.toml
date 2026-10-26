@@ -1,0 +1,7 @@
+name = "Pulse"
+description = "Pulse shows your Proxmox nodes, VMs, containers and backups at a glance and tells you when something needs attention. Docker, TrueNAS and Kubernetes too. One container, free and open source."
+category = "other"
+website = "https://pulserelay.pro"
+open_source = true
+repository = "https://github.com/rcourtman/Pulse"
+added = 2026-10-26

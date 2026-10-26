@@ -1,0 +1,7 @@
+name = "Dograh"
+description = "Open Source Voice Assistant Workflow Builder"
+category = "agents"
+website = "https://app.dograh.com"
+open_source = true
+repository = "https://github.com/dograh-hq/dograh"
+added = 2026-10-26

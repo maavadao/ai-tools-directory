@@ -1,0 +1,7 @@
+name = "FlashInfer"
+description = "Introduce Techniques to accelerate Large Language Model Deployment"
+category = "other"
+website = "https://flashinfer.ai"
+open_source = true
+repository = "https://github.com/flashinfer-ai/flashinfer"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "WebChatGPT"
+description = "Enhance ChatGPT, Claude, and Gemini with WebChatGPT. Get real-time web search results, in-depth answers, and a library of 1-click prompts."
+category = "chatbots"
+website = "https://www.webchatgpt.app"
+open_source = true
+repository = "https://github.com/interstellard/chatgpt-advanced"
+added = 2026-10-26

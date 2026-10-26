@@ -19,6 +19,15 @@
 "checked": "2026-10-23",
 "image": "https://unsloth.ai/cgi/image/unsloth_new_wb_logo_vnrA8AASj-jN5wy8UIYE-.png?format=raw"
 },
+"unstract-com": {
+"checked": "2026-10-26",
+"image": "https://unstract.com/wp-content/uploads/2025/07/unstract-document-automation-for-unstructured-data.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://unstract.com/pricing/"
+}
+},
 "unstructured": {
 "checked": "2026-10-24",
 "image": "https://cdn.sanity.io/images/d35hevy9/production/f19dac06a6b8d3e66fe818be470470e4cb954635-1200x628.jpg?rect=2,0,1196,628&w=1200&h=630&max-h=3840&max-w=3840&q=85&auto=format",

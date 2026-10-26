@@ -1,0 +1,7 @@
+name = "BibiGPT"
+description = "视频总结、字幕提取、视频转文字：粘贴 B站、YouTube、播客或本地文件，一键出重点、字幕和思维导图。免费试用。"
+category = "education"
+website = "https://bibigpt.co"
+open_source = true
+repository = "https://github.com/JimmyLv/BibiGPT-v1"
+added = 2026-10-26

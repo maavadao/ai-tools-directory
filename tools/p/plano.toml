@@ -1,0 +1,7 @@
+name = "Plano"
+description = "Build agents faster and deliver them reliably to production. Plano is an AI-native proxy and data plane for agent orchestration, LLM routing, guardrails, and observability."
+category = "other"
+website = "https://planoai.dev"
+open_source = true
+repository = "https://github.com/katanemo/plano"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "rivet"
+description = "A fast, high-density and scalable orchestrator for every workload an agent needs. Run agents, workflows, and sandboxes as durable Actors."
+category = "agents"
+website = "https://rivet.dev"
+open_source = true
+repository = "https://github.com/rivet-dev/rivet"
+added = 2026-10-26

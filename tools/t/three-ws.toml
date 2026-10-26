@@ -1,0 +1,7 @@
+name = "three.ws"
+description = "Every 3D AI agent, live on one map. Make one from a selfie, embed it anywhere."
+category = "agents"
+website = "https://three.ws"
+open_source = true
+repository = "https://github.com/nirholas/fresh-start"
+added = 2026-10-26

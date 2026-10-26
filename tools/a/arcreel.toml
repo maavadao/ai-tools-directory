@@ -1,0 +1,7 @@
+name = "ArcReel"
+description = "开源 AI 短剧 / 漫剧生成工作台。小说原文输入，多智能体编排剧本、角色、分镜、视频；11 个内置供应商 100+ 模型，接入 Sora 2、Veo 3.1、Seedance 2.0、Nano Banana 2、GPT Image 2，跨分镜角色一致，剪映草稿直出。"
+category = "video"
+website = "https://arc-reel.com"
+open_source = true
+repository = "https://github.com/ArcReel/ArcReel"
+added = 2026-10-26

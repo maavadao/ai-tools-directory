@@ -1,0 +1,7 @@
+name = "emdash"
+description = "Emdash (YC W26) is a free, open-source agentic development environment: run coding agents like Claude Code and Codex in parallel, schedule agent work, and review changes in one place. Available for macOS, Windows, and Linux."
+category = "coding"
+website = "https://emdash.com"
+open_source = true
+repository = "https://github.com/generalaction/emdash"
+added = 2026-10-26

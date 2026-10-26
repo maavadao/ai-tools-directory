@@ -1,0 +1,7 @@
+name = "volcano"
+description = "Cloud native batch scheduling system for compute-intensive workloads"
+category = "other"
+website = "https://volcano.sh"
+open_source = true
+repository = "https://github.com/volcano-sh/volcano"
+added = 2026-10-26

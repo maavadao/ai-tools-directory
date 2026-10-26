@@ -1,0 +1,7 @@
+name = "antislop"
+description = "Rules for AI Coding Agents. Stops generic AI slop UI and copy without letting the result turn sterile."
+category = "writing"
+website = "https://antislop.ai.id"
+open_source = true
+repository = "https://github.com/miqdadbadjuber/anti-slop"
+added = 2026-10-26

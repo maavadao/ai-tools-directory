@@ -1,0 +1,7 @@
+name = "Skills Manager"
+description = "A desktop app that keeps your AI agent skills in one library and installs them into Claude Code, Codex, Cursor and 53 more. Free, open source, macOS / Windows / Linux."
+category = "other"
+website = "https://skillsmanager.dev"
+open_source = true
+repository = "https://github.com/xingkongliang/skills-manager"
+added = 2026-10-26

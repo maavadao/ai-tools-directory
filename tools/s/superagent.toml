@@ -1,0 +1,7 @@
+name = "superagent"
+description = "Make your software secure itself. Security workers and the Security-One decision model protect applications, repositories, agents, and infrastructure."
+category = "chatbots"
+website = "https://www.superagent.sh"
+open_source = true
+repository = "https://github.com/superagent-ai/superagent"
+added = 2026-10-26

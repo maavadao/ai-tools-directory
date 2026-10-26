@@ -15,13 +15,25 @@
 "url": "https://geminicli.com/docs/resources/quota-and-pricing/"
 }
 },
+"genkit": {
+"checked": "2026-10-26",
+"image": "https://genkit.dev/ogimage.png?v=1"
+},
 "genoffice": {
 "checked": "2026-10-25",
 "image": "https://genoffice.ai/assets/shots/hero-shot.png"
 },
+"gentle-stack": {
+"checked": "2026-10-26",
+"image": "https://gentlemanprogramming.com/branding/gentle-ai-banner.webp"
+},
 "genxr": {
 "checked": "2026-10-25",
 "image": "https://www.genxr.co/images/opt/demo-3-5d.webp"
+},
+"geoffrey-huntley": {
+"checked": "2026-10-26",
+"image": "https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w1200/2025/08/A-black-and-white--low-angle-digital-illustration-in-a-symbolic-traditional-tattoo-art-style.--A-bald--light-skinned-man-with-a-bushy-beard--prominent-eyebrows--and-a-friendly-expression-wears-denim-overalls--2--3.jpg"
 },
 "getdesign-md": {
 "checked": "2026-10-23",
@@ -66,6 +78,9 @@
 "gobot": {
 "checked": "2026-10-25"
 },
+"gocv": {
+"checked": "2026-10-26"
+},
 "google-cloud": {
 "checked": "2026-10-23",
 "image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png"
@@ -88,6 +103,10 @@
 "gpt-image2-prompt-gallery": {
 "checked": "2026-10-25"
 },
+"gpt-load": {
+"checked": "2026-10-26",
+"image": "https://www.gpt-load.com/social-card.png?v=coral-anchor-orange-v2"
+},
 "gpt-researcher": {
 "checked": "2026-10-24",
 "image": "https://gptr.dev/thumbnail.png",
@@ -95,6 +114,10 @@
 "free": true,
 "url": "https://gptr.dev/pricing"
 }
+},
+"gpustack": {
+"checked": "2026-10-26",
+"image": "https://gpustack.ai/opengraph-image?5dfcdf7b3fc6ea95"
 },
 "grammarly": {
 "checked": "2026-10-23",
@@ -111,6 +134,10 @@
 "groq": {
 "checked": "2026-10-23",
 "image": "https://groq.com/images/og.png"
+},
+"guardrails-ai": {
+"checked": "2026-10-26",
+"image": "https://framerusercontent.com/images/T1HPbJMDn1XYH6qmREYjv5jZSw.png"
 },
 "gun": {
 "checked": "2026-10-24"

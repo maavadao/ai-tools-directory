@@ -1,0 +1,7 @@
+name = "NullClaw"
+description = "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig"
+category = "chatbots"
+website = "https://nullclaw.io"
+open_source = true
+repository = "https://github.com/nullclaw/nullclaw"
+added = 2026-10-26

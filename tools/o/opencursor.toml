@@ -1,0 +1,7 @@
+name = "OpenCursor"
+description = "Extensions for Visual Studio family of products on Visual Studio Marketplace"
+category = "coding"
+website = "https://marketplace.visualstudio.com"
+open_source = true
+repository = "https://github.com/PawanOsman/OpenCursor"
+added = 2026-10-26

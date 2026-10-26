@@ -24,6 +24,9 @@
 "checked": "2026-10-23",
 "image": "https://www.tasteskill.dev/og-image.jpg"
 },
+"taxhacker": {
+"checked": "2026-10-26"
+},
 "teable": {
 "checked": "2026-10-24",
 "image": "https://teable.ai/assets/images/og-image.png",
@@ -78,6 +81,10 @@
 "checked": "2026-10-24",
 "image": "https://substackcdn.com/image/fetch/$s_!W5r-!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1c8067a-95bb-416b-9114-e0b9fb8821d4_256x256.png"
 },
+"three-ws": {
+"checked": "2026-10-26",
+"image": "https://three.ws/api/page-og?s=main&t=Home&d=The+three.ws+web+desktop%3A+a+taskbar%2C+Start+menu+and+windows+that+open+every+part+of+the+platform%2C+from+making+a+3D+agent+to+the+marketplace.&p=%2F"
+},
 "tidb": {
 "checked": "2026-10-23",
 "image": "https://static.pingcap.com/files/2026/10/08015109/tidb-social-image.png",
@@ -128,6 +135,10 @@
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a49f86fc70648ca04854f6_OG-image-home.png"
 },
+"tokscale": {
+"checked": "2026-10-26",
+"image": "https://tokscale.ai/og-image.png?v=3"
+},
 "tooljet": {
 "checked": "2026-10-23",
 "image": "https://tooljet.com/images/tooljet-social.png",
@@ -159,6 +170,10 @@
 "url": "https://trailhq.com/pricing"
 }
 },
+"treg": {
+"checked": "2026-10-26",
+"image": "https://treg.to/media/og.png"
+},
 "trendradar": {
 "checked": "2026-10-23",
 "image": "https://trendradar.sandev.cc/images/og-image.png"
@@ -172,6 +187,14 @@
 "from": 5.0,
 "url": "https://trigger.dev/pricing"
 }
+},
+"trueforge": {
+"checked": "2026-10-26",
+"image": "https://trueforge.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=TrueForge&description=TrueForge+is+an+open-source+agent+harness+%E2%80%94+the+runtime+layer+that+turns+an+LLM+into+a+working+agent%2C+with+MCP+tools%2C+skills%2C+sandboxing%2C+approvals%2C+and+subagen&theme=63171fda585610604362c10f&signature=3f50c87534ee7ddca95eb36c8e4f6998d28e2513f179d3d53592ab4b8850de53"
+},
+"tuios": {
+"checked": "2026-10-26",
+"image": "https://tuios.dev/og/site/image.png"
 },
 "twinmind-for-desktop": {
 "checked": "2026-10-23",

@@ -1,0 +1,7 @@
+name = "飞桨PaddlePaddle-源于产业实践的开源深度学习平台"
+description = "飞桨致力于让深度学习技术的创新与应用更简单。具有以下特点：同时支持动态图和静态图，兼顾灵活性和效率；精选应用效果最佳算法模型并提供官方支持；真正源于产业实践，提供业界最强的超大规模并行深度学习能力；推理引擎一体化设计，提供训练到多端推理的无缝对接；唯一提供系统化技术服务与支持的深度学习平台"
+category = "other"
+website = "https://www.paddlepaddle.org.cn"
+open_source = true
+repository = "https://github.com/PaddlePaddle/Paddle-Lite"
+added = 2026-10-26

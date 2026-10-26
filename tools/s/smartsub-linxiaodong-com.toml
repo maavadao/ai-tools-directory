@@ -1,0 +1,7 @@
+name = "视频转字幕、字幕翻译、AI 配音一站式工具"
+description = "妙幕（SmartSub）是开源免费的视频字幕软件：本地生成字幕、翻译成多语言、AI 配音与声音克隆、字幕烧录合成，支持批量处理与 GPU 加速，Windows / macOS / Linux 可用。"
+category = "audio"
+website = "https://smartsub.linxiaodong.com"
+open_source = true
+repository = "https://github.com/buxuku/SmartSub"
+added = 2026-10-26

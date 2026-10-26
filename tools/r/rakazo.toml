@@ -1,0 +1,7 @@
+name = "rakazo"
+description = "Rakazo is an open source Grok Bot alternative for persistent AI teammates that do real work. Your keys, your model, your machine."
+category = "chatbots"
+website = "https://rakazo.com"
+open_source = true
+repository = "https://github.com/elie222/rakazo"
+added = 2026-10-26

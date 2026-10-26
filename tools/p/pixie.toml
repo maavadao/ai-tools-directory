@@ -1,0 +1,7 @@
+name = "pixie"
+description = "A simple and robust monitoring and live-debug platform for distributed environments, designed for developers."
+category = "other"
+website = "https://px.dev"
+open_source = true
+repository = "https://github.com/pixie-io/pixie"
+added = 2026-10-26

@@ -1,0 +1,7 @@
+name = "QOwnNotes"
+description = "Open source markdown note-taking for Linux, macOS and Windows, that works together with Nextcloud Notes"
+category = "other"
+website = "https://www.qownnotes.org"
+open_source = true
+repository = "https://github.com/pbek/QOwnNotes"
+added = 2026-10-26

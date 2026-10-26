@@ -1,0 +1,7 @@
+name = "Canopy Labs"
+description = "Canopy Labs is developing digital humans that are indistinguishable from real ones."
+category = "audio"
+website = "https://canopylabs.ai"
+open_source = true
+repository = "https://github.com/canopyai/Orpheus-TTS"
+added = 2026-10-26
