@@ -1,0 +1,7 @@
+name = "The AI Operator"
+description = "AI agent systems, written by someone shipping them in production. Click to read The AI Operator, by Eugeniu Ghelbur, a Substack publication with thousands of subscribers."
+category = "other"
+website = "https://theaioperator.io"
+open_source = true
+repository = "https://github.com/eugeniughelbur/obsidian-second-brain"
+added = 2026-10-27

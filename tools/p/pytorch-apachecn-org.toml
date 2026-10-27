@@ -1,0 +1,7 @@
+name = "【布客】PyTorch 中文翻译"
+description = "ApacheCN - 可能是东半球最大的 AI 社区"
+category = "other"
+website = "https://pytorch.apachecn.org"
+open_source = true
+repository = "https://github.com/apachecn/pytorch-doc-zh"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "KiroCrew"
+description = "Kiro helps developers and teams do their best work: turn prompts into executable specs, validate code correctness to find bugs unit tests miss, and build across large codebases with parallel agents that learn from every session."
+category = "coding"
+website = "https://kiro.dev"
+open_source = true
+repository = "https://github.com/kirodotdev/KiroCrew"
+added = 2026-10-27

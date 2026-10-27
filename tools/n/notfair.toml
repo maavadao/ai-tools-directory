@@ -1,0 +1,7 @@
+name = "NotFair"
+description = "Analyze and manage campaigns across Google Ads, Meta Ads, X Ads, LinkedIn Ads, Reddit Ads, and TikTok Ads with NotFair."
+category = "writing"
+website = "https://notfair.co"
+open_source = true
+repository = "https://github.com/nowork-studio/notfair-plugin"
+added = 2026-10-27

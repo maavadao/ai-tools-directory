@@ -1,0 +1,7 @@
+name = "Spark NLP"
+description = "Experience the power of Large Language Models like never before! Unleash the full potential of Natural Language Processing with Spark NLP, the open-source library that delivers scalable LLMs"
+category = "other"
+website = "https://sparknlp.org"
+open_source = true
+repository = "https://github.com/JohnSnowLabs/spark-nlp"
+added = 2026-10-27

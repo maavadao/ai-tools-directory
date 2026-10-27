@@ -1,0 +1,7 @@
+name = "DJL"
+description = "An Engine-Agnostic Deep Learning Framework in Java"
+category = "other"
+website = "https://djl.ai"
+open_source = true
+repository = "https://github.com/deepjavalibrary/djl"
+added = 2026-10-27

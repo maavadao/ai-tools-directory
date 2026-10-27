@@ -1,0 +1,7 @@
+name = "lollms-webui"
+description = "Lord of Large Language and Multi modal Systems Web User Interface"
+category = "chatbots"
+website = "https://lollms.com"
+open_source = true
+repository = "https://github.com/ParisNeo/lollms-webui"
+added = 2026-10-27

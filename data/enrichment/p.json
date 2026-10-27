@@ -67,6 +67,10 @@
 "url": "https://pasteapp.io/pricing"
 }
 },
+"pastemd": {
+"checked": "2026-10-27",
+"image": "https://pastemd.richqaq.cn/logo.png"
+},
 "pathway": {
 "checked": "2026-10-23",
 "image": "https://pathway.com/_og/s/o_qhizs2.png"
@@ -77,6 +81,10 @@
 "pentagi": {
 "checked": "2026-10-23",
 "image": "https://pentagi.com/opengraph-image"
+},
+"peon-ping": {
+"checked": "2026-10-27",
+"image": "https://peonping.com/images/og-image.png"
 },
 "perplexity-ai": {
 "checked": "2026-10-23",
@@ -122,6 +130,9 @@
 "url": "https://pika.art/pricing"
 }
 },
+"pilotdeck": {
+"checked": "2026-10-27"
+},
 "pinecone": {
 "checked": "2026-10-23",
 "image": "https://www.pinecone.io/api/og/?title=Trusted+knowledge+for&highlight=AI+in+production&alignment=center",
@@ -132,6 +143,10 @@
 "trial": true,
 "url": "https://www.pinecone.io/pricing/"
 }
+},
+"pinto-model-zoo": {
+"checked": "2026-10-27",
+"image": "https://cdn.qiita.com/assets/qiita-ogp-3b6fcfdd74755a85107071ffc3155898.png"
 },
 "pipecat": {
 "checked": "2026-10-24"
@@ -155,6 +170,10 @@
 "plano": {
 "checked": "2026-10-26",
 "image": "https://archgw-tau.vercel.app/Logomark.png"
+},
+"playwriter": {
+"checked": "2026-10-27",
+"image": "https://holocron.so/api/og?title=Let+Agents+Control+Your+Real+Chrome+Browser&description=Control+your+real+Chrome+browser+with+Playwright+from+an+agent%2C+CLI%2C+or+MCP+server.+Keep+logins%2C+cookies%2C+and+extensions.+No+headless+Chrome.&icon=https%3A%2F%2Fplaywriter.dev%2Ffavicon-32.png&siteName=Playwriter&pageLabel=playwriter.dev%2F"
 },
 "point-cloud-library": {
 "checked": "2026-10-25"
@@ -181,6 +200,10 @@
 "ponytail": {
 "checked": "2026-10-23",
 "image": "https://ponytail.dev/assets/v5/social-card.png"
+},
+"porcupine": {
+"checked": "2026-10-27",
+"image": "https://picovoice.ai/og_images/og_picovoice_logo.png"
 },
 "postgresml": {
 "checked": "2026-10-26",
@@ -216,6 +239,10 @@
 "praison-ai": {
 "checked": "2026-10-25",
 "image": "https://praison.ai/app/uploads/2026/06/praison-ai-customer-service.png"
+},
+"priceai": {
+"checked": "2026-10-27",
+"image": "https://priceai.cc/opengraph-image?b6218033b3623ef1"
 },
 "printfilm": {
 "checked": "2026-10-26"
@@ -283,6 +310,9 @@
 "pyspur": {
 "checked": "2026-10-26"
 },
+"pysr": {
+"checked": "2026-10-27"
+},
 "python-telegram-bot": {
 "checked": "2026-10-24",
 "image": "https://github.com/python-telegram-bot/logos/raw/master/logo/png/ptb-logo_2048.png"
@@ -291,9 +321,16 @@
 "checked": "2026-10-23",
 "image": "https://pytorch.org/wp-content/uploads/2025/01/pytorch_seo.png"
 },
+"pytorch-apachecn-org": {
+"checked": "2026-10-27"
+},
 "pytorch-deep-learning": {
 "checked": "2026-10-24",
 "image": "https://www.learnpytorch.io/assets/images/social/index.png"
+},
+"pytorch-ignite": {
+"checked": "2026-10-27",
+"image": "https://raw.githubusercontent.com/pytorch/ignite/master/assets/logo/ignite_logo.png"
 },
 "pyvideotrans": {
 "checked": "2026-10-24"

@@ -1,0 +1,7 @@
+name = "Agent Sandbox"
+description = "Agent Sandbox is a cloud native controller for sandboxes"
+category = "agents"
+website = "https://agent-sandbox.sigs.k8s.io"
+open_source = true
+repository = "https://github.com/kubernetes-sigs/agent-sandbox"
+added = 2026-10-27

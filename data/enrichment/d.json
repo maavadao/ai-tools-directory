@@ -14,6 +14,17 @@
 "url": "https://dagger.io/pricing/"
 }
 },
+"dagu": {
+"checked": "2026-10-27",
+"image": "https://dagu.sh/og-f25cffd3.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 50.0,
+"trial": true,
+"url": "https://dagu.sh/pricing"
+}
+},
 "daily-dev": {
 "checked": "2026-10-23",
 "image": "https://daily.dev/og-image.png?v=a830cdf1",
@@ -105,6 +116,12 @@
 "url": "https://decepticon.red/pricing"
 }
 },
+"deep-learning-interviews": {
+"checked": "2026-10-27"
+},
+"deep-research": {
+"checked": "2026-10-27"
+},
 "deepcell": {
 "checked": "2026-10-23",
 "image": "https://deepcell.net/og-image.png"
@@ -118,6 +135,10 @@
 "deepeval": {
 "checked": "2026-10-24",
 "image": "https://deepeval.com/img/social_card.png"
+},
+"deepflow-insight": {
+"checked": "2026-10-27",
+"image": "https://deepflow.io/deepflow-overview.jpg"
 },
 "deepgram": {
 "checked": "2026-10-23",
@@ -164,6 +185,13 @@
 "url": "https://www.descript.com/pricing"
 }
 },
+"designlang": {
+"checked": "2026-10-27",
+"image": "https://designlang.app/opengraph-image?f0263056b029f4ad"
+},
+"deskcommcrm": {
+"checked": "2026-10-27"
+},
 "desktop-commander": {
 "checked": "2026-10-25",
 "image": "https://desktopcommander.app/bg-social-share.png",
@@ -171,6 +199,17 @@
 "currency": "USD",
 "from": 20.0,
 "url": "https://desktopcommander.app/pricing/"
+}
+},
+"developers-digest": {
+"checked": "2026-10-27",
+"image": "https://www.developersdigest.tech/opengraph-image",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 6.0,
+"trial": true,
+"url": "https://www.developersdigest.tech/blog/ai-coding-tools-pricing-2026"
 }
 },
 "devin": {
@@ -187,6 +226,9 @@
 "checked": "2026-10-24",
 "image": "https://diamant-ai.com/lovable-uploads/052de04b-d104-473b-9104-886cbee5716a.png"
 },
+"diffusion-policy": {
+"checked": "2026-10-27"
+},
 "diffusionbee": {
 "checked": "2026-10-25",
 "image": "https://diffusionbee.com/diffusionbee_banner.jpg"
@@ -198,6 +240,17 @@
 "free": true,
 "url": "https://dify.ai/pricing"
 }
+},
+"divergent-labs": {
+"checked": "2026-10-27",
+"image": "https://divergent.sh/opengraph-image?5c705a49a9354677"
+},
+"djl": {
+"checked": "2026-10-27"
+},
+"docetl": {
+"checked": "2026-10-27",
+"image": "https://www.docetl.org/docetl-favicon-color.png"
 },
 "docsgpt": {
 "checked": "2026-10-24",
@@ -220,6 +273,14 @@
 "checked": "2026-10-24",
 "image": "https://www.dolthub.com/dolthub-preview.png"
 },
+"dora": {
+"checked": "2026-10-27",
+"image": "https://dora-rs.ai/og.png"
+},
+"dorian-todd": {
+"checked": "2026-10-27",
+"image": "https://www.doriantodd.com/og/home.jpg"
+},
 "doris": {
 "checked": "2026-10-24"
 },
@@ -239,6 +300,9 @@
 "trial": true,
 "url": "https://www.dragonflydb.io/pricing"
 }
+},
+"drake": {
+"checked": "2026-10-27"
 },
 "dramaclaw": {
 "checked": "2026-10-26",

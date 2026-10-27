@@ -1,0 +1,7 @@
+name = "Nixtla"
+description = "Lightning fast forecasting with statistical and econometric models."
+category = "other"
+website = "https://nixtlaverse.nixtla.io"
+open_source = true
+repository = "https://github.com/Nixtla/statsforecast"
+added = 2026-10-27

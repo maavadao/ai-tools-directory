@@ -1,0 +1,7 @@
+name = "MonkeyCode 智能开发平台"
+description = "MonkeyCode AI 是一个智能代码生成平台，通过AI驱动的编程助手、自动化工作流和智能开发工具，帮助开发者更快速地构建应用程序。"
+category = "coding"
+website = "https://monkeycode-ai.net"
+open_source = true
+repository = "https://github.com/chaitin/MonkeyCode"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "cascadeflow"
+description = "cascadeflow is the AI agent runtime layer that sees every step and steers model calls, tool calls, and handoffs toward your policies and goals. Cut inference cost up to 90% with sub-5ms overhead."
+category = "agents"
+website = "https://cascadeflow.ai"
+open_source = true
+repository = "https://github.com/lemony-ai/cascadeflow"
+added = 2026-10-27

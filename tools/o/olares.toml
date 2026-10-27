@@ -1,0 +1,7 @@
+name = "Olares"
+description = "Olares is an open-source personal cloud OS you run in plain language. Host AI agents and LLMs locally on hardware you own."
+category = "other"
+website = "https://www.olares.com"
+open_source = true
+repository = "https://github.com/beclab/Olares"
+added = 2026-10-27

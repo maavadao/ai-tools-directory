@@ -1,0 +1,7 @@
+name = "Superduper Agents"
+description = "Superduper Agents is a platform for managing a virtual AI workforce that has access and can work with all your data. It allows you to integrate your data infrastructure, meaning your databases with your structured data and unstructured data as well as your other third-party enterprise systems and t…"
+category = "developer-platforms"
+website = "https://superduper.io"
+open_source = true
+repository = "https://github.com/superduper-io/superduper"
+added = 2026-10-27

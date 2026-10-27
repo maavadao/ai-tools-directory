@@ -1,0 +1,7 @@
+name = "OpenCat-Quadruped-Robot"
+description = "Affordable, cute, realistic robot pet to play with and learn robotics & coding. Program/code robo dog Bittle and robo cat Nybble to explore the world with AI."
+category = "education"
+website = "https://www.petoi.com"
+open_source = true
+repository = "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot"
+added = 2026-10-27

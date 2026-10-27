@@ -1,0 +1,7 @@
+name = "5ire"
+description = "An Open Source Cross-platform Desktop AI Assistant and MCP (Model Context Protocol) Client.Support local knowledge base and custom prompt library."
+category = "other"
+website = "https://5ire.app"
+open_source = true
+repository = "https://github.com/nanbingxyz/5ire"
+added = 2026-10-27

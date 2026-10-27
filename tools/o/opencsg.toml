@@ -1,0 +1,7 @@
+name = "OpenCSG (开放传神)"
+description = "OpenCSG (开放传神) 打造 Hybrid Huggingface+ 大模型生态平台。CSGHub提供企业级开源Huggingface私有化替代，CSGShip助力AgenticOps智能体构建。赋能企业AI转型，助力大模型落地应用。"
+category = "chatbots"
+website = "https://opencsg.com"
+open_source = true
+repository = "https://github.com/OpenCSGs/csghub"
+added = 2026-10-27

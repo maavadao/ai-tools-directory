@@ -1,0 +1,7 @@
+name = "Neo4j graph builder"
+description = "Neo4j graph construction from unstructured data using LLMs"
+category = "other"
+website = "https://llm-graph-builder.neo4jlabs.com"
+open_source = true
+repository = "https://github.com/neo4j-labs/llm-graph-builder"
+added = 2026-10-27

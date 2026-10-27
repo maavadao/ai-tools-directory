@@ -1,0 +1,7 @@
+name = "TensorOpera AI"
+description = "TensorOpera AI is the full-stack AI Agent platform, from ideas to products, faster and scalable. Build and orchestrate agents your way, train your custom models for agents, and grow with a scalable model and GPU platform."
+category = "developer-platforms"
+website = "https://TensorOpera.ai"
+open_source = true
+repository = "https://github.com/FedML-AI/FedML"
+added = 2026-10-27

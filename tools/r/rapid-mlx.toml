@@ -1,0 +1,7 @@
+name = "Rapid-MLX"
+description = "Up to 4× faster than Apple's MLX (mlx-lm), 1.5× on a typical task, same weights (measured 2026-10-04). Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents."
+category = "other"
+website = "https://rapidmlx.com"
+open_source = true
+repository = "https://github.com/raullenchai/Rapid-MLX"
+added = 2026-10-27

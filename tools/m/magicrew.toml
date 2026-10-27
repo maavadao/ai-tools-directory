@@ -1,0 +1,7 @@
+name = "MagiCrew"
+description = "MagiCrew is an enterprise-grade open-source AI Agent platform that empowers every team member to deploy dedicated AI digital employees for real tasks."
+category = "chatbots"
+website = "https://www.magicrew.ai"
+open_source = true
+repository = "https://github.com/dtyq/magic"
+added = 2026-10-27

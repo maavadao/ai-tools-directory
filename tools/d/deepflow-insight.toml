@@ -1,0 +1,7 @@
+name = "DeepFlow Insight"
+description = "DeepFlow Insight 基于 eBPF 与 Wasm，零代码采集并关联交易、服务、调用链与函数级数据，支持核心交易持续监测、故障定位和变更验证。"
+category = "chatbots"
+website = "https://deepflow.io"
+open_source = true
+repository = "https://github.com/deepflowio/deepflow"
+added = 2026-10-27

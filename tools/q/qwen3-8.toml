@@ -1,0 +1,7 @@
+name = "Qwen3.8"
+description = "Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts."
+category = "other"
+website = "https://qwen.ai"
+open_source = true
+repository = "https://github.com/QwenLM/Qwen3.8"
+added = 2026-10-27

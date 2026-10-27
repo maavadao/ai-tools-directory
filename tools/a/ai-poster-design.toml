@@ -1,0 +1,7 @@
+name = "迅排设计-免费在线设计神器|AI海报设计_图片编辑_批量做图_讯排设计poster-design"
+description = "迅排设计（讯排设计）是一款免费在线图片编辑与海报设计工具：AI 智能设计、AI 抠图、批量设计、PSD 解析导入，覆盖小红书封面、电商主图、公众号配图、PDF、日签、邀请函等场景，海量模板免下载即用，支持私有化部署、定制开发。"
+category = "image"
+website = "https://design.palxp.cn"
+open_source = true
+repository = "https://github.com/palxiao/poster-design"
+added = 2026-10-27

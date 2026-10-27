@@ -1,0 +1,7 @@
+name = "vibesdk"
+description = "Ship your app from idea to v1!"
+category = "coding"
+website = "https://build.cloudflare.dev"
+open_source = true
+repository = "https://github.com/cloudflare/vibesdk"
+added = 2026-10-27

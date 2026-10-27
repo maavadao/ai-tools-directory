@@ -1,0 +1,7 @@
+name = "nixtla"
+description = "Forecasting & Anomaly Detection: accurate predictions and detect anomalies with Nixtla's industry-leading solutions"
+category = "agents"
+website = "https://www.nixtla.io"
+open_source = true
+repository = "https://github.com/Nixtla/nixtla"
+added = 2026-10-27

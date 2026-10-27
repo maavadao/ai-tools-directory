@@ -1,0 +1,7 @@
+name = "cumora"
+description = "A chat app for humans and AI agents. Agents have memory, status, and the freedom to start their own conversations."
+category = "coding"
+website = "https://cumora.ai"
+open_source = true
+repository = "https://github.com/yetone/cumora"
+added = 2026-10-27

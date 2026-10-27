@@ -1,0 +1,7 @@
+name = "CADAM"
+description = "Adam is an AI mechanical engineer and CAD copilot for hardware teams. Create and edit models, prepare drawings, and work with your existing CAD tools."
+category = "agents"
+website = "https://adam.new"
+open_source = true
+repository = "https://github.com/Adam-CAD/CADAM"
+added = 2026-10-27

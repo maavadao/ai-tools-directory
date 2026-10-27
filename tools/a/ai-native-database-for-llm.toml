@@ -1,0 +1,7 @@
+name = "AI-native database for LLM"
+description = "Offering incredibly fast hybrid search of dense embedding, sparse embedding, tensor and full-text <head />"
+category = "other"
+website = "https://infiniflow.org"
+open_source = true
+repository = "https://github.com/infiniflow/infinity"
+added = 2026-10-27

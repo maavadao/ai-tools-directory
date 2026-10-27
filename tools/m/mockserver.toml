@@ -1,0 +1,7 @@
+name = "MockServer"
+description = "Open-source HTTP/1.1, HTTP/2, HTTP/3, HTTPS and gRPC mock server, recording proxy, and MCP server for AI assistants. Mock any API, record and replay traffic,..."
+category = "other"
+website = "https://www.mock-server.com"
+open_source = true
+repository = "https://github.com/mock-server/mockserver-monorepo"
+added = 2026-10-27

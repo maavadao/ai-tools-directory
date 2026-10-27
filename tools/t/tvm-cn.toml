@@ -1,0 +1,7 @@
+name = "tvm-cn"
+description = "TVM Documentation in Chinese Simplified / TVM 中文文档"
+category = "other"
+website = "https://tvm.hyper.ai"
+open_source = true
+repository = "https://github.com/hyperai/tvm-cn"
+added = 2026-10-27

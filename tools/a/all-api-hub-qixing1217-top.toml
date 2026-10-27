@@ -1,0 +1,7 @@
+name = "首页"
+description = "一个开源的浏览器插件，旨在优化管理New API等AI中转站账号的体验。用户可以轻松集中管理和查看账户余额、模型及密钥，并自动添加新站点"
+category = "coding"
+website = "https://all-api-hub.qixing1217.top"
+open_source = true
+repository = "https://github.com/qixing-jk/all-api-hub"
+added = 2026-10-27

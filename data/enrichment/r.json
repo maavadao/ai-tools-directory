@@ -1,4 +1,13 @@
 {
+"radar": {
+"checked": "2026-10-27",
+"image": "https://radarhq.io/radar/opengraph-image.png?opengraph-image.3l_-r9z9qry3g.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://radarhq.io/pricing"
+}
+},
 "ragflow": {
 "checked": "2026-10-23",
 "image": "https://ragflow.io/img/ragflow-social-card.png",
@@ -12,6 +21,14 @@
 "rakazo": {
 "checked": "2026-10-26",
 "image": "https://rakazo.com/og-image.png"
+},
+"rapid-mlx": {
+"checked": "2026-10-27",
+"image": "https://rapidmlx.com/og.png"
+},
+"rath": {
+"checked": "2026-10-27",
+"image": "https://kanaries.net/assets/kanaries-slice.svg"
 },
 "raven": {
 "checked": "2026-10-26"
@@ -71,6 +88,9 @@
 "redirecting-to-https-sonnet-readthedocs-io": {
 "checked": "2026-10-25"
 },
+"redirecting-to-structuredlabs-com": {
+"checked": "2026-10-27"
+},
 "reef": {
 "checked": "2026-10-26"
 },
@@ -85,6 +105,10 @@
 "remove-bg": {
 "checked": "2026-10-23",
 "image": "https://sb.kaleidousercontent.com/67418/600x315/48eb30a742/emilia-og-image.jpg"
+},
+"replica-skill": {
+"checked": "2026-10-27",
+"image": "https://opusjake.ai/OpusJake-Cover.png"
 },
 "replicate": {
 "checked": "2026-10-23"
@@ -124,6 +148,9 @@
 "url": "https://www.resollm.ai/pricing/"
 }
 },
+"restricted-domain": {
+"checked": "2026-10-27"
+},
 "resume-matcher": {
 "checked": "2026-10-24",
 "image": "https://resumematcher.fyi/images/meta/og-image.jpg"
@@ -148,6 +175,9 @@
 "rig": {
 "checked": "2026-10-25"
 },
+"rikkahub": {
+"checked": "2026-10-27"
+},
 "rill-browser": {
 "checked": "2026-10-23",
 "image": "https://rill.love/assets/og-image.png"
@@ -164,6 +194,13 @@
 "from": 5.0,
 "url": "https://rivet.dev/pricing/"
 }
+},
+"rivet-ironcladapp-com": {
+"checked": "2026-10-27",
+"image": "https://rivet.ironcladapp.com/img/social-card.png"
+},
+"rlcard-showdown": {
+"checked": "2026-10-27"
 },
 "robotgo": {
 "checked": "2026-10-25"
@@ -185,6 +222,10 @@
 "rtk": {
 "checked": "2026-10-23",
 "image": "https://www.rtk-ai.app/og-image.png"
+},
+"rubyllm": {
+"checked": "2026-10-27",
+"image": "https://rubyllm.com/assets/images/social/index.png"
 },
 "rufus": {
 "checked": "2026-10-23"

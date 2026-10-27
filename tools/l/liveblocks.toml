@@ -1,0 +1,7 @@
+name = "liveblocks"
+description = "Liveblocks provides the infrastructure to handle concurrent edits on shared data, so people and AI agents can collaborate without breaking your app."
+category = "agents"
+website = "https://liveblocks.io"
+open_source = true
+repository = "https://github.com/liveblocks/liveblocks"
+added = 2026-10-27

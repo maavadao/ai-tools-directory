@@ -1,0 +1,7 @@
+name = "OpenKnowledge"
+description = "Beautiful, AI-native markdown editor for humans and agents. Build knowledge bases, LLM wikis, and agent 2nd brains."
+category = "chatbots"
+website = "https://openknowledge.ai"
+open_source = true
+repository = "https://github.com/inkeep/open-knowledge"
+added = 2026-10-27

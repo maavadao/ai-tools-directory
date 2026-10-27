@@ -1,0 +1,7 @@
+name = "Excel MCP Server"
+description = "Let Claude, Cursor, VS Code and other AI clients create and edit Excel files: charts, PivotTables, slicers, formulas and large sheets. Free, open source, no Excel required."
+category = "chatbots"
+website = "https://excelmcpserver.com"
+open_source = true
+repository = "https://github.com/haris-musa/excel-mcp-server"
+added = 2026-10-27

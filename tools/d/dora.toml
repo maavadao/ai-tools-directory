@@ -1,0 +1,7 @@
+name = "dora"
+description = "Build dataflows in YAML, run nodes in Rust/Python/C/C++. Zero-copy shared memory, four communication patterns, built-in fault tolerance, record/replay, and cluster management."
+category = "other"
+website = "https://dora-rs.ai"
+open_source = true
+repository = "https://github.com/dora-rs/dora"
+added = 2026-10-27

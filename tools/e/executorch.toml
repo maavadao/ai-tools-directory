@@ -1,0 +1,7 @@
+name = "ExecuTorch"
+description = "PyTorch's unified solution for on-device AI. Deploy LLMs, vision, and speech models from smartphones to microcontrollers with 50KB runtime and 12+ hardware backends."
+category = "other"
+website = "https://executorch.ai"
+open_source = true
+repository = "https://github.com/pytorch/executorch"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "Aurelio AI"
+description = "NLP, LLM, Vector Search - Consultancy and Development"
+category = "chatbots"
+website = "https://www.aurelio.ai"
+open_source = true
+repository = "https://github.com/aurelio-labs/semantic-router"
+added = 2026-10-27

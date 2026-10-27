@@ -1,0 +1,7 @@
+name = "Login"
+description = "Implement a reasoning LLM in PyTorch from scratch, step by step"
+category = "education"
+website = "https://login.manning.com"
+open_source = true
+repository = "https://github.com/rasbt/reasoning-from-scratch"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "Tom Moroney"
+description = "Software engineer from Dublin working on backend security, developer tooling, AI-assisted documentation, and creator-focused video tools. Currently at Workday."
+category = "audio"
+website = "https://tom-moroney.com"
+open_source = true
+repository = "https://github.com/tmoroney/auto-subs"
+added = 2026-10-27

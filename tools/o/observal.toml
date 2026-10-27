@@ -1,0 +1,7 @@
+name = "Observal"
+description = "Self-hosted registry for Skills, MCPs, hooks and Agents, with an insight engine built in. Works with Claude Code, Codex, Cursor, Kiro, Copilot, Goose, OpenCode, Pi and Antigravity."
+category = "agents"
+website = "https://observal.io"
+open_source = true
+repository = "https://github.com/Observal/Observal"
+added = 2026-10-27

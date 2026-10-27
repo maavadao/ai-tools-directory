@@ -1,4 +1,8 @@
 {
+"h2o-ai": {
+"checked": "2026-10-27",
+"image": "https://assets.h2o.ai/f/295428656829522/eb61b15d43/og-image-home-d6f277bb90.png"
+},
 "h4cker": {
 "checked": "2026-10-24"
 },
@@ -12,6 +16,10 @@
 },
 "hands-on-large-language-models": {
 "checked": "2026-10-24"
+},
+"handsy-ai": {
+"checked": "2026-10-27",
+"image": "https://handsy.tech/og/handsy.png"
 },
 "happy-engineering": {
 "checked": "2026-10-25",
@@ -164,6 +172,10 @@
 "checked": "2026-10-23",
 "image": "https://www.hubspot.com/hubfs/assets/hubspot.com/homepage/hero-backgrounds-2025/HS_Full_Bleed_1.jpg"
 },
+"hugedomains": {
+"checked": "2026-10-27",
+"image": "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png"
+},
 "hugging-face": {
 "checked": "2026-10-23",
 "image": "https://huggingface.co/front/thumbnails/v2-2.png",
@@ -203,6 +215,10 @@
 "checked": "2026-10-25",
 "image": "https://hunk.dev/og.png"
 },
+"hunter-zhang": {
+"checked": "2026-10-27",
+"image": "https://huaizheng.xyz/opengraph-image.jpg?08cbfb4bd54383b5"
+},
 "hunyuanvideo": {
 "checked": "2026-10-25",
 "image": "https://aivideo.hunyuan.tencent.com/public/static/logo/favicon.png"
@@ -210,6 +226,10 @@
 "hyperframes": {
 "checked": "2026-10-23",
 "image": "https://www.hyperframes.dev/og-studio-redesign-2026-10.png"
+},
+"hyperresearch": {
+"checked": "2026-10-27",
+"image": "https://hyperresearch.ai/og/default.png"
 },
 "hypit-ai": {
 "checked": "2026-10-25",

@@ -1,0 +1,7 @@
+name = "playwriter"
+description = "Control your real Chrome browser with Playwright from an agent, CLI, or MCP server. Keep logins, cookies, and extensions. No headless Chrome."
+category = "other"
+website = "https://playwriter.dev"
+open_source = true
+repository = "https://github.com/remorses/playwriter"
+added = 2026-10-27

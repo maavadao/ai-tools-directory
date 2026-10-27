@@ -1,0 +1,7 @@
+name = "latitude-llm"
+description = "Open-source AI agent monitoring platform. Full observability into what's failing in production. Discover underlying issues, get alerts when something breaks and verify your fix worked."
+category = "other"
+website = "https://latitude.so"
+open_source = true
+repository = "https://github.com/latitude-dev/latitude-llm"
+added = 2026-10-27

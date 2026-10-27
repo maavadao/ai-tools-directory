@@ -1,0 +1,7 @@
+name = "AIPOCH"
+description = "AIPOCH builds the open-source harness for scientific research: a model-agnostic Open-Science workbench and a growing library of audited medical research agent skills."
+category = "other"
+website = "https://aipoch.com"
+open_source = true
+repository = "https://github.com/aipoch/open-science"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "OpenScience"
+description = "OpenScience is the open-source AI co-scientist. Free models included or connect any model from any provider, including Claude, GPT, Gemini and more."
+category = "chatbots"
+website = "https://www.openscience.sh"
+open_source = true
+repository = "https://github.com/synthetic-sciences/openscience"
+added = 2026-10-27

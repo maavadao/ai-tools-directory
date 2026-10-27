@@ -1,0 +1,7 @@
+name = "BehaviorTree.CPP"
+description = "The leading C++ BehaviorTree Library."
+category = "other"
+website = "https://behaviortree.dev"
+open_source = true
+repository = "https://github.com/BehaviorTree/BehaviorTree.CPP"
+added = 2026-10-27

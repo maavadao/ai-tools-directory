@@ -1,0 +1,7 @@
+name = "replica-skill"
+description = "I build AI agents that do the work of a full team, and teach you how to build your own. Free playbooks, the Opus Lab community with a live call every week, and calls that start with whether it is worth building."
+category = "agents"
+website = "https://opusjake.ai"
+open_source = true
+repository = "https://github.com/Jakeschincariol/replica-skill"
+added = 2026-10-27

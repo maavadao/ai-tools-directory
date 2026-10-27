@@ -1,0 +1,7 @@
+name = "designlang"
+description = "designlang is the open-source design extractor that turns any URL into a complete design system in seconds. A free, MIT-licensed alternative to design-extractor.com — same DESIGN.md output, no signup, scriptable CLI, plus W3C DTCG tokens (primitive · semantic · composite), Tailwind config, CSS vari…"
+category = "other"
+website = "https://www.designlang.app"
+open_source = true
+repository = "https://github.com/Manavarya09/design-extract"
+added = 2026-10-27

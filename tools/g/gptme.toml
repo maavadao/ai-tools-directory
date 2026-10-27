@@ -1,0 +1,7 @@
+name = "gptme"
+description = "gptme is an open-source AI agent that lives in your terminal. Bring Claude, GPT, Gemini, Grok, DeepSeek, or a local model."
+category = "coding"
+website = "https://gptme.org"
+open_source = true
+repository = "https://github.com/gptme/gptme"
+added = 2026-10-27

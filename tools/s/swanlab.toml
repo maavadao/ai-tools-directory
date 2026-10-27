@@ -1,0 +1,7 @@
+name = "SwanLab"
+description = "SwanLab面向AI训练过程，为开发者提供了训练可视化、自动日志记录、超参数记录、实验对比、多人协同等一系列专业工具，提高研发团队的模型研发效率，打破沟通壁垒。"
+category = "data"
+website = "https://swanlab.cn"
+open_source = true
+repository = "https://github.com/SwanHubX/SwanLab"
+added = 2026-10-27

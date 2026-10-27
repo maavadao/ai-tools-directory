@@ -1,0 +1,7 @@
+name = "PilotDeck"
+description = "PilotDeck 2.0，开源的 AI Agent 工作台。一句话交付任务成果。"
+category = "agents"
+website = "https://pilotdeck.openbmb.cn"
+open_source = true
+repository = "https://github.com/OpenBMB/PilotDeck"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "Learn_Prompting"
+description = "Learn Prompting is the largest and most comprehensive course in prompt engineering available on the internet, with over 60 content modules, translated into 9 languages, and a thriving community."
+category = "chatbots"
+website = "https://learnprompting.org"
+open_source = true
+repository = "https://github.com/trigaten/Learn_Prompting"
+added = 2026-10-27

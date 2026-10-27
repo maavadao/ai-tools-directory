@@ -1,0 +1,7 @@
+name = "OpenHealth"
+description = "OpenHealth"
+category = "chatbots"
+website = "https://www.open-health.me"
+open_source = true
+repository = "https://github.com/OpenHealthForAll/open-health"
+added = 2026-10-27

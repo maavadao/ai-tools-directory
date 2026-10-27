@@ -1,0 +1,7 @@
+name = "dagu"
+description = "Local-first workflow orchestration in declarative YAML. One open-source binary with schedules, retries, human tasks, logs, and a Web UI. No database, no framework. Airflow alternative."
+category = "other"
+website = "https://dagu.sh"
+open_source = true
+repository = "https://github.com/dagucloud/dagu"
+added = 2026-10-27

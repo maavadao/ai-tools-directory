@@ -1,0 +1,7 @@
+name = "LLPlayer"
+description = "The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!"
+category = "audio"
+website = "https://llplayer.com"
+open_source = true
+repository = "https://github.com/umlx5h/LLPlayer"
+added = 2026-10-27

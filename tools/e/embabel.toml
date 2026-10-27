@@ -1,0 +1,7 @@
+name = "Embabel"
+description = "Agentic AI for the JVM"
+category = "agents"
+website = "https://hub.embabel.com"
+open_source = true
+repository = "https://github.com/embabel/embabel-agent"
+added = 2026-10-27

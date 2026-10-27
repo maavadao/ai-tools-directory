@@ -2,6 +2,10 @@
 "kag": {
 "checked": "2026-10-25"
 },
+"kagent": {
+"checked": "2026-10-27",
+"image": "https://kagent.dev/opengraph-image.png?opengraph-image.0lubuk61483bf.png"
+},
 "kaggle-solutions": {
 "checked": "2026-10-26",
 "image": "https://kaggle.farid.one/images/logo.png"
@@ -24,6 +28,10 @@
 "checked": "2026-10-25",
 "image": "https://kedro.org/images/kedro-social-image.png"
 },
+"kelivo": {
+"checked": "2026-10-27",
+"image": "https://kelivo.psycheas.top/og.jpg"
+},
 "kestra": {
 "checked": "2026-10-24",
 "image": "https://kestra.io/og-image.png"
@@ -35,6 +43,10 @@
 "khoj": {
 "checked": "2026-10-23",
 "image": "https://khoj.dev/social-banner.jpg"
+},
+"kiln-ai": {
+"checked": "2026-10-27",
+"image": "https://kiln.tech/images/kiln_social.png"
 },
 "kilocode": {
 "checked": "2026-10-24",
@@ -49,12 +61,26 @@
 "kirara-ai": {
 "checked": "2026-10-24"
 },
+"kirocrew": {
+"checked": "2026-10-27",
+"image": "https://kiro.dev/images/opengraph/home.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"trial": true,
+"url": "https://kiro.dev/pricing/"
+}
+},
 "klavis-ai": {
 "checked": "2026-10-26"
 },
 "klingai": {
 "checked": "2026-10-23",
 "image": "https://s16-kling.klingai.com/kos/s101/nlav112918/kling-web/kling-logo-payment-en.png"
+},
+"knp-labs": {
+"checked": "2026-10-27"
 },
 "kodlo": {
 "checked": "2026-10-23",

@@ -1,0 +1,7 @@
+name = "X-CMD"
+description = "Shell superpowers for AI agents. X-CMD (X Command) is a modern toolkit for POSIX Shell (bash, zsh, ash, dash)—designed to make Shell as powerful as Python's standard library. Works with Clawdbot, Claude Code; 100+ modules and 1000+ CLI tools in seconds."
+category = "agents"
+website = "https://www.x-cmd.com"
+open_source = true
+repository = "https://github.com/x-cmd/x-cmd"
+added = 2026-10-27

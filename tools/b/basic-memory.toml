@@ -1,0 +1,7 @@
+name = "Basic Memory"
+description = "One knowledge base for you, your AI tools, and your team. Your chats, docs, decisions, and research, connected in a living knowledge graph. Plain Markdown you control. Open source, MCP-native, works with every AI."
+category = "chatbots"
+website = "https://basicmemory.com"
+open_source = true
+repository = "https://github.com/basicmachines-co/basic-memory"
+added = 2026-10-27

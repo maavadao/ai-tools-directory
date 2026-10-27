@@ -1,0 +1,7 @@
+name = "Open Intelligent UI"
+description = "Answers you can interact with. Open source, built with CopilotKit."
+category = "coding"
+website = "https://opengenerativeui.copilotkit.ai"
+open_source = true
+repository = "https://github.com/CopilotKit/OpenIntelligentUI"
+added = 2026-10-27

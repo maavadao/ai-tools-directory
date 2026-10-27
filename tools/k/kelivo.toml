@@ -1,0 +1,7 @@
+name = "kelivo"
+description = "开源、本地优先的 AI 助手与 Agent 客户端。多模型聊天，加上工作区、终端、沙盒、技能、MCP、定时任务和 Android 手机控制。支持 Android、iOS、鸿蒙与桌面。"
+category = "chatbots"
+website = "https://kelivo.psycheas.top"
+open_source = true
+repository = "https://github.com/Chevey339/kelivo"
+added = 2026-10-27

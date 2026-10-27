@@ -1,4 +1,7 @@
 {
+"gaianet-node": {
+"checked": "2026-10-27"
+},
 "gauth": {
 "checked": "2026-10-23",
 "image": "https://sf16-ehi-tos.gauthstatic.com/obj/ehi-apk-sg/share-link-preview.png"
@@ -35,6 +38,9 @@
 "checked": "2026-10-26",
 "image": "https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w1200/2025/08/A-black-and-white--low-angle-digital-illustration-in-a-symbolic-traditional-tattoo-art-style.--A-bald--light-skinned-man-with-a-bushy-beard--prominent-eyebrows--and-a-friendly-expression-wears-denim-overalls--2--3.jpg"
 },
+"geoflow": {
+"checked": "2026-10-27"
+},
 "getdesign-md": {
 "checked": "2026-10-23",
 "image": "https://getdesign.md/api/og/default?v=2"
@@ -45,6 +51,10 @@
 "ghost-ai": {
 "checked": "2026-10-23",
 "image": "https://ghost.ai/opengraph-image.jpg?opengraph-image.13anp_69f8ba9.jpg"
+},
+"gibberlink": {
+"checked": "2026-10-27",
+"image": "https://gbrl.ai/social_sharing.png"
 },
 "gitdiagram": {
 "checked": "2026-10-24",
@@ -71,6 +81,9 @@
 "gitmcp": {
 "checked": "2026-10-25",
 "image": "https://gitmcp.io/img/OG.png"
+},
+"gluonts-documentation": {
+"checked": "2026-10-27"
 },
 "go-micro": {
 "checked": "2026-10-24"
@@ -100,6 +113,9 @@
 "checked": "2026-10-25",
 "image": "https://gorse.io/img/dashboard/overview.png"
 },
+"gpt-image-playground": {
+"checked": "2026-10-27"
+},
 "gpt-image2-prompt-gallery": {
 "checked": "2026-10-25"
 },
@@ -114,6 +130,10 @@
 "free": true,
 "url": "https://gptr.dev/pricing"
 }
+},
+"gptme": {
+"checked": "2026-10-27",
+"image": "https://gptme.org/media/logo.png"
 },
 "gpustack": {
 "checked": "2026-10-26",

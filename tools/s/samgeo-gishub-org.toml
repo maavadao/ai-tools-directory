@@ -1,0 +1,7 @@
+name = "Home"
+description = "A Python package for segmenting geospatial data with the Segment Anything Model (SAM)"
+category = "other"
+website = "https://samgeo.gishub.org"
+open_source = true
+repository = "https://github.com/opengeos/segment-geospatial"
+added = 2026-10-27

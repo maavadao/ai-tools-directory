@@ -1,0 +1,7 @@
+name = "marqo"
+description = "AI-native search, recommendations, and merchandising trained on your catalog. Marqo delivers $130M+ in proven revenue for enterprise retailers."
+category = "other"
+website = "https://marqo.ai"
+open_source = true
+repository = "https://github.com/marqo-ai/marqo"
+added = 2026-10-27

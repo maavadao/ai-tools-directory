@@ -2,9 +2,23 @@
 "maaassistantarknights": {
 "checked": "2026-10-24"
 },
+"maaframework": {
+"checked": "2026-10-27",
+"image": "https://maafw.com/maafw.png"
+},
 "machine-learning-systems": {
 "checked": "2026-10-24",
 "image": "https://mlsysbook.ai/vol1/assets/images/covers/cover-hardcover-book-vol1.png"
+},
+"macro": {
+"checked": "2026-10-27",
+"image": "https://macro.com/og/home-unified-2026-10-23.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 23.99,
+"url": "https://macro.com/pricing"
+}
 },
 "mage-ai": {
 "checked": "2026-10-25",
@@ -22,6 +36,10 @@
 },
 "magiclearn": {
 "checked": "2026-10-23"
+},
+"magicrew": {
+"checked": "2026-10-27",
+"image": "https://www.magicrew.ai/web/og-image.png"
 },
 "magicschool": {
 "checked": "2026-10-23",
@@ -87,6 +105,10 @@
 "checked": "2026-10-23",
 "image": "https://marketing-skills.com/opengraph-image?93f898d7f9bb3d56"
 },
+"marqo": {
+"checked": "2026-10-27",
+"image": "https://www.marqo.ai/assets/og/og-home.png"
+},
 "mastra": {
 "checked": "2026-10-24",
 "image": "https://mastra.ai/api/og/page?title=TypeScript%20AI%20Framework%20for%20Agents%20and%20Apps",
@@ -139,6 +161,9 @@
 "checked": "2026-10-26",
 "image": "https://personal-1d37018d.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=MCP+Atlassian&description=Connect+AI+assistants+to+Jira+and+Confluence+%E2%80%94+search%2C+create%2C+update+issues+and+pages+via+MCP&theme=e973f3b58f90d97797885a76&signature=f7e2063e7aa88b76b7388455f4054a468c300a860e97ab229af051fcec40d65d"
 },
+"mcp-c-sdk-documentation": {
+"checked": "2026-10-27"
+},
 "mcp-for-blender": {
 "checked": "2026-10-23"
 },
@@ -147,6 +172,10 @@
 },
 "mcp-typescript-sdk": {
 "checked": "2026-10-25"
+},
+"mcp-ui": {
+"checked": "2026-10-27",
+"image": "https://mcpui.dev/og-image.png"
 },
 "mcp-use": {
 "checked": "2026-10-25",
@@ -207,6 +236,15 @@
 "url": "https://mem0.ai/pricing"
 }
 },
+"memgraph": {
+"checked": "2026-10-27",
+"image": "https://memgraph.com/images/web/memgraph-web-ogimage.jpg",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://memgraph.com/pricing"
+}
+},
 "memori": {
 "checked": "2026-10-24",
 "image": "https://memorilabs.ai/og-image.png"
@@ -251,6 +289,10 @@
 "from": 20.0,
 "url": "https://atoms.dev/pricing"
 }
+},
+"metalbear": {
+"checked": "2026-10-27",
+"image": "https://metalbear.com/og-home.png"
 },
 "metaview": {
 "checked": "2026-10-23",
@@ -353,6 +395,9 @@
 "checked": "2026-10-26",
 "image": "https://mmf.sh/img/logo.png"
 },
+"mng-bz": {
+"checked": "2026-10-27"
+},
 "mobile-next": {
 "checked": "2026-10-25",
 "image": "https://mobilenext.ai/mobile-next-social-banner.png",
@@ -373,6 +418,10 @@
 "url": "https://mobilerun.ai/pricing/"
 }
 },
+"mockserver": {
+"checked": "2026-10-27",
+"image": "https://www.mock-server.com/images/social-card.png"
+},
 "model-context-protocol": {
 "checked": "2026-10-25",
 "image": "https://raw.githubusercontent.com/modelcontextprotocol/docs/2eb6171ddbfeefde349dc3b8d5e2b87414c26250/images/og-image.png"
@@ -389,6 +438,9 @@
 "trial": true,
 "url": "https://dagster.io/pricing"
 }
+},
+"monkeycode": {
+"checked": "2026-10-27"
 },
 "moondream": {
 "checked": "2026-10-25",

@@ -1,0 +1,7 @@
+name = "FrontierAgent"
+description = "The hardest problems have no existing answer. Apodex does the deep research to find one, and checks every step so you can trust the result."
+category = "agents"
+website = "https://www.apodex.ai"
+open_source = true
+repository = "https://github.com/ApodexAI/FrontierAgent"
+added = 2026-10-27

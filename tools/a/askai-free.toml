@@ -1,0 +1,7 @@
+name = "AskAI.free"
+description = "Describe the data you need in plain English and get the SQL query instantly. Free AI text to SQL converter for PostgreSQL, MySQL, SQLite, and more."
+category = "data"
+website = "https://askai.free"
+open_source = true
+repository = "https://github.com/whoiskatrin/sql-translator"
+added = 2026-10-27

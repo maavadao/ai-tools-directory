@@ -1,0 +1,7 @@
+name = "ArcBox"
+description = "ArcBox is the Agent Computer platform: a real, isolated operating system for every AI agent — a Computer it keeps, a Sandbox it throws away, or a Runner for each CI job — on Linux, Windows, macOS, iOS, and Android."
+category = "other"
+website = "https://arcbox.dev"
+open_source = true
+repository = "https://github.com/arcboxlabs/arcbox"
+added = 2026-10-27

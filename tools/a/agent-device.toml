@@ -1,0 +1,7 @@
+name = "agent-device"
+description = "Device automation CLI for AI agents. Real apps on iOS, Android, TV, and desktop. Token-efficient snapshots, semantic refs, evidence captured only when needed."
+category = "agents"
+website = "https://agent-device.dev"
+open_source = true
+repository = "https://github.com/callstack/agent-device"
+added = 2026-10-27

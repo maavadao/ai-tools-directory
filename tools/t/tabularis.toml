@@ -1,0 +1,7 @@
+name = "tabularis"
+description = "Open-source desktop database client with support for PostgreSQL, MySQL/MariaDB, and SQLite. Hackable with plugins, with notebooks, AI, and MCP built in."
+category = "other"
+website = "https://tabularis.dev"
+open_source = true
+repository = "https://github.com/TabularisDB/tabularis"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "Divergent Labs"
+description = "Guard-railed divergence defeats deterministic reasoning by big margins. N isolated branches, one critic pass, inspectable traces."
+category = "agents"
+website = "https://divergent.sh"
+open_source = true
+repository = "https://github.com/UditAkhourii/adhd"
+added = 2026-10-27

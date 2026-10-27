@@ -1,0 +1,7 @@
+name = "claude-devtools"
+description = "See everything it did — every file, tool call, and token. Free, open source, no setup."
+category = "coding"
+website = "https://claude-dev.tools"
+open_source = true
+repository = "https://github.com/matt1398/claude-devtools"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "gaianet-node"
+description = "Gaia is building an active, intelligent ecosystem that supports applications that learn, improve and grow over time."
+category = "chatbots"
+website = "https://www.gaianet.ai"
+open_source = true
+repository = "https://github.com/GaiaNet-AI/gaianet-node"
+added = 2026-10-27

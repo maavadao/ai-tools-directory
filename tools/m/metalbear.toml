@@ -1,0 +1,7 @@
+name = "MetalBear 🐻"
+description = "MetalBear builds mirrord for AI-powered teams. Run code against a real cluster from line one. 10× faster dev cycles, zero per-developer environment costs."
+category = "developer-platforms"
+website = "https://metalbear.com"
+open_source = true
+repository = "https://github.com/metalbear-co/mirrord"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "ChatUI"
+description = "服务于智能对话领域的设计和开发体系，助力智能对话机器人的构建"
+category = "chatbots"
+website = "https://chatui.io"
+open_source = true
+repository = "https://github.com/alibaba/ChatUI"
+added = 2026-10-27

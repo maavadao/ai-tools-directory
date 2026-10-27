@@ -1,0 +1,7 @@
+name = "GluonTS documentation"
+description = "Probabilistic time series modeling in Python"
+category = "other"
+website = "https://ts.gluon.ai"
+open_source = true
+repository = "https://github.com/awslabs/gluonts"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "Ultravox.ai"
+description = "Ultravox is a real-time voice AI infrastructure layer that powers fast, natural, and scalable voice agents."
+category = "audio"
+website = "https://www.ultravox.ai"
+open_source = true
+repository = "https://github.com/fixie-ai/ultravox"
+added = 2026-10-27

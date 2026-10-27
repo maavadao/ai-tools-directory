@@ -1,0 +1,7 @@
+name = "intuitem"
+description = "CISO Assistant: the #1 open source GRC platform — one-stop shop for cybersecurity teams. 200+ frameworks, 27 languages, Community + Pro editions."
+category = "other"
+website = "https://intuitem.com"
+open_source = true
+repository = "https://github.com/intuitem/ciso-assistant-community"
+added = 2026-10-27

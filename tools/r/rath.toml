@@ -1,0 +1,7 @@
+name = "RATH"
+description = "Augmented Analytic BI enhanced with AI and causal analysis"
+category = "data"
+website = "https://rath.kanaries.net"
+open_source = true
+repository = "https://github.com/Kanaries/Rath"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "Social Media Scraping API"
+description = "ScrapeCreators is a social media scraping API for developers. Get real-time data from TikTok, Instagram, YouTube, Facebook, X, and more."
+category = "other"
+website = "https://scrapecreators.com"
+open_source = true
+repository = "https://github.com/ScrapeCreators/social-media-research-skills"
+added = 2026-10-27

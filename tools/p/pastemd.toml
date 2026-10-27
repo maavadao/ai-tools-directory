@@ -1,0 +1,7 @@
+name = "PasteMD"
+description = "智能 Markdown 转换工具，让 AI 对话内容完美粘贴到 Word/WPS"
+category = "chatbots"
+website = "https://pastemd.richqaq.cn"
+open_source = true
+repository = "https://github.com/RICHQAQ/PasteMD"
+added = 2026-10-27

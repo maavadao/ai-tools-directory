@@ -1,0 +1,7 @@
+name = "ACI.dev"
+description = "A specialized applied AI lab delivering outcome automation for professional and financial services firms."
+category = "chatbots"
+website = "https://www.aci.dev"
+open_source = true
+repository = "https://github.com/aipotheosis-labs/aci"
+added = 2026-10-27

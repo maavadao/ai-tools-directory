@@ -1,0 +1,7 @@
+name = "AG2"
+description = "AG2 is the open-source Python framework for building, orchestrating, and scaling multi-agent AI systems. Production-ready agent orchestration from the creators of AutoGen."
+category = "chatbots"
+website = "https://www.ag2.ai"
+open_source = true
+repository = "https://github.com/ag2ai/ag2"
+added = 2026-10-27

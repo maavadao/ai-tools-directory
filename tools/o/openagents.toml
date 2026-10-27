@@ -1,0 +1,7 @@
+name = "OpenAgents"
+description = "Bring your people and agents into one workspace. Delegate work, coordinate reviews, and share results—with control over who can access what."
+category = "chatbots"
+website = "https://openagents.org"
+open_source = true
+repository = "https://github.com/openagents-org/openagents"
+added = 2026-10-27

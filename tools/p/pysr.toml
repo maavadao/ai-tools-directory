@@ -1,0 +1,7 @@
+name = "PySR"
+description = "Symbolic Learning in Python and Julia"
+category = "data"
+website = "https://pysr.ai"
+open_source = true
+repository = "https://github.com/astroautomata/PySR"
+added = 2026-10-27

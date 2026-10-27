@@ -1,0 +1,7 @@
+name = "archestra"
+description = "Enterprise MCP platform with security guardrails, compliance controls, and a curated catalog of 900+ evaluated Model Context Protocol servers for AI agents."
+category = "agents"
+website = "https://Archestra.AI"
+open_source = true
+repository = "https://github.com/archestra-ai/archestra"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "PyTorch-Ignite"
+description = "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently."
+category = "other"
+website = "https://pytorch-ignite.ai"
+open_source = true
+repository = "https://github.com/pytorch/ignite"
+added = 2026-10-27

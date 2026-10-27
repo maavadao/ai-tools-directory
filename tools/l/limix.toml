@@ -1,0 +1,7 @@
+name = "LimiX"
+description = "LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2609.17488"
+category = "other"
+website = "https://www.limix.ai"
+open_source = true
+repository = "https://github.com/limix-ldm-ai/LimiX"
+added = 2026-10-27

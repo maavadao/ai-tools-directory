@@ -1,0 +1,7 @@
+name = "LangWatch"
+description = "Trace, test, route and govern every LLM call in your company, from your own agents to the coding assistants your engineers use. Built for AI platform teams."
+category = "chatbots"
+website = "https://langwatch.ai"
+open_source = true
+repository = "https://github.com/langwatch/langwatch"
+added = 2026-10-27

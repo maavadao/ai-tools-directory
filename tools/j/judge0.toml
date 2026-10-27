@@ -1,0 +1,7 @@
+name = "judge0"
+description = "Open-source online code execution system | Secure sandboxed code execution for humans and AI | Competitive programming, E-learning, IDE, AI-agents"
+category = "agents"
+website = "https://judge0.com"
+open_source = true
+repository = "https://github.com/judge0/judge0"
+added = 2026-10-27

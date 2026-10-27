@@ -1,0 +1,7 @@
+name = "Handsy AI"
+description = "Plug a $7 ESP32 board into your iPhone and an AI can do tasks in your real apps for you, reading the screen and tapping, swiping and typing, with no jailbreak."
+category = "chatbots"
+website = "https://handsy.tech"
+open_source = true
+repository = "https://github.com/onehumanbeing/esp32-iphone-agent"
+added = 2026-10-27

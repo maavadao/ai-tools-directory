@@ -1,0 +1,7 @@
+name = "tau"
+description = "Taubyte is a fullstack workspace for developers and coding agents, moving software from local creation to production on infrastructure you control."
+category = "other"
+website = "https://taubyte.com"
+open_source = true
+repository = "https://github.com/taubyte/tau"
+added = 2026-10-27

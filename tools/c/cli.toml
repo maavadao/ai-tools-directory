@@ -1,0 +1,7 @@
+name = "cli"
+description = "Host code and agent sessions together on a fast, distributed Git network. Give your agents the context to understand, collaborate, and ship."
+category = "coding"
+website = "https://entire.com"
+open_source = true
+repository = "https://github.com/entireio/cli"
+added = 2026-10-27

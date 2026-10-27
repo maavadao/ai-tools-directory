@@ -1,0 +1,7 @@
+name = "memgraph"
+description = "The in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time analytics such as fraud detection. Cypher-compatible and free to start."
+category = "agents"
+website = "https://memgraph.com"
+open_source = true
+repository = "https://github.com/memgraph/memgraph"
+added = 2026-10-27

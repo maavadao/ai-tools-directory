@@ -1,0 +1,7 @@
+name = "H2O.ai"
+description = "H2O AI Cloud, the trusted Sovereign AI Platform. Run predictive, generative, and agentic AI on your own infrastructure, from the cloud to fully air-gapped."
+category = "chatbots"
+website = "https://h2o.ai"
+open_source = true
+repository = "https://github.com/h2oai/h2o-llmstudio"
+added = 2026-10-27

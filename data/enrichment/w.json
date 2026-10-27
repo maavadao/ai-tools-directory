@@ -32,6 +32,10 @@
 "url": "https://weaviate.io/pricing"
 }
 },
+"web-design-studio-london": {
+"checked": "2026-10-27",
+"image": "https://webdesignstudio.london/projects/1.png"
+},
 "webchatgpt": {
 "checked": "2026-10-26",
 "image": "https://www.webchatgpt.app/webchatgpt-social.png"
@@ -48,6 +52,9 @@
 },
 "webllm": {
 "checked": "2026-10-24"
+},
+"webots": {
+"checked": "2026-10-27"
 },
 "wechaty": {
 "checked": "2026-10-24",
@@ -100,5 +107,9 @@
 "writesonic": {
 "checked": "2026-10-23",
 "image": "https://writesonic.com/opengraph-image"
+},
+"wsl-manager": {
+"checked": "2026-10-27",
+"image": "https://wslmanager.com/img/screenshot2.png"
 }
 }

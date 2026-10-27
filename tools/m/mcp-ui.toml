@@ -1,0 +1,7 @@
+name = "MCP-UI"
+description = "Interactive UI for MCP - Build rich, dynamic interfaces with MCP-UI"
+category = "chatbots"
+website = "https://mcpui.dev"
+open_source = true
+repository = "https://github.com/MCP-UI-Org/mcp-ui"
+added = 2026-10-27

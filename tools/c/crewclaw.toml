@@ -1,0 +1,7 @@
+name = "CrewClaw"
+description = "Get a working AI employee for any role. Works on WhatsApp, Telegram, Slack & Discord. No setup required. Starting at $9."
+category = "productivity"
+website = "https://crewclaw.com"
+open_source = true
+repository = "https://github.com/mergisi/awesome-openclaw-agents"
+added = 2026-10-27

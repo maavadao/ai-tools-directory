@@ -1,0 +1,7 @@
+name = "Integuru"
+description = "Generate fast, reliable APIs for any platform. Built for reliability, low latency, and high throughput. No RPA. No browsers."
+category = "chatbots"
+website = "https://www.integuru.com"
+open_source = true
+repository = "https://github.com/Integuru-AI/Integuru"
+added = 2026-10-27

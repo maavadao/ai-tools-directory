@@ -52,9 +52,28 @@
 "url": "https://langfuse.com/pricing"
 }
 },
+"langwatch": {
+"checked": "2026-10-27",
+"image": "https://langwatch.ai/logo-white.png",
+"pricing": {
+"free": true,
+"url": "https://langwatch.ai/pricing"
+}
+},
 "latent-space": {
 "checked": "2026-10-26",
 "image": "https://latent.space/brand/social-home-v1.jpg"
+},
+"latitude-llm": {
+"checked": "2026-10-27",
+"image": "https://latitude.so/images/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 99.0,
+"trial": true,
+"url": "https://latitude.so/pricing"
+}
 },
 "lavague": {
 "checked": "2026-10-26",
@@ -62,6 +81,9 @@
 },
 "learn-claude-code": {
 "checked": "2026-10-23"
+},
+"learn-prompting": {
+"checked": "2026-10-27"
 },
 "learnopencv": {
 "checked": "2026-10-24",
@@ -100,6 +122,10 @@
 "checked": "2026-10-23",
 "image": "https://www.librechat.ai/api/og?v=a40e77512dc1"
 },
+"lichtfeld-studio": {
+"checked": "2026-10-27",
+"image": "https://lichtfeld.io/static/social-preview.png"
+},
 "lifeos": {
 "checked": "2026-10-24",
 "image": "https://ourlifeos.ai/og/home.jpg"
@@ -114,6 +140,9 @@
 "url": "https://lightning.ai/pricing/"
 }
 },
+"limix": {
+"checked": "2026-10-27"
+},
 "lindy": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/69a20da89a23a65ce1b211c3_3ca1c8cedd19958a4fa76e3387d064a2_Lindy%20OG.jpg",
@@ -124,9 +153,23 @@
 "url": "https://www.lindy.ai/pricing"
 }
 },
+"linkedin-skills": {
+"checked": "2026-10-27",
+"image": "https://cccrafts.ai/images/ccc-logo.png"
+},
 "litellm": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/69eb241da3f923869c226875/6abea2df3acf85b946e5ab7d_litellm-og-2026.png"
+},
+"liveblocks": {
+"checked": "2026-10-27",
+"image": "https://liveblocks.io/images/social-images/social-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 350.0,
+"url": "https://liveblocks.io/pricing"
+}
 },
 "llama-cpp": {
 "checked": "2026-10-23",
@@ -144,6 +187,13 @@
 },
 "llm": {
 "checked": "2026-10-25"
+},
+"llm-attacks": {
+"checked": "2026-10-27"
+},
+"llm-d": {
+"checked": "2026-10-27",
+"image": "https://llm-d.ai/img/llm-d-social-card.jpg"
 },
 "llm-gateway": {
 "checked": "2026-10-26",
@@ -166,8 +216,27 @@
 "checked": "2026-10-24",
 "image": "https://framerusercontent.com/assets/23wYSDFvfVgijx9jM1Roq3r1qHQ.png"
 },
+"llplayer": {
+"checked": "2026-10-27"
+},
+"lm-studio-bionic": {
+"checked": "2026-10-27",
+"image": "https://files.lmstudio.ai/bionic/lm-studio-bionic-og.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://lmstudio.ai/pricing"
+}
+},
 "lmcache": {
 "checked": "2026-10-25"
+},
+"lmms-lab": {
+"checked": "2026-10-27"
+},
+"lmql": {
+"checked": "2026-10-27"
 },
 "lobehub": {
 "checked": "2026-10-23",
@@ -190,6 +259,9 @@
 },
 "login": {
 "checked": "2026-10-26"
+},
+"lollms-webui": {
+"checked": "2026-10-27"
 },
 "lovable": {
 "checked": "2026-10-23",

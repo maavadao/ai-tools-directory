@@ -1,0 +1,7 @@
+name = "TradingMCP"
+description = "Ask the market in plain words: screeners, multi-timeframe analysis, backtests and charts drawn in the chat, for crypto, US and global stocks, forex and futures. Works in Claude, ChatGPT, Cursor and any MCP client. Open-source core; $9/month with a 14-day money-back guarantee."
+category = "other"
+website = "https://tradingmcp.ai"
+open_source = true
+repository = "https://github.com/atilaahmettaner/tradingview-mcp"
+added = 2026-10-27

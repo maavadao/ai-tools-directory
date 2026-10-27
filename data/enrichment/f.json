@@ -32,6 +32,10 @@
 "checked": "2026-10-26",
 "image": "https://faradaysec.com/wp-content/uploads/2025/08/faraday-post-featured-image-background.jpg"
 },
+"fast-agent": {
+"checked": "2026-10-27",
+"image": "https://fast-agent.ai/assets/social/index.png"
+},
 "fastapi-mcp": {
 "checked": "2026-10-25",
 "image": "https://tadata-a67d782f.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=Welcome+to+FastAPI-MCP%21&description=Expose+your+FastAPI+endpoints+as+Model+Context+Protocol+%28MCP%29+tools%2C+with+Auth%21&theme=3cd45186f5f01d3b5844570a&signature=57403da8369affe5e77bcc67a208020812dcae386e345dda409de805d0e15f4a"
@@ -162,6 +166,19 @@
 "fluidvoice": {
 "checked": "2026-10-25"
 },
+"flux": {
+"checked": "2026-10-27",
+"image": "https://fluxml.ai/assets/images/FluxGitHubPreview.png"
+},
+"flypython": {
+"checked": "2026-10-27",
+"image": "https://flypython.com/og-default.png",
+"pricing": {
+"currency": "USD",
+"from": 19.9,
+"url": "https://flypython.com/pricing"
+}
+},
 "flyte": {
 "checked": "2026-10-26",
 "image": "https://cdn.prod.website-files.com/690e2a44303093ad8549854b/69a8589a7e9f8f8da38aa412_Scale-Dragon.jpg"
@@ -173,6 +190,10 @@
 "forgecode": {
 "checked": "2026-10-26",
 "image": "https://forgecode.dev/shared/og/home.png?v=2"
+},
+"formkit": {
+"checked": "2026-10-27",
+"image": "https://formkit.com/__og-image__/static/og.png"
 },
 "fragments-by-e2b": {
 "checked": "2026-10-26"
@@ -192,6 +213,10 @@
 "front-end-checklist": {
 "checked": "2026-10-23",
 "image": "https://frontendchecklist.io/og-image.png"
+},
+"frontieragent": {
+"checked": "2026-10-27",
+"image": "https://www.apodex.ai/og/apodex-og-discovery.png"
 },
 "fuse": {
 "checked": "2026-10-23",

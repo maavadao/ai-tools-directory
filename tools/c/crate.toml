@@ -1,0 +1,7 @@
+name = "crate"
+description = "CrateDB is the European open-source database for real-time analytics on live operational data. Owned in Europe, deploy anywhere, now also on STACKIT."
+category = "other"
+website = "https://cratedb.com"
+open_source = true
+repository = "https://github.com/crate/crate"
+added = 2026-10-27

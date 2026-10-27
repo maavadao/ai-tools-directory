@@ -1,0 +1,7 @@
+name = "agentation"
+description = "The visual feedback tool for agents."
+category = "design"
+website = "https://www.agentation.com"
+open_source = true
+repository = "https://github.com/benjitaylor/agentation"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "Deep Learning Interviews"
+description = "Discover 'Deep Learning Interviews' by Shlomo Kashani, an essential resource for AI professionals and data scientists. Hundreds of fully solved job interview questions from key AI topics."
+category = "data"
+website = "https://interviews.ai"
+open_source = true
+repository = "https://github.com/BoltzmannEntropy/interviews.ai"
+added = 2026-10-27

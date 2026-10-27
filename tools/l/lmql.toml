@@ -1,0 +1,7 @@
+name = "lmql"
+description = "Language Model Query Language"
+category = "chatbots"
+website = "https://lmql.ai"
+open_source = true
+repository = "https://github.com/eth-sri/lmql"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "drake"
+description = "Drake (\"dragon\" in Middle English) is a C++ toolbox started by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab (CSAIL). The development team has now grown significantly, with core development led by the Toyota Research Institute. It is a collection of tools fo…"
+category = "other"
+website = "https://drake.mit.edu"
+open_source = true
+repository = "https://github.com/RobotLocomotion/drake"
+added = 2026-10-27

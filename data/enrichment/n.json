@@ -41,6 +41,9 @@
 "checked": "2026-10-23",
 "image": "https://nautilustrader.io/blog/preview.jpg"
 },
+"nav2-navigation-system": {
+"checked": "2026-10-27"
+},
 "navige": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/images/ksJspuSmGbfuts4VWMX3qQqUpSk.png"
@@ -56,6 +59,9 @@
 "url": "https://needle.app/pricing"
 }
 },
+"neo4j-graph-builder": {
+"checked": "2026-10-27"
+},
 "netbird": {
 "checked": "2026-10-24",
 "pricing": {
@@ -70,6 +76,9 @@
 },
 "netron": {
 "checked": "2026-10-23"
+},
+"neuralprophet": {
+"checked": "2026-10-27"
 },
 "new-api": {
 "checked": "2026-10-23",
@@ -96,6 +105,18 @@
 "pricing": {
 "free": true,
 "url": "https://nitrostack.ai/cloud/pricing"
+}
+},
+"nixtla": {
+"checked": "2026-10-27",
+"image": "https://nixtla.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=Nixtlaverse&theme=5bd4b1711390eb3650050fc9&signature=57613ae7ddc170696a142dd83d1e692469aeb091d055a5a96ca5a23eef86e20d"
+},
+"nixtla-io": {
+"checked": "2026-10-27",
+"image": "https://www.nixtla.io/opengraph-image",
+"pricing": {
+"trial": true,
+"url": "https://www.nixtla.io/book-a-free-trial?utm_source=website&amp;utm_medium=pricing_free_trial"
 }
 },
 "nlp-progress": {
@@ -150,6 +171,16 @@
 },
 "notegen": {
 "checked": "2026-10-25"
+},
+"notfair": {
+"checked": "2026-10-27",
+"image": "https://notfair.co/opengraph-image",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 10.0,
+"url": "https://notfair.co/pricing?nf_pricing_assignment_attempted=1"
+}
 },
 "notion": {
 "checked": "2026-10-23",

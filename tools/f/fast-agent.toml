@@ -1,0 +1,7 @@
+name = "fast-agent"
+description = "Code in the terminal. Build agents in Python. Connect your tools with MCP."
+category = "agents"
+website = "https://fast-agent.ai"
+open_source = true
+repository = "https://github.com/evalstate/fast-agent"
+added = 2026-10-27

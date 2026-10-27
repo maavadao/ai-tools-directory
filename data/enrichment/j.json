@@ -3,6 +3,10 @@
 "checked": "2026-10-26",
 "image": "https://jaaz.app/og-image.png"
 },
+"jabref": {
+"checked": "2026-10-27",
+"image": "https://www.jabref.org/assets/jabref-mainscreen.png"
+},
 "jan": {
 "checked": "2026-10-23",
 "image": "https://jan.ai/assets/images/general/og-image.png"
@@ -42,6 +46,10 @@
 "checked": "2026-10-24",
 "image": "https://jina.ai/og/page.png?title=Your+Search+Foundation%2C+Supercharged.&subtitle=Embeddings%2C+rerankers%2C+web+reader%2C+deepsearch%2C+small+language+models.+Search+AI+for+multilingual+and+multimodal+data."
 },
+"jinxiaoai-com": {
+"checked": "2026-10-27",
+"image": "https://jinxiaoai.com/images/og-default.webp"
+},
 "jockey-by-twelvelabs": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/images/HCQkFF3Rw3hgP3u68YqGAP4s.webp",
@@ -55,6 +63,15 @@
 "jscpd": {
 "checked": "2026-10-26",
 "image": "https://jscpd.dev/og.png"
+},
+"judge0": {
+"checked": "2026-10-27",
+"image": "https://judge0.com/assets/cover-image/judge0-cover.png",
+"pricing": {
+"currency": "EUR",
+"from": 27.0,
+"url": "https://judge0.com/"
+}
 },
 "julep-memory-store": {
 "checked": "2026-10-26"

@@ -1,0 +1,7 @@
+name = "WSL Manager"
+description = "One app for WSL distros on Windows and native Linux VMs on macOS. Move distros between drives, reclaim disk space, turn any Docker image into a distro, and let AI agents drive it all through an MCP server."
+category = "coding"
+website = "https://wslmanager.com"
+open_source = true
+repository = "https://github.com/bostrot/wslmanager"
+added = 2026-10-27

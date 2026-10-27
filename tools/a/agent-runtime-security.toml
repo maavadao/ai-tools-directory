@@ -1,0 +1,7 @@
+name = "Agent Runtime Security"
+description = "Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context."
+category = "other"
+website = "https://nono.sh"
+open_source = true
+repository = "https://github.com/nolabs-ai/nono"
+added = 2026-10-27

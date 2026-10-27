@@ -1,0 +1,7 @@
+name = "Command Code"
+description = "The coding agent that made open models work. Tool call repairs on every model, best in class token efficiency on read and shell tools, 99%+ cache hit rates, and taste-1, which learns your coding taste. 100K+ developers, 40K+ paid customers, 130T+ tokens served. A modern alternative to Claude Code,…"
+category = "agents"
+website = "https://commandcode.ai"
+open_source = true
+repository = "https://github.com/CommandCodeAI/command-code"
+added = 2026-10-27

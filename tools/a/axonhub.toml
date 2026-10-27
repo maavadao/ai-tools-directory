@@ -1,0 +1,7 @@
+name = "AxonHub"
+description = "AxonHub is a platform that enable AI agent developer to build their own AI agent."
+category = "coding"
+website = "https://axonhub.onrender.com"
+open_source = true
+repository = "https://github.com/looplj/axonhub"
+added = 2026-10-27

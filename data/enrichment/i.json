@@ -92,6 +92,16 @@
 "instructor": {
 "checked": "2026-10-24"
 },
+"integuru": {
+"checked": "2026-10-27",
+"image": "https://www.integuru.com/opengraph-image-20260525-v2",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 499.0,
+"url": "https://www.integuru.com"
+}
+},
 "intelligence-begins-with-memory": {
 "checked": "2026-10-25"
 },
@@ -112,6 +122,24 @@
 "interpretml": {
 "checked": "2026-10-26",
 "image": "https://interpret.ml/images/interpretml-meta-image.jpg"
+},
+"interview-coder": {
+"checked": "2026-10-27",
+"image": "https://www.interviewcoder.co/og/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 299.0,
+"trial": true,
+"url": "https://www.interviewcoder.co/"
+}
+},
+"intuitem": {
+"checked": "2026-10-27",
+"image": "https://intuitem.com/og/pages/index.png",
+"pricing": {
+"trial": true,
+"url": "https://intuitem.com/pricing"
+}
 },
 "invideo": {
 "checked": "2026-10-23",

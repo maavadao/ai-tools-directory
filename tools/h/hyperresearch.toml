@@ -1,0 +1,7 @@
+name = "hyperresearch"
+description = "Deep research reports with the evidence behind them: sources kept in your vault, data pulled from 40+ APIs, and every citation checked against its source."
+category = "research"
+website = "https://hyperresearch.ai"
+open_source = true
+repository = "https://github.com/jordan-gibbs/hyperresearch"
+added = 2026-10-27

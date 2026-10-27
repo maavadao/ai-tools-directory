@@ -1,0 +1,7 @@
+name = "browser-agent"
+description = "Magnitude is an open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. It's over 2x faster than Ollama."
+category = "agents"
+website = "https://magnitude.dev"
+open_source = true
+repository = "https://github.com/magnitudedev/browser-agent"
+added = 2026-10-27

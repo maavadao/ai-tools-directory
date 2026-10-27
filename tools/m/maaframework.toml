@@ -1,0 +1,7 @@
+name = "MaaFramework"
+description = "基于图像识别的自动化黑盒测试框架"
+category = "other"
+website = "https://maafw.com"
+open_source = true
+repository = "https://github.com/MaaXYZ/MaaFramework"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "kagent"
+description = "An open-source framework for DevOps and platform engineers to run AI agents in Kubernetes, automating complex operations and troubleshooting tasks."
+category = "agents"
+website = "https://kagent.dev"
+open_source = true
+repository = "https://github.com/kagent-dev/kagent"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "PINTO_model_zoo"
+description = "Qiitaは、エンジニアに関する知識を記録・共有するためのサービスです。 プログラミングに関するTips、ノウハウ、メモを簡単に記録 &amp; 公開することができます。"
+category = "other"
+website = "https://qiita.com"
+open_source = true
+repository = "https://github.com/PINTO0309/PINTO_model_zoo"
+added = 2026-10-27

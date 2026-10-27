@@ -1,0 +1,7 @@
+name = "cindy"
+description = "All your devices. One Cindy. Connect your computers and phone, access tasks, files and models, and take over with remote desktop. Charts and interactive answers, with no server to deploy."
+category = "coding"
+website = "https://cindy.app"
+open_source = true
+repository = "https://github.com/makecindy/cindy"
+added = 2026-10-27

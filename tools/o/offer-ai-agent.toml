@@ -1,0 +1,7 @@
+name = "拿个offer-AI Agent实战课"
+description = "Java程序员必备的项目实战学习，助力你在面试中拿个offer！"
+category = "chatbots"
+website = "https://nageoffer.com"
+open_source = true
+repository = "https://github.com/nageoffer/ragent"
+added = 2026-10-27

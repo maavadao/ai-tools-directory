@@ -1,0 +1,7 @@
+name = "Viper"
+description = "The AI Red Team Platform."
+category = "agents"
+website = "https://www.viperrtp.com"
+open_source = true
+repository = "https://github.com/FunnyWolf/Viper"
+added = 2026-10-27

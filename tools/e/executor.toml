@@ -1,0 +1,7 @@
+name = "executor"
+description = "Executor connects the tools you use to the agent you already use, through one MCP server. Then your agent can build whatever you need on top: custom tools, automations, storage, and interfaces."
+category = "other"
+website = "https://executor.sh"
+open_source = true
+repository = "https://github.com/UsefulSoftwareCo/executor"
+added = 2026-10-27

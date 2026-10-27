@@ -1,0 +1,7 @@
+name = "Awesome Open Source AI"
+description = "Awesome Open Source AI is a curated, regularly updated index of the best open-source AI projects, models, inference engines, agent frameworks, RAG tools, and ML infrastructure."
+category = "chatbots"
+website = "https://awesomeosai.com"
+open_source = true
+repository = "https://github.com/alvinreal/awesome-opensource-ai"
+added = 2026-10-27

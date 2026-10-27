@@ -1,0 +1,7 @@
+name = "sparrow"
+description = "Structured data extraction with local Vision AI"
+category = "chatbots"
+website = "https://sparrow.katanaml.io"
+open_source = true
+repository = "https://github.com/katanaml/sparrow"
+added = 2026-10-27

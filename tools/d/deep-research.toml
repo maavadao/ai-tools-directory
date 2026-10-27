@@ -1,0 +1,7 @@
+name = "Deep Research"
+description = "Use any LLMs (Large Language Models) for Deep Research."
+category = "other"
+website = "https://research.u14.app"
+open_source = true
+repository = "https://github.com/u14app/deep-research"
+added = 2026-10-27

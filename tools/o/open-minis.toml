@@ -1,0 +1,7 @@
+name = "Open Minis"
+description = "Open Minis is an on-device AI agent for iPhone, iPad, Mac, Vision Pro and Android. Browse the web, manage your schedule, control smart home, and automate tasks — all privately on your device."
+category = "agents"
+website = "https://openminis.app"
+open_source = true
+repository = "https://github.com/OpenMinis/OpenMinis"
+added = 2026-10-27

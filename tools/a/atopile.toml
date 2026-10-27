@@ -1,0 +1,7 @@
+name = "atopile"
+description = "atopile is the code-native electronics design platform. Build, validate, and ship hardware from one browser workspace."
+category = "agents"
+website = "https://atopile.io"
+open_source = true
+repository = "https://github.com/atopile/atopile"
+added = 2026-10-27

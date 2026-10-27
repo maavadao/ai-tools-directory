@@ -1,0 +1,7 @@
+name = "eko"
+description = "Browse, automate, and execute — Fellou is the world's first self-driving browser where AI doesn't just chat, it acts. Automate multi-step tasks across websites, analyze data, and get things done while you focus on what matters."
+category = "agents"
+website = "https://fellou.ai"
+open_source = true
+repository = "https://github.com/FellouAI/eko"
+added = 2026-10-27

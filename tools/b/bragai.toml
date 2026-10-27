@@ -1,0 +1,7 @@
+name = "BragAI"
+description = "BragAI turns your ideas into full-stack web apps, straight from your browser."
+category = "chatbots"
+website = "https://waitlist.bragai.dev"
+open_source = true
+repository = "https://github.com/bragai/bRAG-langchain"
+added = 2026-10-27

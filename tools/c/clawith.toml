@@ -1,0 +1,7 @@
+name = "Clawith"
+description = "Clawith is an open-source multi-agent collaboration platform where AI agents work together as a digital workforce."
+category = "chatbots"
+website = "https://www.clawith.ai"
+open_source = true
+repository = "https://github.com/dataelement/Clawith"
+added = 2026-10-27

@@ -1,0 +1,7 @@
+name = "RubyLLM"
+description = "Build and evaluate AI features in Ruby and Rails with chats, tools, agents, images, audio, and video across 19 providers."
+category = "chatbots"
+website = "https://rubyllm.com"
+open_source = true
+repository = "https://github.com/crmne/ruby_llm"
+added = 2026-10-27

@@ -2,6 +2,16 @@
 "x-anylabeling": {
 "checked": "2026-10-25"
 },
+"x-cmd": {
+"checked": "2026-10-27",
+"image": "https://www.x-cmd.com/icons/apple-touch-120x120.png",
+"pricing": {
+"currency": "USD",
+"from": 4.5,
+"trial": true,
+"url": "https://hub.x-cmd.com/pricing/"
+}
+},
 "xerj-ai": {
 "checked": "2026-10-25",
 "image": "https://xerj.org/og/xerj-card.png"
@@ -14,5 +24,9 @@
 },
 "xiaozhi-ai": {
 "checked": "2026-10-23"
+},
+"xoilac365": {
+"checked": "2026-10-27",
+"image": "https://cdn.bluecloudsolutions.com/2025/05/xoilac365-tv.png"
 }
 }

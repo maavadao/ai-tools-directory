@@ -1,0 +1,7 @@
+name = "PriceAI"
+description = "先看清 AI 订阅和 API 的购买路径，再进入卡网订阅、官方订阅、官方 API 或中转 API 比价。"
+category = "chatbots"
+website = "https://priceai.cc"
+open_source = true
+repository = "https://github.com/dimthink/PriceAI"
+added = 2026-10-27

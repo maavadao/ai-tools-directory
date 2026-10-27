@@ -1,0 +1,7 @@
+name = "LMMs-Lab"
+description = "Open multimodal AI research from LMMs-Lab on evaluation, benchmarks, lmms-eval, models, data, and systems."
+category = "other"
+website = "https://www.lmms-lab.com"
+open_source = true
+repository = "https://github.com/EvolvingLMMs-Lab/lmms-eval"
+added = 2026-10-27

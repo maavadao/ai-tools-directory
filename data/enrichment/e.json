@@ -7,6 +7,10 @@
 "url": "https://ecc.tools/pricing"
 }
 },
+"echo-loop": {
+"checked": "2026-10-27",
+"image": "https://www.echo-loop.top/og.png"
+},
 "eclatira": {
 "checked": "2026-10-23",
 "pricing": {
@@ -38,6 +42,9 @@
 },
 "ekko-studio": {
 "checked": "2026-10-25"
+},
+"eko": {
+"checked": "2026-10-27"
 },
 "electerm": {
 "checked": "2026-10-24",
@@ -74,6 +81,10 @@
 "eliza-research": {
 "checked": "2026-10-24",
 "image": "https://elizaresearch.ai/assets/og.png"
+},
+"embabel": {
+"checked": "2026-10-27",
+"image": "https://hub.embabel.com/og-image.png"
 },
 "emdash": {
 "checked": "2026-10-26",
@@ -116,7 +127,23 @@
 "url": "https://exa.ai/pricing"
 }
 },
+"excel-mcp-server": {
+"checked": "2026-10-27",
+"image": "https://excelmcpserver.com/og.png"
+},
 "excelize": {
 "checked": "2026-10-24"
+},
+"executor": {
+"checked": "2026-10-27",
+"image": "https://executor.sh/og-image.png",
+"pricing": {
+"trial": true,
+"url": "https://executor.sh/pricing"
+}
+},
+"executorch": {
+"checked": "2026-10-27",
+"image": "https://raw.githubusercontent.com/dbort/executorch-logos/main/img/executorch-chip-logo.svg"
 }
 }

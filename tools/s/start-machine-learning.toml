@@ -1,0 +1,7 @@
+name = "start-machine-learning"
+description = "Making AI accessible through practical AI engineering writing, videos, courses, and consulting."
+category = "education"
+website = "https://www.louisbouchard.ai"
+open_source = true
+repository = "https://github.com/louisfb01/start-machine-learning"
+added = 2026-10-27

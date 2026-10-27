@@ -1,0 +1,7 @@
+name = "Code-Graph-RAG"
+description = "An AI-powered codebase analysis tool that builds knowledge graphs from multi-language codebases using Tree-sitter parsing."
+category = "coding"
+website = "https://code-graph-rag.com"
+open_source = true
+repository = "https://github.com/vitali87/code-graph-rag"
+added = 2026-10-27

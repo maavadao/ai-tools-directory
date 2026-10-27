@@ -1,0 +1,7 @@
+name = "Diffusion Policy"
+description = "This paper introduces Diffusion Policy, a new way of generating robot behavior by representing a robot's visuomotor policy as a conditional denoising diffusion process. We benchmark Diffusion Policy across 12 different tasks from 4 different robot manipulation benchmarks and find that it consistent…"
+category = "other"
+website = "https://diffusion-policy.cs.columbia.edu"
+open_source = true
+repository = "https://github.com/real-stanford/diffusion_policy"
+added = 2026-10-27

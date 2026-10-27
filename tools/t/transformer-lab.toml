@@ -1,0 +1,7 @@
+name = "Transformer Lab"
+description = "Primus is the world's first fully autonomous AI researcher available to everyone. It hypothesizes, reads the literature, codes, runs experiments on real compute, draws conclusions, and writes the paper."
+category = "image"
+website = "https://lab.cloud"
+open_source = true
+repository = "https://github.com/transformerlab/transformerlab-app"
+added = 2026-10-27

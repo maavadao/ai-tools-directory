@@ -1,0 +1,7 @@
+name = "bottender"
+description = "A framework for building conversational user interfaces."
+category = "chatbots"
+website = "https://bottender.js.org"
+open_source = true
+repository = "https://github.com/Yoctol/bottender"
+added = 2026-10-27

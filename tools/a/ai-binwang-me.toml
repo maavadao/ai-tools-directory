@@ -1,0 +1,7 @@
+name = "王斌给您对对联 -_-!"
+description = "Play couplet with seq2seq model. 用深度学习对对联。"
+category = "other"
+website = "https://ai.binwang.me"
+open_source = true
+repository = "https://github.com/wb14123/seq2seq-couplet"
+added = 2026-10-27

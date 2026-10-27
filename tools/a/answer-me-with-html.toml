@@ -1,0 +1,7 @@
+name = "Answer me with HTML"
+description = "An agent skill for Claude Code, Codex, Cursor and more. The model writes a short Markdown draft; a bundled CLI turns it into one offline HTML page with diagrams. About 1/8 of the tokens."
+category = "other"
+website = "https://answer-me-with-html.com"
+open_source = true
+repository = "https://github.com/QingYunA/answer-me-with-html"
+added = 2026-10-27

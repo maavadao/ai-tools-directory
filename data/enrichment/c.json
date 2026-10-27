@@ -3,6 +3,10 @@
 "checked": "2026-10-24",
 "image": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2"
 },
+"cadam": {
+"checked": "2026-10-27",
+"image": "https://adam.new/marketing/shared/og/home-r4.png"
+},
 "camel-ai": {
 "checked": "2026-10-24",
 "image": "https://cdn.camel-ai.org/image/thumbnail.png"
@@ -17,6 +21,10 @@
 "career-ops": {
 "checked": "2026-10-23",
 "image": "https://career-ops.org/opengraph-image-czrkkh.jpg?opengraph-image.1tjhx6k9jjwvg.jpg"
+},
+"cascadeflow": {
+"checked": "2026-10-27",
+"image": "https://cdn.ploy.ai/85867475-b06b-4544-912d-701fb42e8c02/user/a567e070-ai-generated-1783581868108.png"
 },
 "casdoor": {
 "checked": "2026-10-24",
@@ -70,6 +78,9 @@
 "chat-aimakex-com": {
 "checked": "2026-10-25"
 },
+"chat-geekai-me": {
+"checked": "2026-10-27"
+},
 "chat2db": {
 "checked": "2026-10-24",
 "image": "https://cdn.chat2db-ai.com/website/img/social.png",
@@ -106,9 +117,15 @@
 "chattts-by-2noise": {
 "checked": "2026-10-23"
 },
+"chatui": {
+"checked": "2026-10-27"
+},
 "cherry-studio": {
 "checked": "2026-10-23",
 "image": "https://cherryai.com/assets/images/social-card.jpg"
+},
+"chip-huyen": {
+"checked": "2026-10-27"
 },
 "chroma": {
 "checked": "2026-10-24",
@@ -119,6 +136,19 @@
 "from": 250.0,
 "url": "https://www.trychroma.com/pricing"
 }
+},
+"cindy": {
+"checked": "2026-10-27",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 16.0,
+"url": "https://cindy.app/pricing"
+}
+},
+"clarity-ai": {
+"checked": "2026-10-27",
+"image": "https://clarityai.co/og-clarityai-2026-10.png"
 },
 "claude": {
 "checked": "2026-10-23"
@@ -144,6 +174,10 @@
 "claude-code-ultimate-guide": {
 "checked": "2026-10-26",
 "image": "https://cc.bruniaux.com/og-image.png"
+},
+"claude-devtools": {
+"checked": "2026-10-27",
+"image": "https://claude-dev.tools/opengraph-image?003cc826c15f19e1"
 },
 "claude-duet": {
 "checked": "2026-10-23",
@@ -183,6 +217,9 @@
 "clawd-on-desk": {
 "checked": "2026-10-26"
 },
+"clawith": {
+"checked": "2026-10-27"
+},
 "clawskills-sh": {
 "checked": "2026-10-23",
 "image": "https://clawskills.sh/api/og/default"
@@ -214,6 +251,10 @@
 "from": 15.0,
 "url": "https://clear.ml/pricing"
 }
+},
+"cli": {
+"checked": "2026-10-27",
+"image": "https://entire.com/images/og/home.png?v=13"
 },
 "cli-anything-hub": {
 "checked": "2026-10-23"
@@ -293,6 +334,10 @@
 "checked": "2026-10-23",
 "image": "https://sanity-images.imgix.net/production/6b46953798756d87bc1ad579a32d2af427ba6d3d-1200x628.png?w=&auto=format%2Ccompress"
 },
+"code-graph-rag": {
+"checked": "2026-10-27",
+"image": "https://code-graph-rag.com/images/og-image.png"
+},
 "code-review-graph": {
 "checked": "2026-10-23",
 "image": "https://code-review-graph.com/og-image.png"
@@ -320,6 +365,10 @@
 "codewhale": {
 "checked": "2026-10-23",
 "image": "https://codewhale.net/opengraph-image"
+},
+"codex-monitor": {
+"checked": "2026-10-27",
+"image": "https://www.codexmonitor.app/assets/main.png"
 },
 "codexbar": {
 "checked": "2026-10-24",
@@ -357,6 +406,15 @@
 "comma-ai": {
 "checked": "2026-10-23",
 "image": "https://comma.ai/og-comma-four.png"
+},
+"command-code": {
+"checked": "2026-10-27",
+"image": "https://commandcode.ai/cover.jpg",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"url": "https://commandcode.ai/pricing"
+}
 },
 "command-line": {
 "checked": "2026-10-23",
@@ -453,6 +511,10 @@
 "cortex": {
 "checked": "2026-10-26"
 },
+"costrict": {
+"checked": "2026-10-27",
+"image": "https://costrict.ai/og-image.png"
+},
 "countly-server": {
 "checked": "2026-10-26",
 "image": "https://cdn.prod.website-files.com/61c1b7c3e2f3805325be4594/668ce80fb93226b6ad88d718_d587926ef3277bc26935a28e68750dcb_Meta%20Tag-Countly.com.jpg",
@@ -466,6 +528,14 @@
 "cowagent": {
 "checked": "2026-10-23",
 "image": "https://cowagent.ai/logo/cow-logo.png"
+},
+"crate": {
+"checked": "2026-10-27",
+"image": "https://cratedb.com/hubfs/cr-featured-image-23.jpg",
+"pricing": {
+"free": true,
+"url": "https://cratedb.com/pricing"
+}
 },
 "crawl4ai": {
 "checked": "2026-10-23",
@@ -485,6 +555,15 @@
 "crewai": {
 "checked": "2026-10-23",
 "image": "https://images.ctfassets.net/rmv9a2eqdsyw/26ld4zbjbNkeg6KGxkyLXE/7d686ce386ed7eb61f3d0f1d3709949c/og-image__2_.png"
+},
+"crewclaw": {
+"checked": "2026-10-27",
+"image": "https://crewclaw.com/opengraph-image?93dc9922a3da0563",
+"pricing": {
+"currency": "USD",
+"from": 29.0,
+"url": "https://crewclaw.com/"
+}
 },
 "crucix": {
 "checked": "2026-10-25",
@@ -519,6 +598,10 @@
 "free": true,
 "url": "https://cuey.io/pricing"
 }
+},
+"cumora": {
+"checked": "2026-10-27",
+"image": "https://cumora.ai/assets/og-image.png"
 },
 "cursor": {
 "checked": "2026-10-23",

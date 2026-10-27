@@ -1,0 +1,7 @@
+name = "FlyPython"
+description = "Learn to ship Python with AI coding agents. Real projects. Your agent does the typing; verify.py decides when you're done. Free challenges, badges, and tracks — in English and Chinese."
+category = "education"
+website = "https://flypython.com"
+open_source = true
+repository = "https://github.com/flypythoncom/python"
+added = 2026-10-27

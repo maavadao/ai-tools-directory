@@ -1,0 +1,7 @@
+name = "Interview Coder"
+description = "AI Interview Assistant for Technical Interviews, designed specifically for LeetCode interviews. Get real-time coding assistance to enhance your performance."
+category = "education"
+website = "https://www.interviewcoder.co"
+open_source = true
+repository = "https://github.com/ibttf/interview-coder"
+added = 2026-10-27

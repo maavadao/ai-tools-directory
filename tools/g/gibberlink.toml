@@ -1,0 +1,7 @@
+name = "GibberLink"
+description = "AI-to-AI communication system using audio transmission for seamless machine conversation"
+category = "agents"
+website = "https://www.gbrl.ai"
+open_source = true
+repository = "https://github.com/PennyroyalTea/gibberlink"
+added = 2026-10-27

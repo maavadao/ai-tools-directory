@@ -2,12 +2,19 @@
 "obscura": {
 "checked": "2026-10-24"
 },
+"observal": {
+"checked": "2026-10-27",
+"image": "https://observal.io/og.jpg"
+},
 "octop": {
 "checked": "2026-10-25"
 },
 "odyssey-3": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/images/Ztmb5fzsBj2oaVgWRUqBnP4yRU.jpg"
+},
+"offer-ai-agent": {
+"checked": "2026-10-27"
 },
 "officialskills-sh": {
 "checked": "2026-10-23",
@@ -29,6 +36,10 @@
 "from": 108.0,
 "url": "https://okara.ai/pricing"
 }
+},
+"olares": {
+"checked": "2026-10-27",
+"image": "https://www.olares.com/olares-og.jpg"
 },
 "ollama": {
 "checked": "2026-10-23",
@@ -148,6 +159,13 @@
 "checked": "2026-10-23",
 "image": "https://muapi.ai/og-default.png"
 },
+"open-intelligent-ui": {
+"checked": "2026-10-27",
+"image": "https://opengenerativeui.copilotkit.ai/opengraph-image?5200fa994ddcca32"
+},
+"open-minis": {
+"checked": "2026-10-27"
+},
 "open-policy-agent": {
 "checked": "2026-10-25"
 },
@@ -172,6 +190,10 @@
 "checked": "2026-10-26",
 "image": "https://cdn.openagentai.org/img/openagent.png"
 },
+"openagents": {
+"checked": "2026-10-27",
+"image": "https://openagents.org/images/og/og-card.png"
+},
 "openai-api": {
 "checked": "2026-10-23",
 "image": "https://images.ctfassets.net/kftzwdyauwt9/2QkEfHzYEJhFvNWAkNolg5/264f9db2d3020b1ff65c12aa9c6632e0/API_Refresh_Art_Card_1920x108.png?w=1600&h=900&fit=fill"
@@ -187,6 +209,9 @@
 "openbot": {
 "checked": "2026-10-23",
 "image": "https://openbot.run/openbot-social.png"
+},
+"opencat-quadruped-robot": {
+"checked": "2026-10-27"
 },
 "openchamber": {
 "checked": "2026-10-25",
@@ -217,6 +242,9 @@
 "opencreator": {
 "checked": "2026-10-24",
 "image": "https://raw.githubusercontent.com/krillinai/OpenCreator/main/assets/opencreator-home-v2.png?v=5"
+},
+"opencsg": {
+"checked": "2026-10-27"
 },
 "opencursor": {
 "checked": "2026-10-26",
@@ -262,6 +290,13 @@
 "url": "https://www.openhands.dev/pricing"
 }
 },
+"openhealth": {
+"checked": "2026-10-27"
+},
+"openknowledge": {
+"checked": "2026-10-27",
+"image": "https://openknowledge.ai/marketing-assets/og"
+},
 "openllm": {
 "checked": "2026-10-25",
 "image": "https://admin.bentoml.com/uploads/bentoml_a77c421af1.png",
@@ -294,6 +329,10 @@
 "openmontage": {
 "checked": "2026-10-23",
 "image": "https://openmontage.video/og-card.png?v=creative-studio"
+},
+"openmoss": {
+"checked": "2026-10-27",
+"image": "https://openmoss.ai/assets/img/og-image.png"
 },
 "openmythos": {
 "checked": "2026-10-24",
@@ -331,6 +370,10 @@
 },
 "opensandbox": {
 "checked": "2026-10-24"
+},
+"openscience": {
+"checked": "2026-10-27",
+"image": "https://www.openscience.sh/og.jpg"
 },
 "openseo": {
 "checked": "2026-10-24",
@@ -399,6 +442,9 @@
 "url": "https://openworklabs.com/pricing"
 }
 },
+"opera-o-serenata-de-amor": {
+"checked": "2026-10-27"
+},
 "operit-ai": {
 "checked": "2026-10-25",
 "image": "https://operit.app/logo.png?v=2"
@@ -421,6 +467,10 @@
 "trial": true,
 "url": "https://www.opus.pro/pricing"
 }
+},
+"oracle": {
+"checked": "2026-10-27",
+"image": "https://askoracle.sh/social-card.png"
 },
 "orange-data-mining": {
 "checked": "2026-10-26",

@@ -1,0 +1,7 @@
+name = "DocETL"
+description = "Build complex document processing pipelines with large language models. Declaratively extract structured data, link entities, rank information and more with AI and LLMs. Built by the EPIC Data Lab at UC Berkeley."
+category = "chatbots"
+website = "https://www.docetl.org"
+open_source = true
+repository = "https://github.com/ucbepic/docetl"
+added = 2026-10-27

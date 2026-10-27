@@ -16,6 +16,10 @@
 "url": "https://www.tableau.com/pricing"
 }
 },
+"tabularis": {
+"checked": "2026-10-27",
+"image": "https://tabularis.dev/img/og.png"
+},
 "tambo-website": {
 "checked": "2026-10-25",
 "image": "https://tambo.co/opengraph-image.jpg?11260a68d402786d"
@@ -23,6 +27,10 @@
 "taste-skill": {
 "checked": "2026-10-23",
 "image": "https://www.tasteskill.dev/og-image.jpg"
+},
+"tau": {
+"checked": "2026-10-27",
+"image": "https://taubyte.com/screenshots/home-preview.png"
 },
 "taxhacker": {
 "checked": "2026-10-26"
@@ -45,6 +53,9 @@
 "checked": "2026-10-23",
 "image": "https://telegram.org/img/t_logo_2x.png"
 },
+"telegram-search": {
+"checked": "2026-10-27"
+},
 "ten-agent": {
 "checked": "2026-10-25"
 },
@@ -56,9 +67,25 @@
 "checked": "2026-10-23",
 "image": "https://www.tensorflow.org/static/images/tf_logo_social.png"
 },
+"tensoropera-ai": {
+"checked": "2026-10-27",
+"image": "https://tensoropera-static.becdn.net/images-webp/overview-TO.webp"
+},
+"tensorspace-js": {
+"checked": "2026-10-27"
+},
 "terax-ai": {
 "checked": "2026-10-25",
 "image": "https://terax.app/opengraph-image?454764f837731647"
+},
+"testsprite": {
+"checked": "2026-10-27",
+"image": "https://www.testsprite.com/framerusercontent/images/hMEbxGbRjpi0xFeUtHcSz6AT93c.png",
+"pricing": {
+"currency": "USD",
+"from": 39.0,
+"url": "https://www.testsprite.com/pricing"
+}
 },
 "text-to-cad": {
 "checked": "2026-10-24",
@@ -66,6 +93,10 @@
 },
 "tf-router": {
 "checked": "2026-10-24"
+},
+"the-ai-operator": {
+"checked": "2026-10-27",
+"image": "https://substackcdn.com/image/fetch/$s_!draq!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05cfa09d-6c44-40bb-8a54-1973247fc43c_500x500.png"
 },
 "the-crm-for-agents": {
 "checked": "2026-10-25"
@@ -84,6 +115,10 @@
 "three-ws": {
 "checked": "2026-10-26",
 "image": "https://three.ws/api/page-og?s=main&t=Home&d=The+three.ws+web+desktop%3A+a+taskbar%2C+Start+menu+and+windows+that+open+every+part+of+the+platform%2C+from+making+a+3D+agent+to+the+marketplace.&p=%2F"
+},
+"thunderbolt": {
+"checked": "2026-10-27",
+"image": "https://thunderbolt.io/social.png"
 },
 "tidb": {
 "checked": "2026-10-23",
@@ -139,6 +174,10 @@
 "checked": "2026-10-26",
 "image": "https://tokscale.ai/og-image.png?v=3"
 },
+"tom-moroney": {
+"checked": "2026-10-27",
+"image": "https://tom-moroney.com/social-preview.jpg"
+},
 "tooljet": {
 "checked": "2026-10-23",
 "image": "https://tooljet.com/images/tooljet-social.png",
@@ -155,8 +194,21 @@
 "topgo-skill-store": {
 "checked": "2026-10-25"
 },
+"torchgeo": {
+"checked": "2026-10-27",
+"image": "https://torchgeo.org/brand/seattle-s2.png"
+},
 "tradecatlabs": {
 "checked": "2026-10-25"
+},
+"tradingmcp": {
+"checked": "2026-10-27",
+"image": "https://tradingmcp.ai/og-image.png?v=4",
+"pricing": {
+"currency": "USD",
+"from": 9.0,
+"url": "https://tradingmcp.ai"
+}
 },
 "trae": {
 "checked": "2026-10-25",
@@ -169,6 +221,10 @@
 "free": true,
 "url": "https://trailhq.com/pricing"
 }
+},
+"transformer-lab": {
+"checked": "2026-10-27",
+"image": "https://lab.cloud/img/primus-social-card.png"
 },
 "treg": {
 "checked": "2026-10-26",
@@ -195,6 +251,9 @@
 "tuios": {
 "checked": "2026-10-26",
 "image": "https://tuios.dev/og/site/image.png"
+},
+"tvm-cn": {
+"checked": "2026-10-27"
 },
 "twinmind-for-desktop": {
 "checked": "2026-10-23",

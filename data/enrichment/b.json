@@ -31,6 +31,14 @@
 "url": "https://www.band.ai/pricing"
 }
 },
+"basic-memory": {
+"checked": "2026-10-27",
+"image": "https://basicmemory.com/_og/d/h_630,a_Basic+Memory+page+preview,c_BasicMemory,title_Basic+Memory,description_~T25lIGtub3dsZWRnZSBiYXNlIGZvciB5b3UsIHlvdXIgQUkgdG9vbHMsIGFuZCB5b3VyIHRlYW0uIFlvdXIgY2hhdHMsIGRvY3MsIGRlY2lzaW9ucywgYW5kIHJlc2VhcmNoLCBjb25uZWN0ZWQgaW4gYSBsaXZpbmcga25vd2xlZGdlIGdyYXBoLiBQbGFpbiBNYXJrZG93biB5b3UgY29udHJvbC4gT3BlbiBzb3VyY2UsIE1DUC1uYXRpdmUsIHdvcmtzIHdpdGggZXZlcnkgQUku,path_basicmemory.com,s_Fm3i-JgC9UMd1-88.png",
+"pricing": {
+"trial": true,
+"url": "https://basicmemory.com/pricing"
+}
+},
 "basic-pitch": {
 "checked": "2026-10-26"
 },
@@ -48,6 +56,9 @@
 "url": "https://beam.win/pricing/"
 }
 },
+"beatai": {
+"checked": "2026-10-27"
+},
 "beautiful": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/59deb588800ae30001ec19c9/679345319c7f2f3d2301228b_Open%20Graph_final.jpg",
@@ -56,6 +67,9 @@
 "trial": true,
 "url": "https://www.beautiful.ai/pricing"
 }
+},
+"behaviortree-cpp": {
+"checked": "2026-10-27"
 },
 "bibigpt": {
 "checked": "2026-10-26",
@@ -78,6 +92,10 @@
 "from": 9.0,
 "url": "https://big-agi.com/"
 }
+},
+"biomni": {
+"checked": "2026-10-27",
+"image": "https://biomni.stanford.edu/logo.png"
 },
 "bit-dev": {
 "checked": "2026-10-24",
@@ -135,6 +153,13 @@
 "url": "https://botpress.com/pricing"
 }
 },
+"bottender": {
+"checked": "2026-10-27",
+"image": "https://bottender.js.org/img/og-image.png"
+},
+"bragai": {
+"checked": "2026-10-27"
+},
 "brigade": {
 "checked": "2026-10-25",
 "image": "https://brigade.spinabot.com/opengraph-image?ffa252a9d4aab850"
@@ -147,6 +172,10 @@
 "from": 19.0,
 "url": "https://lightpanda.io/pricing"
 }
+},
+"browser-agent": {
+"checked": "2026-10-27",
+"image": "https://magnitude.dev/og-image.png"
 },
 "browser-use": {
 "checked": "2026-10-23",

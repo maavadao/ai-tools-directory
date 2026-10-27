@@ -1,0 +1,7 @@
+name = "CoStrict"
+description = "让 AI 进入真实研发流程，把个人效率转化为可复用、可治理的组织研发能力。"
+category = "coding"
+website = "https://costrict.ai"
+open_source = true
+repository = "https://github.com/zgsm-ai/costrict"
+added = 2026-10-27

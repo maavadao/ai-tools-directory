@@ -1,0 +1,7 @@
+name = "Nav2 Navigation System"
+description = "Open Navigation Index Page"
+category = "other"
+website = "https://nav2.org"
+open_source = true
+repository = "https://github.com/ros-navigation/navigation2"
+added = 2026-10-27

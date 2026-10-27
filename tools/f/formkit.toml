@@ -1,0 +1,7 @@
+name = "FormKit"
+description = "FormKit is the form framework for coding agents. Co-located validation, self-structuring data, composable inputs, and a compact single-component API help AI build complex forms in React and Vue without boilerplate or guesswork."
+category = "agents"
+website = "https://formkit.com"
+open_source = true
+repository = "https://github.com/formkit/formkit"
+added = 2026-10-27

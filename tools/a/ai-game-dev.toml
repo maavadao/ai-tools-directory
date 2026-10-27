@@ -1,0 +1,7 @@
+name = "AI Game Dev"
+description = "AI Skills, MCP Tools, and CLI for Game Engines. Unreal, Unity and Godot. Full AI develop and test loop. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free."
+category = "other"
+website = "https://ai-game.dev"
+open_source = true
+repository = "https://github.com/IvanMurzak/Unity-MCP"
+added = 2026-10-27

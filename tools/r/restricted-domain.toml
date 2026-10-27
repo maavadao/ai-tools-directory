@@ -1,0 +1,7 @@
+name = "Restricted Domain"
+description = "OpenChat: Advancing Open-source Language Models with Imperfect Data"
+category = "other"
+website = "https://openchat.team"
+open_source = true
+repository = "https://github.com/imoneoi/openchat"
+added = 2026-10-27

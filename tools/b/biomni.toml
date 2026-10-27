@@ -1,0 +1,7 @@
+name = "Biomni"
+description = "A general-purpose biomedical AI agent to automate biomedical research."
+category = "agents"
+website = "https://biomni.stanford.edu"
+open_source = true
+repository = "https://github.com/snap-stanford/Biomni"
+added = 2026-10-27

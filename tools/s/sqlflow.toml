@@ -1,0 +1,7 @@
+name = "sqlflow"
+description = "Brings SQL and AI together."
+category = "other"
+website = "https://sql-machine-learning.github.io"
+open_source = true
+repository = "https://github.com/sql-machine-learning/sqlflow"
+added = 2026-10-27

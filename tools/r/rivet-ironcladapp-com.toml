@@ -1,0 +1,7 @@
+name = "rivet"
+description = "An open-source AI programming environment using a visual, node-based graph editor"
+category = "chatbots"
+website = "https://rivet.ironcladapp.com"
+open_source = true
+repository = "https://github.com/Ironclad/rivet"
+added = 2026-10-27

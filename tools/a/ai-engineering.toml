@@ -1,0 +1,7 @@
+name = "AI Engineering"
+description = "Step-by-step tutorials on building LLM apps and AI Agents"
+category = "agents"
+website = "https://aiengineering.beehiiv.com"
+open_source = true
+repository = "https://github.com/Sumanth077/Hands-On-AI-Engineering"
+added = 2026-10-27

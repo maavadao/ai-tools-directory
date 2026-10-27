@@ -1,0 +1,7 @@
+name = "porcupine"
+description = "Production-grade on-device AI SDKs for voice, language, and vision. STT, wake word, TTS, translation, OCR, and more. Runs on mobile, web, desktop, and embedded."
+category = "audio"
+website = "https://picovoice.ai"
+open_source = true
+repository = "https://github.com/Picovoice/porcupine"
+added = 2026-10-27

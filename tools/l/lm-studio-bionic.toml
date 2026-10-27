@@ -1,0 +1,7 @@
+name = "LM Studio Bionic"
+description = "Bionic is LM Studio's agent for work and code. Create documents, slides, PDFs, and software with local or frontier open models."
+category = "chatbots"
+website = "https://lmstudio.ai"
+open_source = true
+repository = "https://github.com/lmstudio-ai/lms"
+added = 2026-10-27

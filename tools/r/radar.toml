@@ -1,0 +1,7 @@
+name = "Radar"
+description = "Open-source Kubernetes UI with a built-in MCP server for AI agents. Diagnose Issues, understand Applications, and trace topology, events, GitOps, and traffic."
+category = "other"
+website = "https://radarhq.io"
+open_source = true
+repository = "https://github.com/skyhook-io/radar"
+added = 2026-10-27

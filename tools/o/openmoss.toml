@@ -1,0 +1,7 @@
+name = "OpenMOSS"
+description = "An open research team from the Shanghai Innovation Institute, Fudan University NLP Lab, and MOSI Intelligence — building open-source large language, speech, and multimodal models toward general AI."
+category = "audio"
+website = "https://openmoss.ai"
+open_source = true
+repository = "https://github.com/OpenMOSS/MOSS-TTS-Nano"
+added = 2026-10-27

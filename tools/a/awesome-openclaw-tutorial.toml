@@ -1,0 +1,7 @@
+name = "Awesome OpenClaw Tutorial"
+description = "从零开始玩转 OpenClaw：最全面的中文教程"
+category = "agents"
+website = "https://awesome.tryopenclaw.asia"
+open_source = true
+repository = "https://github.com/xianyu110/awesome-openclaw-tutorial"
+added = 2026-10-27

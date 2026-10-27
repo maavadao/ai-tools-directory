@@ -1,0 +1,7 @@
+name = "金销智服"
+description = "金销智服是金销数据(深圳)有限公司推出的电商 AI 数字员工。它在你自己的店铺子账号上接待客户，商品问题自己答，退款催付尺码这些场景交给对应的 Agent，拿不准的转人工并把上下文一起递过去。售后申诉、订单备注、地址修改、自动挽单等应用按需开通，覆盖拼多多、抖店、淘宝千牛、京东。"
+category = "chatbots"
+website = "https://jinxiaoai.com"
+open_source = true
+repository = "https://github.com/cs-lazy-tools/ChatGPT-On-CS"
+added = 2026-10-27

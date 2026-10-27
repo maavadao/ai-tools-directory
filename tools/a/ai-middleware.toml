@@ -1,0 +1,7 @@
+name = "AI middleware"
+description = "A bio-inspired cognitive memory engine — a new paradigm for Graph RAG."
+category = "chatbots"
+website = "https://flowelement.ai"
+open_source = true
+repository = "https://github.com/FlowElement-xinliuyuansu/m_flow"
+added = 2026-10-27

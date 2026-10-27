@@ -1,0 +1,7 @@
+name = "peon-ping"
+description = "Sound notifications for any AI agent — hooks for Claude Code, Cursor, Codex & more, plus an MCP server so the agent can choose its own sounds."
+category = "coding"
+website = "https://www.peonping.com"
+open_source = true
+repository = "https://github.com/PeonPing/peon-ping"
+added = 2026-10-27

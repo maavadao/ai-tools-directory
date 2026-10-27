@@ -1,0 +1,7 @@
+name = "LichtFeld Studio"
+description = "Free, open-source 3D Gaussian Splatting (3DGS) software. Train, edit, and render Gaussian Splats locally on your GPU — Python plugins, MCP, Windows & Linux."
+category = "other"
+website = "https://lichtfeld.io"
+open_source = true
+repository = "https://github.com/MrNeRF/LichtFeld-Studio"
+added = 2026-10-27

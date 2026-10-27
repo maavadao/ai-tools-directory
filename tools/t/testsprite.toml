@@ -1,0 +1,7 @@
+name = "TestSprite"
+description = "You changed the code — did anything break? TestSprite is an agentic testing tool that writes end-to-end tests, runs them on your app after every change, and tells you exactly what broke. Works from the CLI, your IDE via MCP, CI, or the browser. Open-source CLI, free tier included."
+category = "other"
+website = "https://www.testsprite.com"
+open_source = true
+repository = "https://github.com/TestSprite/testsprite-cli"
+added = 2026-10-27

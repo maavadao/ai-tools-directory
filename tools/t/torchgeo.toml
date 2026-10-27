@@ -1,0 +1,7 @@
+name = "TorchGeo"
+description = "TorchGeo is a PyTorch domain library for satellite and aerial imagery — datasets, samplers, transforms, and pretrained models for geospatial machine learning."
+category = "other"
+website = "https://torchgeo.org"
+open_source = true
+repository = "https://github.com/torchgeo/torchgeo"
+added = 2026-10-27

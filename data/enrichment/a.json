@@ -6,6 +6,10 @@
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/6279c9d10eb860662e5ec006/665f41408181f8fdda5f1e7e_abridge-opengraph-home.webp"
 },
+"aci-dev": {
+"checked": "2026-10-27",
+"image": "https://raw.githubusercontent.com/aipotheosis-labs/aipolabs-icons/refs/heads/main/meta/meta.png"
+},
 "acl-anthology": {
 "checked": "2026-10-26"
 },
@@ -37,6 +41,10 @@
 "checked": "2026-10-26",
 "image": "https://www.adrianbulat.com/user/themes/asgard3/images/me.jpg"
 },
+"ag2": {
+"checked": "2026-10-27",
+"image": "https://www.ag2.ai/og"
+},
 "agency-orchestrator": {
 "checked": "2026-10-25",
 "image": "https://ao.aiolaola.com/og-image.png"
@@ -56,6 +64,10 @@
 "checked": "2026-10-25",
 "image": "https://adk.dev/assets/adk-social-card.png"
 },
+"agent-device": {
+"checked": "2026-10-27",
+"image": "https://agent-device.dev/og-image.jpg"
+},
 "agent-hunt": {
 "checked": "2026-10-23",
 "image": "https://monid.ai/share-card.png"
@@ -64,9 +76,17 @@
 "checked": "2026-10-26",
 "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F9ff332b274a147229544c2bf5877a10d"
 },
+"agent-runtime-security": {
+"checked": "2026-10-27",
+"image": "https://nono.sh/opengraph-image?a5311c0003070d65"
+},
 "agent-s": {
 "checked": "2026-10-25",
 "image": "https://cdn.prod.website-files.com/666c58d71e64e2eb5bdf950b/6aa873794bc3db772b5daa8e_Codex%20Image%20Sep%2014%2C%202026%2C%2003_18_57%20PM.png"
+},
+"agent-sandbox": {
+"checked": "2026-10-27",
+"image": "https://agent-sandbox.sigs.k8s.io/featured-background.webp"
 },
 "agent-skills": {
 "checked": "2026-10-23",
@@ -83,6 +103,10 @@
 "agent-zero": {
 "checked": "2026-10-24",
 "image": "https://www.agent-zero.ai/res/og.png"
+},
+"agentation": {
+"checked": "2026-10-27",
+"image": "https://agentation.com/og-image.png"
 },
 "agentdesk": {
 "checked": "2026-10-26"
@@ -140,6 +164,9 @@
 "checked": "2026-10-24",
 "image": "https://ai.codefather.cn/logo.png"
 },
+"ai-binwang-me": {
+"checked": "2026-10-27"
+},
 "ai-collection": {
 "checked": "2026-10-25",
 "image": "https://thataicollection.com/img/images/thumbnail.jpeg"
@@ -152,9 +179,27 @@
 "url": "https://aiengineer.co"
 }
 },
+"ai-engineering": {
+"checked": "2026-10-27",
+"image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/thumbnail/ee0aaff6-3e4e-4900-88b4-a9b4a51ee2d6/landscape_Black_and_Green_Modern_General_Manager_LinkedIn_Banner__1584_x_630_px_.png"
+},
 "ai-engineering-from-scratch": {
 "checked": "2026-10-23",
 "image": "https://aiengineeringfromscratch.com/og/page/home.png?v=2a478f3e4210"
+},
+"ai-game-dev": {
+"checked": "2026-10-27",
+"image": "https://ai-game.dev/og/home.jpg?v=29201c04bcfc"
+},
+"ai-middleware": {
+"checked": "2026-10-27"
+},
+"ai-native-database-for-llm": {
+"checked": "2026-10-27",
+"image": "https://infiniflow.org/img/infinity-social-card.png"
+},
+"ai-poster-design": {
+"checked": "2026-10-27"
 },
 "ai-roadmap": {
 "checked": "2026-10-23",
@@ -176,6 +221,9 @@
 },
 "ai-trader": {
 "checked": "2026-10-24"
+},
+"ai4finance-foundation": {
+"checked": "2026-10-27"
 },
 "aiclient-2-api": {
 "checked": "2026-10-25"
@@ -210,6 +258,10 @@
 "aionui": {
 "checked": "2026-10-23"
 },
+"aipoch": {
+"checked": "2026-10-27",
+"image": "https://statics.aipoch.com/public/f/image/og-science-open-to-all-ab128c94.png"
+},
 "airbyte": {
 "checked": "2026-10-24",
 "image": "https://airbyte.com/images/opengraph-infrastructure-platform-data-ai.png",
@@ -227,6 +279,9 @@
 "checked": "2026-10-24",
 "image": "https://aitoearn.ai/og-image.png"
 },
+"all-api-hub-qixing1217-top": {
+"checked": "2026-10-27"
+},
 "andrej-karpathy": {
 "checked": "2026-10-24"
 },
@@ -237,6 +292,14 @@
 "annyang": {
 "checked": "2026-10-26",
 "image": "https://www.talater.com/annyang/images/icon_speech.png"
+},
+"answer-me-with-html": {
+"checked": "2026-10-27",
+"image": "https://answer-me-with-html.com/images/text-vs-page.png"
+},
+"ant-design-x": {
+"checked": "2026-10-27",
+"image": "https://mdn.alipayobjects.com/huamei_lkxviz/afts/img/MGdkQ6iLuXEAAAAAQDAAAAgADtFMAQFr/original"
 },
 "antislop": {
 "checked": "2026-10-26",
@@ -288,6 +351,18 @@
 "checked": "2026-10-23",
 "image": "https://applyingml.com/default-og-image.png"
 },
+"arcbox": {
+"checked": "2026-10-27",
+"image": "https://arcbox.dev/opengraph-image-1jdwle.png?opengraph-image.3_xizob8kj3jz.png",
+"pricing": {
+"free": true,
+"url": "https://arcbox.dev/pricing"
+}
+},
+"archestra": {
+"checked": "2026-10-27",
+"image": "https://archestra.ai/logo.png"
+},
 "archify": {
 "checked": "2026-10-23",
 "image": "https://archify.si/assets/archify-social-preview.png"
@@ -333,6 +408,20 @@
 "url": "https://www.articos.com/pricing"
 }
 },
+"artificial-intelligence-deep-learning-machine-learning-tutorials": {
+"checked": "2026-10-27"
+},
+"askai-free": {
+"checked": "2026-10-27",
+"image": "https://askai.free/static/og/og-home.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 50.0,
+"trial": true,
+"url": "https://askai.free/pricing"
+}
+},
 "assemblyai": {
 "checked": "2026-10-23",
 "image": "https://www.assemblyai.com/_aai/images/meta/og-default.jpg",
@@ -362,6 +451,13 @@
 "from": 20.0,
 "url": "https://www.tryatlas.cc"
 }
+},
+"atopile": {
+"checked": "2026-10-27"
+},
+"aurelio-ai": {
+"checked": "2026-10-27",
+"image": "https://www.aurelio.ai/images/og2.png"
 },
 "autoclaw": {
 "checked": "2026-10-24",
@@ -403,6 +499,10 @@
 "checked": "2026-10-25",
 "image": "https://autoware.org/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-01-at-19.01.16.jpeg"
 },
+"awarexone": {
+"checked": "2026-10-27",
+"image": "https://www.awarexone.com/og-image.jpg?v=2"
+},
 "awesome-ai-painting": {
 "checked": "2026-10-25",
 "image": "https://cdn.goenhance.ai/images/static/sites/20240718-000924.jpeg"
@@ -416,6 +516,16 @@
 },
 "awesome-mlops": {
 "checked": "2026-10-24"
+},
+"awesome-open-source-ai": {
+"checked": "2026-10-27",
+"image": "https://awesomeosai.com/og-image.png"
+},
+"awesome-openclaw-tutorial": {
+"checked": "2026-10-27"
+},
+"axonhub": {
+"checked": "2026-10-27"
 },
 "ayven": {
 "checked": "2026-10-23",

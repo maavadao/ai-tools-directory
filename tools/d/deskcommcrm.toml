@@ -1,0 +1,7 @@
+name = "DeskcommCRM"
+description = "Agentes de IA atendem no WhatsApp, qualificam o lead e movem o funil — com tudo registrado e auditável. No seu servidor, sem mensalidade por usuário. Open source, licença MIT."
+category = "sales-marketing"
+website = "https://www.deskcomm.com.br"
+open_source = true
+repository = "https://github.com/melgarafael/DeskcommCRM"
+added = 2026-10-27
