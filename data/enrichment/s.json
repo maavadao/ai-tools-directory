@@ -41,6 +41,9 @@
 "url": "https://screenpipe.com/onboarding"
 }
 },
+"scriberr-ecosystem": {
+"checked": "2026-10-28"
+},
 "sealos": {
 "checked": "2026-10-24",
 "image": "https://sealos.io/api/og",
@@ -55,6 +58,9 @@
 "sebastian-raschka-phd": {
 "checked": "2026-10-27",
 "image": "https://sebastianraschka.com/images/logos/hero.webp"
+},
+"seekdb": {
+"checked": "2026-10-28"
 },
 "semantic-kernel": {
 "checked": "2026-10-24",
@@ -71,6 +77,15 @@
 "sentence-transformers": {
 "checked": "2026-10-24"
 },
+"sentrux": {
+"checked": "2026-10-28",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 15.0,
+"url": "https://sentrux.dev/docs/pro/"
+}
+},
 "seth-hobson": {
 "checked": "2026-10-23",
 "image": "https://sethhobson.com/og-image.png"
@@ -82,6 +97,17 @@
 "shannon": {
 "checked": "2026-10-23",
 "image": "https://keygraph.io/public/og-image.png"
+},
+"shipswift": {
+"checked": "2026-10-28",
+"image": "https://shipswift.app/og-image.jpg"
+},
+"sie": {
+"checked": "2026-10-28",
+"image": "https://superlinked.com/og/home.png"
+},
+"signals-forwardfuture-com": {
+"checked": "2026-10-28"
 },
 "signoz": {
 "checked": "2026-10-23",
@@ -154,9 +180,21 @@
 "checked": "2026-10-27",
 "image": "https://scrapecreators.com/og-image-2026.png"
 },
+"socraticode-cloud": {
+"checked": "2026-10-28",
+"image": "https://socraticode.cloud/socraticode_logo.png",
+"pricing": {
+"currency": "USD",
+"from": 8.0,
+"url": "https://socraticode.cloud"
+}
+},
 "soup-cli": {
 "checked": "2026-10-25",
 "image": "https://trysoup.dev/opengraph-image?249851e5188a5dd8"
+},
+"source-robotics": {
+"checked": "2026-10-28"
 },
 "sourcegraph": {
 "checked": "2026-10-23",
@@ -249,6 +287,10 @@
 "url": "https://steel.dev/pricing"
 }
 },
+"stemroller": {
+"checked": "2026-10-28",
+"image": "https://www.stemroller.com/img/og-image.png"
+},
 "streamdown": {
 "checked": "2026-10-26",
 "image": "https://streamdown.ai/opengraph-image.png?opengraph-image.2ovlx8nlo00e8.png",
@@ -273,6 +315,9 @@
 "url": "https://www.strix.ai/pricing"
 }
 },
+"stylegan2-pytorch": {
+"checked": "2026-10-28"
+},
 "summarize": {
 "checked": "2026-10-26",
 "image": "https://summarize.sh/social-card.png"
@@ -294,6 +339,9 @@
 "free": true,
 "url": "https://suno.com"
 }
+},
+"suno-api": {
+"checked": "2026-10-28"
 },
 "supabase": {
 "checked": "2026-10-23",
@@ -385,6 +433,10 @@
 "swanlab": {
 "checked": "2026-10-27"
 },
+"swarmpit": {
+"checked": "2026-10-28",
+"image": "https://swarmpit.io/img/background.jpg"
+},
 "swe-agent-com": {
 "checked": "2026-10-24"
 },
@@ -393,6 +445,10 @@
 },
 "swe-list": {
 "checked": "2026-10-23"
+},
+"swirl-ai": {
+"checked": "2026-10-28",
+"image": "https://swirlaiconnect.com/images/og-swirl5.png"
 },
 "synthesia": {
 "checked": "2026-10-23",

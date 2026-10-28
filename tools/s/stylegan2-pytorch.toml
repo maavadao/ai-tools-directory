@@ -1,0 +1,7 @@
+name = "stylegan2-pytorch"
+description = "Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement"
+category = "other"
+website = "https://thispersondoesnotexist.com"
+open_source = true
+repository = "https://github.com/lucidrains/stylegan2-pytorch"
+added = 2026-10-28

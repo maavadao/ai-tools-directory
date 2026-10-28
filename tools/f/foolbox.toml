@@ -1,0 +1,7 @@
+name = "foolbox"
+description = "A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX"
+category = "other"
+website = "https://foolbox.jonasrauber.de"
+open_source = true
+repository = "https://github.com/bethgelab/foolbox"
+added = 2026-10-28

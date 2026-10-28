@@ -22,6 +22,10 @@
 "wasp": {
 "checked": "2026-10-24"
 },
+"waymo-open-dataset": {
+"checked": "2026-10-28",
+"image": "https://lh3.googleusercontent.com/bnfvXFtZDG0u6Pen-d7RGFIOWMXGHG7xyeqyzvcN9NiulLwWN6HZfN5lwc2LxgLzGBweXalEZ0dB8dgQlCvPwQV5rWss9tm0Ui4"
+},
 "weaviate": {
 "checked": "2026-10-24",
 "image": "https://weaviate.io/og/website/home.jpg",
@@ -56,6 +60,9 @@
 "webots": {
 "checked": "2026-10-27"
 },
+"webplotdigitizer": {
+"checked": "2026-10-28"
+},
 "wechaty": {
 "checked": "2026-10-24",
 "image": "https://wechaty.js.org/img/wechaty-logo.svg"
@@ -72,6 +79,9 @@
 },
 "welcome-to-imbalanced-learn-documentation": {
 "checked": "2026-10-26"
+},
+"weld": {
+"checked": "2026-10-28"
 },
 "wigolo": {
 "checked": "2026-10-26",
@@ -96,6 +106,14 @@
 "url": "https://www.wordtune.com/plans"
 }
 },
+"workbuddy": {
+"checked": "2026-10-28",
+"image": "https://workbuddy.homes/og/workbuddy-guide.png"
+},
+"workspace-mcp": {
+"checked": "2026-10-28",
+"image": "https://workspacemcp.com/og-cover.png"
+},
 "worktrunk": {
 "checked": "2026-10-25",
 "image": "https://worktrunk.dev/assets/social/social-card.png"
@@ -103,6 +121,9 @@
 "world-monitor": {
 "checked": "2026-10-23",
 "image": "https://www.worldmonitor.app/favico/og-image.png"
+},
+"wppconnect": {
+"checked": "2026-10-28"
 },
 "writesonic": {
 "checked": "2026-10-23",

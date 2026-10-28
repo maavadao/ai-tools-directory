@@ -1,0 +1,7 @@
+name = "GoClaw"
+description = "GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety."
+category = "chatbots"
+website = "https://goclaw.sh"
+open_source = true
+repository = "https://github.com/nextlevelbuilder/goclaw"
+added = 2026-10-28

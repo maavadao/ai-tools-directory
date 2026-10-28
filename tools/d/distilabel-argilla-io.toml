@@ -1,0 +1,7 @@
+name = "Redirecting"
+description = "Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers."
+category = "other"
+website = "https://distilabel.argilla.io"
+open_source = true
+repository = "https://github.com/argilla-io/distilabel"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "moltis"
+description = "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Slack, Matrix, Nostr, Teams, and MCP tools. Secure by design, runs on your hardware."
+category = "chatbots"
+website = "https://moltis.org"
+open_source = true
+repository = "https://github.com/moltis-org/moltis"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "Notion Avatar Maker"
+description = "A Notion hand-drawn style avatar maker tool that supports customizing facial features, hairstyles, glasses, beards, and accessories to generate unique personal avatars with one click. Perfect for Notion, GitHub, Twitter, and other social platforms, ideal for team collaboration and personal branding…"
+category = "image"
+website = "https://notion-avatar.app"
+open_source = true
+repository = "https://github.com/Mayandev/notion-avatar"
+added = 2026-10-28

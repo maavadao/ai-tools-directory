@@ -1,0 +1,7 @@
+name = "CyberStrike"
+description = "Open-source, AI-augmented pentesting that proves every finding exploitable before you see it. An all-in-one offensive security platform."
+category = "agents"
+website = "https://cyberstrike.io"
+open_source = true
+repository = "https://github.com/CyberStrikeus/CyberStrike"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "ALLWEONE"
+description = "Describe a topic and get a finished deck in seconds. Edit every slide by hand or by asking, match your brand, and export a real PowerPoint file. Free and open source."
+category = "design"
+website = "https://presentation.allweone.com"
+open_source = true
+repository = "https://github.com/allweonedev/presentation-ai"
+added = 2026-10-28

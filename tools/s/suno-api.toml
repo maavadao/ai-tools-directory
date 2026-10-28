@@ -1,0 +1,7 @@
+name = "suno api"
+description = "Use API to call the music generation ai of suno.ai"
+category = "audio"
+website = "https://suno.gcui.ai"
+open_source = true
+repository = "https://github.com/gcui-art/suno-api"
+added = 2026-10-28

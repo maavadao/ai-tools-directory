@@ -1,0 +1,7 @@
+name = "AnyCrawl"
+description = "Transform any website into structured, clean data optimized for AI and large language models. Enterprise-grade web scraping API."
+category = "research"
+website = "https://anycrawl.dev"
+open_source = true
+repository = "https://github.com/any4ai/AnyCrawl"
+added = 2026-10-28

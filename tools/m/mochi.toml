@@ -1,0 +1,7 @@
+name = "mochi"
+description = "Genmo is a research lab dedicated to building open, state-of-the-art models for video generation towards unlocking the right brain of AGI. Create high-quality videos with Mochi."
+category = "video"
+website = "https://www.genmo.ai"
+open_source = true
+repository = "https://github.com/genmoai/mochi"
+added = 2026-10-28

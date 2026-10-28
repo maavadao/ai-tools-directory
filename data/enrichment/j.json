@@ -7,9 +7,15 @@
 "checked": "2026-10-27",
 "image": "https://www.jabref.org/assets/jabref-mainscreen.png"
 },
+"jailbreak-llms": {
+"checked": "2026-10-28"
+},
 "jan": {
 "checked": "2026-10-23",
 "image": "https://jan.ai/assets/images/general/og-image.png"
+},
+"jarvis-registry": {
+"checked": "2026-10-28"
 },
 "jasper": {
 "checked": "2026-10-23",
@@ -20,6 +26,9 @@
 "trial": true,
 "url": "https://www.jasper.ai/pricing"
 }
+},
+"java-sdk-modelcontextprotocol-io": {
+"checked": "2026-10-28"
 },
 "javaguide": {
 "checked": "2026-10-25",
@@ -42,6 +51,14 @@
 "checked": "2026-10-25",
 "image": "https://www.jeecg.com/images/2026/platform.png"
 },
+"jeelizfacefilter": {
+"checked": "2026-10-28",
+"image": "https://jeeliz.com/wp-content/uploads/2025/03/JeelizOG_1200x630_2.png",
+"pricing": {
+"trial": true,
+"url": "https://jeeliz.com"
+}
+},
 "jina-ai": {
 "checked": "2026-10-24",
 "image": "https://jina.ai/og/page.png?title=Your+Search+Foundation%2C+Supercharged.&subtitle=Embeddings%2C+rerankers%2C+web+reader%2C+deepsearch%2C+small+language+models.+Search+AI+for+multilingual+and+multimodal+data."
@@ -49,6 +66,12 @@
 "jinxiaoai-com": {
 "checked": "2026-10-27",
 "image": "https://jinxiaoai.com/images/og-default.webp"
+},
+"jionlp": {
+"checked": "2026-10-28"
+},
+"jittor": {
+"checked": "2026-10-28"
 },
 "jockey-by-twelvelabs": {
 "checked": "2026-10-23",

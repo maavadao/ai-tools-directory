@@ -1,0 +1,7 @@
+name = "pybroker"
+description = "Algorithmic Trading in Python with Machine Learning"
+category = "data"
+website = "https://www.pybroker.com"
+open_source = true
+repository = "https://github.com/edtechre/pybroker"
+added = 2026-10-28

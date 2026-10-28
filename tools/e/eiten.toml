@@ -1,0 +1,7 @@
+name = "eiten"
+description = "We bridge the gap between retail traders and wall street, turning premium options flow data access into profitable trading strategies."
+category = "data"
+website = "https://tradytics.com"
+open_source = true
+repository = "https://github.com/tradytics/eiten"
+added = 2026-10-28

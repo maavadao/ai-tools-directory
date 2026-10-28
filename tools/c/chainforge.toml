@@ -1,0 +1,7 @@
+name = "ChainForge"
+description = "An open-source visual programming environment for battle-testing prompts to LLMs."
+category = "other"
+website = "https://chainforge.ai"
+open_source = true
+repository = "https://github.com/ianarawjo/ChainForge"
+added = 2026-10-28

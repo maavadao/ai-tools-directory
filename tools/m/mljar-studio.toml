@@ -1,0 +1,7 @@
+name = "MLJAR Studio"
+description = "MLJAR Studio is a private AI data lab for exploring data, running machine learning experiments, and building analysis tools. Runs locally with optional AI providers."
+category = "data"
+website = "https://mljar.com"
+open_source = true
+repository = "https://github.com/mljar/mljar-supervised"
+added = 2026-10-28

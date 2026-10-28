@@ -1,0 +1,7 @@
+name = "Home"
+description = "behavior tree AI for Godot Engine"
+category = "other"
+website = "https://bitbra.in"
+open_source = true
+repository = "https://github.com/bitbrain/beehave"
+added = 2026-10-28

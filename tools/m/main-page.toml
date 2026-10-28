@@ -1,0 +1,7 @@
+name = "Main Page"
+description = "Sunfish: a Python Chess Engine in 111 lines of code"
+category = "other"
+website = "https://chessprogramming.org"
+open_source = true
+repository = "https://github.com/thomasahle/sunfish"
+added = 2026-10-28

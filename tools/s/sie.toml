@@ -1,0 +1,7 @@
+name = "sie"
+description = "Compare task-specific open models against leading APIs on measured results. Use SIE Serverless or run the models in your own cloud."
+category = "chatbots"
+website = "https://superlinked.com"
+open_source = true
+repository = "https://github.com/superlinked/sie"
+added = 2026-10-28

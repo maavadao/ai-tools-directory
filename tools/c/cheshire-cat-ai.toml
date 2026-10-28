@@ -1,0 +1,7 @@
+name = "Cheshire Cat AI"
+description = "The AI Agent Framework for learners and creatives"
+category = "chatbots"
+website = "https://cheshirecat.ai"
+open_source = true
+repository = "https://github.com/cheshire-cat-ai/core"
+added = 2026-10-28

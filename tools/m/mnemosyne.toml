@@ -1,0 +1,7 @@
+name = "mnemosyne"
+description = "Native, local-first memory for AI agents. no network roundtrip, no cloud account. Fully private. Open source."
+category = "agents"
+website = "https://mnemosyne.site"
+open_source = true
+repository = "https://github.com/mnemosyne-oss/mnemosyne"
+added = 2026-10-28

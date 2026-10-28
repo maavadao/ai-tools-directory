@@ -6,6 +6,14 @@
 "h4cker": {
 "checked": "2026-10-24"
 },
+"hallucination-leaderboard": {
+"checked": "2026-10-28",
+"image": "https://www.vectara.com/images/social-previews/index.jpg",
+"pricing": {
+"trial": true,
+"url": "https://www.vectara.com/pricing"
+}
+},
 "hamster": {
 "checked": "2026-10-24",
 "image": "https://tryhamster.com/images/og-image.png",
@@ -28,6 +36,16 @@
 "harness-by-autonomous": {
 "checked": "2026-10-23",
 "image": "https://cdn.autonomous.ai/production/ecm/260805/metadata.webp"
+},
+"harnessrouter": {
+"checked": "2026-10-28",
+"image": "https://harnessrouter.ai/brand/harnessrouter-social-card.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://harnessrouter.ai/pricing"
+}
 },
 "harvey": {
 "checked": "2026-10-23",
@@ -72,6 +90,10 @@
 "hello-python": {
 "checked": "2026-10-23"
 },
+"help-wwkejishe-top": {
+"checked": "2026-10-28",
+"image": "https://help.wwkejishe.top/~gitbook/ogimage/I6clPtlLO9NyxODDcXcu"
+},
 "hemory": {
 "checked": "2026-10-23",
 "image": "https://www.hemory.com/assets/og-image.png",
@@ -111,6 +133,13 @@
 "url": "https://www.heygen.com/en-in/pricing"
 }
 },
+"heywillow-org": {
+"checked": "2026-10-28"
+},
+"highwayenv-documentation": {
+"checked": "2026-10-28",
+"image": "https://highway-env.farama.org/_static/img/highway-github.png"
+},
 "hireez": {
 "checked": "2026-10-23",
 "image": "https://hireez.com/wp-content/uploads/2026/08/hireez-agent-native.jpg"
@@ -139,9 +168,15 @@
 "url": "https://www.holaboss.ai/pricing"
 }
 },
+"holmesgpt-dev": {
+"checked": "2026-10-28"
+},
 "home": {
 "checked": "2026-10-23",
 "image": "https://madewithml.com/static/images/mlops.png"
+},
+"homeclaw": {
+"checked": "2026-10-28"
 },
 "homl-books": {
 "checked": "2026-10-24",
@@ -197,6 +232,10 @@
 "checked": "2026-10-23",
 "image": "https://humalike.ai/humalike-og.jpg?v=2"
 },
+"humanize-text": {
+"checked": "2026-10-28",
+"image": "https://strapi.lynote.ai/uploads/lynote_ai_learning_platform_f44370a9db.jpg"
+},
 "humanlayer": {
 "checked": "2026-10-25",
 "image": "https://humanlayer.dev/api/og",
@@ -218,6 +257,9 @@
 "hunter-zhang": {
 "checked": "2026-10-27",
 "image": "https://huaizheng.xyz/opengraph-image.jpg?08cbfb4bd54383b5"
+},
+"hunyuan-tencent-com": {
+"checked": "2026-10-28"
 },
 "hunyuanvideo": {
 "checked": "2026-10-25",

@@ -1,0 +1,7 @@
+name = "OpenBot"
+description = "Our initiative at the OpenBot Foundation transcends the boundaries of technology, focusing on expanding outreach and making advanced robotics education accessible to all. By repurposing a modest $50 wheeled robot with the ubiquitous smartphone as its brain, we are not just creating affordable"
+category = "research"
+website = "https://www.openbot.org"
+open_source = true
+repository = "https://github.com/ob-f/OpenBot"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "AliceVision"
+description = "AliceVision is an open-source 3D Computer Vision framework for 3D reconstruction, camera tracking and HDR panoramas. Meshroom is its node-based desktop app."
+category = "other"
+website = "https://alicevision.org"
+open_source = true
+repository = "https://github.com/alicevision/AliceVision"
+added = 2026-10-28

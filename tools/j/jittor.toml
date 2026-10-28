@@ -1,0 +1,7 @@
+name = "jittor"
+description = "Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators."
+category = "other"
+website = "https://cg.cs.tsinghua.edu.cn"
+open_source = true
+repository = "https://github.com/Jittor/jittor"
+added = 2026-10-28

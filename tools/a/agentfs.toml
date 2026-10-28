@@ -1,0 +1,7 @@
+name = "AgentFS"
+description = "Give agents the tools they know—safely. AgentFS provides isolated filesystem access so AI agents can run CLI tools with complete audit trails."
+category = "agents"
+website = "https://www.agentfs.ai"
+open_source = true
+repository = "https://github.com/tursodatabase/agentfs"
+added = 2026-10-28

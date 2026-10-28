@@ -1,0 +1,7 @@
+name = "JioNLP"
+description = "中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com"
+category = "other"
+website = "https://www.jionlp.com"
+open_source = true
+repository = "https://github.com/dongrixinyu/JioNLP"
+added = 2026-10-28

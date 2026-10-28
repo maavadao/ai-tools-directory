@@ -1,0 +1,7 @@
+name = "ROOT"
+description = "Data Analysis Framework"
+category = "data"
+website = "https://root.cern"
+open_source = true
+repository = "https://github.com/root-project/root"
+added = 2026-10-28

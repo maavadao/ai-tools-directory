@@ -16,6 +16,10 @@
 "checked": "2026-10-25",
 "image": "https://valuecell.ai/og-image.png"
 },
+"vault-ai": {
+"checked": "2026-10-28",
+"image": "https://i.imgur.com/6YSvyEV.png"
+},
 "vcloudinfo": {
 "checked": "2026-10-27",
 "image": "https://www.vcloudinfo.com/wp-content/uploads/2019/01/vCloud@4x.png"
@@ -48,6 +52,19 @@
 "url": "https://vespa.ai/pricing/"
 }
 },
+"vexa": {
+"checked": "2026-10-28",
+"image": "https://vexa.ai/opengraph-image"
+},
+"vibe-coding-workflow": {
+"checked": "2026-10-28",
+"image": "https://vibeworkflow.app/vibeimage.webp",
+"pricing": {
+"currency": "USD",
+"from": 5.0,
+"url": "https://vibeworkflow.app/pricing"
+}
+},
 "vibe-kanban": {
 "checked": "2026-10-24",
 "image": "https://vibekanban.com/images/cta-product-desktop.webp",
@@ -71,6 +88,10 @@
 "videocaptioner": {
 "checked": "2026-10-24",
 "image": "https://weifeng2333.github.io/VideoCaptioner/logo.png"
+},
+"vieneu": {
+"checked": "2026-10-28",
+"image": "https://www.vieneu.io/og-image.png"
 },
 "vikesh-tiwari": {
 "checked": "2026-10-27",
@@ -122,6 +143,10 @@
 "trial": true,
 "url": "https://voltagent.dev/pricing/"
 }
+},
+"vortex": {
+"checked": "2026-10-28",
+"image": "https://vortex.dev/opengraph-image?7f7f7eeca630bf6b"
 },
 "vowpal-wabbit": {
 "checked": "2026-10-25"

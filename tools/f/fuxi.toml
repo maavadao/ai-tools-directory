@@ -1,0 +1,7 @@
+name = "FUXI"
+description = "A fully self-developed AI terminal development platform from China, supporting multi-model access, intelligent routing, automatic cost optimization. Start your AI creation journey."
+category = "coding"
+website = "https://www.fuxicode.com"
+open_source = true
+repository = "https://github.com/fuxicodex/Fuxi"
+added = 2026-10-28

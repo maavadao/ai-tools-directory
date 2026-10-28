@@ -1,0 +1,7 @@
+name = "MemMachine"
+description = "MemMachine is the open-source memory layer for advanced AI agents, enabling them to learn, remember, and adapt. Build personalized, context-aware applications that store long-term conversational memory and user preferences."
+category = "agents"
+website = "https://memmachine.ai"
+open_source = true
+repository = "https://github.com/MemMachine/MemMachine"
+added = 2026-10-28

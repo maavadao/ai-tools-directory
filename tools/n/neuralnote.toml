@@ -1,0 +1,7 @@
+name = "NeuralNote"
+description = "Free audio-to-MIDI plugin. Transcribes full mixes, instrument by instrument, entirely on your machine."
+category = "audio"
+website = "https://neuralnote.co"
+open_source = true
+repository = "https://github.com/DamRsn/NeuralNote"
+added = 2026-10-28

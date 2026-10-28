@@ -1,0 +1,7 @@
+name = "ClawPanel"
+description = "ClawPanel 是官方发布的多引擎 AI 管理面板，支持 OpenClaw 与 Hermes Agent（爱马仕）一键安装、一键部署、桌面端管理、Web 控制台、下载镜像、版本更新和运行时诊断。"
+category = "chatbots"
+website = "https://claw.qt.cool"
+open_source = true
+repository = "https://github.com/qingchencloud/clawpanel"
+added = 2026-10-28

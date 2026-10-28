@@ -1,0 +1,7 @@
+name = "ZenStory AI"
+description = "Write novels with AI, adapt them into short drama or playable games, and turn footage into video recaps. Explore real open-source demos, workflows and practical guides."
+category = "other"
+website = "https://zenstory.ai"
+open_source = true
+repository = "https://github.com/zenstory-ai/drama-skills"
+added = 2026-10-28

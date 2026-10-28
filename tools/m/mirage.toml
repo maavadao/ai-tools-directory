@@ -1,0 +1,7 @@
+name = "mirage"
+description = "Strukto builds the virtual terminal for AI agents. Agents don't need a sandbox, they need the terminal they were trained on."
+category = "coding"
+website = "https://www.strukto.ai"
+open_source = true
+repository = "https://github.com/strukto-ai/mirage"
+added = 2026-10-28

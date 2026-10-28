@@ -1,0 +1,7 @@
+name = "Natively AI"
+description = "Undetectable AI interview assistant and AI notetaker like Granola. Live answers in interviews and meetings, notes after every call. Free on Mac and Windows."
+category = "chatbots"
+website = "https://heynatively.com"
+open_source = true
+repository = "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+added = 2026-10-28

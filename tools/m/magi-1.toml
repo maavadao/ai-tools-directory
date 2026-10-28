@@ -1,0 +1,7 @@
+name = "MAGI-1"
+description = "Discover Sand.ai's Magi-1, an autoregressive video model delivering top-tier AI solutions for everyone. Join us in advancing AI technology. Advance AI to Benefit Everyone."
+category = "video"
+website = "https://sand.ai"
+open_source = true
+repository = "https://github.com/SandAI-org/MAGI-1"
+added = 2026-10-28

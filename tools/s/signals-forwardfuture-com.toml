@@ -1,0 +1,7 @@
+name = "signals.forwardfuture.com"
+description = "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows."
+category = "agents"
+website = "https://signals.forwardfuture.com"
+open_source = true
+repository = "https://github.com/Forward-Future/loopy"
+added = 2026-10-28

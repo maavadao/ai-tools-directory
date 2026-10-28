@@ -1,0 +1,7 @@
+name = "Cortex Docs"
+description = "Generate beautiful API documentation, typed SDKs, and MCP servers from one open-source workflow."
+category = "other"
+website = "https://cortexdocs.dev"
+open_source = true
+repository = "https://github.com/cortex-docs/cortex"
+added = 2026-10-28

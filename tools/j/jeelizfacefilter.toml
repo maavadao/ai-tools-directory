@@ -1,0 +1,7 @@
+name = "jeelizFaceFilter"
+description = "The ultimate live eyewear virtual try-on for the web: Realistic, Works everywhere, Fast to load, easy to integrate on your website. Check out our demo!"
+category = "other"
+website = "https://jeeliz.com"
+open_source = true
+repository = "https://github.com/jeeliz/jeelizFaceFilter"
+added = 2026-10-28

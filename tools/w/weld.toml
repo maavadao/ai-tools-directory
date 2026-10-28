@@ -1,0 +1,7 @@
+name = "weld"
+description = "High-performance runtime for data analytics applications"
+category = "coding"
+website = "https://www.weld.rs"
+open_source = true
+repository = "https://github.com/weld-project/weld"
+added = 2026-10-28

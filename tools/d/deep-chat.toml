@@ -1,0 +1,7 @@
+name = "Deep Chat"
+description = "Customizable chat component for AI APIs"
+category = "chatbots"
+website = "https://deepchat.dev"
+open_source = true
+repository = "https://github.com/OvidijusParsiunas/deep-chat"
+added = 2026-10-28

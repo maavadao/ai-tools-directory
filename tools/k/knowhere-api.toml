@@ -1,0 +1,7 @@
+name = "Knowhere API"
+description = "The most accurate document parsing API for AI agents. Extract tables, formulas, and structured data with unmatched precision."
+category = "coding"
+website = "https://knowhereto.ai"
+open_source = true
+repository = "https://github.com/Ontos-AI/knowhere"
+added = 2026-10-28

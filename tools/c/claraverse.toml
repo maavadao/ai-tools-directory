@@ -1,0 +1,7 @@
+name = "ClaraVerse"
+description = "All in One Privacy-first AI workspace with TEE-protected cloud inference. Run AI locally or in the cloud with complete privacy."
+category = "chatbots"
+website = "https://claraverse.space"
+open_source = true
+repository = "https://github.com/claraverse-space/ClaraVerse"
+added = 2026-10-28

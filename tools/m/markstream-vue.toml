@@ -1,0 +1,7 @@
+name = "markstream-vue"
+description = "Streaming Markdown renderers for AI applications across Vue, React, Svelte, Angular, Nuxt, and Next.js. Render LLM token streams, SSE/WebSocket output, AI chat messages, and long documents with progressive Mermaid, KaTeX, and streaming code blocks."
+category = "chatbots"
+website = "https://markstream.simonhe.me"
+open_source = true
+repository = "https://github.com/Simon-He95/markstream-vue"
+added = 2026-10-28

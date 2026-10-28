@@ -1,0 +1,7 @@
+name = "metorial"
+description = "One MCP URL behind your SSO. 1,000+ integrations, role-based tool access, audit logs and shared skills, in Claude, ChatGPT and Cursor. Open source."
+category = "agents"
+website = "https://metorial.com"
+open_source = true
+repository = "https://github.com/metorial/metorial"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "PettingZoo Documentation"
+description = "A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities"
+category = "developer-platforms"
+website = "https://pettingzoo.farama.org"
+open_source = true
+repository = "https://github.com/Farama-Foundation/PettingZoo"
+added = 2026-10-28

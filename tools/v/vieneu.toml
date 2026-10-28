@@ -1,0 +1,7 @@
+name = "VieNeu"
+description = "Chuyển văn bản thành giọng nói tiếng Việt tự nhiên, đủ giọng ba miền. Nhân bản giọng, API, MCP và ứng dụng Windows. Nghe thử ngay, không cần đăng ký."
+category = "audio"
+website = "https://www.vieneu.io"
+open_source = true
+repository = "https://github.com/pnnbao97/VieNeu-TTS"
+added = 2026-10-28

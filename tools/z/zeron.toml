@@ -1,0 +1,7 @@
+name = "zeron"
+description = "Control your coding agents from any of your devices."
+category = "coding"
+website = "https://zeron.sh"
+open_source = true
+repository = "https://github.com/zeronsh/zeron"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "eventcatalog"
+description = "Model domains, systems, services, APIs, events, schemas, ADRs, and flows as connected architecture documentation for engineers and AI agents."
+category = "agents"
+website = "https://www.eventcatalog.dev"
+open_source = true
+repository = "https://github.com/event-catalog/eventcatalog"
+added = 2026-10-28

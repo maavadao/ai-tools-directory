@@ -1,0 +1,7 @@
+name = "Eidos File"
+description = "Keep tables, relations, formulas, and views in one local SQLite file. Privacy by default, with sync and publishing when you choose."
+category = "chatbots"
+website = "https://eidos.space"
+open_source = true
+repository = "https://github.com/mayneyao/eidos"
+added = 2026-10-28

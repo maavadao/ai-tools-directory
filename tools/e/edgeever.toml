@@ -1,0 +1,7 @@
+name = "EdgeEver"
+description = "EdgeEver 是开源、原生支持 AI 的自托管笔记与知识库工作区。保留经典三栏高效体验，支持 ACP 本机 Agent 深度协同、AI 伴侣侧边栏、可视化图表笔记与多端同步，覆盖 macOS、Windows、Linux、iOS、Android 与浏览器剪藏，支持在 Cloudflare 免费额度内运行或使用 Docker 一键自托管。"
+category = "other"
+website = "https://edgeever.org"
+open_source = true
+repository = "https://github.com/tianma-if/edgeever"
+added = 2026-10-28

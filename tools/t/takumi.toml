@@ -1,0 +1,7 @@
+name = "takumi"
+description = "Swing the hammer on JSX, HTML, and CSS components. Takumi renders them in Rust and WebAssembly into images, animations, SVG, paged PDFs, and paint data without a browser."
+category = "other"
+website = "https://takumi.kane.tw"
+open_source = true
+repository = "https://github.com/kane50613/takumi"
+added = 2026-10-28

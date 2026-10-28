@@ -1,0 +1,7 @@
+name = "GitAgent"
+description = "Define, version, and run AI agents natively in git. GitAgent is the open AI agent standard created by Shreyas Kapale at Lyzr Research Labs — framework-agnostic, works with Claude, OpenAI, CrewAI, Lyzr, and more."
+category = "chatbots"
+website = "https://www.gitagent.sh"
+open_source = true
+repository = "https://github.com/open-gitagent/opengap"
+added = 2026-10-28

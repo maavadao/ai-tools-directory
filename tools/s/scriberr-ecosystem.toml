@@ -1,0 +1,7 @@
+name = "Scriberr Ecosystem"
+description = "Self-hosted AI audio transcription"
+category = "audio"
+website = "https://scriberr.app"
+open_source = true
+repository = "https://github.com/rishikanthc/Scriberr"
+added = 2026-10-28

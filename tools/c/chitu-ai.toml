@@ -1,0 +1,7 @@
+name = "赤兔"
+description = "High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability."
+category = "chatbots"
+website = "https://chitu.ai"
+open_source = true
+repository = "https://github.com/thu-pacman/chitu"
+added = 2026-10-28

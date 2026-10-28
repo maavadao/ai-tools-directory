@@ -20,6 +20,9 @@
 "url": "https://hirekai.ai/pricing"
 }
 },
+"kakakslot88": {
+"checked": "2026-10-28"
+},
 "kami": {
 "checked": "2026-10-25",
 "image": "https://kami.tw93.fun/assets/showcase/kami-landing.png"
@@ -31,6 +34,9 @@
 "kelivo": {
 "checked": "2026-10-27",
 "image": "https://kelivo.psycheas.top/og.jpg"
+},
+"keras-tuner": {
+"checked": "2026-10-28"
 },
 "kestra": {
 "checked": "2026-10-24",
@@ -72,12 +78,22 @@
 "url": "https://kiro.dev/pricing/"
 }
 },
+"kite": {
+"checked": "2026-10-28"
+},
 "klavis-ai": {
 "checked": "2026-10-26"
 },
 "klingai": {
 "checked": "2026-10-23",
 "image": "https://s16-kling.klingai.com/kos/s101/nlav112918/kling-web/kling-logo-payment-en.png"
+},
+"knowhere-api": {
+"checked": "2026-10-28",
+"pricing": {
+"trial": true,
+"url": "https://knowhereto.ai/pricing"
+}
 },
 "knp-labs": {
 "checked": "2026-10-27"

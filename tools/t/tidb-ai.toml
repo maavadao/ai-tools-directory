@@ -1,0 +1,7 @@
+name = "TiDB"
+description = "Knowledge Graph based RAG built with TiDB X Vector Storage and PyTiDB."
+category = "chatbots"
+website = "https://tidb.ai"
+open_source = true
+repository = "https://github.com/pingcap/autoflow"
+added = 2026-10-28

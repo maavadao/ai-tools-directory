@@ -1,0 +1,7 @@
+name = "PipesHub"
+description = "Empower your enterprise with PipesHub – the open-source, enterprise-ready workplace AI platform that unifies your scattered business data, connects your business and enterprise apps, and powers AI agents to get work done. Built for teams that move fast."
+category = "other"
+website = "https://pipeshub.com"
+open_source = true
+repository = "https://github.com/pipeshub-ai/pipeshub-ai"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "telegram-bot-sdk"
+description = "The ultimate toolkit for building Telegram chatbots with Laravel support"
+category = "chatbots"
+website = "https://telegram-bot-sdk.com"
+open_source = true
+repository = "https://github.com/irazasyed/telegram-bot-sdk"
+added = 2026-10-28

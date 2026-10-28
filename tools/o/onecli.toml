@@ -1,0 +1,7 @@
+name = "OneCLI"
+description = "Delegate real work across your tools, with protected access and human approval where it matters."
+category = "other"
+website = "https://onecli.sh"
+open_source = true
+repository = "https://github.com/onecli/onecli"
+added = 2026-10-28

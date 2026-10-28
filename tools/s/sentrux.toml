@@ -1,0 +1,7 @@
+name = "sentrux"
+description = "Recursive self-improvement of code quality. Real-time architectural sensor for AI coding agents. 52 languages. One score. Pure Rust."
+category = "coding"
+website = "https://sentrux.dev"
+open_source = true
+repository = "https://github.com/sentrux/sentrux"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "ReMe Documentation"
+description = "Local-first, file-native memory for agents"
+category = "agents"
+website = "https://reme.agentscope.io"
+open_source = true
+repository = "https://github.com/agentscope-ai/ReMe"
+added = 2026-10-28

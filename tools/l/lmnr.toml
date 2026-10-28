@@ -1,0 +1,7 @@
+name = "lmnr"
+description = "Open-source platform to trace, evaluate, and debug AI agents. Laminar surfaces agent failures, and helps you fix them."
+category = "coding"
+website = "https://laminar.sh"
+open_source = true
+repository = "https://github.com/lmnr-ai/lmnr"
+added = 2026-10-28

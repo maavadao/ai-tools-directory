@@ -1,0 +1,7 @@
+name = "Toad"
+description = "A unified experience for AI in your terminal. Code with OpenHands, Claude Code, Gemini CLI, and more."
+category = "coding"
+website = "https://www.batrachian.ai"
+open_source = true
+repository = "https://github.com/batrachianai/toad"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "keras-tuner"
+description = "Keras is a deep learning library with pluggable backends. Write models once and run them on JAX, PyTorch, TensorFlow, and more, from laptop to TPU."
+category = "other"
+website = "https://keras.io"
+open_source = true
+repository = "https://github.com/keras-team/keras-tuner"
+added = 2026-10-28

@@ -47,6 +47,9 @@
 "checked": "2026-10-23",
 "image": "https://dailyhelm.com/og-image.svg"
 },
+"danijar-hafner": {
+"checked": "2026-10-28"
+},
 "dapr": {
 "checked": "2026-10-24",
 "image": "https://dapr.io/images/dapr-og-default.png"
@@ -103,6 +106,10 @@
 "dbeaver": {
 "checked": "2026-10-23"
 },
+"dbhub": {
+"checked": "2026-10-28",
+"image": "https://dbhub.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=Introduction&theme=1c06404a5d8a2d47ded59ce2&signature=ad3f26844dbb68669171fd5913611446c1d77ca18ac5a22eacdc1fd1eb92690d"
+},
 "dbx": {
 "checked": "2026-10-24",
 "image": "https://dl.dbxio.com/assets/readme-hero-20260925.png"
@@ -116,8 +123,16 @@
 "url": "https://decepticon.red/pricing"
 }
 },
+"deep-chat": {
+"checked": "2026-10-28",
+"image": "https://raw.githubusercontent.com/OvidijusParsiunas/deep-chat/main/assets/readme/social-media-4.png"
+},
 "deep-learning-interviews": {
 "checked": "2026-10-27"
+},
+"deep-prove": {
+"checked": "2026-10-28",
+"image": "https://cdn.prod.website-files.com/6626eae60883543ea2814ed0/6ada8dcedbcfbf478b2e710a_lagrange-og-2026-15-9m.webp"
 },
 "deep-research": {
 "checked": "2026-10-27"
@@ -163,6 +178,16 @@
 "deeplivecam": {
 "checked": "2026-10-23"
 },
+"deepnote": {
+"checked": "2026-10-28",
+"image": "https://deepnote.com/_next/static/media/og-image.a724d03f.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 112.0,
+"url": "https://deepnote.com/pricing"
+}
+},
 "deeppavlov": {
 "checked": "2026-10-26",
 "image": "https://static.tildacdn.com/tild3762-3666-4530-b139-666433343863/_DeepPavlov_-5.png"
@@ -200,6 +225,10 @@
 "from": 20.0,
 "url": "https://desktopcommander.app/pricing/"
 }
+},
+"deta-surf": {
+"checked": "2026-10-28",
+"image": "https://opengraph.b-cdn.net/production/images/fe1c7dec-9d68-436d-bd63-a95eefa43465.png?token=YelScdl-Ww1APx4IJfcUcacNJScisgb7AIDbvvKrFj0&height=675&width=1200&expires=33284440757"
 },
 "developers-digest": {
 "checked": "2026-10-27",
@@ -240,6 +269,9 @@
 "free": true,
 "url": "https://dify.ai/pricing"
 }
+},
+"distilabel-argilla-io": {
+"checked": "2026-10-28"
 },
 "divergent-labs": {
 "checked": "2026-10-27",

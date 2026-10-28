@@ -1,0 +1,7 @@
+name = "Atomic Agent"
+description = "Open-source local AI agent for Mac, Windows and Linux. Runs on your own machine and drives your browser, files, shell and git. No cloud, no key, no token bill."
+category = "chatbots"
+website = "https://atomicagent.io"
+open_source = true
+repository = "https://github.com/AtomicBot-ai/atomic-agent"
+added = 2026-10-28

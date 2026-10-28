@@ -1,0 +1,7 @@
+name = "SocratiCode Cloud"
+description = "A codebase context engine, not another AI. Indexes your code, dependency graphs, schemas and docs, then hands that understanding to whichever AI assistant your team already uses. Hosted, in your VPC, or fully air-gapped."
+category = "other"
+website = "https://socraticode.cloud"
+open_source = true
+repository = "https://github.com/giancarloerra/SocratiCode"
+added = 2026-10-28

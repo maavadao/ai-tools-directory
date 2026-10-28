@@ -1,0 +1,7 @@
+name = "FlyEnv"
+description = "FlyEnv is an open-source local development workspace for AI agents on macOS, Windows, and Linux, with runtimes, databases, web servers, sites, HTTPS, and MCP."
+category = "coding"
+website = "https://flyenv.com"
+open_source = true
+repository = "https://github.com/xpf0000/FlyEnv"
+added = 2026-10-28

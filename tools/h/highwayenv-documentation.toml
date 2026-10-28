@@ -1,0 +1,7 @@
+name = "HighwayEnv Documentation"
+description = "A collection of environments for autonomous driving and tactical decision-making tasks"
+category = "other"
+website = "https://highway-env.farama.org"
+open_source = true
+repository = "https://github.com/Farama-Foundation/HighwayEnv"
+added = 2026-10-28

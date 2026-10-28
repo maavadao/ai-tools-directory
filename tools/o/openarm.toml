@@ -1,0 +1,7 @@
+name = "OpenArm"
+description = "OpenArm is a fully open-source humanoid robot arm designed for physical AI research and deployment in contact-rich environments."
+category = "other"
+website = "https://openarm.dev"
+open_source = true
+repository = "https://github.com/enactic/openarm"
+added = 2026-10-28

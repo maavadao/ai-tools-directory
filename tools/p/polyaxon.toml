@@ -1,0 +1,7 @@
+name = "polyaxon"
+description = "AI control plane to schedule, run, debug, observe, and automate AI/ML workloads, agents, and sandboxes on your infra."
+category = "data"
+website = "https://polyaxon.com"
+open_source = true
+repository = "https://github.com/polyaxon/polyaxon"
+added = 2026-10-28

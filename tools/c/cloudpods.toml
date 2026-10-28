@@ -1,0 +1,7 @@
+name = "cloudpods"
+description = "An open-source cloud-native unified-cloud platform. 开源云原生融合云平台"
+category = "developer-platforms"
+website = "https://www.cloudpods.org"
+open_source = true
+repository = "https://github.com/yunionio/cloudpods"
+added = 2026-10-28

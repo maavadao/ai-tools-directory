@@ -1,0 +1,7 @@
+name = "WorkBuddy 实战蓝皮书"
+description = "系统的 WorkBuddy 中文教程与使用指南，涵盖安装入门、真实案例、Skills、连接器、自动化和多智能体实践。"
+category = "chatbots"
+website = "https://workbuddy.homes"
+open_source = true
+repository = "https://github.com/AlephAITech/WorkBuddyGuide"
+added = 2026-10-28

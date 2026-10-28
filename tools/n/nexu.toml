@@ -1,0 +1,7 @@
+name = "nexu"
+description = "Download nexu, the open-source OpenClaw desktop app for Feishu. Use GPT, Claude, and Gemini in Feishu, keep your data local-first, and get started in about a minute."
+category = "coding"
+website = "https://nexu.io"
+open_source = true
+repository = "https://github.com/nexu-io/nexu"
+added = 2026-10-28

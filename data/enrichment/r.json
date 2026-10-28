@@ -22,6 +22,12 @@
 "checked": "2026-10-26",
 "image": "https://rakazo.com/og-image.png"
 },
+"ramalama": {
+"checked": "2026-10-28"
+},
+"ranul-tinga": {
+"checked": "2026-10-28"
+},
 "rapid-mlx": {
 "checked": "2026-10-27",
 "image": "https://rapidmlx.com/og.png"
@@ -78,6 +84,10 @@
 "url": "https://reclaim.ai/pricing"
 }
 },
+"redamon": {
+"checked": "2026-10-28",
+"image": "https://www.redamon.org/images/redamon-og.png"
+},
 "redink": {
 "checked": "2026-10-26",
 "image": "https://img.redink.top/redgen/history/showcase/brand/logo/icon-256.png"
@@ -101,6 +111,9 @@
 "relevance-ai": {
 "checked": "2026-10-23",
 "image": "https://cdn.relevanceai.com/images/og-image.webp"
+},
+"reme-documentation": {
+"checked": "2026-10-28"
 },
 "remove-bg": {
 "checked": "2026-10-23",
@@ -178,9 +191,21 @@
 "rikkahub": {
 "checked": "2026-10-27"
 },
+"rill": {
+"checked": "2026-10-28",
+"image": "https://www.rilldata.com/.netlify/images?url=_astro%2Frill-og-image-old.eZQSserQ.png&w=900&h=450",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://www.rilldata.com/pricing"
+}
+},
 "rill-browser": {
 "checked": "2026-10-23",
 "image": "https://rill.love/assets/og-image.png"
+},
+"rio-dev": {
+"checked": "2026-10-28"
 },
 "riverml-xyz": {
 "checked": "2026-10-26"
@@ -215,6 +240,10 @@
 "url": "https://rool.dev/pricing"
 }
 },
+"root": {
+"checked": "2026-10-28",
+"image": "https://root.cern/assets/images/ROOT-image-share.png"
+},
 "rowboat": {
 "checked": "2026-10-24",
 "image": "https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901"
@@ -222,6 +251,9 @@
 "rtk": {
 "checked": "2026-10-23",
 "image": "https://www.rtk-ai.app/og-image.png"
+},
+"ruby-openai": {
+"checked": "2026-10-28"
 },
 "rubyllm": {
 "checked": "2026-10-27",

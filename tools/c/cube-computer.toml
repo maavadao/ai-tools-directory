@@ -1,0 +1,7 @@
+name = "Cube Computer"
+description = "A Mac workspace for cloud computers, projects, agent terminals, artifacts, and previews. Bring Claude Code, Codex, OpenCode, Gemini CLI, and more. From $12/month."
+category = "coding"
+website = "https://cube.computer"
+open_source = true
+repository = "https://github.com/collabs-inc/collab-public"
+added = 2026-10-28

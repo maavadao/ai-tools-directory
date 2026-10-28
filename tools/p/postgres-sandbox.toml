@@ -1,0 +1,7 @@
+name = "Postgres Sandbox"
+description = "In-browser Postgres sandbox with AI assistance"
+category = "chatbots"
+website = "https://database.build"
+open_source = true
+repository = "https://github.com/supabase-community/database-build"
+added = 2026-10-28

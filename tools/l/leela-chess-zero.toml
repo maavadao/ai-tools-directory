@@ -1,0 +1,7 @@
+name = "Leela Chess Zero"
+description = "Open source neural network based chess engine"
+category = "other"
+website = "https://lczero.org"
+open_source = true
+repository = "https://github.com/LeelaChessZero/lc0"
+added = 2026-10-28

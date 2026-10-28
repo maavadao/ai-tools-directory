@@ -1,0 +1,7 @@
+name = "Off Grid AI"
+description = "Your personal AI assistant, built for hardware you already own. Context, memory, and actions you approve. Available on Android, iOS, macOS, Windows, and Linux."
+category = "other"
+website = "https://getoffgridai.co"
+open_source = true
+repository = "https://github.com/off-grid-ai/OGAM"
+added = 2026-10-28

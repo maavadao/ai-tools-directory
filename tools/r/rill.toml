@@ -1,0 +1,7 @@
+name = "Rill"
+description = "Rill's Agentic Analytics goes beyond dashboards with a natural language interface that powers instant, visual, and verifiable insights."
+category = "data"
+website = "https://www.rilldata.com"
+open_source = true
+repository = "https://github.com/rilldata/rill"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "humanize-text"
+description = "Lynote detects AI content, humanizes AI text, and summarizes YouTube videos and PDFs. Instantly create notes, get transcripts, and flashcards to study faster."
+category = "other"
+website = "https://lynote.ai"
+open_source = true
+repository = "https://github.com/lynote-ai/humanize-text"
+added = 2026-10-28

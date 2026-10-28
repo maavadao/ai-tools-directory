@@ -1,0 +1,7 @@
+name = "Generate Custom AI avatar"
+description = "Generate AI avatars that perfectly capture your unique style. Write a prompt and let our Dreambooth and Stable diffusion technology do the rest."
+category = "image"
+website = "https://photoshot.app"
+open_source = true
+repository = "https://github.com/premieroctet/photoshot"
+added = 2026-10-28

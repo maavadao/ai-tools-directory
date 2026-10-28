@@ -28,6 +28,9 @@
 "url": "https://www.falkordb.com/plans/"
 }
 },
+"fantastic-admin": {
+"checked": "2026-10-28"
+},
 "faraday": {
 "checked": "2026-10-26",
 "image": "https://faradaysec.com/wp-content/uploads/2025/08/faraday-post-featured-image-background.jpg"
@@ -80,6 +83,9 @@
 "trial": true,
 "url": "https://ferndesk.com/pricing"
 }
+},
+"ffcv": {
+"checked": "2026-10-28"
 },
 "fff": {
 "checked": "2026-10-25",
@@ -170,6 +176,13 @@
 "checked": "2026-10-27",
 "image": "https://fluxml.ai/assets/images/FluxGitHubPreview.png"
 },
+"flyde": {
+"checked": "2026-10-28"
+},
+"flyenv": {
+"checked": "2026-10-28",
+"image": "https://oss.macphpstudy.com/image/app-icon.png"
+},
 "flypython": {
 "checked": "2026-10-27",
 "image": "https://flypython.com/og-default.png",
@@ -183,9 +196,16 @@
 "checked": "2026-10-26",
 "image": "https://cdn.prod.website-files.com/690e2a44303093ad8549854b/69a8589a7e9f8f8da38aa412_Scale-Dragon.jpg"
 },
+"folkbench": {
+"checked": "2026-10-28",
+"image": "https://folkbench.com/brand/folkbench-og-launch-20260925.png"
+},
 "folo": {
 "checked": "2026-10-23",
 "image": "https://app.folo.is/og-image.png"
+},
+"foolbox": {
+"checked": "2026-10-28"
 },
 "forgecode": {
 "checked": "2026-10-26",
@@ -226,5 +246,9 @@
 "from": 60.0,
 "url": "https://fuseai.com/pricing"
 }
+},
+"fuxi": {
+"checked": "2026-10-28",
+"image": "https://fuxicode.com/og-image.png"
 }
 }

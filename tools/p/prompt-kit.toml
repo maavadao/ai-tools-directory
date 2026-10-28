@@ -1,0 +1,7 @@
+name = "prompt-kit"
+description = "Core building blocks for AI apps. High-quality, accessible, and customizable components for AI interfaces. Built with React, shadcn/ui and Tailwind CSS."
+category = "design"
+website = "https://www.prompt-kit.com"
+open_source = true
+repository = "https://github.com/ibelick/prompt-kit"
+added = 2026-10-28

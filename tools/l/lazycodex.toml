@@ -1,0 +1,7 @@
+name = "LazyCodex"
+description = "LazyCodex installs the OmO agent harness inside Codex: project memory, planning, parallel agents, skills, hooks, routing, and verified completion for complex codebases."
+category = "coding"
+website = "https://lazycodex.ai"
+open_source = true
+repository = "https://github.com/code-yeongyu/lazycodex"
+added = 2026-10-28

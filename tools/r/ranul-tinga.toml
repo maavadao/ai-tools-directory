@@ -1,0 +1,7 @@
+name = "Ranul Tinga"
+description = ".NET library for the OpenAI service API by Betalgo Ranul"
+category = "audio"
+website = "https://ranultinga.com"
+open_source = true
+repository = "https://github.com/betalgo/openai"
+added = 2026-10-28

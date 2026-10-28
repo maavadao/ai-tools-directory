@@ -1,0 +1,7 @@
+name = "OpenOutreach"
+description = "Tell me what you sell and who buys it, and I'll email you ten people who fit — each with the reason it was picked. Ten free, then $2 a lead. No account, no subscription."
+category = "chatbots"
+website = "https://openoutreach.app"
+open_source = true
+repository = "https://github.com/eracle/OpenOutreach"
+added = 2026-10-28

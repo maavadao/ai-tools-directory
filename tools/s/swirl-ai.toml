@@ -1,0 +1,7 @@
+name = "SWIRL AI"
+description = "Federated AI answers for regulated firms. SWIRL searches the systems you already run, live, as the signed-in user, and cites its sources. Nothing is copied."
+category = "research"
+website = "https://swirlaiconnect.com"
+open_source = true
+repository = "https://github.com/swirlai/swirl-search"
+added = 2026-10-28

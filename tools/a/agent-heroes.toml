@@ -1,0 +1,7 @@
+name = "Agent Heroes"
+description = "Generate, animate and schedule your AI characters"
+category = "image"
+website = "https://agentheroes.ai"
+open_source = true
+repository = "https://github.com/agentheroes/agentheroes"
+added = 2026-10-28

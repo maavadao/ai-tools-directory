@@ -1,0 +1,7 @@
+name = "RedAmon"
+description = "Open-source, self-hosted AI penetration testing. RedAmon maps your attack surface into a graph, exploits it with human approval gates and opens PRs that fix it."
+category = "other"
+website = "https://www.redamon.org"
+open_source = true
+repository = "https://github.com/samugit83/redamon"
+added = 2026-10-28

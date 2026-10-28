@@ -1,0 +1,7 @@
+name = "Catalyst"
+description = "Accelerated deep learning R&D"
+category = "developer-platforms"
+website = "https://catalyst-team.com"
+open_source = true
+repository = "https://github.com/catalyst-team/catalyst"
+added = 2026-10-28

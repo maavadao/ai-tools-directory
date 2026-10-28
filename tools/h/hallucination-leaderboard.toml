@@ -1,0 +1,7 @@
+name = "hallucination-leaderboard"
+description = "Vectara turns complex, multimodal data into actionable intelligence that drives better business outcomes. Vectara is an enterprise agent platform that powers intelligent, managed AI agents used by global companies in multiple industries."
+category = "chatbots"
+website = "https://www.vectara.com"
+open_source = true
+repository = "https://github.com/vectara/hallucination-leaderboard"
+added = 2026-10-28

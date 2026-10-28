@@ -1,0 +1,7 @@
+name = "Maestro"
+description = "Run AI coding agents autonomously for days. Every feature, one scene at a time."
+category = "coding"
+website = "https://RunMaestro.ai"
+open_source = true
+repository = "https://github.com/RunMaestro/Maestro"
+added = 2026-10-28

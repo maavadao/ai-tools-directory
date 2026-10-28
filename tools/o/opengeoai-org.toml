@@ -1,0 +1,7 @@
+name = "Home"
+description = "A Python package for using Artificial Intelligence (AI) with geospatial data"
+category = "data"
+website = "https://opengeoai.org"
+open_source = true
+repository = "https://github.com/opengeos/geoai"
+added = 2026-10-28

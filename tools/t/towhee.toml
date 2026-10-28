@@ -1,0 +1,7 @@
+name = "towhee"
+description = "x2vec, Towhee is all you need"
+category = "other"
+website = "https://towhee.io"
+open_source = true
+repository = "https://github.com/towhee-io/towhee"
+added = 2026-10-28

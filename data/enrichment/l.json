@@ -18,6 +18,15 @@
 "labs": {
 "checked": "2026-10-23"
 },
+"lakesail": {
+"checked": "2026-10-28",
+"image": "https://lakesail.com/og-default.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://lakesail.com/pricing/"
+}
+},
 "lance": {
 "checked": "2026-10-26"
 },
@@ -52,6 +61,9 @@
 "url": "https://langfuse.com/pricing"
 }
 },
+"langui": {
+"checked": "2026-10-28"
+},
 "langwatch": {
 "checked": "2026-10-27",
 "image": "https://langwatch.ai/logo-white.png",
@@ -79,6 +91,19 @@
 "checked": "2026-10-26",
 "image": "https://cdn.prod.website-files.com/65f2cdf991013d85c582af00/65fae15f9d9e05d00b759b64_open%20graph%20img.png"
 },
+"lazycodex": {
+"checked": "2026-10-28",
+"image": "https://lazycodex.ai/opengraph-image?78a75f0946c830bf"
+},
+"leanctx": {
+"checked": "2026-10-28",
+"image": "https://leanctx.com/brand/leanctx-social-v6.jpg",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://leanctx.com/pricing/"
+}
+},
 "learn-claude-code": {
 "checked": "2026-10-23"
 },
@@ -88,6 +113,9 @@
 "learnopencv": {
 "checked": "2026-10-24",
 "image": "https://cdn.learnopencv.com/wp-content/uploads/2017/12/04104052/favicon.png"
+},
+"leela-chess-zero": {
+"checked": "2026-10-28"
 },
 "lemlist": {
 "checked": "2026-10-23",
@@ -139,6 +167,10 @@
 "from": 140.0,
 "url": "https://lightning.ai/pricing/"
 }
+},
+"lightx2v": {
+"checked": "2026-10-28",
+"image": "https://x2v.light-ai.top/images/cover.jpg"
 },
 "limix": {
 "checked": "2026-10-27"
@@ -234,6 +266,15 @@
 },
 "lmms-lab": {
 "checked": "2026-10-27"
+},
+"lmnr": {
+"checked": "2026-10-28",
+"image": "https://laminar.sh/opengraph-image.png",
+"pricing": {
+"currency": "USD",
+"from": 30.0,
+"url": "https://laminar.sh/pricing"
+}
 },
 "lmql": {
 "checked": "2026-10-27"

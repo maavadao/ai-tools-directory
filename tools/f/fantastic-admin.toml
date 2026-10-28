@@ -1,0 +1,7 @@
+name = "Fantastic-admin"
+description = "一款开箱即用的 Vue 中后台管理系统框架，采用 Vue3 + Vite 技术栈。"
+category = "agents"
+website = "https://fantastic-admin.hurui.me"
+open_source = true
+repository = "https://github.com/fantastic-admin/basic"
+added = 2026-10-28

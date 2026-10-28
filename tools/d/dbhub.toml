@@ -1,0 +1,7 @@
+name = "dbhub"
+description = "Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite."
+category = "other"
+website = "https://dbhub.ai"
+open_source = true
+repository = "https://github.com/bytebase/dbhub"
+added = 2026-10-28

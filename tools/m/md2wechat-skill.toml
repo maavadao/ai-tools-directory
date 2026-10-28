@@ -1,0 +1,7 @@
+name = "md2wechat-skill"
+description = "为你写好的文章提供公众号排版。保留作者的文字与表达，在线预览主题效果，或通过 API、CLI 与 Agent Skill 接入内容工作流。"
+category = "other"
+website = "https://www.md2wechat.cn"
+open_source = true
+repository = "https://github.com/geekjourneyx/md2wechat-skill"
+added = 2026-10-28

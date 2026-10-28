@@ -1,0 +1,7 @@
+name = "LakeSail"
+description = "Run analytics and AI pipelines with SQL and Python on Sail, the Rust-native multimodal data engine. Bring your Spark SQL and DataFrame code."
+category = "data"
+website = "https://lakesail.com"
+open_source = true
+repository = "https://github.com/lakehq/sail"
+added = 2026-10-28

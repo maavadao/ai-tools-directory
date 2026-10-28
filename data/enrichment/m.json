@@ -20,6 +20,10 @@
 "url": "https://macro.com/pricing"
 }
 },
+"maestro": {
+"checked": "2026-10-28",
+"image": "https://runmaestro.ai/assets/og-marquee.png?v=4"
+},
 "mage-ai": {
 "checked": "2026-10-25",
 "image": "https://www.mage.ai/assets/shared/meta/default.png",
@@ -29,6 +33,10 @@
 "trial": true,
 "url": "https://www.mage.ai/pricing"
 }
+},
+"magi-1": {
+"checked": "2026-10-28",
+"image": "https://static.magi.world/build/website/225/_next/static/media/sand-ai-og.cc624676.jpg"
 },
 "magic-resume": {
 "checked": "2026-10-25",
@@ -59,6 +67,9 @@
 "main-gorgonia": {
 "checked": "2026-10-26"
 },
+"main-page": {
+"checked": "2026-10-28"
+},
 "make": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/6a294495bc84130c6dd0c4fd/6a706624f7fdfc3470419256_og-img.png",
@@ -79,6 +90,10 @@
 "from": 20.0,
 "url": "https://www.manifoldmcp.com/pricing"
 }
+},
+"maniskill": {
+"checked": "2026-10-28",
+"image": "https://www.maniskill.ai/imgs/home/OG.webp"
 },
 "mariadb-org": {
 "checked": "2026-10-25",
@@ -105,9 +120,19 @@
 "checked": "2026-10-23",
 "image": "https://marketing-skills.com/opengraph-image?93f898d7f9bb3d56"
 },
+"markstream-vue": {
+"checked": "2026-10-28",
+"image": "https://markstream.simonhe.me/og-image.png"
+},
+"marktechpost": {
+"checked": "2026-10-28"
+},
 "marqo": {
 "checked": "2026-10-27",
 "image": "https://www.marqo.ai/assets/og/og-home.png"
+},
+"masterdexter": {
+"checked": "2026-10-28"
 },
 "mastra": {
 "checked": "2026-10-24",
@@ -187,6 +212,10 @@
 "url": "https://manufact.com/pricing"
 }
 },
+"md2wechat-skill": {
+"checked": "2026-10-28",
+"image": "https://www.md2wechat.cn/og-image.jpg"
+},
 "medusa": {
 "checked": "2026-10-23",
 "image": "https://assets.medusajs.com/cdn-cgi/image/width=1200,quality=82,format=auto,fit=contain/uploads/2024/08/social-media-graphics-2024-meta-image-nps9tuy6.webp",
@@ -245,6 +274,10 @@
 "url": "https://memgraph.com/pricing"
 }
 },
+"memmachine": {
+"checked": "2026-10-28",
+"image": "https://memmachine.ai/img/MemMachine_logo-horizintal-blue.png"
+},
 "memori": {
 "checked": "2026-10-24",
 "image": "https://memorilabs.ai/og-image.png"
@@ -267,6 +300,9 @@
 "trial": true,
 "url": "https://www.mentionbird.ai/pricing"
 }
+},
+"mercury-agent": {
+"checked": "2026-10-28"
 },
 "meta-ai-research": {
 "checked": "2026-10-23",
@@ -302,6 +338,16 @@
 "free": true,
 "from": 100.0,
 "url": "https://www.metaview.ai/pricing"
+}
+},
+"metorial": {
+"checked": "2026-10-28",
+"image": "https://metorial.com/opengraph-image.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 250.0,
+"url": "https://metorial.com/pricing"
 }
 },
 "microsoft": {
@@ -345,9 +391,17 @@
 "mini-swe-agent-com": {
 "checked": "2026-10-25"
 },
+"minimax": {
+"checked": "2026-10-28",
+"image": "https://filecdn.minimax.chat/public/58eca777-e31f-448a-9823-e2220e49b426.png"
+},
 "minimi-2-0": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/assets/IRAj5ULLLszD1Dx3XZQDb8373ww.png"
+},
+"mirage": {
+"checked": "2026-10-28",
+"image": "https://www.strukto.ai/og-default.png"
 },
 "miso-com": {
 "checked": "2026-10-23",
@@ -379,6 +433,9 @@
 "checked": "2026-10-26",
 "image": "https://ml5js.org/favicon/og-image.png"
 },
+"mlc": {
+"checked": "2026-10-28"
+},
 "mlc-llm": {
 "checked": "2026-10-24"
 },
@@ -388,12 +445,26 @@
 "mlflow": {
 "checked": "2026-10-24"
 },
+"mljar-studio": {
+"checked": "2026-10-28",
+"image": "https://mljar.com/images/mljar-card.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://mljar.com/pricing/"
+}
+},
 "mlpack": {
 "checked": "2026-10-26"
 },
 "mmf": {
 "checked": "2026-10-26",
 "image": "https://mmf.sh/img/logo.png"
+},
+"mnemosyne": {
+"checked": "2026-10-28",
+"image": "https://mnemosyne.site/og-image.jpg?v=4"
 },
 "mng-bz": {
 "checked": "2026-10-27"
@@ -408,6 +479,10 @@
 "url": "https://mobilenext.ai/pricing"
 }
 },
+"mobile-use": {
+"checked": "2026-10-28",
+"image": "https://www.minitap.ai/images/og-image.webp"
+},
 "mobilerun": {
 "checked": "2026-10-25",
 "image": "https://mobilerun.ai/og-image.png",
@@ -417,6 +492,10 @@
 "from": 2.0,
 "url": "https://mobilerun.ai/pricing/"
 }
+},
+"mochi": {
+"checked": "2026-10-28",
+"image": "https://www.genmo.ai/media/social/home.png"
 },
 "mockserver": {
 "checked": "2026-10-27",
@@ -439,6 +518,10 @@
 "url": "https://dagster.io/pricing"
 }
 },
+"moltis": {
+"checked": "2026-10-28",
+"image": "https://moltis.org/og-social.png?v=9"
+},
 "monkeycode": {
 "checked": "2026-10-27"
 },
@@ -455,6 +538,10 @@
 "morphic": {
 "checked": "2026-10-25",
 "image": "https://morphic.sh/opengraph-image.png?0720a92459949c23"
+},
+"morphik-core": {
+"checked": "2026-10-28",
+"image": "https://www.morphik.ai/opengraph-image.png?opengraph-image.732ff123.png"
 },
 "movo-ai": {
 "checked": "2026-10-23",

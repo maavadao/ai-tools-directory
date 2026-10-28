@@ -1,0 +1,7 @@
+name = "nesa"
+description = "The Layer-1 blockchain for AI."
+category = "other"
+website = "https://nesa.ai"
+open_source = true
+repository = "https://github.com/nesaorg/nesa"
+added = 2026-10-28

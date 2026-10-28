@@ -1,0 +1,7 @@
+name = "Workspace MCP"
+description = "Connect AI assistants to Gmail, Drive, Docs, Sheets, Slides, Forms, Calendar, Chat, Contacts, Tasks, Apps Script, and Search through one production-ready Google Workspace MCP server."
+category = "chatbots"
+website = "https://workspacemcp.com"
+open_source = true
+repository = "https://github.com/taylorwilsdon/google_workspace_mcp"
+added = 2026-10-28

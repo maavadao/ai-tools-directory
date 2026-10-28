@@ -1,0 +1,7 @@
+name = "flyde"
+description = "Flyde, open-source visual programming language. Runs in the IDE, integrates with existing TypeScript code, browser and Node.js."
+category = "agents"
+website = "https://www.flyde.dev"
+open_source = true
+repository = "https://github.com/flydelabs/flyde"
+added = 2026-10-28

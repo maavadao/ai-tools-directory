@@ -1,0 +1,7 @@
+name = "OpenClaw 汉化版"
+description = "开源个人 AI 助手中文版，支持 WhatsApp、Telegram、Discord 等聊天平台，每小时自动同步官方更新。"
+category = "chatbots"
+website = "https://openclaw.qt.cool"
+open_source = true
+repository = "https://github.com/1186258278/OpenClawChineseTranslation"
+added = 2026-10-28

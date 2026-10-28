@@ -1,0 +1,7 @@
+name = "易标AI"
+description = "易标AI - 智能招投标解决方案，3分钟智能生成标书，代写标书，自动避雷废标项，中标率提升40%"
+category = "chatbots"
+website = "https://yibiao.pro"
+open_source = true
+repository = "https://github.com/FB208/OpenBidKit_Yibiao"
+added = 2026-10-28

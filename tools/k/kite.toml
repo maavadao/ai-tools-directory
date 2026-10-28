@@ -1,0 +1,7 @@
+name = "kite"
+description = "Kite is the lightweight, open-source Kubernetes workspace for clusters, observability, access control, and AI operations."
+category = "agents"
+website = "https://kitehq.dev"
+open_source = true
+repository = "https://github.com/kite-org/kite"
+added = 2026-10-28

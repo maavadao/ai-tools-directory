@@ -1,0 +1,7 @@
+name = "waymo-open-dataset"
+description = "Waymo—formerly the Google self-driving car project—makes it safe and easy for people & things to get around with autonomous vehicles. Take a ride now."
+category = "data"
+website = "https://waymo.com"
+open_source = true
+repository = "https://github.com/waymo-research/waymo-open-dataset"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "folkbench"
+description = "浏览 Folkbench 的 AI 中转站测评与排行榜，按模型比较已发布可用率、输入与输出价格，查看评测记录与数据覆盖时间。"
+category = "other"
+website = "https://folkbench.com"
+open_source = true
+repository = "https://github.com/Folkbench/folkbench"
+added = 2026-10-28

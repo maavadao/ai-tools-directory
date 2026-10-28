@@ -1,0 +1,7 @@
+name = "vortex"
+description = "Vortex is an extensible, state-of-the-art columnar file format, with associated tools for working with compressed Apache Arrow arrays in-memory, on-disk, and over-the-wire."
+category = "other"
+website = "https://vortex.dev"
+open_source = true
+repository = "https://github.com/vortex-data/vortex"
+added = 2026-10-28

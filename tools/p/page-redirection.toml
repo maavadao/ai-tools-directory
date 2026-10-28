@@ -1,0 +1,7 @@
+name = "Page Redirection"
+description = "MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python"
+category = "data"
+website = "https://mne.tools"
+open_source = true
+repository = "https://github.com/mne-tools/mne-python"
+added = 2026-10-28

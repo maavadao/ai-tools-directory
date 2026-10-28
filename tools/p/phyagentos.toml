@@ -1,0 +1,7 @@
+name = "PhyAgentOS"
+description = "PhyAgentOS：赋予物理终端自我演进能力的具身操作系统。从感知到行动，从仿真到真机，让机器人越用越聪明。"
+category = "agents"
+website = "https://phy-agent-os.x-era.com"
+open_source = true
+repository = "https://github.com/PhyAgentOS/PhyAgentOS-core"
+added = 2026-10-28

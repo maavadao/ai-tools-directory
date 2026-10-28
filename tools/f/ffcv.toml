@@ -1,0 +1,7 @@
+name = "FFCV"
+description = "FFCV: Fast Forward Computer Vision (and other ML workloads!)"
+category = "data"
+website = "https://ffcv.io"
+open_source = true
+repository = "https://github.com/libffcv/ffcv"
+added = 2026-10-28

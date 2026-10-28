@@ -1,0 +1,7 @@
+name = "awesome-mlss"
+description = "Find machine learning and artificial intelligence summer schools worldwide by topics, locations, dates, and deadlines. Natural Language Processing, Computer Vision, Reinforcement Learning, and more."
+category = "education"
+website = "https://awesome-mlss.com"
+open_source = true
+repository = "https://github.com/awesome-mlss/awesome-mlss"
+added = 2026-10-28

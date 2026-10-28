@@ -39,6 +39,10 @@
 "checked": "2026-10-23",
 "image": "https://www.thomsonreuters.com/content/dam/ue/en-us/images/product-images/248901.png.transform/rect-768/q90/image.png"
 },
+"catalyst": {
+"checked": "2026-10-28",
+"image": "https://catalyst-team.com/images/icon_hu5e987f2991281c7aa1a91620f0bb3847_57910_512x512_fill_lanczos_center_2.png"
+},
 "catboost": {
 "checked": "2026-10-25",
 "image": "https://catboost-opensource.s3.yandex.net/logo_white_for_dark_theme.svg"
@@ -71,6 +75,9 @@
 "checked": "2026-10-26",
 "image": "https://chainer.org/images/logo.png"
 },
+"chainforge": {
+"checked": "2026-10-28"
+},
 "character-ai": {
 "checked": "2026-10-23",
 "image": "https://character.ai/character-ai.jpg"
@@ -80,6 +87,9 @@
 },
 "chat-geekai-me": {
 "checked": "2026-10-27"
+},
+"chat-plexpt-com": {
+"checked": "2026-10-28"
 },
 "chat2db": {
 "checked": "2026-10-24",
@@ -111,6 +121,9 @@
 "url": "https://chatgpt.com/pricing/"
 }
 },
+"chatgpt-telegram-workers": {
+"checked": "2026-10-28"
+},
 "chatlab": {
 "checked": "2026-10-26"
 },
@@ -124,8 +137,15 @@
 "checked": "2026-10-23",
 "image": "https://cherryai.com/assets/images/social-card.jpg"
 },
+"cheshire-cat-ai": {
+"checked": "2026-10-28",
+"image": "https://cheshirecat.ai/_astro/cheshirecatai-cover-social.Bq1qrWeJ.jpg"
+},
 "chip-huyen": {
 "checked": "2026-10-27"
+},
+"chitu-ai": {
+"checked": "2026-10-28"
 },
 "chroma": {
 "checked": "2026-10-24",
@@ -145,6 +165,10 @@
 "from": 16.0,
 "url": "https://cindy.app/pricing"
 }
+},
+"claraverse": {
+"checked": "2026-10-28",
+"image": "https://claraverse.space/images/blog/clara-blog-announcement.png"
 },
 "clarity-ai": {
 "checked": "2026-10-27",
@@ -199,6 +223,10 @@
 "url": "https://cmem.ai/pricing"
 }
 },
+"claude-tracker": {
+"checked": "2026-10-28",
+"image": "https://claudetracker.com/assets/social-card.png?v=2026-10-28"
+},
 "claudecodeui": {
 "checked": "2026-10-25",
 "image": "https://cdn.sanity.io/images/s150envk/production/0dcef7522508c0162b22f1ee2ddf5391cca4b5e9-1200x630.png?w=1200&h=630&q=85&auto=format",
@@ -219,6 +247,10 @@
 },
 "clawith": {
 "checked": "2026-10-27"
+},
+"clawpanel": {
+"checked": "2026-10-28",
+"image": "https://claw.qt.cool/static/img/logo-128.png"
 },
 "clawskills-sh": {
 "checked": "2026-10-23",
@@ -302,6 +334,9 @@
 "url": "https://cloakbrowser.dev"
 }
 },
+"clodds": {
+"checked": "2026-10-28"
+},
 "cloudflare-docs": {
 "checked": "2026-10-26",
 "image": "https://developers.cloudflare.com/og-docs.png",
@@ -311,6 +346,10 @@
 "from": 5.0,
 "url": "https://www.cloudflare.com/plans/"
 }
+},
+"cloudpods": {
+"checked": "2026-10-28",
+"image": "https://www.cloudpods.org/img/docusaurus-social-card.jpg"
 },
 "cmux": {
 "checked": "2026-10-24",
@@ -401,6 +440,15 @@
 "free": true,
 "from": 4.0,
 "url": "https://comfy.org/pricing/"
+}
+},
+"comic-translate": {
+"checked": "2026-10-28",
+"image": "https://comic-translate.com/favicon.ico",
+"pricing": {
+"currency": "USD",
+"from": 5.99,
+"url": "https://comic-translate.com/pricing/"
 }
 },
 "comma-ai": {
@@ -511,6 +559,9 @@
 "cortex": {
 "checked": "2026-10-26"
 },
+"cortex-docs": {
+"checked": "2026-10-28"
+},
 "costrict": {
 "checked": "2026-10-27",
 "image": "https://costrict.ai/og-image.png"
@@ -524,6 +575,9 @@
 "trial": true,
 "url": "https://countly.com/pricing"
 }
+},
+"course-content": {
+"checked": "2026-10-28"
 },
 "cowagent": {
 "checked": "2026-10-23",
@@ -569,6 +623,16 @@
 "checked": "2026-10-25",
 "image": "https://crucix.live/og-image.png"
 },
+"crystal": {
+"checked": "2026-10-28",
+"image": "https://nimbalyst.com/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://nimbalyst.com/pricing/"
+}
+},
 "cua-spaces": {
 "checked": "2026-10-23",
 "image": "https://cua.ai/_spaces/img/og/spaces-card.jpg",
@@ -576,6 +640,16 @@
 "currency": "USD",
 "from": 15.0,
 "url": "https://cua.ai/pricing"
+}
+},
+"cube-computer": {
+"checked": "2026-10-28",
+"image": "https://cube.computer/og-mini.jpg",
+"pricing": {
+"currency": "USD",
+"from": 4.0,
+"trial": true,
+"url": "https://cube.computer/pricing/"
 }
 },
 "cube-dev": {
@@ -627,5 +701,20 @@
 "free": true,
 "url": "https://cyberbara.com/pricing"
 }
+},
+"cyberstrike": {
+"checked": "2026-10-28",
+"image": "https://cyberstrike.io/og-image.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 29.0,
+"trial": true,
+"url": "https://cyberstrike.io/pricing/"
+}
+},
+"cylonjs-com": {
+"checked": "2026-10-28",
+"image": "https://cdn.xoilacvbc.tv/2025/05/xoilac365-tv.png"
 }
 }

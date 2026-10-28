@@ -1,0 +1,7 @@
+name = "WPPConnect"
+description = "WPPConnect is an open-source ecosystem for WhatsApp automation. Library, server and tooling built by the community."
+category = "chatbots"
+website = "https://wppconnect.io"
+open_source = true
+repository = "https://github.com/wppconnect-team/wppconnect"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "source robotics"
+description = "Source Robotics bridges the gap between robotic education, research, and industry by focusing on accessibility, open-source and performance."
+category = "other"
+website = "https://source-robotics.com"
+open_source = true
+repository = "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm"
+added = 2026-10-28

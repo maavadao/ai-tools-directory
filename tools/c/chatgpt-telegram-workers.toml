@@ -1,0 +1,7 @@
+name = "ChatGPT-Telegram-Workers"
+description = "Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...)."
+category = "chatbots"
+website = "https://chatgpt-telegram-workers.tbxark.workers.dev"
+open_source = true
+repository = "https://github.com/tbxark/ChatGPT-Telegram-Workers"
+added = 2026-10-28

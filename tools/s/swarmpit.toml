@@ -1,0 +1,7 @@
+name = "swarmpit"
+description = "Lightweight AI-friendly Docker Swarm management"
+category = "design"
+website = "https://swarmpit.io"
+open_source = true
+repository = "https://github.com/swarmpit/swarmpit"
+added = 2026-10-28

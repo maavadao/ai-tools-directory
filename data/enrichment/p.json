@@ -5,6 +5,9 @@
 "paddlepaddle": {
 "checked": "2026-10-26"
 },
+"page-redirection": {
+"checked": "2026-10-28"
+},
 "pageindex": {
 "checked": "2026-10-23",
 "image": "https://pageindex.ai/static/images/twitter-card.jpg",
@@ -78,6 +81,10 @@
 "pdfmathtranslate": {
 "checked": "2026-10-23"
 },
+"penguinharness": {
+"checked": "2026-10-28",
+"image": "https://penguin.ooo/og-cover.png"
+},
 "pentagi": {
 "checked": "2026-10-23",
 "image": "https://pentagi.com/opengraph-image"
@@ -101,6 +108,9 @@
 "checked": "2026-10-26",
 "image": "https://steipete.me/peter-avatar.jpg"
 },
+"pettingzoo-documentation": {
+"checked": "2026-10-28"
+},
 "pexo": {
 "checked": "2026-10-23",
 "image": "https://pexo.ai/og-image.png",
@@ -112,6 +122,9 @@
 "photoprism": {
 "checked": "2026-10-23",
 "image": "https://i.photoprism.app/prism?cover=64&style=centered+dark"
+},
+"phyagentos": {
+"checked": "2026-10-28"
 },
 "pi-desktop": {
 "checked": "2026-10-26"
@@ -151,6 +164,10 @@
 "pipecat": {
 "checked": "2026-10-24"
 },
+"pipeshub": {
+"checked": "2026-10-28",
+"image": "https://framerusercontent.com/images/87N6FTaGQx1IeB0Klbo9hPHAOus.png"
+},
 "pixie": {
 "checked": "2026-10-26",
 "image": "https://px.dev/logo.svg"
@@ -178,6 +195,15 @@
 "point-cloud-library": {
 "checked": "2026-10-25"
 },
+"polyaxon": {
+"checked": "2026-10-28",
+"image": "https://polyaxon.com/images/og/site.png",
+"pricing": {
+"currency": "USD",
+"from": 125.0,
+"url": "https://polyaxon.com/pricing/"
+}
+},
 "polylane": {
 "checked": "2026-10-23",
 "image": "https://polylane.com/og.png",
@@ -204,6 +230,10 @@
 "porcupine": {
 "checked": "2026-10-27",
 "image": "https://picovoice.ai/og_images/og_picovoice_logo.png"
+},
+"postgres-sandbox": {
+"checked": "2026-10-28",
+"image": "https://database-build-4xjy4z2o2-supabase.vercel.app/opengraph-image.png?b55f41893ce22bc8"
 },
 "postgresml": {
 "checked": "2026-10-26",
@@ -247,6 +277,10 @@
 "printfilm": {
 "checked": "2026-10-26"
 },
+"prismml": {
+"checked": "2026-10-28",
+"image": "https://cdn.prod.website-files.com/697a3312d33c2cc715ec3899/69cae04a19115963ea13d12d_prism-og-img%20(2).png"
+},
 "private-gpt": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/assets/krxtn3RfwXQLTWNHwaYuWFI.png"
@@ -260,9 +294,16 @@
 "prompt-engineering-guide": {
 "checked": "2026-10-23"
 },
+"prompt-kit": {
+"checked": "2026-10-28",
+"image": "https://prompt-kit.com/opengraph-image.jpg?2e8effab5f3bf8ae"
+},
 "prompts-chat": {
 "checked": "2026-10-23",
 "image": "https://prompts.chat/opengraph-image.png?opengraph-image.57ebefa7.png"
+},
+"promptx": {
+"checked": "2026-10-28"
 },
 "puck": {
 "checked": "2026-10-25",
@@ -296,6 +337,9 @@
 "trial": true,
 "url": "https://www.pyannote.ai/pricing"
 }
+},
+"pybroker": {
+"checked": "2026-10-28"
 },
 "pydantic-docs": {
 "checked": "2026-10-24",

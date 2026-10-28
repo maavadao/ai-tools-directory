@@ -1,0 +1,7 @@
+name = "twinny"
+description = "Code completion, chat, inline edit and review on models you run. Nothing leaves your network. Free for individuals and teams of five."
+category = "coding"
+website = "https://twinny.dev"
+open_source = true
+repository = "https://github.com/twinnydotdev/twinny"
+added = 2026-10-28

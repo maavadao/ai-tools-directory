@@ -1,0 +1,7 @@
+name = "course-content"
+description = "NMA Computational Neuroscience course"
+category = "education"
+website = "https://compneuro.neuromatch.io"
+open_source = true
+repository = "https://github.com/NeuromatchAcademy/course-content"
+added = 2026-10-28

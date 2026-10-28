@@ -1,0 +1,7 @@
+name = "GraphJin"
+description = "One governed AI agent across your databases, APIs, files, and code. It answers real questions, carries out real operations, and refuses what it shouldn't — proven on a public benchmark with zero unsafe effects."
+category = "other"
+website = "https://graphjin.com"
+open_source = true
+repository = "https://github.com/dosco/graphjin"
+added = 2026-10-28

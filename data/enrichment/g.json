@@ -18,6 +18,10 @@
 "url": "https://geminicli.com/docs/resources/quota-and-pricing/"
 }
 },
+"generate-custom-ai-avatar": {
+"checked": "2026-10-28",
+"image": "https://photoshot-3z3z4n2jg-baptiste-adriens-projects.vercel.app/Generate%20AI%20avatars%20that%20perfectly%20capture%20your%20unique%20style.%20Write%20a%20prompt%20and%20let%20our%20Dreambooth%20and%20Stable%20diffusion%20technology%20do%20the%20rest."
+},
 "genkit": {
 "checked": "2026-10-26",
 "image": "https://genkit.dev/ogimage.png?v=1"
@@ -56,6 +60,10 @@
 "checked": "2026-10-27",
 "image": "https://gbrl.ai/social_sharing.png"
 },
+"gitagent": {
+"checked": "2026-10-28",
+"image": "https://gitagent.sh/og-banner-2.png"
+},
 "gitdiagram": {
 "checked": "2026-10-24",
 "image": "https://gitdiagram.com/opengraph-image.png?opengraph-image.174h-oeczhgif.png"
@@ -91,8 +99,15 @@
 "gobot": {
 "checked": "2026-10-25"
 },
+"goclaw": {
+"checked": "2026-10-28",
+"image": "https://goclaw.sh/logo/goclaw-og.png"
+},
 "gocv": {
 "checked": "2026-10-26"
+},
+"golutra": {
+"checked": "2026-10-28"
 },
 "google-cloud": {
 "checked": "2026-10-23",
@@ -150,6 +165,10 @@
 "free": true,
 "url": "https://graphify.com/pricing"
 }
+},
+"graphjin": {
+"checked": "2026-10-28",
+"image": "https://graphjin.com/og/graphjin-og.png"
 },
 "groq": {
 "checked": "2026-10-23",

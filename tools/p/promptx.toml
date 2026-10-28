@@ -1,0 +1,7 @@
+name = "PromptX"
+description = "PromptX · 领先的AI 智能体上下文平台 ｜ PromptX · Leading AI Agent Context Platform"
+category = "agents"
+website = "https://promptx.deepractice.ai"
+open_source = true
+repository = "https://github.com/Deepractice/PromptX"
+added = 2026-10-28

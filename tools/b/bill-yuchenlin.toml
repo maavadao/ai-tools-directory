@@ -1,0 +1,7 @@
+name = "bill@yuchenlin ~ $"
+description = "A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology)."
+category = "data"
+website = "https://yuchenlin.xyz"
+open_source = true
+repository = "https://github.com/yuchenlin/rebiber"
+added = 2026-10-28

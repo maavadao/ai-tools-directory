@@ -1,0 +1,7 @@
+name = "mobile-use"
+description = "mini, the AI QA agent, writes, runs and maintains your iOS, Android and web regression tests, cross-app, multi-device and offline flows included."
+category = "agents"
+website = "https://www.minitap.ai"
+open_source = true
+repository = "https://github.com/minitap-ai/mobile-use"
+added = 2026-10-28

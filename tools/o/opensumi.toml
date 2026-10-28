@@ -1,0 +1,7 @@
+name = "OpenSumi"
+description = "一款帮助你快速搭建本地和云端 IDE 的框架。"
+category = "other"
+website = "https://opensumi.com"
+open_source = true
+repository = "https://github.com/opensumi/core"
+added = 2026-10-28

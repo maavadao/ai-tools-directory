@@ -1,0 +1,7 @@
+name = "seekdb"
+description = "seekdb is an open-source, AI-native search database that unifies relational , vector, text, JSON and GIS in a single database engine, enabling hybrid search and in-database AI workflows."
+category = "agents"
+website = "https://www.seekdb.ai"
+open_source = true
+repository = "https://github.com/oceanbase/seekdb"
+added = 2026-10-28

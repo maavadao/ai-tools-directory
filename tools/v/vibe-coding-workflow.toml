@@ -1,0 +1,7 @@
+name = "Vibe-Coding Workflow"
+description = "Use the vibe coding workflow to turn an app idea into research, a PRD, a technical design, and AGENTS.md. The vibe planner maps each stage. Web companion to khazp/vibe-coding-prompt-template."
+category = "coding"
+website = "https://vibeworkflow.app"
+open_source = true
+repository = "https://github.com/KhazP/vibe-coding-prompt-template"
+added = 2026-10-28

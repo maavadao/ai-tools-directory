@@ -1,0 +1,7 @@
+name = "Home"
+description = "Build modern web applications in 100% Python"
+category = "data"
+website = "https://rio-ui.dev"
+open_source = true
+repository = "https://github.com/rio-labs/rio"
+added = 2026-10-28

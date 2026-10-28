@@ -1,0 +1,7 @@
+name = "deepnote"
+description = "Explore data with Python & SQL, work together with your team, and share insights that lead to action — all in one place with Deepnote."
+category = "data"
+website = "https://deepnote.com"
+open_source = true
+repository = "https://github.com/deepnote/deepnote"
+added = 2026-10-28

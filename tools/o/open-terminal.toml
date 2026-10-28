@@ -1,0 +1,7 @@
+name = "Open Terminal"
+description = "Open Terminal is a lightweight API for running shell commands remotely. Deploy with Docker, uvx, or pip and execute terminal workflows for AI agents and automation."
+category = "chatbots"
+website = "https://openterminal.sh"
+open_source = true
+repository = "https://github.com/open-webui/open-terminal"
+added = 2026-10-28

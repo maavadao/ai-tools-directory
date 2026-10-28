@@ -1,0 +1,7 @@
+name = "Redirecting..."
+description = "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers"
+category = "design"
+website = "https://apps.extensions.modelcontextprotocol.io"
+open_source = true
+repository = "https://github.com/modelcontextprotocol/ext-apps"
+added = 2026-10-28

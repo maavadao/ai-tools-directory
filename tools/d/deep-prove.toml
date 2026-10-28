@@ -1,0 +1,7 @@
+name = "deep-prove"
+description = "Lagrange is the ground-truth layer for AI and autonomy — cryptographic proofs for every AI inference and verifiable coordination for autonomous systems."
+category = "other"
+website = "https://lagrange.dev"
+open_source = true
+repository = "https://github.com/Lagrange-Labs/deep-prove"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "qsv.dathere.com"
+description = "qsv is a data-wrangling toolkit built with Rust to slice, dice, and analyze your data in seconds from the command line. Designed for very large data sets."
+category = "data"
+website = "https://qsv.dathere.com"
+open_source = true
+repository = "https://github.com/dathere/qsv"
+added = 2026-10-28

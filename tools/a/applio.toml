@@ -1,0 +1,7 @@
+name = "Applio"
+description = "Voice conversion, realtime voice changing, speech synthesis, and model training."
+category = "audio"
+website = "https://applio.org"
+open_source = true
+repository = "https://github.com/IAHispano/Applio"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "crystal"
+description = "Nimbalyst makes a wiki your coding agents write for you, and a visual workspace for working with Claude Code, Codex and other agents. Free, local and open source."
+category = "coding"
+website = "https://nimbalyst.com"
+open_source = true
+repository = "https://github.com/stravu/crystal"
+added = 2026-10-28

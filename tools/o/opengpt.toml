@@ -1,0 +1,7 @@
+name = "OpenGPT"
+description = "Use a wide range of ChatGPT applications or create your own in seconds."
+category = "chatbots"
+website = "https://open-gpt.app"
+open_source = true
+repository = "https://github.com/futantan/OpenGpt"
+added = 2026-10-28

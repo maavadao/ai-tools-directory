@@ -1,0 +1,7 @@
+name = "MarkTechPost"
+description = "Discover breaking artificial intelligence research, open-source AI models, LLM benchmarks, and developer tools updated daily on MarkTechPost."
+category = "education"
+website = "https://www.marktechpost.com"
+open_source = true
+repository = "https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials"
+added = 2026-10-28

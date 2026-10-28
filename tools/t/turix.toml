@@ -1,0 +1,7 @@
+name = "TuriX"
+description = "TuriX 是深圳新升代技术科技有限公司推出的超级智能体，结合通用 Agent 与 CUA 能力，安全可控地执行办公、编码和网页自动化任务。"
+category = "agents"
+website = "https://ngtechai.com"
+open_source = true
+repository = "https://github.com/TurixAI/TuriX-CUA"
+added = 2026-10-28

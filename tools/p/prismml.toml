@@ -1,0 +1,7 @@
+name = "PrismML"
+description = "PrismML builds 1-bit and ternary Bonsai models that pack advanced reasoning, tool use, and multimodal AI into phones, laptops, and efficient data centers."
+category = "chatbots"
+website = "https://prismml.com"
+open_source = true
+repository = "https://github.com/PrismML-Eng/Bonsai-demo"
+added = 2026-10-28

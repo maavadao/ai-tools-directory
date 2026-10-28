@@ -1,0 +1,7 @@
+name = "Comic Translate"
+description = "An AI manga translator and comic translator with OCR, editing tools, and support for webtoons, PDFs, and image archives."
+category = "other"
+website = "https://comic-translate.com"
+open_source = true
+repository = "https://github.com/ogkalu2/comic-translate"
+added = 2026-10-28

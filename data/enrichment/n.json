@@ -37,6 +37,16 @@
 "nasiko": {
 "checked": "2026-10-25"
 },
+"natively-ai": {
+"checked": "2026-10-28",
+"image": "https://heynatively.com/og-card.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 8.0,
+"url": "https://heynatively.com/pricing"
+}
+},
 "nautilustrader": {
 "checked": "2026-10-23",
 "image": "https://nautilustrader.io/blog/preview.jpg"
@@ -59,8 +69,19 @@
 "url": "https://needle.app/pricing"
 }
 },
+"neo-mjs": {
+"checked": "2026-10-28"
+},
 "neo4j-graph-builder": {
 "checked": "2026-10-27"
+},
+"nesa": {
+"checked": "2026-10-28",
+"image": "https://nesa.ai/opengraph-image.png?6de89eab50d10f6e",
+"pricing": {
+"free": true,
+"url": "https://nesa.ai/pricing"
+}
 },
 "netbird": {
 "checked": "2026-10-24",
@@ -70,12 +91,20 @@
 "url": "https://netbird.io/pricing"
 }
 },
+"netcall": {
+"checked": "2026-10-28",
+"image": "https://media.netcall.com/uploads/2023/10/28124058/KeepInnovating_Bulb_1920x900-jpg.webp"
+},
 "netdata": {
 "checked": "2026-10-23",
 "image": "https://www.netdata.cloud/img/og-image.png"
 },
 "netron": {
 "checked": "2026-10-23"
+},
+"neuralnote": {
+"checked": "2026-10-28",
+"image": "https://neuralnote.co/assets/og-image.jpg"
 },
 "neuralprophet": {
 "checked": "2026-10-27"
@@ -90,6 +119,10 @@
 },
 "nextchat": {
 "checked": "2026-10-23"
+},
+"nexu": {
+"checked": "2026-10-28",
+"image": "https://assets.nexu.io/home-page/media/frame-42.png"
 },
 "ngram": {
 "checked": "2026-10-23",
@@ -191,6 +224,10 @@
 "from": 8.0,
 "url": "https://www.notion.com/pricing"
 }
+},
+"notion-avatar-maker": {
+"checked": "2026-10-28",
+"image": "https://i.imgur.com/F5R0K03.png"
 },
 "novel": {
 "checked": "2026-10-24",

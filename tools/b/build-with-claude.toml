@@ -1,0 +1,7 @@
+name = "Build with Claude"
+description = "The plugin marketplace for Claude Code. Browse plugins, subagents, commands, skills, and hooks to enhance your AI development workflow."
+category = "other"
+website = "https://buildwithclaude.com"
+open_source = true
+repository = "https://github.com/davepoon/buildwithclaude"
+added = 2026-10-28

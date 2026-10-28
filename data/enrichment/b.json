@@ -56,6 +56,9 @@
 "url": "https://beam.win/pricing/"
 }
 },
+"beastbyte": {
+"checked": "2026-10-28"
+},
 "beatai": {
 "checked": "2026-10-27"
 },
@@ -93,6 +96,9 @@
 "url": "https://big-agi.com/"
 }
 },
+"bill-yuchenlin": {
+"checked": "2026-10-28"
+},
 "biomni": {
 "checked": "2026-10-27",
 "image": "https://biomni.stanford.edu/logo.png"
@@ -100,6 +106,9 @@
 "bit-dev": {
 "checked": "2026-10-24",
 "image": "https://static.bit.dev/og-images/bit-marketing-og-img-facebook-2025.png"
+},
+"bitbra-in": {
+"checked": "2026-10-28"
 },
 "bitrise-build-hub": {
 "checked": "2026-10-23",
@@ -177,6 +186,10 @@
 "checked": "2026-10-27",
 "image": "https://magnitude.dev/og-image.png"
 },
+"browser-mcp": {
+"checked": "2026-10-28",
+"image": "https://browsermcp.io/og/index.png"
+},
 "browser-use": {
 "checked": "2026-10-23",
 "image": "https://browser-use.com/og/home-og.png",
@@ -228,9 +241,15 @@
 "url": "https://www.promptfoo.dev/pricing/"
 }
 },
+"build-with-claude": {
+"checked": "2026-10-28"
+},
 "build-your-rich-text-editor": {
 "checked": "2026-10-24",
 "image": "https://platejs.org/og?title=Build%20your%20rich-text%20editor&description=A%20set%20of%20beautifully-designed%2C%20customizable%20plugins%20and%20components%20to%20help%20you%20build%20your%20rich-text%20editor.%20Open%20Source."
+},
+"builderbot": {
+"checked": "2026-10-28"
 },
 "burn": {
 "checked": "2026-10-24"

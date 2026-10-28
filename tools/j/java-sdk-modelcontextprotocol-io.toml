@@ -1,0 +1,7 @@
+name = "Redirecting"
+description = "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI"
+category = "other"
+website = "https://java.sdk.modelcontextprotocol.io"
+open_source = true
+repository = "https://github.com/modelcontextprotocol/java-sdk"
+added = 2026-10-28

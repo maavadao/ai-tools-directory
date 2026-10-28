@@ -1,0 +1,7 @@
+name = "Async IO"
+description = "Async IO is the company behind Atmosphere — the real-time agent platform for the JVM. Enterprise support, agent protocols (MCP, A2A, AG-UI), 12 AI runtimes behind one SPI, and 5 transports including WebTransport/HTTP3."
+category = "other"
+website = "https://async-io.live"
+open_source = true
+repository = "https://github.com/Atmosphere/atmosphere"
+added = 2026-10-28

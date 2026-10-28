@@ -1,0 +1,7 @@
+name = "Clodds"
+description = "Open-source AI trading terminal. 10 prediction markets, perpetual futures (200x leverage), Solana DeFi, EVM DeFi, Bittensor mining, 150 skills, 181+ API endpoints. Self-hosted."
+category = "other"
+website = "https://www.cloddsbot.com"
+open_source = true
+repository = "https://github.com/alsk1992/CloddsBot"
+added = 2026-10-28

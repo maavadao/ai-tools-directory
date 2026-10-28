@@ -1,0 +1,7 @@
+name = "appllama-skills"
+description = "Study the screens, flows, onboarding and paywalls of the top-grossing iOS apps, with revenue context. Then build an app people love to use."
+category = "other"
+website = "https://appllama.io"
+open_source = true
+repository = "https://github.com/Appllama/appllama-skills"
+added = 2026-10-28

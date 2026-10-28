@@ -1,0 +1,7 @@
+name = "LightX2V"
+description = "LightX2V 是端到端 AI 数字人视频与多模态内容生产平台，支持数字人口播、最长 5 分钟数字人视频、视频对口型、多人数字人、600+ AI 音色与可复用工作流。"
+category = "video"
+website = "https://x2v.light-ai.top"
+open_source = true
+repository = "https://github.com/ModelTC/LightX2V"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "jailbreak_llms"
+description = "Deformable Neural Radiance Fields creates free-viewpoint portraits (nerfies) from casually captured videos."
+category = "chatbots"
+website = "https://jailbreak-llms.xinyueshen.me"
+open_source = true
+repository = "https://github.com/verazuo/jailbreak_llms"
+added = 2026-10-28

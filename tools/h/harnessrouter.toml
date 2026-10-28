@@ -1,0 +1,7 @@
+name = "HarnessRouter"
+description = "Plug complete agent harnesses into your product through one API and isolated sandboxes."
+category = "agents"
+website = "https://harnessrouter.ai"
+open_source = true
+repository = "https://github.com/HarnessRouter/harnessrouter"
+added = 2026-10-28

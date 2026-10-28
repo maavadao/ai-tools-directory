@@ -1,0 +1,7 @@
+name = "zero123"
+description = "Zero-1-to-3: Zero-shot One Image to 3D Object"
+category = "image"
+website = "https://zero123.cs.columbia.edu"
+open_source = true
+repository = "https://github.com/cvlab-columbia/zero123"
+added = 2026-10-28

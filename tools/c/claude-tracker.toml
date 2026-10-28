@@ -1,0 +1,7 @@
+name = "Claude Tracker"
+description = "Track every Claude limit live from your Mac's menu bar: session windows, weekly caps, per-model usage, API cost, Claude Code integration. Free & open source."
+category = "other"
+website = "https://claudetracker.com"
+open_source = true
+repository = "https://github.com/hamed-elfayome/Claude-Usage-Tracker"
+added = 2026-10-28

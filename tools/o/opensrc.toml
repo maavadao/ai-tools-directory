@@ -1,0 +1,7 @@
+name = "opensrc"
+description = "Fetch source code for packages to give coding agents deeper context."
+category = "coding"
+website = "https://opensrc.sh"
+open_source = true
+repository = "https://github.com/vercel-labs/opensrc"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "tutti"
+description = "A real-time workspace for people and AI agents: parallel editing, agent borrowing, sharing without deploying. Local agents, your existing subscriptions."
+category = "other"
+website = "https://tutti.sh"
+open_source = true
+repository = "https://github.com/tutti-os/tutti"
+added = 2026-10-28

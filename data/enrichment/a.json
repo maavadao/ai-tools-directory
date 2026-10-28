@@ -37,6 +37,9 @@
 "checked": "2026-10-23",
 "image": "https://www.adobe.com/products/media_1912d2dfb102c668252eb9dda176f925d677fc5e2.png?width=1200&format=pjpg&optimize=medium"
 },
+"adrenaline": {
+"checked": "2026-10-28"
+},
 "adrian-bulat": {
 "checked": "2026-10-26",
 "image": "https://www.adrianbulat.com/user/themes/asgard3/images/me.jpg"
@@ -67,6 +70,10 @@
 "agent-device": {
 "checked": "2026-10-27",
 "image": "https://agent-device.dev/og-image.jpg"
+},
+"agent-heroes": {
+"checked": "2026-10-28",
+"image": "https://lpwcreate.space/images/og-image.jpg"
 },
 "agent-hunt": {
 "checked": "2026-10-23",
@@ -111,6 +118,10 @@
 "agentdesk": {
 "checked": "2026-10-26"
 },
+"agentfs": {
+"checked": "2026-10-28",
+"image": "https://agentfs.ai/og-image.png"
+},
 "agentgateway": {
 "checked": "2026-10-26",
 "image": "https://agentgateway.dev/ogimage.png"
@@ -118,6 +129,10 @@
 "agentic-awesome-skills": {
 "checked": "2026-10-23",
 "image": "https://aaskills.tech/social-card.png"
+},
+"agentic-ventures": {
+"checked": "2026-10-28",
+"image": "https://agentic-ventures.com/opengraph-image?c67ecbcb92891fb9"
 },
 "agenting-development": {
 "checked": "2026-10-25",
@@ -149,6 +164,10 @@
 "checked": "2026-10-24",
 "image": "https://agent-skills.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=Agent+Skills+Overview&description=A+standardized+way+to+give+AI+agents+new+capabilities+and+expertise.&theme=eceafe6c9bba4d39011a3a78&signature=f49b9582af9c7723bc252d6f293c7333b92eeb2853b625641b0f6bc444624ce9"
 },
+"agixt": {
+"checked": "2026-10-28",
+"image": "https://agixt.com/og-image.png"
+},
 "agno": {
 "checked": "2026-10-23",
 "image": "https://www.agno.com/og/home.png",
@@ -171,6 +190,13 @@
 "checked": "2026-10-25",
 "image": "https://thataicollection.com/img/images/thumbnail.jpeg"
 },
+"ai-daddy": {
+"checked": "2026-10-28",
+"image": "https://www.aidaddy.tech/og/default.png"
+},
+"ai-draw-nexus": {
+"checked": "2026-10-28"
+},
 "ai-engineer": {
 "checked": "2026-10-24",
 "pricing": {
@@ -190,6 +216,10 @@
 "ai-game-dev": {
 "checked": "2026-10-27",
 "image": "https://ai-game.dev/og/home.jpg?v=29201c04bcfc"
+},
+"ai-habitat": {
+"checked": "2026-10-28",
+"image": "https://aihabitat.org/static/habitat-blue.png"
 },
 "ai-middleware": {
 "checked": "2026-10-27"
@@ -238,6 +268,9 @@
 "checked": "2026-10-25",
 "image": "https://aihot.news/og/site.png"
 },
+"aily-project": {
+"checked": "2026-10-28"
+},
 "aimlinterviews-io": {
 "checked": "2026-10-25",
 "image": "https://www.aimlinterviews.io/ai-ml-interviews-cover-v2-social.jpg"
@@ -262,6 +295,9 @@
 "checked": "2026-10-27",
 "image": "https://statics.aipoch.com/public/f/image/og-science-open-to-all-ab128c94.png"
 },
+"aiq": {
+"checked": "2026-10-28"
+},
 "airbyte": {
 "checked": "2026-10-24",
 "image": "https://airbyte.com/images/opengraph-infrastructure-platform-data-ai.png",
@@ -279,8 +315,22 @@
 "checked": "2026-10-24",
 "image": "https://aitoearn.ai/og-image.png"
 },
+"alicevision": {
+"checked": "2026-10-28",
+"image": "https://alicevision.org/img/home_lion.jpg"
+},
 "all-api-hub-qixing1217-top": {
 "checked": "2026-10-27"
+},
+"allweone": {
+"checked": "2026-10-28",
+"image": "https://allweone.com/landing/presentation/opengraph-image?8e2597087646f071",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 8.0,
+"url": "https://presentation.allweone.com"
+}
 },
 "andrej-karpathy": {
 "checked": "2026-10-24"
@@ -308,6 +358,19 @@
 "anus": {
 "checked": "2026-10-26",
 "image": "https://anus.dev/assets/og.png"
+},
+"anycrawl": {
+"checked": "2026-10-28",
+"image": "https://anycrawl.dev/og-image.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://anycrawl.dev/price"
+}
+},
+"anylabeling": {
+"checked": "2026-10-28",
+"image": "https://anylabeling.nrl.ai/og.jpeg"
 },
 "anysearch": {
 "checked": "2026-10-26",
@@ -347,9 +410,20 @@
 "url": "https://www.apollo.io/pricing"
 }
 },
+"applio": {
+"checked": "2026-10-28",
+"image": "https://applio.org/opengraph-image.png"
+},
+"appllama-skills": {
+"checked": "2026-10-28",
+"image": "https://appllama.io/og.png"
+},
 "applyingml": {
 "checked": "2026-10-23",
 "image": "https://applyingml.com/default-og-image.png"
+},
+"apps-extensions-modelcontextprotocol-io": {
+"checked": "2026-10-28"
 },
 "arcbox": {
 "checked": "2026-10-27",
@@ -422,6 +496,16 @@
 "url": "https://askai.free/pricing"
 }
 },
+"askli": {
+"checked": "2026-10-28",
+"image": "https://www.askli.co/api/og",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 49.0,
+"url": "https://chaindesk.ai/pricing"
+}
+},
 "assemblyai": {
 "checked": "2026-10-23",
 "image": "https://www.assemblyai.com/_aai/images/meta/og-default.jpg",
@@ -443,6 +527,20 @@
 "astrbot": {
 "checked": "2026-10-23"
 },
+"async-io": {
+"checked": "2026-10-28",
+"image": "https://async-io.live/AsyncIO.png"
+},
+"athas": {
+"checked": "2026-10-28",
+"image": "https://athas.dev/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 10.0,
+"url": "https://athas.dev/pricing"
+}
+},
 "atlas": {
 "checked": "2026-10-25",
 "image": "https://www.tryatlas.cc/og-image.jpg",
@@ -452,8 +550,15 @@
 "url": "https://www.tryatlas.cc"
 }
 },
+"atomic-agent": {
+"checked": "2026-10-28",
+"image": "https://atomicagent.io/og.png"
+},
 "atopile": {
 "checked": "2026-10-27"
+},
+"audioflux": {
+"checked": "2026-10-28"
 },
 "aurelio-ai": {
 "checked": "2026-10-27",
@@ -499,6 +604,10 @@
 "checked": "2026-10-25",
 "image": "https://autoware.org/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-01-at-19.01.16.jpeg"
 },
+"avinashkranjan": {
+"checked": "2026-10-28",
+"image": "https://socialify.git.ci/avinashkranjan/Amazing-Python-Scripts/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F55796944%2F104455539-7258a200-55cd-11eb-90dc-7c9981e73d72.png&owner=1&pulls=1&stargazers=1"
+},
 "awarexone": {
 "checked": "2026-10-27",
 "image": "https://www.awarexone.com/og-image.jpg?v=2"
@@ -516,6 +625,9 @@
 },
 "awesome-mlops": {
 "checked": "2026-10-24"
+},
+"awesome-mlss": {
+"checked": "2026-10-28"
 },
 "awesome-open-source-ai": {
 "checked": "2026-10-27",

@@ -1,0 +1,7 @@
+name = "TTime"
+description = "TTime 是一款适用于 Windows 和 macOS 的翻译与文字识别软件，具备截图翻译、划词翻译、图片翻译和 OCR 文字识别等功能，并支持 DeepL、OpenAI、Google 翻译等多种服务"
+category = "other"
+website = "https://ttime.timerecord.cn"
+open_source = true
+repository = "https://github.com/InkTimeRecord/TTime"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "Adrenaline"
+description = "Chat with (and visualize) your codebase"
+category = "chatbots"
+website = "https://teams.useadrenaline.com"
+open_source = true
+repository = "https://github.com/shobrook/adrenaline"
+added = 2026-10-28

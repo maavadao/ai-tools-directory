@@ -1,0 +1,7 @@
+name = "vault-ai"
+description = "Upload any number of files (pdf, text, epub) and use them as context when asking OpenAI questions."
+category = "other"
+website = "https://vault.pash.city"
+open_source = true
+repository = "https://github.com/pashpashpash/vault-ai"
+added = 2026-10-28

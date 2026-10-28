@@ -1,0 +1,7 @@
+name = "vexa"
+description = "Open-source meeting bot API. Deploy bots that record, transcribe, and deliver real-time meeting data. Self-hostable. Bot from $0.30/hr."
+category = "developer-platforms"
+website = "https://vexa.ai"
+open_source = true
+repository = "https://github.com/Vexa-ai/vexa"
+added = 2026-10-28

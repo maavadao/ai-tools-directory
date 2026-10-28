@@ -1,0 +1,7 @@
+name = "OpenMind"
+description = "One operating system to orchestrate, personalize, and run robots reliably."
+category = "chatbots"
+website = "https://openmind.com"
+open_source = true
+repository = "https://github.com/OpenMind/OM1"
+added = 2026-10-28

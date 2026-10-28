@@ -1,0 +1,7 @@
+name = "Browser MCP"
+description = "Let Claude, Cursor, Codex and other AI apps use your real browser, with your logins, in tabs you can watch and stop."
+category = "other"
+website = "https://browsermcp.io"
+open_source = true
+repository = "https://github.com/BrowserMCP/mcp"
+added = 2026-10-28

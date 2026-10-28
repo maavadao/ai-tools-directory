@@ -1,0 +1,7 @@
+name = "audioFlux"
+description = "A library for audio and music analysis, feature extraction."
+category = "audio"
+website = "https://audioflux.top"
+open_source = true
+repository = "https://github.com/libAudioFlux/audioFlux"
+added = 2026-10-28

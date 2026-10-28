@@ -1,0 +1,7 @@
+name = "ManiSkill"
+description = "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark"
+category = "other"
+website = "https://www.maniskill.ai"
+open_source = true
+repository = "https://github.com/mani-skill/ManiSkill"
+added = 2026-10-28

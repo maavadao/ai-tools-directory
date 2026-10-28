@@ -1,0 +1,7 @@
+name = "AI Daddy"
+description = "130 free chapters on RAG, agents, evals, and inference at scale. For engineers moving into AI: read one on the commute, use it in the next interview."
+category = "education"
+website = "https://www.aidaddy.tech"
+open_source = true
+repository = "https://github.com/ombharatiya/ai-system-design-guide"
+added = 2026-10-28

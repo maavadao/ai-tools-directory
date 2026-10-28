@@ -1,0 +1,7 @@
+name = "TruLens"
+description = "TruLens finds where your agent fails and where you can cut cost without losing quality. Open source, OpenTelemetry-native."
+category = "agents"
+website = "https://www.trulens.org"
+open_source = true
+repository = "https://github.com/truera/trulens"
+added = 2026-10-28

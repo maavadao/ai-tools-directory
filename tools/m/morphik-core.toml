@@ -1,0 +1,7 @@
+name = "morphik-core"
+description = "Morphik's AI runs the back office for operators: AP, billing, collections, reconciliation and month-end close, inside the systems you already use. Your team approves; the AI does the work."
+category = "other"
+website = "https://www.morphik.ai"
+open_source = true
+repository = "https://github.com/morphik-org/morphik-core"
+added = 2026-10-28

@@ -19,13 +19,23 @@
 "url": "https://eclatira.com/pricing"
 }
 },
+"edgeever": {
+"checked": "2026-10-28",
+"image": "https://edgeever.org/_astro/edgeever-hero-product.BHAIBjy4_Z1PcWKB.jpg"
+},
 "editbanana-edit-banana": {
 "checked": "2026-10-26",
 "image": "https://www.editbanana.net/banana.jpg"
 },
+"efak": {
+"checked": "2026-10-28"
+},
 "ego-lite": {
 "checked": "2026-10-24",
 "image": "https://lite.ego.app/og.png"
+},
+"eidos-file": {
+"checked": "2026-10-28"
 },
 "eigent": {
 "checked": "2026-10-25",
@@ -39,6 +49,15 @@
 },
 "einops": {
 "checked": "2026-10-25"
+},
+"eiten": {
+"checked": "2026-10-28",
+"pricing": {
+"currency": "USD",
+"from": 69.0,
+"trial": true,
+"url": "https://tradytics.com"
+}
 },
 "ekko-studio": {
 "checked": "2026-10-25"
@@ -90,9 +109,16 @@
 "checked": "2026-10-26",
 "image": "https://emdash.com/opengraph-image.png?opengraph-image.bea53f98.png"
 },
+"erlich-liu": {
+"checked": "2026-10-28"
+},
 "ernie-blog": {
 "checked": "2026-10-26",
 "image": "https://ernie.baidu.com/blog/images/papermod-cover.png"
+},
+"eventcatalog": {
+"checked": "2026-10-28",
+"image": "https://www.eventcatalog.dev/img/opengraph.png"
 },
 "evermind": {
 "checked": "2026-10-25",

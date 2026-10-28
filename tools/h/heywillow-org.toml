@@ -1,0 +1,7 @@
+name = "Home"
+description = "A Practical, Open Source, Privacy-Focused Platform for Voice Assistants and other Applications"
+category = "other"
+website = "https://heywillow.org"
+open_source = true
+repository = "https://github.com/HeyWillow/willow"
+added = 2026-10-28

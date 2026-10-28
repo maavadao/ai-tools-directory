@@ -1,0 +1,7 @@
+name = "WebPlotDigitizer"
+description = "Web based software to extract data from plots, charts, bar charts etc."
+category = "other"
+website = "https://automeris.io"
+open_source = true
+repository = "https://github.com/automeris-io/WebPlotDigitizer"
+added = 2026-10-28

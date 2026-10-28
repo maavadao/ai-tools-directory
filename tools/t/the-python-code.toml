@@ -1,0 +1,7 @@
+name = "The Python Code"
+description = "Check out our Python programming tutorials and code recipes on wide variety of topics, all tutorials are free."
+category = "education"
+website = "https://thepythoncode.com"
+open_source = true
+repository = "https://github.com/x4nth055/pythoncode-tutorials"
+added = 2026-10-28

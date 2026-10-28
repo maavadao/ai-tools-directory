@@ -1,0 +1,7 @@
+name = "LeanCTX"
+description = "LeanCTX is the Context Gateway for AI systems. It selects context, controls what reaches the model, learns how your work connects and proves what was delivered."
+category = "chatbots"
+website = "https://leanctx.com"
+open_source = true
+repository = "https://github.com/yvgude/lean-ctx"
+added = 2026-10-28

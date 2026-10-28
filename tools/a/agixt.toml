@@ -1,0 +1,7 @@
+name = "AGiXT"
+description = "Build long-running AI agents with memory, browser use, code execution, integrations, and human-guided automation. Use the hosted app or self-host for free."
+category = "agents"
+website = "https://AGiXT.com"
+open_source = true
+repository = "https://github.com/Josh-XT/AGiXT"
+added = 2026-10-28

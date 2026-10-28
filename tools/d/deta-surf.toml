@@ -1,0 +1,7 @@
+name = "Deta Surf"
+description = "Elevate your internet."
+category = "education"
+website = "https://deta.surf"
+open_source = true
+repository = "https://github.com/deta/surf"
+added = 2026-10-28

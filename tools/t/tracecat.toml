@@ -1,0 +1,7 @@
+name = "tracecat"
+description = "Tracecat is the open source security automation platform for teams and AI agents. Build workflows, manage cases, and automate cyber defense."
+category = "agents"
+website = "https://www.tracecat.com"
+open_source = true
+repository = "https://github.com/TracecatHQ/tracecat"
+added = 2026-10-28

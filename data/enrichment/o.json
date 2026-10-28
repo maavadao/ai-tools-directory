@@ -13,6 +13,10 @@
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/images/Ztmb5fzsBj2oaVgWRUqBnP4yRU.jpg"
 },
+"off-grid-ai": {
+"checked": "2026-10-28",
+"image": "https://getoffgridai.co/assets/cover-personal-ai.png"
+},
 "offer-ai-agent": {
 "checked": "2026-10-27"
 },
@@ -90,6 +94,16 @@
 },
 "one-api": {
 "checked": "2026-10-23"
+},
+"onecli": {
+"checked": "2026-10-28",
+"image": "https://onecli.sh/og.png?v=6",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 49.0,
+"url": "https://onecli.sh/pricing"
+}
 },
 "onepin": {
 "checked": "2026-10-23",
@@ -182,6 +196,10 @@
 "url": "https://www.jumpserver.com/pricing"
 }
 },
+"open-terminal": {
+"checked": "2026-10-28",
+"image": "https://openterminal.sh/og-image.svg"
+},
 "open-webui-community": {
 "checked": "2026-10-23",
 "image": "https://openwebui.com/og-image.png"
@@ -202,6 +220,10 @@
 "checked": "2026-10-23",
 "image": "https://developers.openai.com/open-graph.png"
 },
+"openarm": {
+"checked": "2026-10-28",
+"image": "https://openarm.dev/images/ogp.webp"
+},
 "openbb": {
 "checked": "2026-10-23",
 "image": "https://openbb.co/assets/images/ogimages/Homepage.png"
@@ -209,6 +231,10 @@
 "openbot": {
 "checked": "2026-10-23",
 "image": "https://openbot.run/openbot-social.png"
+},
+"openbot-org": {
+"checked": "2026-10-28",
+"image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u5nn5wC-9SuU3dKvbzlvM28mMkgWJRyCNBfNIfYYeo65CREHrtysgjjome6rsLOpdH0RTZ_Ru5BkCOWDR2XhHxKP_65eR9jecKCgt29T2NZPn5q5VrVy5pFCvylgjuGN3PXdf8ls375LaEYX23fBsEF9LQaOgB6cG6uk8=w16383"
 },
 "opencat-quadruped-robot": {
 "checked": "2026-10-27"
@@ -224,6 +250,10 @@
 "openclaw": {
 "checked": "2026-10-23",
 "image": "https://openclaw.ai/og-image.png"
+},
+"openclaw-qt-cool": {
+"checked": "2026-10-28",
+"image": "https://openclaw.qt.cool/image/5.png"
 },
 "opencli": {
 "checked": "2026-10-24"
@@ -280,6 +310,13 @@
 "url": "https://opengeni.ai/pricing"
 }
 },
+"opengeoai-org": {
+"checked": "2026-10-28"
+},
+"opengpt": {
+"checked": "2026-10-28",
+"image": "https://open-gpt-app.vercel.app/og-image.png"
+},
 "openhands": {
 "checked": "2026-10-23",
 "image": "https://www.openhands.dev/assets/webflow/og/69161b32abf448a2df921a73_openhands_opengraph_01.png",
@@ -322,6 +359,10 @@
 "checked": "2026-10-24",
 "image": "https://open-metadata.org/assets/favicon.png"
 },
+"openmind": {
+"checked": "2026-10-28",
+"image": "https://openmind.com/og-image.png?v=3"
+},
 "openmined": {
 "checked": "2026-10-25",
 "image": "https://openmined.org/og-default.jpg"
@@ -351,6 +392,10 @@
 "trial": true,
 "url": "https://openobserve.ai/pricing/"
 }
+},
+"openoutreach": {
+"checked": "2026-10-28",
+"image": "https://openoutreach.app/og.png"
 },
 "openpencil": {
 "checked": "2026-10-25",
@@ -401,6 +446,14 @@
 "opensquilla": {
 "checked": "2026-10-26",
 "image": "https://opensquilla.cn/logo.png"
+},
+"opensrc": {
+"checked": "2026-10-28",
+"image": "https://opensrc.dev/og"
+},
+"opensumi": {
+"checked": "2026-10-28",
+"image": "https://img.alicdn.com/imgextra/i1/O1CN01XTErpN24JVlOVVK2I_!!6000000007370-2-tps-300-300.png"
 },
 "openswarm": {
 "checked": "2026-10-23",

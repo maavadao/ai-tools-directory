@@ -1,0 +1,7 @@
+name = "AI Habitat"
+description = "A platform for embodied AI research."
+category = "other"
+website = "https://aihabitat.org"
+open_source = true
+repository = "https://github.com/facebookresearch/habitat-lab"
+added = 2026-10-28

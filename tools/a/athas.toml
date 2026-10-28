@@ -1,0 +1,7 @@
+name = "athas"
+description = "Open-source code editor for macOS, Windows and Linux. Edit code, run AI agents, manage Git, use terminals and browse databases in one lightweight workspace."
+category = "coding"
+website = "https://athas.dev"
+open_source = true
+repository = "https://github.com/athasdev/athas"
+added = 2026-10-28

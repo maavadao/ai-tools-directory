@@ -1,0 +1,7 @@
+name = "AnyLabeling"
+description = "Effortless AI-assisted data labeling with AI support from Segment Anything and YOLO!"
+category = "other"
+website = "https://anylabeling.nrl.ai"
+open_source = true
+repository = "https://github.com/vietanhdev/anylabeling"
+added = 2026-10-28

@@ -1,0 +1,7 @@
+name = "Redirecting"
+description = "SRE Agent - CNCF Sandbox Project"
+category = "chatbots"
+website = "https://holmesgpt.dev"
+open_source = true
+repository = "https://github.com/HolmesGPT/holmesgpt"
+added = 2026-10-28

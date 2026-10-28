@@ -1,0 +1,7 @@
+name = "BeastByte"
+description = "BeastByte is a community of data science enthusiasts who enjoy working on open-source projects."
+category = "chatbots"
+website = "https://beastbyte.ai"
+open_source = true
+repository = "https://github.com/fnnx-ai/scikit-llm"
+added = 2026-10-28
