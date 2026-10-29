@@ -1,0 +1,7 @@
+name = "Future AGI"
+description = "Build self-improving agents. Catch what breaks. Know why. Fix it. Ship smarter every time."
+category = "other"
+website = "https://futureagi.com"
+open_source = true
+repository = "https://github.com/future-agi/future-agi"
+added = 2026-10-29

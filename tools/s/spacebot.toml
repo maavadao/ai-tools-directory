@@ -1,0 +1,7 @@
+name = "spacebot"
+description = "An AI agent for teams, communities, and multi-user environments."
+category = "coding"
+website = "https://spacebot.sh"
+open_source = true
+repository = "https://github.com/spacedriveapp/spacebot"
+added = 2026-10-29

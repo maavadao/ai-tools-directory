@@ -1,0 +1,7 @@
+name = "CAMB.AI"
+description = "CAMB.AI: Gold standard AI-powered localization in 150+ languages. Trusted by IMAX, Australian Open & Major League Soccer. Book a demo!"
+category = "audio"
+website = "https://www.camb.ai"
+open_source = true
+repository = "https://github.com/Camb-ai/MARS5-TTS"
+added = 2026-10-29

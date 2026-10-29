@@ -1,0 +1,7 @@
+name = "theSVG"
+description = "Search, copy, and ship 7,600+ brand SVG icons. Open-source library with npm, React, Vue, Svelte, CLI, CDN, and MCP server support."
+category = "other"
+website = "https://thesvg.org"
+open_source = true
+repository = "https://github.com/glincker/thesvg"
+added = 2026-10-29

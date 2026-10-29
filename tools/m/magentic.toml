@@ -1,0 +1,7 @@
+name = "magentic"
+description = "Seamlessly integrate LLMs as Python functions"
+category = "chatbots"
+website = "https://magentic.dev"
+open_source = true
+repository = "https://github.com/jackmpcollins/magentic"
+added = 2026-10-29

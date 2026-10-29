@@ -1,0 +1,7 @@
+name = "CubeStudio 国产化开源人工智能平台"
+description = "CubeStudio 是一款国产化、云原生的一站式开源人工智能平台，同时覆盖传统机器学习、深度学习与大模型全链路（MLOps / MaaS / 算力调度 / 训推平台），开源协议 MIT，开源免费商用，开源版本已有数千家企业私有化部署。平台提供多租户与算力纳管调度、算力租赁与 Token 中转站、拖"
+category = "other"
+website = "https://www.cubestudio.vip"
+open_source = true
+repository = "https://github.com/data-infra/cube-studio"
+added = 2026-10-29

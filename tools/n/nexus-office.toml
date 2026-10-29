@@ -1,0 +1,7 @@
+name = "Nexus Office"
+description = "Turn paper/text/topic into editable research figures, technical route diagrams, and presentation slides."
+category = "agents"
+website = "https://paper2any-studio.cpolar.cn"
+open_source = true
+repository = "https://github.com/OpenDCAI/Paper2Any"
+added = 2026-10-29

@@ -19,6 +19,10 @@
 "checked": "2026-10-26",
 "image": "https://imnotai.kr/opengraph-image.png?b4616bf8da8ab9ea"
 },
+"impeccable": {
+"checked": "2026-10-29",
+"image": "https://impeccable.style/og-image-v6.png"
+},
 "inbox-zero": {
 "checked": "2026-10-23",
 "image": "https://www.getinboxzero.com/opengraph-image.jpg?opengraph-image.2_3tl_gj8wvk_.jpg",
@@ -79,6 +83,10 @@
 "url": "https://www.infracost.io/pricing"
 }
 },
+"inkloom": {
+"checked": "2026-10-29",
+"image": "https://inkloom.art/og-default.png"
+},
 "insforge": {
 "checked": "2026-10-25",
 "image": "https://d3ct88kk7nodfa.cloudfront.net/images/cover.webp",
@@ -132,6 +140,14 @@
 "trial": true,
 "url": "https://www.interviewcoder.co/"
 }
+},
+"interviewready": {
+"checked": "2026-10-29",
+"image": "https://cdn.interviewready.io/og/v1/pages/home.66c420e5.png"
+},
+"introduction": {
+"checked": "2026-10-29",
+"image": "https://xturing.stochastic.ai/img/stochastic-opengraph.jpeg"
 },
 "intuitem": {
 "checked": "2026-10-27",

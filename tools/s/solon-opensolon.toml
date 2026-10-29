@@ -1,0 +1,7 @@
+name = "无耳 Solon (OpenSolon)"
+description = "Java “生态型”应用开发框架：克制、简洁、高效、开放、生态。Spring 国产化替代方案！"
+category = "other"
+website = "https://solon.noear.org"
+open_source = true
+repository = "https://github.com/opensolon/solon"
+added = 2026-10-29

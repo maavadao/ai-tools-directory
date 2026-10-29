@@ -1,0 +1,7 @@
+name = "MCP SuperAssistant"
+description = "The MCP SuperAssistant Chrome Extension , Let's you bring MCP to ChatGPT, Perplexity, Grok, Gemini, AIStudio, OpenRouter and other AI tools."
+category = "chatbots"
+website = "https://mcpsuperassistant.ai"
+open_source = true
+repository = "https://github.com/srbhptl39/MCP-SuperAssistant"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "Proma"
+description = "更干净的上下文，更透明的设计。成为自己的上下文工程师。"
+category = "chatbots"
+website = "https://proma.cool"
+open_source = true
+repository = "https://github.com/proma-ai/Proma"
+added = 2026-10-29

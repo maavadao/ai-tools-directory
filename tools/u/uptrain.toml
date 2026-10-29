@@ -1,0 +1,7 @@
+name = "UpTrain"
+description = "Enterprise-grade tooling to easily evaluate, experiment, monitor, and test LLM applications; Host on your own secure cloud environment."
+category = "other"
+website = "https://uptrain.ai"
+open_source = true
+repository = "https://github.com/uptrain-ai/uptrain"
+added = 2026-10-29

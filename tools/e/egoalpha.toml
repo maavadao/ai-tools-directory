@@ -1,0 +1,7 @@
+name = "EgoAlpha"
+description = "A Prompt Course"
+category = "chatbots"
+website = "https://egoalpha.com"
+open_source = true
+repository = "https://github.com/EgoAlpha/prompt-in-context-learning"
+added = 2026-10-29

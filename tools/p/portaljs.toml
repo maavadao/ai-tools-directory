@@ -1,0 +1,7 @@
+name = "PortalJS"
+description = "PortalJS is the simplest way to launch a modern, compliant open data portal. Designed for governments, nonprofits, and academic institutions."
+category = "other"
+website = "https://www.portaljs.com"
+open_source = true
+repository = "https://github.com/datopian/portaljs"
+added = 2026-10-29

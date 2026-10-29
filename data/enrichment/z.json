@@ -48,6 +48,15 @@
 "url": "https://www.zenml.io/pricing"
 }
 },
+"zennotes": {
+"checked": "2026-10-29",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 2.0,
+"url": "https://zennotes.org/pricing"
+}
+},
 "zenstory-ai": {
 "checked": "2026-10-28",
 "image": "https://zenstory.ai/brand/og-zenstory-ai.png"
@@ -69,6 +78,9 @@
 "zeron": {
 "checked": "2026-10-28",
 "image": "https://zeron.sh/assets/app-screenshot.jpg"
+},
+"zleap-ai": {
+"checked": "2026-10-29"
 },
 "zml": {
 "checked": "2026-10-27"

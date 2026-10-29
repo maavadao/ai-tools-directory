@@ -1,0 +1,7 @@
+name = "envd"
+description = "`envd` (ɪnˈvdɪ) is a command-line tool that helps you create the container-based development environment for code agents."
+category = "coding"
+website = "https://envd.tensorchord.ai"
+open_source = true
+repository = "https://github.com/tensorchord/envd"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "NXAI: Minds for Machines"
+description = "NXAI is a frontier AI lab building systems that master any cognitive task. Proprietary xLSTM memory architectures outperform Transformers — deployed today in edge, embedded, and forecasting applications."
+category = "chatbots"
+website = "https://www.nx-ai.com"
+open_source = true
+repository = "https://github.com/NX-AI/xlstm"
+added = 2026-10-29

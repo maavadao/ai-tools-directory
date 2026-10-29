@@ -1,0 +1,7 @@
+name = "NannyML Cloud"
+description = "Where data science teams monitor their models. Meet the standard for post-deployment data science. The power of NannyML Open Source without the infrastructure hassle."
+category = "data"
+website = "https://www.nannyml.com"
+open_source = true
+repository = "https://github.com/NannyML/nannyml"
+added = 2026-10-29

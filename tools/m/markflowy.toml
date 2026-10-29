@@ -1,0 +1,7 @@
+name = "MarkFlowy"
+description = "Find your writing flow with MarkFlowy, a local-first Markdown editor for macOS, Windows, and Linux. Visual and source editing, with optional AI assistance."
+category = "chatbots"
+website = "https://www.markflowy.cc"
+open_source = true
+repository = "https://github.com/drl990114/MarkFlowy"
+added = 2026-10-29

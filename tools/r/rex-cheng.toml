@@ -1,0 +1,7 @@
+name = "Rex Cheng"
+description = "[CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis"
+category = "audio"
+website = "https://hkchengrex.com"
+open_source = true
+repository = "https://github.com/hkchengrex/MMAudio"
+added = 2026-10-29

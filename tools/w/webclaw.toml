@@ -1,0 +1,7 @@
+name = "webclaw"
+description = "Extract public web pages as Markdown, JSON, and structured data for AI agents. Use the hosted API, CLI, MCP server, or self-hosted tools."
+category = "chatbots"
+website = "https://webclaw.io"
+open_source = true
+repository = "https://github.com/0xMassi/webclaw"
+added = 2026-10-29

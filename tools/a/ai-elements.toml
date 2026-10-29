@@ -1,0 +1,7 @@
+name = "AI Elements"
+description = "A component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster."
+category = "other"
+website = "https://elements.ai-sdk.dev"
+open_source = true
+repository = "https://github.com/vercel/ai-elements"
+added = 2026-10-29

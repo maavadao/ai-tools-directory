@@ -1,0 +1,7 @@
+name = "ArcKit"
+description = "Official ArcKit site: an AI harness and enterprise architecture kit for traceable governance artifacts, UK Government workflows, and community compliance overlays."
+category = "other"
+website = "https://arckit.org"
+open_source = true
+repository = "https://github.com/tractorjuice/arc-kit"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "LearnHouse"
+description = "Create, share, and sell online courses with the open-source platform built for educators. Self-host or use our cloud."
+category = "education"
+website = "https://www.learnhouse.app"
+open_source = true
+repository = "https://github.com/learnhouse/learnhouse"
+added = 2026-10-29

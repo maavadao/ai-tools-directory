@@ -1,0 +1,7 @@
+name = "EMGU"
+description = "Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library."
+category = "other"
+website = "https://www.emgu.com"
+open_source = true
+repository = "https://github.com/emgucv/emgucv"
+added = 2026-10-29

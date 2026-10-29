@@ -1,0 +1,7 @@
+name = "griptape"
+description = "Griptape enables creatives to orchestrate multiple AI models and agents within secure, professional workflows. It’s predictable, controllable, and built for the way you think."
+category = "chatbots"
+website = "https://www.griptape.ai"
+open_source = true
+repository = "https://github.com/griptape-ai/griptape"
+added = 2026-10-29

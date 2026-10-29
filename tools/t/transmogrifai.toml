@@ -1,0 +1,7 @@
+name = "TransmogrifAI"
+description = "AutoML library for building modular, reusable, strongly typed machine learning workflows on Spark from Salesforce Engineering"
+category = "other"
+website = "https://transmogrif.ai"
+open_source = true
+repository = "https://github.com/salesforce/TransmogrifAI"
+added = 2026-10-29

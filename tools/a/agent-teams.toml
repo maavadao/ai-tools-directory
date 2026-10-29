@@ -1,0 +1,7 @@
+name = "Agent Teams"
+description = "Lead autonomous AI teams that handle tasks, message each other, and review work. 300+ models, 200+ LLM providers, and free models with no auth. Free, open-source desktop app."
+category = "coding"
+website = "https://agentteams.live"
+open_source = true
+repository = "https://github.com/777genius/agent-teams-ai"
+added = 2026-10-29

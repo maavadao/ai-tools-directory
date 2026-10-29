@@ -1,0 +1,7 @@
+name = "Elephant-Goldfish Model"
+description = "Open-source plugin for spec-driven development with AI coding agents. Deep-context agents draft the design, and zero-context subagents stress-test it before you write code."
+category = "other"
+website = "https://egm.dev"
+open_source = true
+repository = "https://github.com/google/elephant-goldfish-model"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "AI Compendium"
+description = "The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from a business problem through data, AI, engineering, and product."
+category = "sales-marketing"
+website = "https://www.mlcompendium.com"
+open_source = true
+repository = "https://github.com/orico/www.mlcompendium.com"
+added = 2026-10-29

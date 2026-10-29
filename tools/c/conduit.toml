@@ -1,0 +1,7 @@
+name = "conduit"
+description = "Native iOS and Android client for self-hosted AI. Open WebUI, OpenAI-compatible and Ollama endpoints, or a Hermes agent. Chats stay on the device. GPL-3.0, no telemetry."
+category = "chatbots"
+website = "https://conduit.mobile"
+open_source = true
+repository = "https://github.com/cogwheel0/conduit"
+added = 2026-10-29

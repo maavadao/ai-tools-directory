@@ -1,0 +1,7 @@
+name = "SoraWebui"
+description = "SoraWebui is an open-source platform enabling users to easily create videos from text with OpenAI's Sora model."
+category = "chatbots"
+website = "https://sorawebui.com"
+open_source = true
+repository = "https://github.com/SoraWebui/SoraWebui"
+added = 2026-10-29

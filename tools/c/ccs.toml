@@ -1,0 +1,7 @@
+name = "CCS"
+description = "Run multiple Claude accounts simultaneously—work, personal, team. Plus cost-optimized GLM-5.1 and Kimi fallbacks. One command, zero downtime, perfect account and model match."
+category = "other"
+website = "https://ccs.kaitran.ca"
+open_source = true
+repository = "https://github.com/kaitranntt/ccs"
+added = 2026-10-29

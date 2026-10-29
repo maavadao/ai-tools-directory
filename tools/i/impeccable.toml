@@ -1,0 +1,7 @@
+name = "impeccable"
+description = "Turn AI slop into interfaces you’re proud to ship. Impeccable gives your agent the design expertise to build from scratch, improve what you have, and stay true to your design system."
+category = "design"
+website = "https://impeccable.style"
+open_source = true
+repository = "https://github.com/pbakaus/impeccable"
+added = 2026-10-29

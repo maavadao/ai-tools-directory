@@ -1,0 +1,7 @@
+name = "SpeechGPT"
+description = "SpeechGPT is a web application that enables you to converse with ChatGPT. You can utilize this app to improve your language speaking skills or simply have fun chatting with ChatGPT."
+category = "audio"
+website = "https://speechgpt.app"
+open_source = true
+repository = "https://github.com/hahahumble/speechgpt"
+added = 2026-10-29

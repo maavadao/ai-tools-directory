@@ -1,0 +1,7 @@
+name = "新华三智能终端"
+description = "新华三智能终端构建本地 AI 完整方案：MegaCube 端侧算力、开源模型适配、自研推理引擎、品悟智能体与开放行业生态。"
+category = "chatbots"
+website = "https://pinvou.com"
+open_source = true
+repository = "https://github.com/Pinvou/pinvou-agent"
+added = 2026-10-29

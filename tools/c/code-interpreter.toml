@@ -1,0 +1,7 @@
+name = "code-interpreter"
+description = "The AI Agent Cloud. An isolated machine for every AI agent: run code, browse, use tools, pause, fork. In our cloud or your AWS, GCP, or Azure account. 100K+ teams, 2B+ sandboxes started."
+category = "other"
+website = "https://e2b.dev"
+open_source = true
+repository = "https://github.com/e2b-dev/code-interpreter"
+added = 2026-10-29

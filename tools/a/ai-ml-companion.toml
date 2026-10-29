@@ -1,0 +1,7 @@
+name = "AI-ML Companion"
+description = "Learn machine learning with 29 interactive tracks covering foundations, linear algebra, deep learning, LLMs, MLOps, SQL, and more. 400+ hands-on modules and 26 capstone projects with live visualizations, quizzes, and Python code execution."
+category = "other"
+website = "https://aimlcompanion.ai"
+open_source = true
+repository = "https://github.com/genieincodebottle/generative-ai"
+added = 2026-10-29

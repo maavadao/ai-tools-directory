@@ -1,0 +1,7 @@
+name = "robosuite"
+description = "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning"
+category = "other"
+website = "https://robosuite.ai"
+open_source = true
+repository = "https://github.com/ARISE-Initiative/robosuite"
+added = 2026-10-29

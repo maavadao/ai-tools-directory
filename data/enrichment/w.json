@@ -44,6 +44,24 @@
 "checked": "2026-10-26",
 "image": "https://www.webchatgpt.app/webchatgpt-social.png"
 },
+"webclaw": {
+"checked": "2026-10-29",
+"image": "https://webclaw.io/opengraph-image?88541a8c80af9312",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 19.0,
+"url": "https://webclaw.io/pricing"
+}
+},
+"webcmd": {
+"checked": "2026-10-29",
+"image": "https://webcmd.dev/og.png?v=3"
+},
+"webgradients": {
+"checked": "2026-10-29",
+"image": "https://webgradients.com/webgradients-og.jpg"
+},
 "webiny-js": {
 "checked": "2026-10-26",
 "image": "https://www.webiny.com/social/webiny-og-cover.png",
@@ -109,6 +127,17 @@
 "workbuddy": {
 "checked": "2026-10-28",
 "image": "https://workbuddy.homes/og/workbuddy-guide.png"
+},
+"workflow-sdk": {
+"checked": "2026-10-29",
+"image": "https://workflow-sdk.dev/og",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 10.0,
+"trial": true,
+"url": "https://vercel.com/pricing"
+}
 },
 "workspace-mcp": {
 "checked": "2026-10-28",

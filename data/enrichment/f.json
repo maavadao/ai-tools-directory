@@ -17,6 +17,10 @@
 "url": "https://befailproof.ai/pricing/"
 }
 },
+"fairlearn": {
+"checked": "2026-10-29",
+"image": "https://fairlearn.org/images/fairlearn-meta-image.jpg"
+},
 "faiss": {
 "checked": "2026-10-23"
 },
@@ -34,6 +38,10 @@
 "faraday": {
 "checked": "2026-10-26",
 "image": "https://faradaysec.com/wp-content/uploads/2025/08/faraday-post-featured-image-background.jpg"
+},
+"farfalle-dev": {
+"checked": "2026-10-29",
+"image": "https://ezone-electronics.online/wp-content/uploads/2016/08/dummy-1.jpg"
 },
 "fast-agent": {
 "checked": "2026-10-27",
@@ -59,6 +67,9 @@
 "checked": "2026-10-24",
 "image": "https://fastmcp.mintlify.app/_mintlify/api/og/v2?division=Get+Started&title=FastMCP%3A+The+Framework+for+MCP&description=FastMCP+is+the+standard+framework+for+building+Model+Context+Protocol+%28MCP%29+servers%2C+clients%2C+and+interactive+applications.&theme=eccfc557d41f0e9854966f28&signature=339eb9d0d1bf18803a1fb753aa8789156e210cc4d1716326020ac0ac57b44b8e"
 },
+"fastml-foundation": {
+"checked": "2026-10-29"
+},
 "fastrouter-ai": {
 "checked": "2026-10-23",
 "image": "https://fastrouter.ai/opengraph-image",
@@ -73,6 +84,9 @@
 "feast": {
 "checked": "2026-10-26",
 "image": "https://feast.dev/wp-content/uploads/2023/01/feast-og@2x.png"
+},
+"feature-engine-8212-1-9-4": {
+"checked": "2026-10-29"
 },
 "ferndesk": {
 "checked": "2026-10-23",
@@ -107,6 +121,10 @@
 "from": 3.0,
 "url": "https://www.figma.com/pricing/"
 }
+},
+"figma-console-mcp": {
+"checked": "2026-10-29",
+"image": "https://southleft.com/media/sl-logo.jpg"
 },
 "figma-context-mcp": {
 "checked": "2026-10-24"
@@ -245,6 +263,16 @@
 "free": true,
 "from": 60.0,
 "url": "https://fuseai.com/pricing"
+}
+},
+"future-agi": {
+"checked": "2026-10-29",
+"image": "https://futureagi.com/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 249.0,
+"url": "https://futureagi.com/pricing/"
 }
 },
 "fuxi": {

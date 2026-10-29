@@ -1,0 +1,7 @@
+name = "LearnPrompt"
+description = "用真实项目学习任务拆解、代码交付、Agent 工作流、Skills 与知识沉淀。"
+category = "education"
+website = "https://www.learnprompt.pro"
+open_source = true
+repository = "https://github.com/LearnPrompt/LearnPrompt"
+added = 2026-10-29

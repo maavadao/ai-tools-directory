@@ -7,6 +7,9 @@
 "checked": "2026-10-23",
 "image": "https://uupm.cc/share.png"
 },
+"ultra-ai": {
+"checked": "2026-10-29"
+},
 "ultralytics-platform": {
 "checked": "2026-10-23",
 "image": "https://cdn.ul.run/i/f34fcbe4eaafb350d480438ccbaaefc7.webp",
@@ -23,6 +26,9 @@
 "from": 100.0,
 "url": "https://www.ultravox.ai/pricing"
 }
+},
+"unrealcv": {
+"checked": "2026-10-29"
 },
 "unsloth": {
 "checked": "2026-10-23",
@@ -56,6 +62,9 @@
 "trial": true,
 "url": "https://upscayl.org/pricing"
 }
+},
+"uptrain": {
+"checked": "2026-10-29"
 },
 "useit-studio": {
 "checked": "2026-10-23"

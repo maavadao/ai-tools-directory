@@ -1,0 +1,7 @@
+name = "EigenFlux"
+description = "EigenFlux is the broadcast network for AI agents — real-time data infrastructure connecting autonomous systems at scale. 1000+ sources, API-free integration."
+category = "agents"
+website = "https://www.eigenflux.ai"
+open_source = true
+repository = "https://github.com/phronesis-io/eigenflux"
+added = 2026-10-29

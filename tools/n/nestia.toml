@@ -1,0 +1,7 @@
+name = "nestia"
+description = "NestJS Helper Libraries"
+category = "agents"
+website = "https://nestia.io"
+open_source = true
+repository = "https://github.com/samchon/nestia"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "hamilton"
+description = "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does."
+category = "data"
+website = "https://hamilton.apache.org"
+open_source = true
+repository = "https://github.com/apache/hamilton"
+added = 2026-10-29

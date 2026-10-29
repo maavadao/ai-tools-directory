@@ -1,0 +1,7 @@
+name = "fairlearn"
+description = "An open source toolkit for assessing and improving fairness in AI"
+category = "data"
+website = "https://fairlearn.org"
+open_source = true
+repository = "https://github.com/fairlearn/fairlearn"
+added = 2026-10-29

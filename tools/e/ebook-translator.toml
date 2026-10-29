@@ -1,0 +1,7 @@
+name = "Ebook Translator"
+description = "A Calibre plugin to translate ebook into a specified language."
+category = "chatbots"
+website = "https://translator.bookfere.com"
+open_source = true
+repository = "https://github.com/bookfere/Ebook-Translator-Calibre-Plugin"
+added = 2026-10-29

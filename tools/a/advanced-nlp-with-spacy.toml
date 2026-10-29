@@ -1,0 +1,7 @@
+name = "Advanced NLP with spaCy"
+description = "spaCy is a modern Python library for industrial-strength Natural Language Processing. In this free and interactive online course, you'll learn how to use spaCy to build advanced natural language understanding systems, using both rule-based and machine learning approaches."
+category = "education"
+website = "https://course.spacy.io"
+open_source = true
+repository = "https://github.com/explosion/spacy-course"
+added = 2026-10-29

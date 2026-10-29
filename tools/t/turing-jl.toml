@@ -1,0 +1,7 @@
+name = "Turing.jl"
+description = "Turing.jl is a probabilistic programming language and Bayesian modelling framework for the Julia programming language."
+category = "data"
+website = "https://turinglang.org"
+open_source = true
+repository = "https://github.com/TuringLang/Turing.jl"
+added = 2026-10-29

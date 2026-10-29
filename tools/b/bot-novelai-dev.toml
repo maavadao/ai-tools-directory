@@ -1,0 +1,7 @@
+name = "介绍"
+description = "基于 NovelAI 的画图机器人"
+category = "image"
+website = "https://bot.novelai.dev"
+open_source = true
+repository = "https://github.com/koishijs/novelai-bot"
+added = 2026-10-29

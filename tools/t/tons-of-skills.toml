@@ -1,0 +1,7 @@
+name = "Tons of Skills"
+description = "2,713 marketplace-visible agent skills across 428 catalog plugins for AI coding agents. Free and open source."
+category = "agents"
+website = "https://tonsofskills.com"
+open_source = true
+repository = "https://github.com/jeremylongshore/tons-of-skills-marketplace"
+added = 2026-10-29

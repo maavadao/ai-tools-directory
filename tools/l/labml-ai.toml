@@ -1,0 +1,7 @@
+name = "labml.ai"
+description = "Organize machine learning experiments and monitor training progress from mobile."
+category = "data"
+website = "https://labml.ai"
+open_source = true
+repository = "https://github.com/labmlai/labml"
+added = 2026-10-29

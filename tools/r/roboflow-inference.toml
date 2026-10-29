@@ -1,0 +1,7 @@
+name = "Roboflow Inference"
+description = "Open-source computer vision deployment hub from Roboflow for serving models locally, in the cloud, or on edge devices."
+category = "other"
+website = "https://inference.roboflow.com"
+open_source = true
+repository = "https://github.com/roboflow/inference"
+added = 2026-10-29

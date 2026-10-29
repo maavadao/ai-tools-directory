@@ -1,0 +1,7 @@
+name = "verticals.gg"
+description = "Give it a topic. Get a published YouTube Short. Fully automated."
+category = "audio"
+website = "https://verticals.gg"
+open_source = true
+repository = "https://github.com/rushindrasinha/youtube-shorts-pipeline"
+added = 2026-10-29

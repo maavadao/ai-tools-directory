@@ -1,4 +1,7 @@
 {
+"ra-aid": {
+"checked": "2026-10-29"
+},
 "radar": {
 "checked": "2026-10-27",
 "image": "https://radarhq.io/radar/opengraph-image.png?opengraph-image.3l_-r9z9qry3g.png",
@@ -182,6 +185,9 @@
 "revision-39841": {
 "checked": "2026-10-25"
 },
+"rex-cheng": {
+"checked": "2026-10-29"
+},
 "rfdetr-roboflow-com": {
 "checked": "2026-10-25"
 },
@@ -227,6 +233,20 @@
 "rlcard-showdown": {
 "checked": "2026-10-27"
 },
+"rlhf-book": {
+"checked": "2026-10-29",
+"image": "https://rlhfbook.com/assets/rlhf-book-share.png"
+},
+"rmux": {
+"checked": "2026-10-29",
+"image": "https://rmux.io/social-preview-v3.jpg"
+},
+"roboflow-inference": {
+"checked": "2026-10-29"
+},
+"robosuite": {
+"checked": "2026-10-29"
+},
 "robotgo": {
 "checked": "2026-10-25"
 },
@@ -251,6 +271,9 @@
 "rtk": {
 "checked": "2026-10-23",
 "image": "https://www.rtk-ai.app/og-image.png"
+},
+"rubix-ml": {
+"checked": "2026-10-29"
 },
 "ruby-openai": {
 "checked": "2026-10-28"

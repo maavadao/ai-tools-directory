@@ -44,6 +44,10 @@
 "url": "https://jcode.sh/pricing"
 }
 },
+"jcodemunch-mcp": {
+"checked": "2026-10-29",
+"image": "https://jcodemunch.com/og-image.png"
+},
 "jdai-lab": {
 "checked": "2026-10-24"
 },
@@ -108,5 +112,9 @@
 "from": 16.0,
 "url": "https://julius.ai/pricing"
 }
+},
+"justhireme": {
+"checked": "2026-10-29",
+"image": "https://justhireme.ai/og-image.jpg"
 }
 }

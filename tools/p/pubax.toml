@@ -1,0 +1,7 @@
+name = "PubAX"
+description = "공공 업무에 쓰는 AI 도구. 법령 MCP, kordoc, Anything."
+category = "other"
+website = "https://pubax.org"
+open_source = true
+repository = "https://github.com/chrisryugj/korean-law-mcp"
+added = 2026-10-29

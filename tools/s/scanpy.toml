@@ -1,0 +1,7 @@
+name = "scanpy"
+description = "Stars PyPI PyPI Downloads Conda Forge Conda Forge Downloads Docs CI Discourse topics Chat Powered by NumFOCUS Scanpy is a scalable toolkit for analyzing single-cell gene expression data built joint..."
+category = "data"
+website = "https://scanpy.scverse.org"
+open_source = true
+repository = "https://github.com/scverse/scanpy"
+added = 2026-10-29

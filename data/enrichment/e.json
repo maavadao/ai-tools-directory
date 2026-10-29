@@ -1,4 +1,7 @@
 {
+"ebook-translator": {
+"checked": "2026-10-29"
+},
 "ecc": {
 "checked": "2026-10-23",
 "image": "https://ecc.tools/og.png?v=3f55054986bd",
@@ -19,9 +22,17 @@
 "url": "https://eclatira.com/pricing"
 }
 },
+"edge-tts-voices": {
+"checked": "2026-10-29",
+"image": "https://tts.travisvn.com/og-image.jpg"
+},
 "edgeever": {
 "checked": "2026-10-28",
 "image": "https://edgeever.org/_astro/edgeever-hero-product.BHAIBjy4_Z1PcWKB.jpg"
+},
+"edgequake": {
+"checked": "2026-10-29",
+"image": "https://edgequake.com/og-default.png"
 },
 "editbanana-edit-banana": {
 "checked": "2026-10-26",
@@ -34,8 +45,15 @@
 "checked": "2026-10-24",
 "image": "https://lite.ego.app/og.png"
 },
+"egoalpha": {
+"checked": "2026-10-29"
+},
 "eidos-file": {
 "checked": "2026-10-28"
+},
+"eigenflux": {
+"checked": "2026-10-29",
+"image": "https://www.eigenflux.ai/og-image.png"
 },
 "eigent": {
 "checked": "2026-10-25",
@@ -79,6 +97,10 @@
 "url": "https://electric.ax/pricing"
 }
 },
+"elephant-goldfish-model": {
+"checked": "2026-10-29",
+"image": "https://egm.dev/og.png"
+},
 "eleutherai": {
 "checked": "2026-10-24",
 "image": "https://www.eleuther.ai/assets/social/eleutherai-social-card.png"
@@ -108,6 +130,13 @@
 "emdash": {
 "checked": "2026-10-26",
 "image": "https://emdash.com/opengraph-image.png?opengraph-image.bea53f98.png"
+},
+"emgu": {
+"checked": "2026-10-29"
+},
+"envd": {
+"checked": "2026-10-29",
+"image": "https://og.tensorchord.ai/api/og?title=envd"
 },
 "erlich-liu": {
 "checked": "2026-10-28"

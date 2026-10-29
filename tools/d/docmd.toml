@@ -1,0 +1,7 @@
+name = "docmd"
+description = "Open-source documentation compiler. One Markdown source, one command – generates website, search, AI context, agent protocols, and knowledge formats together."
+category = "research"
+website = "https://docmd.io"
+open_source = true
+repository = "https://github.com/docmd-io/docmd"
+added = 2026-10-29

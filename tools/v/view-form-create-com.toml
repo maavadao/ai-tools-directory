@@ -1,0 +1,7 @@
+name = "好用的可视化 AI 表单设计器"
+description = "FcDesigner 是基于 Vue 的开源低代码可视化 AI 表单设计器。用自然语言描述业务即可生成表单结构，也可以拖拽组件并导出 JSON，再由渲染器还原成可交互表单。目前，在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。"
+category = "other"
+website = "https://view.form-create.com"
+open_source = true
+repository = "https://github.com/xaboy/form-create-designer"
+added = 2026-10-29

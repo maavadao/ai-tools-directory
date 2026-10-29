@@ -1,0 +1,7 @@
+name = "Chat SDK"
+description = "A unified TypeScript SDK for building chat bots with type-safe handlers, JSX cards, and multi-platform support—powered by Vercel"
+category = "chatbots"
+website = "https://chat-sdk.dev"
+open_source = true
+repository = "https://github.com/vercel/chat"
+added = 2026-10-29

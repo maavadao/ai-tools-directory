@@ -1,0 +1,7 @@
+name = "GPUPixel"
+description = "Realtime AI Beauty Filter Library."
+category = "image"
+website = "https://gpupixel.pixpark.net"
+open_source = true
+repository = "https://github.com/pixpark/gpupixel"
+added = 2026-10-29

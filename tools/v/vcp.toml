@@ -1,0 +1,7 @@
+name = "VCP"
+description = "VCP 是开源的全栈 AI Agent 运行时，集成长期记忆、工具调用、统一上下文与分布式协作，让 AI 从对话走向持续行动。官网提供 VCPToolBox、VCPChat 下载入口、部署指南、技术文档与生态应用。"
+category = "chatbots"
+website = "https://www.vcptoolbox.com"
+open_source = true
+repository = "https://github.com/lioensky/VCPToolBox"
+added = 2026-10-29

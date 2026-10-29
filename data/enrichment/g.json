@@ -60,6 +60,10 @@
 "checked": "2026-10-27",
 "image": "https://gbrl.ai/social_sharing.png"
 },
+"git-ai": {
+"checked": "2026-10-29",
+"image": "https://usegitai.com/opengraph-image-12jlf3?ffdf9fbaf76a0327"
+},
 "gitagent": {
 "checked": "2026-10-28",
 "image": "https://gitagent.sh/og-banner-2.png"
@@ -109,6 +113,18 @@
 "golutra": {
 "checked": "2026-10-28"
 },
+"goodcase-ai": {
+"checked": "2026-10-29",
+"image": "https://goodcase.ai/opengraph-image"
+},
+"google-ai-for-developers": {
+"checked": "2026-10-29",
+"image": "https://ai.google.dev/static/site-assets/images/share-ai-dev.png",
+"pricing": {
+"free": true,
+"url": "https://ai.google.dev/gemini-api/docs/pricing"
+}
+},
 "google-cloud": {
 "checked": "2026-10-23",
 "image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png"
@@ -150,6 +166,10 @@
 "checked": "2026-10-27",
 "image": "https://gptme.org/media/logo.png"
 },
+"gpupixel": {
+"checked": "2026-10-29",
+"image": "https://vitepress.dev/vitepress-og.jpg"
+},
 "gpustack": {
 "checked": "2026-10-26",
 "image": "https://gpustack.ai/opengraph-image?5dfcdf7b3fc6ea95"
@@ -169,6 +189,17 @@
 "graphjin": {
 "checked": "2026-10-28",
 "image": "https://graphjin.com/og/graphjin-og.png"
+},
+"grida": {
+"checked": "2026-10-29",
+"pricing": {
+"free": true,
+"url": "https://grida.co/pricing"
+}
+},
+"griptape": {
+"checked": "2026-10-29",
+"image": "https://cdn.prod.website-files.com/65d658559223871198e78bca/69a6e732e154609786d9e9cc_feb9d9ee07bfd00b321c90c53f7cfe3d_Open-Graph.png"
 },
 "groq": {
 "checked": "2026-10-23",

@@ -1,0 +1,7 @@
+name = "Lobe UI"
+description = "Lobe UI is an open-source UI component library for building AIGC web apps."
+category = "image"
+website = "https://ui.lobehub.com"
+open_source = true
+repository = "https://github.com/lobehub/lobe-ui"
+added = 2026-10-29

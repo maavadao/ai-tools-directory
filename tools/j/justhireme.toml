@@ -1,0 +1,7 @@
+name = "JustHireMe"
+description = "Local-first AI job intelligence for scraping, semantic matching, ranking, and tailored applications."
+category = "agents"
+website = "https://www.JustHireMe.ai"
+open_source = true
+repository = "https://github.com/vasu-devs/JustHireMe"
+added = 2026-10-29

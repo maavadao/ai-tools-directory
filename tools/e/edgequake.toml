@@ -1,0 +1,7 @@
+name = "EdgeQuake"
+description = "Graph-RAG in Rust: one binary, one Postgres, any LLM. Knowledge graphs, six retrieval modes, members and SSO, MCP for agents. Apache 2.0."
+category = "other"
+website = "https://edgequake.com"
+open_source = true
+repository = "https://github.com/raphaelmansuy/edgequake"
+added = 2026-10-29

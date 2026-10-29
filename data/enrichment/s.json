@@ -6,6 +6,10 @@
 "checked": "2026-10-25",
 "image": "https://sapient.inc/og.png"
 },
+"scanpy": {
+"checked": "2026-10-29",
+"image": "https://scanpy.scverse.org/en/stable/_static/Scanpy_Logo_BrightFG.svg"
+},
 "schole": {
 "checked": "2026-10-23",
 "image": "https://schole.ai/og.png",
@@ -44,6 +48,10 @@
 "scriberr-ecosystem": {
 "checked": "2026-10-28"
 },
+"sd-ppp": {
+"checked": "2026-10-29",
+"image": "https://sdppp.zombee.tech/index_screenshot.png"
+},
 "sealos": {
 "checked": "2026-10-24",
 "image": "https://sealos.io/api/og",
@@ -74,6 +82,10 @@
 "url": "https://getsemantica.ai/pricing"
 }
 },
+"semiotic": {
+"checked": "2026-10-29",
+"image": "https://semiotic.nteract.io/assets/img/semiotic-social.png"
+},
 "sentence-transformers": {
 "checked": "2026-10-24"
 },
@@ -97,6 +109,13 @@
 "shannon": {
 "checked": "2026-10-23",
 "image": "https://keygraph.io/public/og-image.png"
+},
+"shannon-run": {
+"checked": "2026-10-29",
+"image": "https://shannon.run/og-image.png"
+},
+"shippie": {
+"checked": "2026-10-29"
 },
 "shipswift": {
 "checked": "2026-10-28",
@@ -132,6 +151,14 @@
 "url": "https://www.sim.ai/pricing"
 }
 },
+"skales": {
+"checked": "2026-10-29",
+"image": "https://skales.app/og-skales.png"
+},
+"skfolio": {
+"checked": "2026-10-29",
+"image": "https://skfolio.org/_static/expo.jpg"
+},
 "skill-seekers": {
 "checked": "2026-10-25",
 "image": "https://skillseekersweb.com/og-image.png"
@@ -151,6 +178,10 @@
 "sktime": {
 "checked": "2026-10-25",
 "image": "https://www.sktime.net/sktime-thumbnail.png"
+},
+"skybridge": {
+"checked": "2026-10-29",
+"image": "https://skybridge.tech/assets/Skybridge-og.jpg"
 },
 "skypilot": {
 "checked": "2026-10-25",
@@ -176,6 +207,14 @@
 "checked": "2026-10-26",
 "image": "https://smolmachines.com/logo-480.png"
 },
+"snapotter": {
+"checked": "2026-10-29",
+"image": "https://snapotter.com/og-image.png",
+"pricing": {
+"free": true,
+"url": "https://snapotter.com/"
+}
+},
 "social-media-scraping-api": {
 "checked": "2026-10-27",
 "image": "https://scrapecreators.com/og-image-2026.png"
@@ -188,6 +227,12 @@
 "from": 8.0,
 "url": "https://socraticode.cloud"
 }
+},
+"solon-opensolon": {
+"checked": "2026-10-29"
+},
+"sorawebui": {
+"checked": "2026-10-29"
 },
 "soup-cli": {
 "checked": "2026-10-25",
@@ -204,6 +249,15 @@
 "url": "https://sourcegraph.com/pricing"
 }
 },
+"spacebot": {
+"checked": "2026-10-29",
+"image": "https://spacebot.sh/og.jpg",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://spacebot.sh"
+}
+},
 "spacy": {
 "checked": "2026-10-23",
 "image": "https://spacy.io/_next/static/media/social_default.96b04585.jpg"
@@ -217,9 +271,20 @@
 "speak": {
 "checked": "2026-10-23"
 },
+"spectrum-ts": {
+"checked": "2026-10-29",
+"image": "https://photon.codes/assets/og/home.png"
+},
+"speechgpt": {
+"checked": "2026-10-29",
+"image": "https://speechgpt.app/speechgpt.svg"
+},
 "speedyapply": {
 "checked": "2026-10-26",
 "image": "https://www.speedyapply.com/images/og-image.png"
+},
+"spektral": {
+"checked": "2026-10-29"
 },
 "sphere": {
 "checked": "2026-10-25",
@@ -242,6 +307,9 @@
 "spug": {
 "checked": "2026-10-25"
 },
+"sql-explorer": {
+"checked": "2026-10-29"
+},
 "sqlbot": {
 "checked": "2026-10-26",
 "image": "https://sqlbot.org/images/logo.png"
@@ -251,6 +319,9 @@
 },
 "srs-simple-realtime-server": {
 "checked": "2026-10-24"
+},
+"stability-ai-platform": {
+"checked": "2026-10-29"
 },
 "stability-matrix": {
 "checked": "2026-10-25"
@@ -363,6 +434,9 @@
 "trial": true,
 "url": "https://supademo.com/pricing"
 }
+},
+"super-agent-party": {
+"checked": "2026-10-29"
 },
 "superagent": {
 "checked": "2026-10-26",

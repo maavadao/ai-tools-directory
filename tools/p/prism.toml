@@ -1,0 +1,7 @@
+name = "Prism"
+description = "Prism is a powerful Laravel package for integrating Large Language Models (LLMs) into your applications."
+category = "chatbots"
+website = "https://prismphp.com"
+open_source = true
+repository = "https://github.com/prism-php/prism"
+added = 2026-10-29

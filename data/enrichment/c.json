@@ -7,6 +7,10 @@
 "checked": "2026-10-27",
 "image": "https://adam.new/marketing/shared/og/home-r4.png"
 },
+"camb-ai": {
+"checked": "2026-10-29",
+"image": "https://www.camb.ai/opengraph-image"
+},
 "camel-ai": {
 "checked": "2026-10-24",
 "image": "https://cdn.camel-ai.org/image/thumbnail.png"
@@ -17,6 +21,17 @@
 "canva": {
 "checked": "2026-10-23",
 "image": "https://static.canva.com/static/images/fb_cover-1.jpg"
+},
+"carbon-manufacturing-systems": {
+"checked": "2026-10-29",
+"image": "https://carbon.ms/images/og.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 40.0,
+"trial": true,
+"url": "https://carbon.ms/pricing"
+}
 },
 "career-ops": {
 "checked": "2026-10-23",
@@ -63,6 +78,10 @@
 "checked": "2026-10-26",
 "image": "https://automaze.io/static/img/ogimage.webp"
 },
+"ccs": {
+"checked": "2026-10-29",
+"image": "https://ccs.kaitran.ca/logo/ccs-social-media.webp"
+},
 "cekura-bench": {
 "checked": "2026-10-23",
 "image": "https://benchmarks.cekura.ai/opengraph-image?d63bd4d18ec698db"
@@ -78,6 +97,10 @@
 "chainforge": {
 "checked": "2026-10-28"
 },
+"chaofa": {
+"checked": "2026-10-29",
+"image": "https://yuanchaofa.com/img/icon.webp"
+},
 "character-ai": {
 "checked": "2026-10-23",
 "image": "https://character.ai/character-ai.jpg"
@@ -90,6 +113,17 @@
 },
 "chat-plexpt-com": {
 "checked": "2026-10-28"
+},
+"chat-sdk": {
+"checked": "2026-10-29",
+"image": "https://chat-sdk.dev/opengraph-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 10.0,
+"trial": true,
+"url": "https://vercel.com/pricing"
+}
 },
 "chat2db": {
 "checked": "2026-10-24",
@@ -132,6 +166,12 @@
 },
 "chatui": {
 "checked": "2026-10-27"
+},
+"check-claude": {
+"checked": "2026-10-29"
+},
+"chemprop": {
+"checked": "2026-10-29"
 },
 "cherry-studio": {
 "checked": "2026-10-23",
@@ -221,6 +261,15 @@
 "from": 30.0,
 "trial": true,
 "url": "https://cmem.ai/pricing"
+}
+},
+"claude-scientific-writer": {
+"checked": "2026-10-29",
+"image": "https://www.k-dense.ai/opengraph-image?1f851b2802e7d565",
+"pricing": {
+"currency": "USD",
+"from": 199.0,
+"url": "https://www.k-dense.ai/pricing"
 }
 },
 "claude-tracker": {
@@ -377,6 +426,19 @@
 "checked": "2026-10-27",
 "image": "https://code-graph-rag.com/images/og-image.png"
 },
+"code-interpreter": {
+"checked": "2026-10-29",
+"image": "https://e2b.dev/og/homepage.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 150.0,
+"url": "https://e2b.dev/pricing"
+}
+},
+"code-plea": {
+"checked": "2026-10-29"
+},
 "code-review-graph": {
 "checked": "2026-10-23",
 "image": "https://code-review-graph.com/og-image.png"
@@ -384,6 +446,16 @@
 "code2prompt": {
 "checked": "2026-10-26",
 "image": "https://code2prompt.dev/favicon.svg"
+},
+"codeboarding": {
+"checked": "2026-10-29",
+"image": "https://codeboarding.org/images/brand-card.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 9.99,
+"url": "https://www.codeboarding.org/pricing"
+}
 },
 "codecompanion-nvim-documentation": {
 "checked": "2026-10-26",
@@ -428,9 +500,22 @@
 "url": "https://www.cognee.ai/pricing"
 }
 },
+"collaborative-kubernetes-ai-assistant": {
+"checked": "2026-10-29",
+"image": "https://cdn.prod.website-files.com/633705de6adaa38599d8e258/659586d07cd8a996f387ffcd_BK_scene-OG.webp"
+},
 "colossal-ai": {
 "checked": "2026-10-23",
 "image": "https://colossalai.org/img/social-card.png"
+},
+"comflowyspace": {
+"checked": "2026-10-29",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"trial": true,
+"url": "https://comflowy.com/pricing"
+}
 },
 "comfyui": {
 "checked": "2026-10-23",
@@ -468,6 +553,9 @@
 "checked": "2026-10-23",
 "image": "https://commandline.microsoft.com/wp-content/uploads/2026/05/command-line-intro-16x9-bigger-cursor-scaled.png"
 },
+"company-research": {
+"checked": "2026-10-29"
+},
 "composio-instant": {
 "checked": "2026-10-23",
 "image": "https://composio.dev/og.png",
@@ -478,9 +566,16 @@
 "url": "https://composio.dev/pricing"
 }
 },
+"computer-vision-learning-studio": {
+"checked": "2026-10-29"
+},
 "concat": {
 "checked": "2026-10-25",
 "image": "https://concat.standalones.org/og.png"
+},
+"conduit": {
+"checked": "2026-10-29",
+"image": "https://conduit.mobile/og-image.png"
 },
 "consensus-ai-for-research": {
 "checked": "2026-10-23",
@@ -507,6 +602,16 @@
 },
 "continue-acquired-by-cursor": {
 "checked": "2026-10-23"
+},
+"controltheory": {
+"checked": "2026-10-29",
+"image": "https://www.controltheory.com/wp-content/uploads/2026/06/dstl8_carousel-1.gif",
+"pricing": {
+"currency": "USD",
+"from": 250.0,
+"trial": true,
+"url": "https://www.controltheory.com/pricing/"
+}
 },
 "cookiecutter-data-science": {
 "checked": "2026-10-25"
@@ -566,6 +671,10 @@
 "checked": "2026-10-27",
 "image": "https://costrict.ai/og-image.png"
 },
+"count-beejz-com": {
+"checked": "2026-10-29",
+"image": "https://count.beejz.com/img/social-card.png"
+},
 "countly-server": {
 "checked": "2026-10-26",
 "image": "https://cdn.prod.website-files.com/61c1b7c3e2f3805325be4594/668ce80fb93226b6ad88d718_d587926ef3277bc26935a28e68750dcb_Meta%20Tag-Countly.com.jpg",
@@ -619,6 +728,10 @@
 "url": "https://crewclaw.com/"
 }
 },
+"crosspaste": {
+"checked": "2026-10-29",
+"image": "https://crosspaste.com/crosspaste_share.png"
+},
 "crucix": {
 "checked": "2026-10-25",
 "image": "https://crucix.live/og-image.png"
@@ -664,6 +777,10 @@
 },
 "cubesandbox": {
 "checked": "2026-10-25"
+},
+"cubestudio": {
+"checked": "2026-10-29",
+"image": "https://www.cubestudio.vip/og-default.png"
 },
 "cuey": {
 "checked": "2026-10-23",

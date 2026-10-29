@@ -1,0 +1,7 @@
+name = "Carbon Manufacturing Systems"
+description = "Carbon is an open-source manufacturing system for ERP, MRP, MES and QMS. Plan materials, run production, manage quality and track costs on one data model."
+category = "other"
+website = "https://carbon.ms"
+open_source = true
+repository = "https://github.com/crbnos/carbon"
+added = 2026-10-29

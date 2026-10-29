@@ -1,0 +1,7 @@
+name = "✨ Introduction"
+description = "xTuring is an open-source AI personalization library."
+category = "image"
+website = "https://xturing.stochastic.ai"
+open_source = true
+repository = "https://github.com/stochasticai/xTuring"
+added = 2026-10-29

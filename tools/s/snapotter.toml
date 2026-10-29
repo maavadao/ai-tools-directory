@@ -1,0 +1,7 @@
+name = "SnapOtter"
+description = "Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe, and run local AI across image, video, audio, PDF, and documents, through a UI, REST API, and pipelines. The private, self-hosted alternative to CloudConvert, Smallpdf, and TinyPNG."
+category = "other"
+website = "https://snapotter.com"
+open_source = true
+repository = "https://github.com/snapotter-hq/SnapOtter"
+added = 2026-10-29

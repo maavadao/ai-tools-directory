@@ -1,0 +1,7 @@
+name = "shippie"
+description = "An open-source AI code review agent that runs on your pull requests or locally and posts focused inline review comments."
+category = "coding"
+website = "https://shippie.dev"
+open_source = true
+repository = "https://github.com/mattzcarey/shippie"
+added = 2026-10-29

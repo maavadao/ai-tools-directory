@@ -6,6 +6,10 @@
 "checked": "2026-10-27",
 "image": "https://maafw.com/maafw.png"
 },
+"machine-learning-refined": {
+"checked": "2026-10-29",
+"image": "https://www.mlrefined.com/opengraph-image?bbd4dbbf99975ca7"
+},
 "machine-learning-systems": {
 "checked": "2026-10-24",
 "image": "https://mlsysbook.ai/vol1/assets/images/covers/cover-hardcover-book-vol1.png"
@@ -24,6 +28,12 @@
 "checked": "2026-10-28",
 "image": "https://runmaestro.ai/assets/og-marquee.png?v=4"
 },
+"maestro-roboflow-com": {
+"checked": "2026-10-29"
+},
+"mage": {
+"checked": "2026-10-29"
+},
 "mage-ai": {
 "checked": "2026-10-25",
 "image": "https://www.mage.ai/assets/shared/meta/default.png",
@@ -33,6 +43,9 @@
 "trial": true,
 "url": "https://www.mage.ai/pricing"
 }
+},
+"magentic": {
+"checked": "2026-10-29"
 },
 "magi-1": {
 "checked": "2026-10-28",
@@ -120,6 +133,10 @@
 "checked": "2026-10-23",
 "image": "https://marketing-skills.com/opengraph-image?93f898d7f9bb3d56"
 },
+"markflowy": {
+"checked": "2026-10-29",
+"image": "https://www.markflowy.cc/social/markflowy-en.png"
+},
 "markstream-vue": {
 "checked": "2026-10-28",
 "image": "https://markstream.simonhe.me/og-image.png"
@@ -195,6 +212,10 @@
 "mcp-python-sdk": {
 "checked": "2026-10-25"
 },
+"mcp-superassistant": {
+"checked": "2026-10-29",
+"image": "https://mcpsuperassistant.ai/opengraph-image.jpg?714f3c3898d74ff5"
+},
 "mcp-typescript-sdk": {
 "checked": "2026-10-25"
 },
@@ -210,6 +231,17 @@
 "free": true,
 "from": 250.0,
 "url": "https://manufact.com/pricing"
+}
+},
+"mcphub": {
+"checked": "2026-10-29"
+},
+"mcpjam": {
+"checked": "2026-10-29",
+"image": "https://www.mcpjam.com/mcpjam-home-og-1200x630.png",
+"pricing": {
+"free": true,
+"url": "https://www.mcpjam.com/pricing"
 }
 },
 "md2wechat-skill": {
@@ -265,6 +297,14 @@
 "url": "https://mem0.ai/pricing"
 }
 },
+"memanto-by-moorcheh": {
+"checked": "2026-10-29",
+"image": "https://memanto.ai/OG-banner.png",
+"pricing": {
+"free": true,
+"url": "https://memanto.ai/pricing"
+}
+},
 "memgraph": {
 "checked": "2026-10-27",
 "image": "https://memgraph.com/images/web/memgraph-web-ogimage.jpg",
@@ -277,6 +317,13 @@
 "memmachine": {
 "checked": "2026-10-28",
 "image": "https://memmachine.ai/img/MemMachine_logo-horizintal-blue.png"
+},
+"memmy-agent": {
+"checked": "2026-10-29"
+},
+"memoh": {
+"checked": "2026-10-29",
+"image": "https://memoh.ai/og.jpg"
 },
 "memori": {
 "checked": "2026-10-24",
@@ -376,6 +423,9 @@
 "mimo-code": {
 "checked": "2026-10-25"
 },
+"mindforger": {
+"checked": "2026-10-29"
+},
 "mindshub-by-mindsdb": {
 "checked": "2026-10-23",
 "image": "https://mindshub.ai/og/og-home-control.png",
@@ -403,6 +453,10 @@
 "checked": "2026-10-28",
 "image": "https://www.strukto.ai/og-default.png"
 },
+"mirai-labs": {
+"checked": "2026-10-29",
+"image": "https://trymirai.com/images/og/default.jpg"
+},
 "miso-com": {
 "checked": "2026-10-23",
 "image": "https://miso.com/assets/link-card-v4.jpg"
@@ -425,6 +479,15 @@
 "checked": "2026-10-25",
 "image": "https://deeplearning.mit.edu/lex_fridman_lecture.jpg"
 },
+"mito": {
+"checked": "2026-10-29",
+"image": "https://trymito.io/mito-og-banner.jpg",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://www.trymito.io/plans"
+}
+},
 "ml-for-trading": {
 "checked": "2026-10-24",
 "image": "https://ml4trading.io/static/img/og-image.a0471320e8d2.jpg"
@@ -441,6 +504,15 @@
 },
 "mlcourse-ai": {
 "checked": "2026-10-25"
+},
+"mlexpert": {
+"checked": "2026-10-29",
+"image": "https://mlexpert.io/og/home",
+"pricing": {
+"currency": "USD",
+"from": 49.0,
+"url": "https://mlexpert.io/pricing"
+}
 },
 "mlflow": {
 "checked": "2026-10-24"
@@ -546,6 +618,10 @@
 "movo-ai": {
 "checked": "2026-10-23",
 "image": "https://movoai.pro/assets/brand/movo-ai-social-preview.png"
+},
+"mrrss": {
+"checked": "2026-10-29",
+"image": "https://DevXDojo.github.io/MrRSS/assets/og.png"
 },
 "mujoco": {
 "checked": "2026-10-24"

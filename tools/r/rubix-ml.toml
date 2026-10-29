@@ -1,0 +1,7 @@
+name = "Rubix ML"
+description = "Rubix ML - A high-level machine learning and deep learning library for the PHP language. 40+ supervised and unsupervised learning algorithms with ETL, preprocessing, and cross-validation."
+category = "data"
+website = "https://rubixml.org"
+open_source = true
+repository = "https://github.com/RubixML/ML"
+added = 2026-10-29

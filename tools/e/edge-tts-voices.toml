@@ -1,0 +1,7 @@
+name = "Edge TTS Voices"
+description = "Listen to high-quality text-to-speech samples and use Edge TTS, a free, OpenAI-compatible API leveraging Microsoft Edge voices."
+category = "audio"
+website = "https://tts.travisvn.com"
+open_source = true
+repository = "https://github.com/travisvn/openai-edge-tts"
+added = 2026-10-29

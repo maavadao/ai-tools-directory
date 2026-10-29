@@ -1,0 +1,7 @@
+name = "Bright Data"
+description = "Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world's #1 web data platform."
+category = "chatbots"
+website = "https://brightdata.com"
+open_source = true
+repository = "https://github.com/brightdata/brightdata-mcp"
+added = 2026-10-29

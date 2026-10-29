@@ -1,0 +1,7 @@
+name = "CodeBoarding"
+description = "See what a pull request does to your system before you merge it. Review changes as fast as agents produce them."
+category = "agents"
+website = "https://www.codeboarding.org"
+open_source = true
+repository = "https://github.com/CodeBoarding/CodeBoarding"
+added = 2026-10-29

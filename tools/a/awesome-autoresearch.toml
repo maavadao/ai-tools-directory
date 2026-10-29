@@ -1,0 +1,7 @@
+name = "awesome-autoresearch"
+description = "Give AI agents eyes and hands on real websites with secure DOM access and robust browser actions through one API."
+category = "education"
+website = "https://www.webfuse.com"
+open_source = true
+repository = "https://github.com/webfuse-com/awesome-autoresearch"
+added = 2026-10-29

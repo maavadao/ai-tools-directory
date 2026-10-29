@@ -1,0 +1,7 @@
+name = "蜜蜂记账"
+description = "蜜蜂记账是一款开源免费的个人记账应用，支持 iOS 和 Android。简洁易用，数据安全，支持多种云同步方式。"
+category = "legal-finance"
+website = "https://count.beejz.com"
+open_source = true
+repository = "https://github.com/TNT-Likely/BeeCount"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "skales"
+description = "Skales is an AI harness, not a wrapper around one model: 400+ built-in tools, approval gates, memory, background goals, voice, code and media - on your machine. Bring Claude, GPT, Gemini or Grok, run models locally with Skales Local, or start with zero keys on Skales IQ. Free for personal use."
+category = "chatbots"
+website = "https://skales.app"
+open_source = true
+repository = "https://github.com/skalesapp/skales"
+added = 2026-10-29

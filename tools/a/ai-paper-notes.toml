@@ -1,0 +1,7 @@
+name = "AI Paper Notes"
+description = "数千篇 AI、LLM、NLP、CV 顶会论文解读，每篇5分钟读懂核心思想。覆盖 ACL、CVPR、ICLR、AAAI、NeurIPS、ICCV、ICML、ECCV 等13大会议59个研究领域。"
+category = "other"
+website = "https://papernotes.org"
+open_source = true
+repository = "https://github.com/zhaoyang97/Paper-Notes"
+added = 2026-10-29

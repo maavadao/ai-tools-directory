@@ -1,0 +1,7 @@
+name = "OpenWolf"
+description = "Keep useful project notes, find relevant files and continue saved work with your coding assistant. Review recorded activity in a local dashboard."
+category = "coding"
+website = "https://openwolf.com"
+open_source = true
+repository = "https://github.com/cytostack/openwolf"
+added = 2026-10-29

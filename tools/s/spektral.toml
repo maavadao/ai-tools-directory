@@ -1,0 +1,7 @@
+name = "Spektral"
+description = "Spektral: Graph Neural Networks in TensorFlow 2 and Keras"
+category = "other"
+website = "https://graphneural.network"
+open_source = true
+repository = "https://github.com/danielegrattarola/spektral"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "nanoMuse"
+description = "A personal agent for your phone and your computer. Free, open source, non-profit."
+category = "other"
+website = "https://nanomuse.cn"
+open_source = true
+repository = "https://github.com/nano-muse/nanoMuse"
+added = 2026-10-29

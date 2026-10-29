@@ -1,0 +1,7 @@
+name = "Agent Router"
+description = "The open source control plane for agentic traffic, powered by Envoy. Formerly Envoy AI Gateway."
+category = "chatbots"
+website = "https://theagentrouter.ai"
+open_source = true
+repository = "https://github.com/theagentrouter/agent-router"
+added = 2026-10-29

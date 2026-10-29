@@ -1,0 +1,7 @@
+name = "thinc"
+description = "Thinc is a lightweight type-checked deep learning library for composing models, with support for layers defined in frameworks like PyTorch and TensorFlow."
+category = "other"
+website = "https://thinc.ai"
+open_source = true
+repository = "https://github.com/explosion/thinc"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "OpenChatCut"
+description = "OpenChatCut is a local-first AI video editor. Download the free AGPL open-source edition for agent-driven timeline editing, or get the OpenChatCut Pro desktop app for transcript editing, recording and local AI models."
+category = "other"
+website = "https://openchatcut.com"
+open_source = true
+repository = "https://github.com/0xsline/OpenChatCut"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "LayerFS"
+description = "LayerFS is an open-source (MIT) filesystem for AI coding agents: each tool call gets a complete, writable Workspace over shared history."
+category = "agents"
+website = "https://layerfs.ai"
+open_source = true
+repository = "https://github.com/Ephemeral-AI-Lab/layerfs"
+added = 2026-10-29

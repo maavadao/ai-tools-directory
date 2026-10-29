@@ -1,0 +1,7 @@
+name = "pluely"
+description = "A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB."
+category = "chatbots"
+website = "https://pluely.com"
+open_source = true
+repository = "https://github.com/iamsrikanthnani/pluely"
+added = 2026-10-29

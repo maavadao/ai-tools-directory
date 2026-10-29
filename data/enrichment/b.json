@@ -31,6 +31,10 @@
 "url": "https://www.band.ai/pricing"
 }
 },
+"baris-sencan": {
+"checked": "2026-10-29",
+"image": "https://barissencan.com/img/banner.jpg"
+},
 "basic-memory": {
 "checked": "2026-10-27",
 "image": "https://basicmemory.com/_og/d/h_630,a_Basic+Memory+page+preview,c_BasicMemory,title_Basic+Memory,description_~T25lIGtub3dsZWRnZSBiYXNlIGZvciB5b3UsIHlvdXIgQUkgdG9vbHMsIGFuZCB5b3VyIHRlYW0uIFlvdXIgY2hhdHMsIGRvY3MsIGRlY2lzaW9ucywgYW5kIHJlc2VhcmNoLCBjb25uZWN0ZWQgaW4gYSBsaXZpbmcga25vd2xlZGdlIGdyYXBoLiBQbGFpbiBNYXJrZG93biB5b3UgY29udHJvbC4gT3BlbiBzb3VyY2UsIE1DUC1uYXRpdmUsIHdvcmtzIHdpdGggZXZlcnkgQUku,path_basicmemory.com,s_Fm3i-JgC9UMd1-88.png",
@@ -71,8 +75,16 @@
 "url": "https://www.beautiful.ai/pricing"
 }
 },
+"beav": {
+"checked": "2026-10-29",
+"image": "https://beav.pro/beavicon.png"
+},
 "behaviortree-cpp": {
 "checked": "2026-10-27"
+},
+"bench": {
+"checked": "2026-10-29",
+"image": "https://taubench.com/og-image.png"
 },
 "bibigpt": {
 "checked": "2026-10-26",
@@ -103,6 +115,10 @@
 "checked": "2026-10-27",
 "image": "https://biomni.stanford.edu/logo.png"
 },
+"bionic-gpt": {
+"checked": "2026-10-29",
+"image": "https://bionic-gpt.com/open-graph.png"
+},
 "bit-dev": {
 "checked": "2026-10-24",
 "image": "https://static.bit.dev/og-images/bit-marketing-og-img-facebook-2025.png"
@@ -120,6 +136,10 @@
 "trial": true,
 "url": "https://bitrise.io/pricing"
 }
+},
+"bitterbot-ai": {
+"checked": "2026-10-29",
+"image": "https://bitterbot.ai/opengraph-image?3c8f8c39d8da51f5"
 },
 "bleetz-network": {
 "checked": "2026-10-23",
@@ -150,6 +170,9 @@
 "url": "https://bolt.new/pricing"
 }
 },
+"bot-novelai-dev": {
+"checked": "2026-10-29"
+},
 "botman": {
 "checked": "2026-10-26"
 },
@@ -172,6 +195,17 @@
 "brigade": {
 "checked": "2026-10-25",
 "image": "https://brigade.spinabot.com/opengraph-image?ffa252a9d4aab850"
+},
+"bright-data": {
+"checked": "2026-10-29",
+"image": "https://media.brightdata.com/2026/05/OG_EN.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 499.0,
+"trial": true,
+"url": "https://brightdata.com/pricing/web-unlocker"
+}
 },
 "browser": {
 "checked": "2026-10-23",

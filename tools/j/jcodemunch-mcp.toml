@@ -1,0 +1,7 @@
+name = "jcodemunch-mcp"
+description = "Model-agnostic MCP server that indexes codebases with tree-sitter and lets any AI agent (Claude, GPT, Gemini) retrieve exact functions, classes, and constants instead of whole files. 96.2% fewer tokens per lookup than grep-and-read on our 15-lookup benchmark."
+category = "coding"
+website = "https://jcodemunch.com"
+open_source = true
+repository = "https://github.com/jgravelle/jcodemunch-mcp"
+added = 2026-10-29

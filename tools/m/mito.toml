@@ -1,0 +1,7 @@
+name = "mito"
+description = "Mito is AI for your Jupyter Notebook workflow. Use the Jupyter Agent, SQL, Database Connections, and Streamlit Apps for EDA and automations."
+category = "data"
+website = "https://www.trymito.io"
+open_source = true
+repository = "https://github.com/mito-ds/mito"
+added = 2026-10-29

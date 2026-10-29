@@ -1,0 +1,7 @@
+name = "PenEcho"
+description = "An open-source AI canvas for your pen. PenEchoLLM suggests the next step as you write, and Notes & Cards turn what you circle into searchable cards."
+category = "education"
+website = "https://penecho.ai"
+open_source = true
+repository = "https://github.com/penecho/penecho"
+added = 2026-10-29

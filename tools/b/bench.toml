@@ -1,0 +1,7 @@
+name = "τ-bench"
+description = "Can AI agents reliably complete real-world tasks? τ-bench measures how well agents converse with users, call tools, retrieve knowledge, and follow policy across enterprise domains — in text and voice."
+category = "chatbots"
+website = "https://taubench.com"
+open_source = true
+repository = "https://github.com/sierra-research/tau2-bench"
+added = 2026-10-29

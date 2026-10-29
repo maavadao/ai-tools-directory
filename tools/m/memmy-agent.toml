@@ -1,0 +1,7 @@
+name = "memmy-agent"
+description = "Memmy is a local-first AI agent with a self-evolving memory foundation, letting the desktop app, CLI and external agents share the same long-term context."
+category = "chatbots"
+website = "https://memmy.bot"
+open_source = true
+repository = "https://github.com/MemTensor/memmy-agent"
+added = 2026-10-29

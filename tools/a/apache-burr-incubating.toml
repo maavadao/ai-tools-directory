@@ -1,0 +1,7 @@
+name = "Apache Burr (Incubating)"
+description = "Apache Burr (Incubating) - develop AI applications that make decisions. Pure Python, no magic."
+category = "developer-platforms"
+website = "https://burr.apache.org"
+open_source = true
+repository = "https://github.com/apache/burr"
+added = 2026-10-29

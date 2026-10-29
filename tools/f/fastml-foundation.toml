@@ -1,0 +1,7 @@
+name = "FastML Foundation"
+description = "Machine learning on FPGAs using HLS"
+category = "other"
+website = "https://fastmachinelearning.org"
+open_source = true
+repository = "https://github.com/fastmachinelearning/hls4ml"
+added = 2026-10-29

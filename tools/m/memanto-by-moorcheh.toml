@@ -1,0 +1,7 @@
+name = "MEMANTO by Moorcheh"
+description = "Memory that AI Agents Love! A companion memory agent that lets your agents focus and improve while you keep ownership of everything they learn."
+category = "agents"
+website = "https://memanto.ai"
+open_source = true
+repository = "https://github.com/moorcheh-ai/memanto"
+added = 2026-10-29

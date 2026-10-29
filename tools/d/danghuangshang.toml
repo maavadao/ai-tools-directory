@@ -1,0 +1,7 @@
+name = "danghuangshang"
+description = "Deploy your AI court. Multi-agent collaboration, shared memory, self-evolving. Open source, 5 min setup."
+category = "education"
+website = "https://danghuangshang.com"
+open_source = true
+repository = "https://github.com/wanikua/danghuangshang"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "MrRSS"
+description = "A modern, cross-platform desktop RSS reader built with Wails and Vue.js. Features auto-translation, localization, and privacy-focused design."
+category = "other"
+website = "https://mrrss.ch3nyang.top"
+open_source = true
+repository = "https://github.com/DevXDojo/MrRSS"
+added = 2026-10-29

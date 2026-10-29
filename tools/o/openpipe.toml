@@ -1,0 +1,7 @@
+name = "OpenPipe"
+description = "The OpenPipe platform has migrated to Weights & Biases and CoreWeave. Browse migration details and the OpenPipe technical archive."
+category = "chatbots"
+website = "https://openpipe.ai"
+open_source = true
+repository = "https://github.com/OpenPipe/OpenPipe"
+added = 2026-10-29

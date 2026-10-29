@@ -1,0 +1,7 @@
+name = "Stability AI Platform"
+description = "Stable Audio and Stable Image behind one API. Hear it, then curl it."
+category = "image"
+website = "https://platform.stability.ai"
+open_source = true
+repository = "https://github.com/Stability-AI/stability-sdk"
+added = 2026-10-29

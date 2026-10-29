@@ -1,0 +1,7 @@
+name = "Memoh"
+description = "Every agent gets its own cloud computer with a desktop, filesystem, and network. Always on, always there."
+category = "chatbots"
+website = "https://memoh.ai"
+open_source = true
+repository = "https://github.com/felinics/Memoh"
+added = 2026-10-29

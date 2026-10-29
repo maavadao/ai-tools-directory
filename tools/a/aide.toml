@@ -1,0 +1,7 @@
+name = "aide"
+description = "Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing! 💪"
+category = "coding"
+website = "https://aide.nicepkg.cn"
+open_source = true
+repository = "https://github.com/nicepkg/aide"
+added = 2026-10-29

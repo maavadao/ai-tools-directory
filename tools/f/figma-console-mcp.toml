@@ -1,0 +1,7 @@
+name = "figma-console-mcp"
+description = "Design systems consulting, engineering, and AI integration — from the team behind Figma Console MCP and Story UI."
+category = "other"
+website = "https://southleft.com"
+open_source = true
+repository = "https://github.com/southleft/figma-console-mcp"
+added = 2026-10-29

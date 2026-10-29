@@ -1,0 +1,7 @@
+name = "DeepDetect by JoliBrain"
+description = "DeepDetect is an Open-Source Deep Learning platform made by Jolibrain's scientists for the Enterprise"
+category = "other"
+website = "https://www.deepdetect.com"
+open_source = true
+repository = "https://github.com/jolibrain/deepdetect"
+added = 2026-10-29

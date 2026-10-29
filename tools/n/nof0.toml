@@ -1,0 +1,7 @@
+name = "nof0"
+description = "用真实数据和清晰可视化，回答「哪个模型更会赚」的朴素问题。展示多个 AI 模型的加密货币交易表现对比。"
+category = "chatbots"
+website = "https://nof0.wqu.guru"
+open_source = true
+repository = "https://github.com/wquguru/nof0"
+added = 2026-10-29

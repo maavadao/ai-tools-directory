@@ -1,0 +1,7 @@
+name = "AI Coding Setup Manager"
+description = "Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+category = "other"
+website = "https://skillshare.runkids.cc"
+open_source = true
+repository = "https://github.com/runkids/skillshare"
+added = 2026-10-29

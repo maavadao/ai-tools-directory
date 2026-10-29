@@ -1,0 +1,7 @@
+name = "mage"
+description = "XMage Today Servers for free open source Magic: The Gathering online game"
+category = "other"
+website = "https://xmage.today"
+open_source = true
+repository = "https://github.com/magefree/mage"
+added = 2026-10-29

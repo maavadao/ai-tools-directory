@@ -15,6 +15,10 @@
 "url": "https://labelme.io/pricing"
 }
 },
+"labml-ai": {
+"checked": "2026-10-29",
+"image": "https://labml.ai/images/seo-cover.jpg"
+},
 "labs": {
 "checked": "2026-10-23"
 },
@@ -33,6 +37,15 @@
 "lancedb": {
 "checked": "2026-10-25",
 "image": "https://cdn.prod.website-files.com/69a866b324926425eccc4cf5/69cd303f51b804e86e0d598a_og-image%20-%20home%20%26%20generic.webp"
+},
+"langalpha": {
+"checked": "2026-10-29",
+"image": "https://langalpha.ai/og-default.png",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://langalpha.ai/pricing"
+}
 },
 "langbot-space": {
 "checked": "2026-10-24",
@@ -72,6 +85,10 @@
 "url": "https://langwatch.ai/pricing"
 }
 },
+"latent-box": {
+"checked": "2026-10-29",
+"image": "https://latentbox.com/assets/resources/latentbox-hero.jpg"
+},
 "latent-space": {
 "checked": "2026-10-26",
 "image": "https://latent.space/brand/social-home-v1.jpg"
@@ -90,6 +107,10 @@
 "lavague": {
 "checked": "2026-10-26",
 "image": "https://cdn.prod.website-files.com/65f2cdf991013d85c582af00/65fae15f9d9e05d00b759b64_open%20graph%20img.png"
+},
+"layerfs": {
+"checked": "2026-10-29",
+"image": "https://layerfs.ai/github-preview.png"
 },
 "lazycodex": {
 "checked": "2026-10-28",
@@ -110,9 +131,24 @@
 "learn-prompting": {
 "checked": "2026-10-27"
 },
+"learnhouse": {
+"checked": "2026-10-29",
+"image": "https://www.learnhouse.app/opengraph-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 49.0,
+"trial": true,
+"url": "https://www.learnhouse.app/pricing"
+}
+},
 "learnopencv": {
 "checked": "2026-10-24",
 "image": "https://cdn.learnopencv.com/wp-content/uploads/2017/12/04104052/favicon.png"
+},
+"learnprompt": {
+"checked": "2026-10-29",
+"image": "https://www.learnprompt.pro/images/wiki-transition-poster-v1.jpg"
 },
 "leela-chess-zero": {
 "checked": "2026-10-28"
@@ -130,9 +166,16 @@
 "lemonade": {
 "checked": "2026-10-26"
 },
+"leoaido": {
+"checked": "2026-10-29",
+"image": "https://leoaido.com/og/default.jpg"
+},
 "leon": {
 "checked": "2026-10-24",
 "image": "https://getleon.ai/img/facebook-preview.png"
+},
+"letsfg": {
+"checked": "2026-10-29"
 },
 "letta": {
 "checked": "2026-10-24",
@@ -244,6 +287,10 @@
 "checked": "2026-10-26",
 "image": "https://llmlingua.com/videos/figures/LLMLingua.webp"
 },
+"llmstack": {
+"checked": "2026-10-29",
+"image": "https://storage.googleapis.com/trypromptly-static/static/images/opengraph.jpg"
+},
 "llmware": {
 "checked": "2026-10-24",
 "image": "https://framerusercontent.com/assets/23wYSDFvfVgijx9jM1Roq3r1qHQ.png"
@@ -279,6 +326,14 @@
 "lmql": {
 "checked": "2026-10-27"
 },
+"lobe-icons": {
+"checked": "2026-10-29",
+"image": "https://repository-images.githubusercontent.com/750129442/edc2a03a-a6c4-4f11-89c8-8ffafbb85a7a"
+},
+"lobe-ui": {
+"checked": "2026-10-29",
+"image": "https://repository-images.githubusercontent.com/643435168/7514a374-d7de-4c8b-ad61-5460bc0bfe35"
+},
 "lobehub": {
 "checked": "2026-10-23",
 "image": "https://lobehub.com/assets/cao-og.webp",
@@ -297,6 +352,14 @@
 "localai": {
 "checked": "2026-10-23",
 "image": "https://localai.io/img/logo-full.png"
+},
+"locally-uncensored": {
+"checked": "2026-10-29",
+"image": "https://raw.githubusercontent.com/PurpleDoubleD/locally-uncensored/master/docs/social-preview.png",
+"pricing": {
+"free": true,
+"url": "https://locallyuncensored.com/pricing/"
+}
 },
 "login": {
 "checked": "2026-10-26"
@@ -329,5 +392,13 @@
 "luma": {
 "checked": "2026-10-23",
 "image": "https://cdn.sanity.io/images/2ylxvaa2/production/ff7469d468f6f7e447ccb4a50276f1cb03c6664d-1200x630.jpg?w=1200&h=630&fm=jpg"
+},
+"lumibot": {
+"checked": "2026-10-29",
+"image": "https://lumibot.lumiwealth.com/_images/benefit-hero.png"
+},
+"luminoth": {
+"checked": "2026-10-29",
+"image": "https://tryolabs.com/_next/static/media/generic-social-image.dc10a1df.png"
 }
 }

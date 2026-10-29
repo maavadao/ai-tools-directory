@@ -1,0 +1,7 @@
+name = "SQL Explorer"
+description = "SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance."
+category = "data"
+website = "https://www.sqlexplorer.io"
+open_source = true
+repository = "https://github.com/explorerhq/sql-explorer"
+added = 2026-10-29

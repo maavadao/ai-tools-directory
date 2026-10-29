@@ -1,0 +1,7 @@
+name = "Agents Anywhere"
+description = "连接运行 Codex、Claude Code 或 DeepSeek Harness 的电脑和服务器，在桌面、手机和 Web 查看会话、继续对话、处理请求。"
+category = "agents"
+website = "https://www.agents-anywhere.com"
+open_source = true
+repository = "https://github.com/anywhere-labs/Agents-Anywhere"
+added = 2026-10-29

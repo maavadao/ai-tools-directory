@@ -1,0 +1,7 @@
+name = "TinyFish"
+description = "TinyFish provides enterprise infrastructure for AI web agents. Run hundreds of websites simultaneously to navigate, authenticate, extract data, and automate web workflows with a fully serverless architecture."
+category = "education"
+website = "https://www.tinyfish.ai"
+open_source = true
+repository = "https://github.com/tinyfish-io/tinyfish-cookbook"
+added = 2026-10-29

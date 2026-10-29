@@ -1,0 +1,7 @@
+name = "PromptBin"
+description = "A free guide for learning to create ChatGPT3 Prompts"
+category = "other"
+website = "https://www.prompt-bin.com"
+open_source = true
+repository = "https://github.com/mattnigh/ChatGPT-Free-Prompt-List"
+added = 2026-10-29

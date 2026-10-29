@@ -1,0 +1,7 @@
+name = "ASYML"
+description = "Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow. This is part of the CASL project: http://casl-project.ai/"
+category = "other"
+website = "https://asyml.io"
+open_source = true
+repository = "https://github.com/asyml/texar"
+added = 2026-10-29

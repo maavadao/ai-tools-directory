@@ -1,0 +1,7 @@
+name = "Zleap 智跃｜企业 AI 基础设施"
+description = "了解 Zleap Router、Zleap OS、SAG Wiki 与 SAG Enterprise，以及智跃的技术与企业实践。"
+category = "chatbots"
+website = "https://zleap.com"
+open_source = true
+repository = "https://github.com/Zleap-AI/SAG"
+added = 2026-10-29

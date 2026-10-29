@@ -1,0 +1,7 @@
+name = "AI-Assisted Code Security Research"
+description = "Find high-impact vulnerabilities with expert-operated AI security research. Self-host open·kritt or commission a managed scan with ranked, verified findings."
+category = "other"
+website = "https://kritt.ai"
+open_source = true
+repository = "https://github.com/Kritt-ai/open-kritt"
+added = 2026-10-29

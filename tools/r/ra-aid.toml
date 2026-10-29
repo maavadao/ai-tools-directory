@@ -1,0 +1,7 @@
+name = "RA.Aid"
+description = "Open-source AI assistant that helps you develop software autonomously through research, planning, and implementation."
+category = "agents"
+website = "https://www.ra-aid.ai"
+open_source = true
+repository = "https://github.com/ai-christianson/RA.Aid"
+added = 2026-10-29

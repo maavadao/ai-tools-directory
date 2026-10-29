@@ -1,0 +1,7 @@
+name = "Workflow SDK"
+description = "\"use workflow\" brings durability, reliability, and observability to async JavaScript. Build apps and AI Agents that can suspend, resume, and maintain state with ease."
+category = "agents"
+website = "https://workflow-sdk.dev"
+open_source = true
+repository = "https://github.com/vercel/workflow"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "academic-humanizer"
+description = "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind."
+category = "chatbots"
+website = "https://morphmind.ai"
+open_source = true
+repository = "https://github.com/AIScientists-Dev/academic-humanizer"
+added = 2026-10-29

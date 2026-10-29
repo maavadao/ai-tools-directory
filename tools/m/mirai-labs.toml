@@ -1,0 +1,7 @@
+name = "Mirai Labs"
+description = "Mirai Labs builds uzu, a Rust LLM engine for iPhone, iPad and Mac, and 4-bit/8-bit Qwen, LFM and Muse-Glimmer models benchmarked vs MLX and llama.cpp."
+category = "audio"
+website = "https://trymirai.com"
+open_source = true
+repository = "https://github.com/trymirai/uzu"
+added = 2026-10-29

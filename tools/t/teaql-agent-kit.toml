@@ -1,0 +1,7 @@
+name = "teaql-agent-kit"
+description = "Build AI-assisted business applications with generated, type-safe query and mutation APIs. Explore Java, Rust, pagination and governed agent data access."
+category = "coding"
+website = "https://teaql.io"
+open_source = true
+repository = "https://github.com/teaql/teaql-agent-kit"
+added = 2026-10-29

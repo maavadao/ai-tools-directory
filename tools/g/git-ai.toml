@@ -1,0 +1,7 @@
+name = "Git AI"
+description = "Cross-agent observability from prompt to production. Track AI-generated code from Cursor, Claude Code, GitHub Copilot, Gemini, and more through the entire SDLC."
+category = "other"
+website = "https://usegitai.com"
+open_source = true
+repository = "https://github.com/git-ai-project/git-ai"
+added = 2026-10-29

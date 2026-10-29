@@ -1,0 +1,7 @@
+name = "Neuron AI"
+description = "Build Agentic-Native applications in PHP with technology you love"
+category = "chatbots"
+website = "https://neuron-ai.dev"
+open_source = true
+repository = "https://github.com/neuron-core/neuron-ai"
+added = 2026-10-29

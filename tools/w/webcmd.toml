@@ -1,0 +1,7 @@
+name = "webcmd"
+description = "Stop making agents rediscover the same sites. Learn once, then run fast, structured commands."
+category = "coding"
+website = "https://webcmd.dev"
+open_source = true
+repository = "https://github.com/agentrhq/webcmd"
+added = 2026-10-29

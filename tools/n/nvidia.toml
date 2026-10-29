@@ -1,0 +1,7 @@
+name = "NVIDIA"
+description = "Connecting developers to a global network of GPU compute."
+category = "other"
+website = "https://www.nvidia.com"
+open_source = true
+repository = "https://github.com/leptonai/leptonai"
+added = 2026-10-29

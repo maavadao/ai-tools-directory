@@ -41,6 +41,19 @@
 "checked": "2026-10-23",
 "image": "https://paperclip.ing/og-v4.jpg"
 },
+"paperlib": {
+"checked": "2026-10-29"
+},
+"papersgpt": {
+"checked": "2026-10-29",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 7.0,
+"trial": true,
+"url": "https://www.papersgpt.com/en/pricing"
+}
+},
 "parakeetai": {
 "checked": "2026-10-23",
 "image": "https://www.parakeet-ai.com/og-image.png",
@@ -81,6 +94,10 @@
 "pdfmathtranslate": {
 "checked": "2026-10-23"
 },
+"penecho": {
+"checked": "2026-10-29",
+"image": "https://penecho.ai/og.png"
+},
 "penguinharness": {
 "checked": "2026-10-28",
 "image": "https://penguin.ooo/og-cover.png"
@@ -88,6 +105,10 @@
 "pentagi": {
 "checked": "2026-10-23",
 "image": "https://pentagi.com/opengraph-image"
+},
+"pentest-ai": {
+"checked": "2026-10-29",
+"image": "https://pentestai.xyz/social-post.jpeg"
 },
 "peon-ping": {
 "checked": "2026-10-27",
@@ -118,6 +139,9 @@
 "free": true,
 "url": "https://pexo.ai/pricing"
 }
+},
+"photodemon": {
+"checked": "2026-10-29"
 },
 "photoprism": {
 "checked": "2026-10-23",
@@ -161,6 +185,9 @@
 "checked": "2026-10-27",
 "image": "https://cdn.qiita.com/assets/qiita-ogp-3b6fcfdd74755a85107071ffc3155898.png"
 },
+"pinvou-com": {
+"checked": "2026-10-29"
+},
 "pipecat": {
 "checked": "2026-10-24"
 },
@@ -192,6 +219,18 @@
 "checked": "2026-10-27",
 "image": "https://holocron.so/api/og?title=Let+Agents+Control+Your+Real+Chrome+Browser&description=Control+your+real+Chrome+browser+with+Playwright+from+an+agent%2C+CLI%2C+or+MCP+server.+Keep+logins%2C+cookies%2C+and+extensions.+No+headless+Chrome.&icon=https%3A%2F%2Fplaywriter.dev%2Ffavicon-32.png&siteName=Playwriter&pageLabel=playwriter.dev%2F"
 },
+"plexe": {
+"checked": "2026-10-29",
+"image": "https://plexe.ai/plexegodmode.png"
+},
+"pluely": {
+"checked": "2026-10-29",
+"image": "https://pluely.com/og.png",
+"pricing": {
+"free": true,
+"url": "https://pluely.com/pricing"
+}
+},
 "point-cloud-library": {
 "checked": "2026-10-25"
 },
@@ -203,6 +242,9 @@
 "from": 125.0,
 "url": "https://polyaxon.com/pricing/"
 }
+},
+"polyglot-docs": {
+"checked": "2026-10-29"
 },
 "polylane": {
 "checked": "2026-10-23",
@@ -230,6 +272,15 @@
 "porcupine": {
 "checked": "2026-10-27",
 "image": "https://picovoice.ai/og_images/og_picovoice_logo.png"
+},
+"portaljs": {
+"checked": "2026-10-29",
+"image": "https://www.portaljs.com/static/img/seo.webp",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.portaljs.com/pricing"
+}
 },
 "postgres-sandbox": {
 "checked": "2026-10-28",
@@ -277,6 +328,10 @@
 "printfilm": {
 "checked": "2026-10-26"
 },
+"prism": {
+"checked": "2026-10-29",
+"image": "https://prismphp.com/assets/og-image.png?v=3"
+},
 "prismml": {
 "checked": "2026-10-28",
 "image": "https://cdn.prod.website-files.com/697a3312d33c2cc715ec3899/69cae04a19115963ea13d12d_prism-og-img%20(2).png"
@@ -288,6 +343,9 @@
 "projectlearn": {
 "checked": "2026-10-26"
 },
+"proma": {
+"checked": "2026-10-29"
+},
 "prompt-always200-com": {
 "checked": "2026-10-23"
 },
@@ -298,12 +356,18 @@
 "checked": "2026-10-28",
 "image": "https://prompt-kit.com/opengraph-image.jpg?2e8effab5f3bf8ae"
 },
+"promptbin": {
+"checked": "2026-10-29"
+},
 "prompts-chat": {
 "checked": "2026-10-23",
 "image": "https://prompts.chat/opengraph-image.png?opengraph-image.57ebefa7.png"
 },
 "promptx": {
 "checked": "2026-10-28"
+},
+"pubax": {
+"checked": "2026-10-29"
 },
 "puck": {
 "checked": "2026-10-25",

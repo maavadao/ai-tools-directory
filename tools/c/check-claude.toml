@@ -1,0 +1,7 @@
+name = "Check Claude"
+description = "CheckCC.org 覆盖 Claude Code 封号检查、封号原因、封号机制、风控规则、账号受限解封、封号退款、 ip 纯净度检测、账号申请注册、Claude API 申请、Claude Code 申请和 Claude Pro 订阅环境检测。"
+category = "other"
+website = "https://checkcc.org"
+open_source = true
+repository = "https://github.com/yacuo/check-cc"
+added = 2026-10-29

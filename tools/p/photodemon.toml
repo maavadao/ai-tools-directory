@@ -1,0 +1,7 @@
+name = "PhotoDemon"
+description = "the fast, free, portable photo editor"
+category = "other"
+website = "https://photodemon.org"
+open_source = true
+repository = "https://github.com/tannerhelland/PhotoDemon"
+added = 2026-10-29

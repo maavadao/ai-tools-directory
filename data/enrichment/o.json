@@ -58,6 +58,9 @@
 "olmocr": {
 "checked": "2026-10-24"
 },
+"omai": {
+"checked": "2026-10-29"
+},
 "omi-ai": {
 "checked": "2026-10-25"
 },
@@ -94,6 +97,9 @@
 },
 "one-api": {
 "checked": "2026-10-23"
+},
+"one-hub": {
+"checked": "2026-10-29"
 },
 "onecli": {
 "checked": "2026-10-28",
@@ -242,6 +248,14 @@
 "openchamber": {
 "checked": "2026-10-25",
 "image": "https://openchamber.dev/og/en.png"
+},
+"openchatcut": {
+"checked": "2026-10-29",
+"image": "https://openchatcut.com/opengraph-image.png",
+"pricing": {
+"trial": true,
+"url": "https://openchatcut.com/pricing"
+}
 },
 "openclaude": {
 "checked": "2026-10-23",
@@ -401,6 +415,9 @@
 "checked": "2026-10-25",
 "image": "https://openpencil.dev/screenshot.png"
 },
+"openpipe": {
+"checked": "2026-10-29"
+},
 "openpua": {
 "checked": "2026-10-24",
 "image": "https://openpua.ai/assets/og-image.png"
@@ -485,6 +502,9 @@
 "url": "https://openwhispr.com/pricing"
 }
 },
+"openwolf": {
+"checked": "2026-10-29"
+},
 "openwork": {
 "checked": "2026-10-24",
 "image": "https://openworklabs.com/openwork-social.png",
@@ -542,6 +562,19 @@
 "url": "https://orchestrator.inc/pricing/"
 }
 },
+"orkas": {
+"checked": "2026-10-29",
+"image": "https://orkas.ai/res/og.jpg",
+"pricing": {
+"currency": "USD",
+"from": 5.99,
+"url": "https://orkas.ai/pricing/"
+}
+},
+"ort-docs": {
+"checked": "2026-10-29",
+"image": "https://ort.pyke.io/og/il7asoJjJEMhngUeSt4tHVu8Zxx4EFG_FDeJfL3-oPE.png"
+},
 "osaurus": {
 "checked": "2026-10-26",
 "image": "https://osaurus.ai/osaurus-og-image-1.png",
@@ -553,6 +586,13 @@
 "osmedeus": {
 "checked": "2026-10-26",
 "image": "https://osmedeus.org/banner.png"
+},
+"osqp": {
+"checked": "2026-10-29"
+},
+"ossinsight": {
+"checked": "2026-10-29",
+"image": "https://ossinsight.io/seo-widgets-homepage.jpeg"
 },
 "otter-meeting-agent": {
 "checked": "2026-10-23",

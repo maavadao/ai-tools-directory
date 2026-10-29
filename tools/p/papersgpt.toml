@@ -1,0 +1,7 @@
+name = "PapersGPT"
+description = "Beyond single-PDF chat: whole-library search, Literature Radar, multi-document comparison, AutoPilot deep research. ChatGPT, Claude, Gemini & DeepSeek — or fully private local LLMs. No API key. Built-in credits. Ready out of the box."
+category = "chatbots"
+website = "https://www.papersgpt.com"
+open_source = true
+repository = "https://github.com/papersgpt/papersgpt-for-zotero"
+added = 2026-10-29

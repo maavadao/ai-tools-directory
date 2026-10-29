@@ -1,0 +1,7 @@
+name = "Bionic GPT"
+description = "Bionic is the open-source foundation for internal AI teams building private, on-premise and sovereign AI capabilities."
+category = "agents"
+website = "https://bionic-gpt.com"
+open_source = true
+repository = "https://github.com/bionic-gpt/bionic-gpt"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "Deep Research Web UI"
+description = "AI deep-research agent that turns any question into a cited report: plans searches, reads real sources, verifies evidence. Self-hosted, multi-provider, Docker-ready."
+category = "chatbots"
+website = "https://deep-research.ataw.top"
+open_source = true
+repository = "https://github.com/AnotiaWang/deep-research-web-ui"
+added = 2026-10-29

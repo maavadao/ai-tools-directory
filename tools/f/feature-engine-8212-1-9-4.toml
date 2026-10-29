@@ -1,0 +1,7 @@
+name = "Feature-engine &#8212; 1.9.4"
+description = "Feature engineering and selection open-source Python library compatible with sklearn."
+category = "data"
+website = "https://feature-engine.trainindata.com"
+open_source = true
+repository = "https://github.com/feature-engine/feature_engine"
+added = 2026-10-29

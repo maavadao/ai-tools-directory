@@ -1,0 +1,7 @@
+name = "luminoth"
+description = "Tryolabs is a specialized AI and machine learning solutions company that helps companies create business value by partnering with them through their AI journey."
+category = "other"
+website = "https://tryolabs.com"
+open_source = true
+repository = "https://github.com/tryolabs/luminoth"
+added = 2026-10-29

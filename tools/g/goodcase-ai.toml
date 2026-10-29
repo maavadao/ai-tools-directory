@@ -1,0 +1,7 @@
+name = "GoodCase.ai"
+description = "从一线 AI 创作者的作品中，找到视频、图像和网页创作的完整 Prompt、可复用方法与独立复测证据，每条都保留作者署名与原始来源。"
+category = "other"
+website = "https://goodcase.ai"
+open_source = true
+repository = "https://github.com/LearnPrompt/awesome-seedance"
+added = 2026-10-29

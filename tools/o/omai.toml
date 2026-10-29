@@ -1,0 +1,7 @@
+name = "OmAI"
+description = "[EMNLP-2024] Build multimodal language agents for fast prototype and production"
+category = "chatbots"
+website = "https://om-agent.com"
+open_source = true
+repository = "https://github.com/om-ai-lab/OmAgent"
+added = 2026-10-29

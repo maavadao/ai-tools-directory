@@ -1,0 +1,7 @@
+name = "HolyClaude"
+description = "Run CloudCLI and AI coding CLIs in a Docker workspace you host. Full and Slim include a packaged browser for Linux AMD64 and ARM64."
+category = "coding"
+website = "https://holyclaude.coderluii.dev"
+open_source = true
+repository = "https://github.com/CoderLuii/HolyClaude"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "claude-scientific-writer"
+description = "K-Dense builds AI agents for real research — K-Dense Web, Faraday, K-Dense Enterprise, open-source K-Dense BYOK, and free research tools for science and industry."
+category = "writing"
+website = "https://www.k-dense.ai"
+open_source = true
+repository = "https://github.com/K-Dense-AI/claude-scientific-writer"
+added = 2026-10-29

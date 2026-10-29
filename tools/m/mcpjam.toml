@@ -1,0 +1,7 @@
+name = "MCPJam"
+description = "Test, debug, and evaluate MCP servers with MCPJam — OAuth testing, LLM-powered evals, and CI/CD integration."
+category = "other"
+website = "https://www.mcpjam.com"
+open_source = true
+repository = "https://github.com/MCPJam/inspector"
+added = 2026-10-29

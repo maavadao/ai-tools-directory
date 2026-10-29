@@ -1,0 +1,7 @@
+name = "MindForger"
+description = "Thinking notebook and Markdown editor web site home page"
+category = "coding"
+website = "https://www.mindforger.com"
+open_source = true
+repository = "https://github.com/dvorka/mindforger"
+added = 2026-10-29

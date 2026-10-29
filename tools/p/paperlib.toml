@@ -1,0 +1,7 @@
+name = "paperlib"
+description = "An open-source and simple academic paper management tool."
+category = "research"
+website = "https://paperlib.app"
+open_source = true
+repository = "https://github.com/Future-Scholars/paperlib"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "dstack"
+description = "dstack is a unified control plane for GPU provisioning and orchestration that works with any GPU cloud, Kubernetes, or on-prem clusters."
+category = "other"
+website = "https://dstack.ai"
+open_source = true
+repository = "https://github.com/dstackai/dstack"
+added = 2026-10-29

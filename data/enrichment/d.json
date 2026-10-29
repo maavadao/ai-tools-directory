@@ -47,6 +47,9 @@
 "checked": "2026-10-23",
 "image": "https://dailyhelm.com/og-image.svg"
 },
+"danghuangshang": {
+"checked": "2026-10-29"
+},
 "danijar-hafner": {
 "checked": "2026-10-28"
 },
@@ -137,6 +140,18 @@
 "deep-research": {
 "checked": "2026-10-27"
 },
+"deep-research-web-ui": {
+"checked": "2026-10-29"
+},
+"deepbi": {
+"checked": "2026-10-29",
+"image": "https://www.deepbi.com/images/Logo/Deepinsight.png",
+"pricing": {
+"currency": "USD",
+"from": 15.0,
+"url": "https://www.deepbi.com/pricing/"
+}
+},
 "deepcell": {
 "checked": "2026-10-23",
 "image": "https://deepcell.net/og-image.png"
@@ -146,6 +161,10 @@
 },
 "deepchem": {
 "checked": "2026-10-26"
+},
+"deepdetect-by-jolibrain": {
+"checked": "2026-10-29",
+"image": "https://deepdetect.com/img/meta_logo.jpg"
 },
 "deepeval": {
 "checked": "2026-10-24",
@@ -284,6 +303,10 @@
 "checked": "2026-10-27",
 "image": "https://www.docetl.org/docetl-favicon-color.png"
 },
+"docmd": {
+"checked": "2026-10-29",
+"image": "https://docmd.io/assets/images/preview.webp"
+},
 "docsgpt": {
 "checked": "2026-10-24",
 "image": "https://app.docsgpt.cloud/og_image.png"
@@ -346,6 +369,10 @@
 "dsh-desktop": {
 "checked": "2026-10-24",
 "image": "https://dshdesktop.com/assets/og-dsh-desktop-en-v1.png"
+},
+"dstack": {
+"checked": "2026-10-29",
+"image": "https://dstack.ai/static-assets/static-assets/images/dstack-social.png"
 },
 "duolingo": {
 "checked": "2026-10-23",

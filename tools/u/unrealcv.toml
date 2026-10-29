@@ -1,0 +1,7 @@
+name = "UnrealCV"
+description = "UnrealCV: Connecting Computer Vision to Unreal Engine"
+category = "other"
+website = "https://unrealcv.org"
+open_source = true
+repository = "https://github.com/unrealcv/unrealcv"
+added = 2026-10-29

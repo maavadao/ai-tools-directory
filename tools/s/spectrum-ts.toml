@@ -1,0 +1,7 @@
+name = "spectrum-ts"
+description = "An open-source framework that connects your agents to iMessage, Telegram, WhatsApp, X, Discord, Instagram, and other interfaces people use every day."
+category = "agents"
+website = "https://photon.codes"
+open_source = true
+repository = "https://github.com/photon-hq/spectrum-ts"
+added = 2026-10-29

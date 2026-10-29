@@ -1,0 +1,7 @@
+name = "MCPHub"
+description = "Open-source, self-hosted MCP gateway and control plane for connecting, controlling, routing, and operating MCP servers with unified endpoints, authentication, per-user credentials, access control, and observability."
+category = "other"
+website = "https://www.mcphub.app"
+open_source = true
+repository = "https://github.com/samanhappy/mcphub"
+added = 2026-10-29

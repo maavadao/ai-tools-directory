@@ -1,0 +1,7 @@
+name = "OSSInsight"
+description = "Track AI agent frameworks, LLM tools, MCP servers & 10B+ GitHub events. Compare repos, discover trending projects, and get real-time open source intelligence."
+category = "coding"
+website = "https://ossinsight.io"
+open_source = true
+repository = "https://github.com/pingcap/ossinsight"
+added = 2026-10-29

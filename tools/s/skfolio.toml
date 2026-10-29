@@ -1,0 +1,7 @@
+name = "skfolio"
+description = "Python library for portfolio optimization, factor model construction, and risk management, built on scikit-learn to create, fine-tune, cross-validate, and stress-test portfolio models."
+category = "data"
+website = "https://skfolio.org"
+open_source = true
+repository = "https://github.com/skfolio/skfolio"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "HY-World-2.0"
+description = "腾讯混元3D生成模型基于Diffusion技术，支持文本和图像生成3D资产。该模型配备精心设计的文本和图像编码器、扩散模型及3D解码器，能够实现多视图生成、重建及单视图生成。腾讯混元3D大模型可快速生成精美3D物体，适用于多种下游应用。"
+category = "other"
+website = "https://3d-models.hunyuan.tencent.com"
+open_source = true
+repository = "https://github.com/Tencent-Hunyuan/HY-World-2.0"
+added = 2026-10-29

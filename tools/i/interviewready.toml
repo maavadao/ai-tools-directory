@@ -1,0 +1,7 @@
+name = "InterviewReady"
+description = "Courses on system design, AI engineering, low level design and behavioural interviews, in one subscription. The first four videos of each course are free."
+category = "chatbots"
+website = "https://interviewready.io"
+open_source = true
+repository = "https://github.com/InterviewReady/ai-engineering-resources"
+added = 2026-10-29

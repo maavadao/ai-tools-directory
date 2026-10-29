@@ -1,0 +1,7 @@
+name = "ControlTheory"
+description = "AI writes the code. Dstl8 watches the runtime. Verified root-cause context for agentic engineering, fed back to Claude Code, Cursor, and Codex."
+category = "other"
+website = "https://www.controltheory.com"
+open_source = true
+repository = "https://github.com/control-theory/gonzo"
+added = 2026-10-29

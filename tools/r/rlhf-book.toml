@@ -1,0 +1,7 @@
+name = "RLHF Book"
+description = "A free online book and course on RLHF, preference tuning, reward models, RLVR, and post-training language models."
+category = "education"
+website = "https://rlhfbook.com"
+open_source = true
+repository = "https://github.com/natolambert/rlhf-book"
+added = 2026-10-29

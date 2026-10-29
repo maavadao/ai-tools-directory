@@ -1,0 +1,7 @@
+name = "TavernAI 2"
+description = "Official TavernAI 2 website for the local AI roleplay chat app with branching chats, dynamic participants, Prompt Manager, provider setup, Macros, and PM Scripts."
+category = "chatbots"
+website = "https://tavernai.net"
+open_source = true
+repository = "https://github.com/TavernAI/TavernAI-v1"
+added = 2026-10-29

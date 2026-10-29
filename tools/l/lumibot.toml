@@ -1,0 +1,7 @@
+name = "LumiBot"
+description = "Build AI-powered trading strategies in Python. Run an AI backtest, inspect its decisions and orders, then connect a supported broker with LumiBot."
+category = "agents"
+website = "https://lumibot.lumiwealth.com"
+open_source = true
+repository = "https://github.com/Lumiwealth/lumibot"
+added = 2026-10-29

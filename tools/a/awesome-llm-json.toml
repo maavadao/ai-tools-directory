@@ -1,0 +1,7 @@
+name = "awesome-llm-json"
+description = "Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc."
+category = "chatbots"
+website = "https://genomoncology.com"
+open_source = true
+repository = "https://github.com/imaurer/awesome-llm-json"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "OSQP"
+description = "The Operator Splitting QP Solver"
+category = "data"
+website = "https://osqp.org"
+open_source = true
+repository = "https://github.com/osqp/osqp"
+added = 2026-10-29

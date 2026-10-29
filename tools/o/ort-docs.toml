@@ -1,0 +1,7 @@
+name = "ort Docs"
+description = "Fast ML inference & training for ONNX models in Rust"
+category = "other"
+website = "https://ort.pyke.io"
+open_source = true
+repository = "https://github.com/pykeio/ort"
+added = 2026-10-29

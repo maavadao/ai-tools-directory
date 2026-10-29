@@ -1,0 +1,7 @@
+name = "Machine Learning Refined"
+description = "Official Machine Learning Refined 2nd edition site with chapter PDFs, GitHub notebooks, exercises, slides, and Python resources for the Cambridge textbook."
+category = "data"
+website = "https://www.mlrefined.com"
+open_source = true
+repository = "https://github.com/neonwatty/machine-learning-refined"
+added = 2026-10-29

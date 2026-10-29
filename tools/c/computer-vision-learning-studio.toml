@@ -1,0 +1,7 @@
+name = "Computer Vision Learning Studio"
+description = "An open source image annotation tool for teams and individuals. Easily build real-time object detection models without having to code."
+category = "other"
+website = "https://vision.skills.network"
+open_source = true
+repository = "https://github.com/cloud-annotations/cloud-annotations"
+added = 2026-10-29

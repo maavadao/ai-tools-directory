@@ -1,0 +1,7 @@
+name = "Super Agent Party"
+description = "Super Agent Party (SAP) is an all-in-one open-source AI companion platform. It integrates AI desktop companions, virtual streamers, IM bot, and smart home control. Build your personalized digital life today."
+category = "other"
+website = "https://www.agentparty.top"
+open_source = true
+repository = "https://github.com/heshengtao/super-agent-party"
+added = 2026-10-29

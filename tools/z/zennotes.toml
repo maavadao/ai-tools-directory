@@ -1,0 +1,7 @@
+name = "ZenNotes"
+description = "ZenNotes is a keyboard-first Markdown notes app with native desktop and mobile apps. Keep local files, sync across devices, create backups, and publish notes to the web with ZenNotes Cloud."
+category = "productivity"
+website = "https://zennotes.org"
+open_source = true
+repository = "https://github.com/ZenNotes/zennotes"
+added = 2026-10-29

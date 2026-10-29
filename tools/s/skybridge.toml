@@ -1,0 +1,7 @@
+name = "skybridge"
+description = "Skybridge is the leading open-source TypeScript framework for building MCP Apps. Write once, run in Claude, ChatGPT, VSCode, and any MCP client. 100K monthly downloads."
+category = "coding"
+website = "https://www.skybridge.tech"
+open_source = true
+repository = "https://github.com/alpic-ai/skybridge"
+added = 2026-10-29

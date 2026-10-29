@@ -1,0 +1,7 @@
+name = "LetsFG"
+description = "The AI agent-native way to travel. LetsFG compares every airline in the world, plus hotels and booking sites including Google Flights and Skyscanner, then books it for you. One clear price, no hidden fees."
+category = "other"
+website = "https://letsfg.co"
+open_source = true
+repository = "https://github.com/LetsFG/LetsFG"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "aso-skills"
+description = "Appeeky monitors your store, competitors, keywords, reviews, and AI visibility, then turns every signal into briefings and actions you can approve."
+category = "sales-marketing"
+website = "https://www.appeeky.com"
+open_source = true
+repository = "https://github.com/appeeky/aso-skills"
+added = 2026-10-29

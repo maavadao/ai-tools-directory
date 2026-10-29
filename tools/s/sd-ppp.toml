@@ -1,0 +1,7 @@
+name = "SD-PPP"
+description = "Use Nano-banana, Flux, and more AI models easily - Integrate ComfyUI/Replicate/RunningHUB into Photoshop."
+category = "image"
+website = "https://sdppp.zombee.tech"
+open_source = true
+repository = "https://github.com/zombieyang/sd-ppp"
+added = 2026-10-29

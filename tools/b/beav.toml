@@ -1,0 +1,7 @@
+name = "Beav 官网"
+description = "Beav 是本地 AI 自媒体创作资产工作台：用浏览器插件采集小红书爆款素材、视频与图集原图，沉淀成本地知识库，再用智能选题、AI 写稿与爆款封面生成完成创作。支持 macOS、Windows、Linux 桌面端与 Chrome 浏览器插件。"
+category = "agents"
+website = "https://beav.pro"
+open_source = true
+repository = "https://github.com/Jamailar/Beav"
+added = 2026-10-29

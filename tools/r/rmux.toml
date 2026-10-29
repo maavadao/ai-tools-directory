@@ -1,0 +1,7 @@
+name = "RMUX"
+description = "RMUX keeps your shell alive, scriptable, and inspectable as a blazing-fast tmux-compatible multiplexer and terminal automation engine."
+category = "agents"
+website = "https://rmux.io"
+open_source = true
+repository = "https://github.com/Helvesec/rmux"
+added = 2026-10-29

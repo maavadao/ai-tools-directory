@@ -1,0 +1,7 @@
+name = "TrustGraph"
+description = "TrustGraph is the open-source Semantic Agent Governance Platform. It builds ontology-grounded context graphs and governs every AI agent action with a deterministic runtime. W3C standards, full provenance."
+category = "agents"
+website = "https://TrustGraph.ai"
+open_source = true
+repository = "https://github.com/trustgraph-ai/trustgraph"
+added = 2026-10-29

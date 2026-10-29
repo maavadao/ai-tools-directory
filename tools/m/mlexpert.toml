@@ -1,0 +1,7 @@
+name = "MLExpert"
+description = "Learn AI engineering by building local AI apps, RAG systems, agents, and production services."
+category = "education"
+website = "https://mlexpert.io"
+open_source = true
+repository = "https://github.com/curiousily/Getting-Things-Done-with-Pytorch"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "Agent Orchestrators"
+description = "A searchable directory of open-source tools for agent orchestration: parallel runners, multi-agent swarms, autonomous loops, and more."
+category = "education"
+website = "https://agent-orchestrators.com"
+open_source = true
+repository = "https://github.com/andyrewlee/awesome-agent-orchestrators"
+added = 2026-10-29

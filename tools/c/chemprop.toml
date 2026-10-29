@@ -1,0 +1,7 @@
+name = "chemprop"
+description = "Message Passing Neural Networks for Molecule Property Prediction"
+category = "other"
+website = "https://chemprop.readthedocs.io"
+open_source = true
+repository = "https://github.com/chemprop/chemprop"
+added = 2026-10-29

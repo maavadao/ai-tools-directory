@@ -1,0 +1,7 @@
+name = "CrossPaste"
+description = "CrossPaste 是一款免费的跨设备剪贴板同步工具，支持 macOS、Windows、Linux、Android、iOS 和 HarmonyOS。"
+category = "other"
+website = "https://crosspaste.com"
+open_source = true
+repository = "https://github.com/CrossPaste/crosspaste-desktop"
+added = 2026-10-29

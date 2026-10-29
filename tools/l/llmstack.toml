@@ -1,0 +1,7 @@
+name = "LLMStack"
+description = "No-code platform to build generative AI apps, chatbots and agents with your data."
+category = "agents"
+website = "https://llmstack.trypromptly.com"
+open_source = true
+repository = "https://github.com/trypromptly/LLMStack"
+added = 2026-10-29

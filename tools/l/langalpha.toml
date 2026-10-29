@@ -1,0 +1,7 @@
+name = "LangAlpha"
+description = "LangAlpha is an agentic AI platform for financial research that turns your hunch into an actionable investment thesis, grounded in evidence you can trace."
+category = "chatbots"
+website = "https://langalpha.ai"
+open_source = true
+repository = "https://github.com/ginlix-ai/LangAlpha"
+added = 2026-10-29

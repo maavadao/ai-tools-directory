@@ -1,0 +1,7 @@
+name = "Locally Uncensored"
+description = "Uncensored AI studio for Windows, Linux and Mac: chat with Qwen, DeepSeek and Llama, FLUX images and Wan video via ComfyUI, plus a built-in coding agent in one installer. Free and open source on GitHub, or online in a browser when you have no GPU. Auto-detects Ollama, LM Studio, vLLM, llama.cpp, Ko…"
+category = "chatbots"
+website = "https://locallyuncensored.com"
+open_source = true
+repository = "https://github.com/PurpleDoubleD/locally-uncensored"
+added = 2026-10-29

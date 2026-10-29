@@ -1,0 +1,7 @@
+name = "Collaborative Kubernetes AI Assistant"
+description = "Reliably lighten the Kubernetes Troubleshooting and Monitoring Workload for your DevOps and Developers."
+category = "chatbots"
+website = "https://botkube.io"
+open_source = true
+repository = "https://github.com/kubeshop/botkube"
+added = 2026-10-29

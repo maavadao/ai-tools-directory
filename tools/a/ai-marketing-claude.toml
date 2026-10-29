@@ -1,0 +1,7 @@
+name = "ai-marketing-claude"
+description = "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
+category = "writing"
+website = "https://www.skool.com"
+open_source = true
+repository = "https://github.com/zubair-trabzada/ai-marketing-claude"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "Ultra AI"
+description = "Experience the future of AI with Omni AI. Chat with intelligent assistants, use powerful tools, and access expert knowledge all in one place."
+category = "audio"
+website = "https://chatwithgpt.ai"
+open_source = true
+repository = "https://github.com/cogentapps/chat-with-gpt"
+added = 2026-10-29

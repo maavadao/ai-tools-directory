@@ -1,0 +1,7 @@
+name = "plexe"
+description = "The enterprise AI platform and the team that deploys it. Models and agents built into your product, inside your cloud, owned by you. Live at Expedia Group, lastminute.com and more."
+category = "agents"
+website = "https://plexe.ai"
+open_source = true
+repository = "https://github.com/plexe-ai/plexe"
+added = 2026-10-29

@@ -1,0 +1,7 @@
+name = "toolhive"
+description = "Stacklok gives enterprises an open, Kubernetes-native architecture to run AI agents securely with no vendor lock-in. Led by the co-creators of Kubernetes."
+category = "other"
+website = "https://stacklok.com"
+open_source = true
+repository = "https://github.com/stacklok/toolhive"
+added = 2026-10-29

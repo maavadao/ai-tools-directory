@@ -36,6 +36,9 @@
 "checked": "2026-10-27",
 "image": "https://taubyte.com/screenshots/home-preview.png"
 },
+"tavernai-2": {
+"checked": "2026-10-29"
+},
 "taxhacker": {
 "checked": "2026-10-26"
 },
@@ -52,6 +55,13 @@
 "teachoo": {
 "checked": "2026-10-23",
 "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4fc6ce87-ec73-42d0-83dc-7c85059937ae/id-preview-687cf3db--70f423a8-a933-48cb-b46a-0112e655cad8.lovable.app-1784088734535.png"
+},
+"teaql-agent-kit": {
+"checked": "2026-10-29",
+"image": "https://teaql.io/img/logo.svg"
+},
+"teepublic": {
+"checked": "2026-10-29"
 },
 "telegram": {
 "checked": "2026-10-23",
@@ -102,6 +112,10 @@
 "checked": "2026-10-24",
 "image": "https://www.texttocad.dev/social-preview.png"
 },
+"texthero": {
+"checked": "2026-10-29",
+"image": "https://texthero.org/img/T.png"
+},
 "tf-router": {
 "checked": "2026-10-24"
 },
@@ -126,6 +140,14 @@
 "the-system-design-newsletter": {
 "checked": "2026-10-24",
 "image": "https://substackcdn.com/image/fetch/$s_!W5r-!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1c8067a-95bb-416b-9114-e0b9fb8821d4_256x256.png"
+},
+"thesvg": {
+"checked": "2026-10-29",
+"image": "https://thesvg.org/og-image.png"
+},
+"thinc": {
+"checked": "2026-10-29",
+"image": "https://thinc.ai/static/social-ed02e7f6979c7f7798f8a64e4589b0cc.jpg"
 },
 "three-ws": {
 "checked": "2026-10-26",
@@ -176,6 +198,14 @@
 "url": "https://tinyhumans.ai/pricing"
 }
 },
+"tinyfish": {
+"checked": "2026-10-29",
+"image": "https://www.tinyfish.ai/opengraph-image",
+"pricing": {
+"free": true,
+"url": "https://www.tinyfish.ai/pricing"
+}
+},
 "tldraw": {
 "checked": "2026-10-23",
 "image": "https://cdn.sanity.io/images/ij3ytvrl/production/9bbdab1656512165d2426e787a553be0a8fd60a6-512x256.webp?w=1200&fit=max",
@@ -199,6 +229,14 @@
 "tom-moroney": {
 "checked": "2026-10-27",
 "image": "https://tom-moroney.com/social-preview.jpg"
+},
+"tons-of-skills": {
+"checked": "2026-10-29",
+"image": "https://tonsofskills.com/og-image.png"
+},
+"toolhive": {
+"checked": "2026-10-29",
+"image": "https://stacklok.com/wp-content/uploads/2025/12/stacklok-default-social-share.jpg"
 },
 "tooljet": {
 "checked": "2026-10-23",
@@ -259,6 +297,9 @@
 "checked": "2026-10-27",
 "image": "https://lab.cloud/img/primus-social-card.png"
 },
+"transmogrifai": {
+"checked": "2026-10-29"
+},
 "treg": {
 "checked": "2026-10-26",
 "image": "https://treg.to/media/og.png"
@@ -285,6 +326,10 @@
 "checked": "2026-10-28",
 "image": "https://www.trulens.org/assets/images/og-card.png"
 },
+"trustgraph": {
+"checked": "2026-10-29",
+"image": "https://trustgraph.ai/og-image.png"
+},
 "ttime": {
 "checked": "2026-10-28",
 "image": "https://ttime.timerecord.cn/img/png/translate-dark-light.png"
@@ -292,6 +337,10 @@
 "tuios": {
 "checked": "2026-10-26",
 "image": "https://tuios.dev/og/site/image.png"
+},
+"turing-jl": {
+"checked": "2026-10-29",
+"image": "https://turinglang.org/assets/logo/turing-text-logo.jpg"
 },
 "turix": {
 "checked": "2026-10-28",

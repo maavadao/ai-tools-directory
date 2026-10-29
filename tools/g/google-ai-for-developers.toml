@@ -1,0 +1,7 @@
+name = "Google AI for Developers"
+description = "Build with Gemini 2.0 Flash, 2.5 Pro, and Gemma using the Gemini API and Google AI Studio."
+category = "chatbots"
+website = "https://ai.google.dev"
+open_source = true
+repository = "https://github.com/google/generative-ai-docs"
+added = 2026-10-29

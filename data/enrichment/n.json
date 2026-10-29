@@ -22,6 +22,16 @@
 "nacos": {
 "checked": "2026-10-25"
 },
+"nannyml-cloud": {
+"checked": "2026-10-29",
+"image": "https://cdn.prod.website-files.com/6099466e98d9381b3f745b9a/64ef2e7a714ed3855e77a4b7_nannyml-open-graph-image.jpg",
+"pricing": {
+"currency": "USD",
+"from": 99.0,
+"trial": true,
+"url": "https://www.nannyml.com/pricing"
+}
+},
 "nanobrowser": {
 "checked": "2026-10-24",
 "image": "https://nanobrowser.ai/og.jpg"
@@ -29,6 +39,10 @@
 "nanoclaw": {
 "checked": "2026-10-23",
 "image": "https://nanoclaw.dev/social-preview.jpg"
+},
+"nanomuse": {
+"checked": "2026-10-29",
+"image": "https://nanomuse.cn/assets/social-card.png"
 },
 "narratoai": {
 "checked": "2026-10-25",
@@ -83,6 +97,10 @@
 "url": "https://nesa.ai/pricing"
 }
 },
+"nestia": {
+"checked": "2026-10-29",
+"image": "https://nestia.io/og.jpg"
+},
 "netbird": {
 "checked": "2026-10-24",
 "pricing": {
@@ -109,6 +127,10 @@
 "neuralprophet": {
 "checked": "2026-10-27"
 },
+"neuron-ai": {
+"checked": "2026-10-29",
+"image": "https://www.neuron-ai.dev/og-image.png"
+},
 "new-api": {
 "checked": "2026-10-23",
 "image": "https://www.newapi.ai/social-image"
@@ -123,6 +145,9 @@
 "nexu": {
 "checked": "2026-10-28",
 "image": "https://assets.nexu.io/home-page/media/frame-42.png"
+},
+"nexus-office": {
+"checked": "2026-10-29"
 },
 "ngram": {
 "checked": "2026-10-23",
@@ -170,6 +195,13 @@
 "nocobase": {
 "checked": "2026-10-24",
 "image": "https://static-docs.nocobase.com/20260513-og-github-v3.jpg"
+},
+"node-llama-cpp": {
+"checked": "2026-10-29",
+"image": "https://node-llama-cpp.withcat.ai/social.poster.jpg"
+},
+"nof0": {
+"checked": "2026-10-29"
 },
 "noib-app": {
 "checked": "2026-10-25",
@@ -252,6 +284,10 @@
 "nullclaw": {
 "checked": "2026-10-26"
 },
+"nvidia": {
+"checked": "2026-10-29",
+"image": "https://www.nvidia.com/content/dam/en-zz/Solutions/homepage/v2/sfg/nvidia-corporate-og-image-1200x630.jpg"
+},
 "nvidia-developer": {
 "checked": "2026-10-25",
 "image": "https://developer.download.nvidia.com/images/og-default.jpg"
@@ -266,5 +302,9 @@
 "trial": true,
 "url": "https://nx.dev/pricing"
 }
+},
+"nxai-minds-for-machines": {
+"checked": "2026-10-29",
+"image": "https://a.storyblok.com/f/272863/2400x1260/4233f99f24/nxai-home-og-2x.jpg"
 }
 }

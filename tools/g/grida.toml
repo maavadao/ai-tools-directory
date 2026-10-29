@@ -1,0 +1,7 @@
+name = "grida"
+description = "An open-source design canvas. Create images, slides, and designs with AI in Grida Desktop for macOS, Windows, and Linux."
+category = "agents"
+website = "https://grida.co"
+open_source = true
+repository = "https://github.com/gridaco/grida"
+added = 2026-10-29

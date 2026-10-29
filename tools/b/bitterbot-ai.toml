@@ -1,0 +1,7 @@
+name = "Bitterbot AI"
+description = "A Living, Distributed Intelligence. Decentralized AI that inverts the traditional stack."
+category = "chatbots"
+website = "https://bitterbot.ai"
+open_source = true
+repository = "https://github.com/Bitterbot-AI/bitterbot-desktop"
+added = 2026-10-29

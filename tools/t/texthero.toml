@@ -1,0 +1,7 @@
+name = "texthero"
+description = "Text preprocessing, representation and visualization from zero to hero."
+category = "data"
+website = "https://texthero.org"
+open_source = true
+repository = "https://github.com/jbesomi/texthero"
+added = 2026-10-29

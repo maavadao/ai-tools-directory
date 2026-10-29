@@ -1,0 +1,7 @@
+name = "AingDesk"
+description = "拥有超强知识库能力的开源免费AI助手"
+category = "chatbots"
+website = "https://www.aingdesk.com"
+open_source = true
+repository = "https://github.com/aingdesk/AingDesk"
+added = 2026-10-29

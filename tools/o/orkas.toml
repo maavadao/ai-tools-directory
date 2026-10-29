@@ -1,0 +1,7 @@
+name = "Orkas"
+description = "Orkas is for solo founders and small teams: direct AI agents by chat to deliver research, docs, slides, videos, websites and much more. Free, open source, Mac and Windows."
+category = "other"
+website = "https://orkas.ai"
+open_source = true
+repository = "https://github.com/Orkas-AI/Orkas"
+added = 2026-10-29

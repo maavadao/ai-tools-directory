@@ -1,0 +1,7 @@
+name = "semiotic"
+description = "Semiotic is a React data visualization framework. Build interactive charts, network diagrams, geo maps, and streaming visualizations from simple, composable components."
+category = "data"
+website = "https://semiotic.nteract.io"
+open_source = true
+repository = "https://github.com/nteract/semiotic"
+added = 2026-10-29
