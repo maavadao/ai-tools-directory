@@ -22,6 +22,10 @@
 "nacos": {
 "checked": "2026-10-25"
 },
+"naga2000": {
+"checked": "2026-10-30",
+"image": "https://universaldatatool.com/naga2000-banner-index.webp"
+},
 "nannyml-cloud": {
 "checked": "2026-10-29",
 "image": "https://cdn.prod.website-files.com/6099466e98d9381b3f745b9a/64ef2e7a714ed3855e77a4b7_nannyml-open-graph-image.jpg",
@@ -72,6 +76,10 @@
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/images/ksJspuSmGbfuts4VWMX3qQqUpSk.png"
 },
+"navop": {
+"checked": "2026-10-30",
+"image": "https://navop.dev/screenshots/app.png"
+},
 "needle": {
 "checked": "2026-10-23",
 "image": "https://needle.app/images/og/landing-hero-og.png",
@@ -82,6 +90,10 @@
 "trial": true,
 "url": "https://needle.app/pricing"
 }
+},
+"neo-chat": {
+"checked": "2026-10-30",
+"image": "https://neo.u14.app/desktop.png"
 },
 "neo-mjs": {
 "checked": "2026-10-28"
@@ -135,6 +147,10 @@
 "checked": "2026-10-23",
 "image": "https://www.newapi.ai/social-image"
 },
+"newsjack-sh": {
+"checked": "2026-10-30",
+"image": "https://newsjack.sh/newsjack-og-image.png"
+},
 "next-ai-draw-io": {
 "checked": "2026-10-23",
 "image": "https://next-ai-drawio.jiang.jp/architecture.png"
@@ -149,6 +165,9 @@
 "nexus-office": {
 "checked": "2026-10-29"
 },
+"nezha": {
+"checked": "2026-10-30"
+},
 "ngram": {
 "checked": "2026-10-23",
 "image": "https://www.ngram.com/opengraph-image?16e0eec4c567a8a4",
@@ -156,6 +175,10 @@
 "free": true,
 "url": "https://www.ngram.com/pricing"
 }
+},
+"nitric": {
+"checked": "2026-10-30",
+"image": "https://nitric.io/images/og/og_image.png"
 },
 "nitrostack": {
 "checked": "2026-10-23",
@@ -192,6 +215,9 @@
 "url": "https://www.getnoan.com/pricing"
 }
 },
+"nobodywho": {
+"checked": "2026-10-30"
+},
 "nocobase": {
 "checked": "2026-10-24",
 "image": "https://static-docs.nocobase.com/20260513-og-github-v3.jpg"
@@ -199,6 +225,10 @@
 "node-llama-cpp": {
 "checked": "2026-10-29",
 "image": "https://node-llama-cpp.withcat.ai/social.poster.jpg"
+},
+"nodeterm": {
+"checked": "2026-10-30",
+"image": "https://nodeterm.dev/og.png"
 },
 "nof0": {
 "checked": "2026-10-29"
@@ -261,6 +291,15 @@
 "checked": "2026-10-28",
 "image": "https://i.imgur.com/F5R0K03.png"
 },
+"notte": {
+"checked": "2026-10-30",
+"image": "https://www.notte.cc/images/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://www.notte.cc/pricing"
+}
+},
 "novel": {
 "checked": "2026-10-24",
 "image": "https://novel.sh/opengraph-image.png?73cb1c6d8589016e"
@@ -283,6 +322,9 @@
 },
 "nullclaw": {
 "checked": "2026-10-26"
+},
+"nullhub": {
+"checked": "2026-10-30"
 },
 "nvidia": {
 "checked": "2026-10-29",

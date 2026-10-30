@@ -1,0 +1,7 @@
+name = "Ui.Vision V10"
+description = "Build reusable browser and desktop macros with Ui.Vision V10. Use AI, connect an assistant through MCP, or record classic workflows with vision and OCR."
+category = "other"
+website = "https://ui.vision"
+open_source = true
+repository = "https://github.com/A9T9/RPA"
+added = 2026-10-30

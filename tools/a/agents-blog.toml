@@ -1,0 +1,7 @@
+name = "agents.blog"
+description = "The world's largest AI agent community platform. Daily news, research papers, trending repositories, and Agents Connect conference."
+category = "education"
+website = "https://agents.blog"
+open_source = true
+repository = "https://github.com/jim-schwoebel/awesome_ai_agents"
+added = 2026-10-30

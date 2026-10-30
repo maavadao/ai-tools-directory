@@ -11,11 +11,18 @@
 "checked": "2026-10-28",
 "image": "https://yibiao.pro/opengraph-image.png?3f963424af17354e"
 },
+"yival": {
+"checked": "2026-10-30"
+},
 "yiyang-steven-yu": {
 "checked": "2026-10-26"
 },
 "yn": {
 "checked": "2026-10-26"
+},
+"yomo": {
+"checked": "2026-10-30",
+"image": "https://yomo.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=Introduction&description=Open+source+Serverless+LLM+Function+Calling+framework+for+AI+agents&theme=abe54cc401bf1fc18e9d191e&signature=71093c08607f6126dcdf63d8272f3f4bf408f5e27e8f3d46a96c96dd161b2066"
 },
 "you-com": {
 "checked": "2026-10-23",
@@ -28,6 +35,10 @@
 "youmind": {
 "checked": "2026-10-25",
 "image": "https://cdn.youmindassets.com/assets/youhome-v1/metadata/social-preview-v3.jpg"
+},
+"yovoice": {
+"checked": "2026-10-30",
+"image": "https://yovoice.leemysw.com/assets/workspace.png"
 },
 "ytpro": {
 "checked": "2026-10-29",

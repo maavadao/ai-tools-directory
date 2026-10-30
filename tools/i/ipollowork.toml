@@ -1,0 +1,7 @@
+name = "iPolloWork"
+description = "A source-available AI workspace for code, documents, design and video, with OpenAI, ChatGPT, DeepSeek, Skills and MCP."
+category = "other"
+website = "https://www.ipollo.ai"
+open_source = true
+repository = "https://github.com/Devin-AXIS/iPolloWork"
+added = 2026-10-30

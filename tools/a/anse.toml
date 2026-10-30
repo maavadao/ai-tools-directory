@@ -1,0 +1,7 @@
+name = "anse"
+description = "Get answers from AI, elegantly."
+category = "image"
+website = "https://anse.app"
+open_source = true
+repository = "https://github.com/anse-app/anse"
+added = 2026-10-30

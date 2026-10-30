@@ -1,0 +1,7 @@
+name = "RHVoice.org"
+description = "a free and open source speech synthesizer for Russian and other languages"
+category = "audio"
+website = "https://rhvoice.org"
+open_source = true
+repository = "https://github.com/RHVoice/RHVoice"
+added = 2026-10-30

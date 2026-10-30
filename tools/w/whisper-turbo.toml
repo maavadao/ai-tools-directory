@@ -1,0 +1,7 @@
+name = "Whisper Turbo"
+description = "Transcribe any audio file - completely free!"
+category = "audio"
+website = "https://whisper-turbo.com"
+open_source = true
+repository = "https://github.com/FL33TW00D/whisper-turbo"
+added = 2026-10-30

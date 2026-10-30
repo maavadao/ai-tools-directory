@@ -1,0 +1,7 @@
+name = "nezha"
+description = "Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine."
+category = "other"
+website = "https://nezha.hanshutx.com"
+open_source = true
+repository = "https://github.com/hanshuaikang/nezha"
+added = 2026-10-30

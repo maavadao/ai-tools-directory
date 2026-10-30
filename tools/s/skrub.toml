@@ -1,0 +1,7 @@
+name = "skrub"
+description = "Machine learning with dataframes"
+category = "data"
+website = "https://skrub-data.org"
+open_source = true
+repository = "https://github.com/skrub-data/skrub"
+added = 2026-10-30

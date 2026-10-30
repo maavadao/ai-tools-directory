@@ -26,6 +26,10 @@
 "scikit-learn": {
 "checked": "2026-10-23"
 },
+"scikit-learn-tips": {
+"checked": "2026-10-30",
+"image": "https://embed.filekitcdn.com/e/wW49WBPsD4QcY2GCZ4gYa8/hMHBvGnzikG6wXTNhaiLHu"
+},
 "scrapegraphai": {
 "checked": "2026-10-23",
 "image": "https://pub-308fdc8a1858487d9ab275774108077b.r2.dev/images/og.png",
@@ -52,6 +56,9 @@
 "checked": "2026-10-29",
 "image": "https://sdppp.zombee.tech/index_screenshot.png"
 },
+"seal-report": {
+"checked": "2026-10-30"
+},
 "sealos": {
 "checked": "2026-10-24",
 "image": "https://sealos.io/api/og",
@@ -69,6 +76,19 @@
 },
 "seekdb": {
 "checked": "2026-10-28"
+},
+"seekstorm": {
+"checked": "2026-10-30",
+"image": "https://seekstorm.com/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://seekstorm.com"
+}
+},
+"self-contained-agents-that-self-organize": {
+"checked": "2026-10-30"
 },
 "semantic-kernel": {
 "checked": "2026-10-24",
@@ -113,6 +133,9 @@
 "shannon-run": {
 "checked": "2026-10-29",
 "image": "https://shannon.run/og-image.png"
+},
+"shell": {
+"checked": "2026-10-30"
 },
 "shippie": {
 "checked": "2026-10-29"
@@ -159,6 +182,9 @@
 "checked": "2026-10-29",
 "image": "https://skfolio.org/_static/expo.jpg"
 },
+"skid-homework": {
+"checked": "2026-10-30"
+},
 "skill-seekers": {
 "checked": "2026-10-25",
 "image": "https://skillseekersweb.com/og-image.png"
@@ -174,6 +200,12 @@
 "skills-sh": {
 "checked": "2026-10-23",
 "image": "https://www.skills.sh/og.jpeg"
+},
+"skills-universe": {
+"checked": "2026-10-30"
+},
+"skrub": {
+"checked": "2026-10-30"
 },
 "sktime": {
 "checked": "2026-10-25",
@@ -203,6 +235,10 @@
 "checked": "2026-10-26",
 "image": "https://smartsub.linxiaodong.com/img/smartsub-social-card.png"
 },
+"smcleod-net": {
+"checked": "2026-10-30",
+"image": "https://smcleod.net/og-card.jpg"
+},
 "smol-machines": {
 "checked": "2026-10-26",
 "image": "https://smolmachines.com/logo-480.png"
@@ -228,8 +264,18 @@
 "url": "https://socraticode.cloud"
 }
 },
+"sod": {
+"checked": "2026-10-30"
+},
+"solana-agent-kit": {
+"checked": "2026-10-30",
+"image": "https://kit.sendai.fun/og.png"
+},
 "solon-opensolon": {
 "checked": "2026-10-29"
+},
+"sonar": {
+"checked": "2026-10-30"
 },
 "sorawebui": {
 "checked": "2026-10-29"
@@ -271,6 +317,10 @@
 "speak": {
 "checked": "2026-10-23"
 },
+"spec-kitty": {
+"checked": "2026-10-30",
+"image": "https://spec-kitty.ai/og/index.png"
+},
 "spectrum-ts": {
 "checked": "2026-10-29",
 "image": "https://photon.codes/assets/og/home.png"
@@ -307,6 +357,10 @@
 "spug": {
 "checked": "2026-10-25"
 },
+"sql-bblaz-ing": {
+"checked": "2026-10-30",
+"image": "https://blazingsql.com/wp-content/uploads/17-1.jpg"
+},
 "sql-explorer": {
 "checked": "2026-10-29"
 },
@@ -325,6 +379,10 @@
 },
 "stability-matrix": {
 "checked": "2026-10-25"
+},
+"stablediffusionbook": {
+"checked": "2026-10-30",
+"image": "https://stable-diffusion-book.vercel.app/assets/images/social/index.png"
 },
 "stagehand": {
 "checked": "2026-10-24",
@@ -458,6 +516,14 @@
 "url": "https://superduper.io/pricing"
 }
 },
+"superglue": {
+"checked": "2026-10-30",
+"image": "https://superglue.ai/logos/sg_logo.png",
+"pricing": {
+"trial": true,
+"url": "https://superglue.ai/pricing/"
+}
+},
 "superhuman": {
 "checked": "2026-10-23",
 "image": "https://superhumanstatic.com/vwfkeyj6n9ac/70d5WBekIRRrA200BtyOob/7ecef93df6ed744b4e7df600140732e1/HP-Meta-Image-8-12-2026__1_.gif",
@@ -504,6 +570,10 @@
 "checked": "2026-10-24",
 "image": "https://www.surfsense.com/og-image.png"
 },
+"svnscha-de": {
+"checked": "2026-10-30",
+"image": "https://svnscha.de/og/default.png"
+},
 "swanlab": {
 "checked": "2026-10-27"
 },
@@ -523,6 +593,14 @@
 "swirl-ai": {
 "checked": "2026-10-28",
 "image": "https://swirlaiconnect.com/images/og-swirl5.png"
+},
+"switch-ai": {
+"checked": "2026-10-30",
+"image": "https://cdn.prod.website-files.com/6a26f9dd113918ff685f6913/6ad2a98f00bd10bfb0ae0b61_switch-og-home.png"
+},
+"symforce": {
+"checked": "2026-10-30",
+"image": "https://symforce.org/docs/static/images/symforce_banner.png"
 },
 "synthesia": {
 "checked": "2026-10-23",

@@ -1,0 +1,7 @@
+name = "scikit-learn-tips"
+description = "Sign up to get my scikit-learn tips via email twice a week."
+category = "data"
+website = "https://scikit-learn.tips"
+open_source = true
+repository = "https://github.com/justmarkham/scikit-learn-tips"
+added = 2026-10-30

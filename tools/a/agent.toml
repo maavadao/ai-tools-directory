@@ -1,0 +1,7 @@
+name = "agent"
+description = "An open source agent that lives on your machines 24/7, keeps your apps running, and only pings when it needs a human. All the upside of a PaaS, none of the lock-in."
+category = "agents"
+website = "https://stakpak.dev"
+open_source = true
+repository = "https://github.com/stakpak/agent"
+added = 2026-10-30

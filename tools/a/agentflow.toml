@@ -1,0 +1,7 @@
+name = "AgentFlow"
+description = "AgentFlow: In-the-Flow Agentic System Optimization"
+category = "agents"
+website = "https://agentflow.stanford.edu"
+open_source = true
+repository = "https://github.com/lupantech/AgentFlow"
+added = 2026-10-30

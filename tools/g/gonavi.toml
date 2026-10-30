@@ -1,0 +1,7 @@
+name = "GoNavi"
+description = "GoNavi 是开源的跨平台数据库客户端，支持 MySQL、PostgreSQL、Oracle、Redis、Kafka、MongoDB、ClickHouse 等 50 多种数据源，自带 AI 助手和 MCP 服务，安装包 20 多 MB。"
+category = "coding"
+website = "https://gonavi.org"
+open_source = true
+repository = "https://github.com/Syngnat/GoNavi"
+added = 2026-10-30

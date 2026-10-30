@@ -1,0 +1,7 @@
+name = "testkube"
+description = "Testkube is the testing platform that orchestrates any automated test, works with any CI/CD tool, and runs inside your own cloud-native infrastructure."
+category = "agents"
+website = "https://testkube.io"
+open_source = true
+repository = "https://github.com/kubeshop/testkube"
+added = 2026-10-30

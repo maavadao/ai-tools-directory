@@ -1,0 +1,7 @@
+name = "Enzyme AD"
+description = "High-performance automatic differentiation of LLVM and MLIR."
+category = "other"
+website = "https://enzyme.mit.edu"
+open_source = true
+repository = "https://github.com/EnzymeAD/Enzyme"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "Dory"
+description = "Docker, Kubernetes, virtual machines, and dedicated agent sandboxes. Engineered as one native, open-source local system."
+category = "other"
+website = "https://usedory.dev"
+open_source = true
+repository = "https://github.com/Augani/dory"
+added = 2026-10-30

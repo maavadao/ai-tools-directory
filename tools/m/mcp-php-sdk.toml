@@ -1,0 +1,7 @@
+name = "MCP PHP SDK"
+description = "The official PHP SDK for the Model Context Protocol"
+category = "other"
+website = "https://php.sdk.modelcontextprotocol.io"
+open_source = true
+repository = "https://github.com/modelcontextprotocol/php-sdk"
+added = 2026-10-30

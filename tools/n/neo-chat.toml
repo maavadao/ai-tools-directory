@@ -1,0 +1,7 @@
+name = "Neo Chat"
+description = "Chat with multiple AI providers, assistants, plugins, web search, knowledge-base RAG, voice, and artifacts in one bilingual workspace."
+category = "chatbots"
+website = "https://neo.u14.app"
+open_source = true
+repository = "https://github.com/u14app/neo-chat"
+added = 2026-10-30

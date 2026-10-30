@@ -1,0 +1,7 @@
+name = "superglue"
+description = "superglue's AI agents connect, migrate, and implement enterprise systems. Deploy in the cloud or on your own infrastructure."
+category = "agents"
+website = "https://superglue.ai"
+open_source = true
+repository = "https://github.com/superglue-ai/superglue"
+added = 2026-10-30

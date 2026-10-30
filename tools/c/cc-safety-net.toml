@@ -1,0 +1,7 @@
+name = "CC Safety Net"
+description = "CC Safety Net is a pre-execution hook for AI coding agents. It blocks destructive git and filesystem commands and secret file reads before they run."
+category = "other"
+website = "https://ccsafetynet.com"
+open_source = true
+repository = "https://github.com/kenryu42/cc-safety-net"
+added = 2026-10-30

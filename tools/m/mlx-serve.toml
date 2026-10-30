@@ -1,0 +1,7 @@
+name = "mlx-serve"
+description = "Native Zig inference server for Apple Silicon. MLX + GGUF. OpenAI- and Anthropic-compatible APIs. No Python. Drop-in alternative to LM Studio and Ollama on macOS."
+category = "coding"
+website = "https://mlxserve.com"
+open_source = true
+repository = "https://github.com/ddalcu/mlx-serve"
+added = 2026-10-30

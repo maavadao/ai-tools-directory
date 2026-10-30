@@ -1,0 +1,7 @@
+name = "mlr"
+description = "Interface to a large number of classification and regression techniques, including machine-readable parameter descriptions. There is also an experimental extension for survival analysis, clustering and general, example-specific cost-sensitive learning. Generic resampling, including cross-validation…"
+category = "data"
+website = "https://mlr.mlr-org.com"
+open_source = true
+repository = "https://github.com/mlr-org/mlr"
+added = 2026-10-30

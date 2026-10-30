@@ -1,0 +1,7 @@
+name = "ToolUniverse"
+description = "An open universe of scientific tools and skills that powers AI scientists built on any LLM."
+category = "agents"
+website = "https://aiscientist.tools"
+open_source = true
+repository = "https://github.com/mims-harvard/ToolUniverse"
+added = 2026-10-30

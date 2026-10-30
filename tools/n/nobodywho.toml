@@ -1,0 +1,7 @@
+name = "NobodyWho"
+description = "Nobodywho runs AI on devices and servers. Open-source SDKs for Rust, Python, Kotlin, Swift, Flutter, React Native and Godot."
+category = "other"
+website = "https://www.nobodywho.ai"
+open_source = true
+repository = "https://github.com/nobodywho-ooo/nobodywho"
+added = 2026-10-30

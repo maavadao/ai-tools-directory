@@ -1,0 +1,7 @@
+name = "EurekaMoments"
+description = "This blog is to make a memo about Programming and Autonomous driving technologies which I studied."
+category = "education"
+website = "https://www.eureka-moments-blog.com"
+open_source = true
+repository = "https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide"
+added = 2026-10-30

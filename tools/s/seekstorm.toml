@@ -1,0 +1,7 @@
+name = "SeekStorm"
+description = "SeekStorm - Vector and full-text search in Rust, embeddable library, self-hosted server, or managed cloud."
+category = "research"
+website = "https://seekstorm.com"
+open_source = true
+repository = "https://github.com/SeekStorm/SeekStorm"
+added = 2026-10-30

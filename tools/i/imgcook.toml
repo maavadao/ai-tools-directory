@@ -1,0 +1,7 @@
+name = "图像大厨imgcook"
+description = "由设计稿一键智能生成代码的大厨 | An intelligent tool turning designs to code"
+category = "data"
+website = "https://www.imgcook.com"
+open_source = true
+repository = "https://github.com/imgcook/imgcook"
+added = 2026-10-30

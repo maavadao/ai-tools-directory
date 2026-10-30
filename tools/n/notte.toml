@@ -1,0 +1,7 @@
+name = "notte"
+description = "Notte: The fast, reliable browser framework for AI Agents. Simplifies LLM web tasks, handles CAPTCHAs & offers dev tools. Build smarter agents."
+category = "chatbots"
+website = "https://www.notte.cc"
+open_source = true
+repository = "https://github.com/nottelabs/notte"
+added = 2026-10-30

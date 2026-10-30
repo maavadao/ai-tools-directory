@@ -1,0 +1,7 @@
+name = "WebArena-x"
+description = "WebArena: A suite of benchmarks for building autonomous web agents."
+category = "agents"
+website = "https://webarena.dev"
+open_source = true
+repository = "https://github.com/web-arena-x/webarena"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "svnscha.de"
+description = "automating annoying tasks, sharing tips, and embracing less frustration"
+category = "other"
+website = "https://svnscha.de"
+open_source = true
+repository = "https://github.com/svnscha/mcp-windbg"
+added = 2026-10-30

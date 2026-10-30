@@ -1,0 +1,7 @@
+name = "OpenLore"
+description = "Shared knowledge for your agents, with access and write rules defined in code. Capture, validate and retrieve ordinary files over SSH, MCP and HTTP. Self-hosted. Open source."
+category = "agents"
+website = "https://openlore.sh"
+open_source = true
+repository = "https://github.com/aakarim/OpenLore"
+added = 2026-10-30

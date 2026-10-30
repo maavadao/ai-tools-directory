@@ -249,6 +249,9 @@
 "checked": "2026-10-28",
 "image": "https://opengraph.b-cdn.net/production/images/fe1c7dec-9d68-436d-bd63-a95eefa43465.png?token=YelScdl-Ww1APx4IJfcUcacNJScisgb7AIDbvvKrFj0&height=675&width=1200&expires=33284440757"
 },
+"detikzify": {
+"checked": "2026-10-30"
+},
 "developers-digest": {
 "checked": "2026-10-27",
 "image": "https://www.developersdigest.tech/opengraph-image",
@@ -289,6 +292,9 @@
 "url": "https://dify.ai/pricing"
 }
 },
+"dingo": {
+"checked": "2026-10-30"
+},
 "distilabel-argilla-io": {
 "checked": "2026-10-28"
 },
@@ -299,6 +305,10 @@
 "djl": {
 "checked": "2026-10-27"
 },
+"dmux": {
+"checked": "2026-10-30",
+"image": "https://dmux.ai/og.jpg"
+},
 "docetl": {
 "checked": "2026-10-27",
 "image": "https://www.docetl.org/docetl-favicon-color.png"
@@ -306,6 +316,10 @@
 "docmd": {
 "checked": "2026-10-29",
 "image": "https://docmd.io/assets/images/preview.webp"
+},
+"docs-mcp-server": {
+"checked": "2026-10-30",
+"image": "https://grounded.tools/og-image.png"
 },
 "docsgpt": {
 "checked": "2026-10-24",
@@ -338,6 +352,13 @@
 },
 "doris": {
 "checked": "2026-10-24"
+},
+"dory": {
+"checked": "2026-10-30",
+"image": "https://usedory.dev/og.png"
+},
+"dot": {
+"checked": "2026-10-30"
 },
 "douyin-tiktok-download-api": {
 "checked": "2026-10-25",
@@ -377,6 +398,10 @@
 "duolingo": {
 "checked": "2026-10-23",
 "image": "https://www.duolingo.com/images/facebook/duo-08523a2.jpg"
+},
+"durable-streams": {
+"checked": "2026-10-30",
+"image": "https://durablestreams.com/.netlify/images?url=https%3A%2F%2Fdurablestreams.com%2Fimg%2Fmeta.png&w=1200&h=630&fit=cover&fm=jpg&q=80"
 },
 "dvc": {
 "checked": "2026-10-24",

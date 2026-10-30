@@ -1,0 +1,7 @@
+name = "Spec Kitty"
+description = "Your AI agents write the code. Your people make the calls. Spec Kitty makes sure coding agents build with what your experts know and what your team decided. Free, MIT CLI for Claude Code, Codex, Cursor, Copilot and 20+ more."
+category = "coding"
+website = "https://spec-kitty.ai"
+open_source = true
+repository = "https://github.com/spec-kitty/spec-kitty"
+added = 2026-10-30

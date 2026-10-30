@@ -1,0 +1,7 @@
+name = "ViZDoom Documentation"
+description = "Reinforcement Learning environments based on the 1993 game Doom"
+category = "other"
+website = "https://vizdoom.farama.org"
+open_source = true
+repository = "https://github.com/Farama-Foundation/ViZDoom"
+added = 2026-10-30

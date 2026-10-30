@@ -1,0 +1,7 @@
+name = "TmuxAI"
+description = "TmuxAI observes your screen, understand context from what's visible, and helps accordingly."
+category = "chatbots"
+website = "https://tmuxai.dev"
+open_source = true
+repository = "https://github.com/alvinunreal/tmuxai"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "GitReverse"
+description = "Reverse engineer a GitHub repo or a website into a prompt you can build from."
+category = "other"
+website = "https://www.gitreverse.com"
+open_source = true
+repository = "https://github.com/filiksyos/gitreverse"
+added = 2026-10-30

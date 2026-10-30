@@ -11,6 +11,9 @@
 "url": "https://radarhq.io/pricing"
 }
 },
+"ragbits-deepsense-ai": {
+"checked": "2026-10-30"
+},
 "ragflow": {
 "checked": "2026-10-23",
 "image": "https://ragflow.io/img/ragflow-social-card.png",
@@ -50,6 +53,9 @@
 "checked": "2026-10-23",
 "image": "https://rea.tools/assets/social-card.png"
 },
+"react-app": {
+"checked": "2026-10-30"
+},
 "react-doctor": {
 "checked": "2026-10-24",
 "image": "https://www.react.doctor/opengraph-image"
@@ -57,6 +63,10 @@
 "react-grab": {
 "checked": "2026-10-26",
 "image": "https://react-grab.com/api/og"
+},
+"read-aloud": {
+"checked": "2026-10-30",
+"image": "https://readaloud.app/images/marquee.jpg"
 },
 "read-frog": {
 "checked": "2026-10-25",
@@ -104,12 +114,32 @@
 "redirecting-to-structuredlabs-com": {
 "checked": "2026-10-27"
 },
+"redis": {
+"checked": "2026-10-30",
+"image": "https://redis.io/_next/static/immutable/media/open-graph.2wot1rsqh2ybe.png",
+"pricing": {
+"currency": "USD",
+"from": 5.0,
+"url": "https://redis.io/pricing/"
+}
+},
 "reef": {
 "checked": "2026-10-26"
 },
 "refly": {
 "checked": "2026-10-26",
 "image": "https://framerusercontent.com/images/gLtXxNIfbLGzLsMUlREuy7V9qpA.png"
+},
+"relaticle": {
+"checked": "2026-10-30",
+"image": "https://relaticle.com/images/open-graph.jpg?v=4",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 19.0,
+"trial": true,
+"url": "https://relaticle.com/pricing"
+}
 },
 "relevance-ai": {
 "checked": "2026-10-23",
@@ -191,6 +221,9 @@
 "rfdetr-roboflow-com": {
 "checked": "2026-10-25"
 },
+"rhvoice-org": {
+"checked": "2026-10-30"
+},
 "rig": {
 "checked": "2026-10-25"
 },
@@ -212,6 +245,9 @@
 },
 "rio-dev": {
 "checked": "2026-10-28"
+},
+"risuai": {
+"checked": "2026-10-30"
 },
 "riverml-xyz": {
 "checked": "2026-10-26"
@@ -241,6 +277,10 @@
 "checked": "2026-10-29",
 "image": "https://rmux.io/social-preview-v3.jpg"
 },
+"robocasa": {
+"checked": "2026-10-30",
+"image": "https://robocasa.ai/assets/images/og-image.png"
+},
 "roboflow-inference": {
 "checked": "2026-10-29"
 },
@@ -263,6 +303,10 @@
 "root": {
 "checked": "2026-10-28",
 "image": "https://root.cern/assets/images/ROOT-image-share.png"
+},
+"row-bot": {
+"checked": "2026-10-30",
+"image": "https://row-bot.ai/row_bot_preview.png"
 },
 "rowboat": {
 "checked": "2026-10-24",

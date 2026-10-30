@@ -2,6 +2,14 @@
 "a2a-protocol": {
 "checked": "2026-10-24"
 },
+"a5c-ai": {
+"checked": "2026-10-30",
+"image": "https://a5c.ai/opengraph-image?18a055e3604d6f4f"
+},
+"abin-thomas": {
+"checked": "2026-10-30",
+"image": "https://abinthomas.in/images/og-abin-thomas.jpg"
+},
 "abridge": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/6279c9d10eb860662e5ec006/665f41408181f8fdda5f1e7e_abridge-opengraph-home.webp"
@@ -51,6 +59,10 @@
 "checked": "2026-10-29",
 "image": "https://course.spacy.io/social.jpg"
 },
+"aeon": {
+"checked": "2026-10-30",
+"image": "https://www.aeon.fun/og-image.jpg"
+},
 "ag2": {
 "checked": "2026-10-27",
 "image": "https://www.ag2.ai/og"
@@ -58,6 +70,16 @@
 "agency-orchestrator": {
 "checked": "2026-10-25",
 "image": "https://ao.aiolaola.com/og-image.png"
+},
+"agent": {
+"checked": "2026-10-30",
+"image": "https://stakpak.dev/main-assets/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 15.0,
+"url": "https://stakpak.dev/pricing"
+}
 },
 "agent-browser": {
 "checked": "2026-10-23",
@@ -78,6 +100,15 @@
 "checked": "2026-10-27",
 "image": "https://agent-device.dev/og-image.jpg"
 },
+"agent-flywheel": {
+"checked": "2026-10-30",
+"image": "https://agent-flywheel.com/opengraph-image?afb9662c35e14689",
+"pricing": {
+"currency": "USD",
+"from": 43.0,
+"url": "https://agent-flywheel.com"
+}
+},
 "agent-heroes": {
 "checked": "2026-10-28",
 "image": "https://lpwcreate.space/images/og-image.jpg"
@@ -85,6 +116,10 @@
 "agent-hunt": {
 "checked": "2026-10-23",
 "image": "https://monid.ai/share-card.png"
+},
+"agent-jido": {
+"checked": "2026-10-30",
+"image": "https://jido.run/og/render/home"
 },
 "agent-native": {
 "checked": "2026-10-26",
@@ -105,6 +140,10 @@
 "agent-s": {
 "checked": "2026-10-25",
 "image": "https://cdn.prod.website-files.com/666c58d71e64e2eb5bdf950b/6aa873794bc3db772b5daa8e_Codex%20Image%20Sep%2014%2C%202026%2C%2003_18_57%20PM.png"
+},
+"agent-safehouse": {
+"checked": "2026-10-30",
+"image": "https://agent-safehouse.dev/og-image.png"
 },
 "agent-sandbox": {
 "checked": "2026-10-27",
@@ -136,6 +175,18 @@
 },
 "agentdesk": {
 "checked": "2026-10-26"
+},
+"agentdock": {
+"checked": "2026-10-30",
+"image": "https://agentdock.ai/og-image",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://agentdock.ai/pricing"
+}
+},
+"agentflow": {
+"checked": "2026-10-30"
 },
 "agentfs": {
 "checked": "2026-10-28",
@@ -179,6 +230,10 @@
 "checked": "2026-10-29",
 "image": "https://www.agents-anywhere.com/images/og-zh.png"
 },
+"agents-blog": {
+"checked": "2026-10-30",
+"image": "https://agents.blog/branding/assets/agent-nodes-logo.png"
+},
 "agents-md": {
 "checked": "2026-10-24",
 "image": "https://agents.md/og.png"
@@ -186,6 +241,16 @@
 "agentscope-java": {
 "checked": "2026-10-26",
 "image": "https://agent-scope.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=AgentScope+Java+v2&description=Build+your+own+Agent+application+with+the+AgentScope+Harness+SDK%2C+or+use+managed+Agent+services+through+AgentScope+Service+with+platform-managed+runtimes.&theme=4fb7dd044b4760c6c748f53f&signature=3d370097b833841e38de28eeb131e4ca51199218f9fa5cdc1a7ebf4fadde8de4"
+},
+"agentset": {
+"checked": "2026-10-30",
+"image": "https://agentset.ai/og/cover.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 49.0,
+"url": "https://agentset.ai/pricing"
+}
 },
 "agentskills-io": {
 "checked": "2026-10-24",
@@ -213,12 +278,19 @@
 "checked": "2026-10-24",
 "image": "https://ai.codefather.cn/logo.png"
 },
+"ai-as-workspace": {
+"checked": "2026-10-30"
+},
 "ai-assisted-code-security-research": {
 "checked": "2026-10-29",
 "image": "https://kritt.ai/social-card.png"
 },
 "ai-binwang-me": {
 "checked": "2026-10-27"
+},
+"ai-coding-guide": {
+"checked": "2026-10-30",
+"image": "https://coding.stormzhang.ai/og.png"
 },
 "ai-coding-setup-manager": {
 "checked": "2026-10-29"
@@ -234,6 +306,10 @@
 "ai-daddy": {
 "checked": "2026-10-28",
 "image": "https://www.aidaddy.tech/og/default.png"
+},
+"ai-devkit": {
+"checked": "2026-10-30",
+"image": "https://ai-devkit.com/og-image.jpg"
 },
 "ai-draw-nexus": {
 "checked": "2026-10-28"
@@ -259,6 +335,10 @@
 "ai-engineering-from-scratch": {
 "checked": "2026-10-23",
 "image": "https://aiengineeringfromscratch.com/og/page/home.png?v=2a478f3e4210"
+},
+"ai-file-sorter": {
+"checked": "2026-10-30",
+"image": "https://filesorter.app/static/images/meta/social-preview.png"
 },
 "ai-game-dev": {
 "checked": "2026-10-27",
@@ -291,6 +371,10 @@
 "ai-poster-design": {
 "checked": "2026-10-27"
 },
+"ai-renamer": {
+"checked": "2026-10-30",
+"image": "https://airenamer.app/open-graph.png"
+},
 "ai-roadmap": {
 "checked": "2026-10-23",
 "image": "https://i.am.ai/img/banner/i-am-ai-banner-roadmap.png"
@@ -317,6 +401,10 @@
 },
 "aiclient-2-api": {
 "checked": "2026-10-25"
+},
+"aicon-studio": {
+"checked": "2026-10-30",
+"image": "https://aicon-studio.com/logo.png"
 },
 "aide": {
 "checked": "2026-10-29",
@@ -386,6 +474,9 @@
 "checked": "2026-10-28",
 "image": "https://alicevision.org/img/home_lion.jpg"
 },
+"alkaline-ml": {
+"checked": "2026-10-30"
+},
 "all-api-hub-qixing1217-top": {
 "checked": "2026-10-27"
 },
@@ -409,6 +500,9 @@
 "annyang": {
 "checked": "2026-10-26",
 "image": "https://www.talater.com/annyang/images/icon_speech.png"
+},
+"anse": {
+"checked": "2026-10-30"
 },
 "answer-me-with-html": {
 "checked": "2026-10-27",
@@ -438,6 +532,9 @@
 "anylabeling": {
 "checked": "2026-10-28",
 "image": "https://anylabeling.nrl.ai/og.jpeg"
+},
+"anyquery": {
+"checked": "2026-10-30"
 },
 "anysearch": {
 "checked": "2026-10-26",
@@ -470,6 +567,9 @@
 },
 "apify-mcp-server": {
 "checked": "2026-10-25"
+},
+"apipark": {
+"checked": "2026-10-30"
 },
 "apollo": {
 "checked": "2026-10-23",
@@ -559,6 +659,10 @@
 "artificial-intelligence-deep-learning-machine-learning-tutorials": {
 "checked": "2026-10-27"
 },
+"asap": {
+"checked": "2026-10-30",
+"image": "https://agile.human2humanoid.com/static/images/asap-preview-gif-480P.gif"
+},
 "askai-free": {
 "checked": "2026-10-27",
 "image": "https://askai.free/static/og/og-home.png",
@@ -635,6 +739,10 @@
 "checked": "2026-10-28",
 "image": "https://atomicagent.io/og.png"
 },
+"atomic-chat": {
+"checked": "2026-10-30",
+"image": "https://cdn.prod.website-files.com/69d4e04c943eea1581f96f37/6a4c0cecf04f6540db797e37_opengraph.jpg"
+},
 "atopile": {
 "checked": "2026-10-27"
 },
@@ -693,6 +801,15 @@
 "checked": "2026-10-27",
 "image": "https://www.awarexone.com/og-image.jpg?v=2"
 },
+"awesome-ai-agent-papers": {
+"checked": "2026-10-30",
+"image": "https://starterkit.getdesign.md/og.svg",
+"pricing": {
+"currency": "USD",
+"from": 9.0,
+"url": "https://starterkit.getdesign.md/"
+}
+},
 "awesome-ai-painting": {
 "checked": "2026-10-25",
 "image": "https://cdn.goenhance.ai/images/static/sites/20240718-000924.jpeg"
@@ -706,6 +823,10 @@
 "trial": true,
 "url": "https://www.webfuse.com/pricing"
 }
+},
+"awesome-claude": {
+"checked": "2026-10-30",
+"image": "https://awesomeclaude.ai/og.png"
 },
 "awesome-gpt4o-images": {
 "checked": "2026-10-26",

@@ -1,0 +1,7 @@
+name = "MLJ.jl"
+description = "A Julia machine learning framework"
+category = "data"
+website = "https://juliaml.ai"
+open_source = true
+repository = "https://github.com/JuliaAI/MLJ.jl"
+added = 2026-10-30

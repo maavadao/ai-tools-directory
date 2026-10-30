@@ -37,6 +37,9 @@
 "checked": "2026-10-23",
 "image": "https://career-ops.org/opengraph-image-czrkkh.jpg?opengraph-image.1tjhx6k9jjwvg.jpg"
 },
+"carefree-creator": {
+"checked": "2026-10-30"
+},
 "cascadeflow": {
 "checked": "2026-10-27",
 "image": "https://cdn.ploy.ai/85867475-b06b-4544-912d-701fb42e8c02/user/a567e070-ai-generated-1783581868108.png"
@@ -65,6 +68,10 @@
 "cc-haha": {
 "checked": "2026-10-24",
 "image": "https://cchaha.ai/images/banner.png"
+},
+"cc-safety-net": {
+"checked": "2026-10-30",
+"image": "https://ccsafetynet.com/assets/social-card-v3.jpg"
 },
 "cc-switch": {
 "checked": "2026-10-23",
@@ -187,6 +194,9 @@
 "chitu-ai": {
 "checked": "2026-10-28"
 },
+"chops": {
+"checked": "2026-10-30"
+},
 "chroma": {
 "checked": "2026-10-24",
 "image": "https://www.trychroma.com/card.png",
@@ -230,6 +240,10 @@
 "claude-code-router": {
 "checked": "2026-10-23",
 "image": "https://ccrdesk.top/logo.png"
+},
+"claude-code-settings": {
+"checked": "2026-10-30",
+"image": "https://feisky.xyz/images/og-default.png"
 },
 "claude-code-templates": {
 "checked": "2026-10-23",
@@ -287,6 +301,10 @@
 "url": "https://cloudcli.ai/"
 }
 },
+"claudeprism": {
+"checked": "2026-10-30",
+"image": "https://claude-prism-landing.delibae.workers.dev/og.png"
+},
 "claurst": {
 "checked": "2026-10-25",
 "image": "https://claurst.kuber.studio/public/social-image.png"
@@ -304,6 +322,10 @@
 "clawskills-sh": {
 "checked": "2026-10-23",
 "image": "https://clawskills.sh/api/og/default"
+},
+"clawsweeper": {
+"checked": "2026-10-30",
+"image": "https://clawsweeper.bot/social-card.png"
 },
 "clawx": {
 "checked": "2026-10-26",
@@ -443,6 +465,10 @@
 "checked": "2026-10-23",
 "image": "https://code-review-graph.com/og-image.png"
 },
+"code-with-beto": {
+"checked": "2026-10-30",
+"image": "https://res.cloudinary.com/donplt0kp/image/upload/v1687544389/OG%20for%20Code%20with%20Beto/OGMain_h5na0z.png"
+},
 "code2prompt": {
 "checked": "2026-10-26",
 "image": "https://code2prompt.dev/favicon.svg"
@@ -527,6 +553,9 @@
 "url": "https://comfy.org/pricing/"
 }
 },
+"comfyui-mixlab-nodes": {
+"checked": "2026-10-30"
+},
 "comic-translate": {
 "checked": "2026-10-28",
 "image": "https://comic-translate.com/favicon.ico",
@@ -552,6 +581,10 @@
 "command-line": {
 "checked": "2026-10-23",
 "image": "https://commandline.microsoft.com/wp-content/uploads/2026/05/command-line-intro-16x9-bigger-cursor-scaled.png"
+},
+"comp-ai": {
+"checked": "2026-10-30",
+"image": "https://www.trycomp.ai/og.webp"
 },
 "company-research": {
 "checked": "2026-10-29"
@@ -600,6 +633,10 @@
 "url": "https://context7.com/plans"
 }
 },
+"contextgem": {
+"checked": "2026-10-30",
+"image": "https://contextgem.shcherbak.ai/github-social-preview.png"
+},
 "continue-acquired-by-cursor": {
 "checked": "2026-10-23"
 },
@@ -642,6 +679,9 @@
 "url": "https://www.copy.ai/prices"
 }
 },
+"core": {
+"checked": "2026-10-30"
+},
 "coroot": {
 "checked": "2026-10-26",
 "image": "https://coroot.com/assets/images/coroot-social.jpeg",
@@ -667,6 +707,10 @@
 "cortex-docs": {
 "checked": "2026-10-28"
 },
+"cosmoedge": {
+"checked": "2026-10-30",
+"image": "https://www.cosmowander.ai/og-image.png"
+},
 "costrict": {
 "checked": "2026-10-27",
 "image": "https://costrict.ai/og-image.png"
@@ -691,6 +735,10 @@
 "cowagent": {
 "checked": "2026-10-23",
 "image": "https://cowagent.ai/logo/cow-logo.png"
+},
+"cox-automotive-inc": {
+"checked": "2026-10-30",
+"image": "https://www.coxautoinc.com/wp-content/uploads/2025/09/CAI-1200x628-1.png"
 },
 "crate": {
 "checked": "2026-10-27",
@@ -803,6 +851,13 @@
 "url": "https://cursor.com/pricing"
 }
 },
+"custom-diffusion": {
+"checked": "2026-10-30",
+"image": "https://www.cs.cmu.edu/site-images/gates_web.jpg"
+},
+"cv-learn": {
+"checked": "2026-10-30"
+},
 "cvat-ai": {
 "checked": "2026-10-24",
 "image": "https://cdn.prod.website-files.com/62bebfb83044de7f13ae257e/697b0dd523e73c838362875d_CVAT.webp",
@@ -811,6 +866,10 @@
 "url": "https://www.cvat.ai/pricing/cvat-online"
 }
 },
+"cve-mcp-server": {
+"checked": "2026-10-30",
+"image": "https://www.mahipal.engineer/assets/Mockup.png"
+},
 "cyber-bara": {
 "checked": "2026-10-25",
 "image": "https://cyberbara.com/preview.jpg",
@@ -818,6 +877,10 @@
 "free": true,
 "url": "https://cyberbara.com/pricing"
 }
+},
+"cyberagi": {
+"checked": "2026-10-30",
+"image": "https://www.cyberagi.ai/og/home.png"
 },
 "cyberstrike": {
 "checked": "2026-10-28",

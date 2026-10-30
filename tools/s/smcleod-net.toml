@@ -1,0 +1,7 @@
+name = "smcleod.net"
+description = "The personal blog of Sam McLeod."
+category = "chatbots"
+website = "https://smcleod.net"
+open_source = true
+repository = "https://github.com/sammcj/gollama"
+added = 2026-10-30

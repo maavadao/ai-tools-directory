@@ -1,0 +1,7 @@
+name = "TerraVision"
+description = "AWS, Azure and Google Cloud architecture diagrams with official icons, from a prompt in Claude or ChatGPT or from your Terraform. Free and open source."
+category = "other"
+website = "https://terravision.online"
+open_source = true
+repository = "https://github.com/patrickchugh/terravision"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "AgentDock"
+description = "Replace your help desk with one AI employee that handles every customer on every channel. Vertical presets for home services, dental, legal, and auto. Self-serve, flat pricing."
+category = "chatbots"
+website = "https://agentdock.ai"
+open_source = true
+repository = "https://github.com/AgentDock/AgentDock"
+added = 2026-10-30

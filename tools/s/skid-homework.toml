@@ -1,0 +1,7 @@
+name = "Skid Homework"
+description = "The open source workaround for self-learners. Time-saving, no telemetry, free."
+category = "other"
+website = "https://skid.cubewhy.dev"
+open_source = true
+repository = "https://github.com/cubewhy/skid-homework"
+added = 2026-10-30

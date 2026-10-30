@@ -1,0 +1,7 @@
+name = "llm-ui"
+description = "LLM UI components for React"
+category = "chatbots"
+website = "https://llm-ui.com"
+open_source = true
+repository = "https://github.com/richardgill/llm-ui"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "Self-contained agents that self-organize"
+description = "Substrate for self-organizing intelligence."
+category = "agents"
+website = "https://antigma.ai"
+open_source = true
+repository = "https://github.com/AntigmaLabs/ante"
+added = 2026-10-30

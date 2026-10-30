@@ -1,0 +1,7 @@
+name = "RoboCasa"
+description = "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots"
+category = "other"
+website = "https://robocasa.ai"
+open_source = true
+repository = "https://github.com/robocasa/robocasa"
+added = 2026-10-30

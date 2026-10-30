@@ -1,0 +1,7 @@
+name = "row-bot"
+description = "Your AI. Your machine. Your rules."
+category = "other"
+website = "https://row-bot.ai"
+open_source = true
+repository = "https://github.com/siddsachar/row-bot"
+added = 2026-10-30

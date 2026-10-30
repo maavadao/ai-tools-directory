@@ -1,0 +1,7 @@
+name = "QualityLayer"
+description = "Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE."
+category = "other"
+website = "https://qualitylayer.dev"
+open_source = true
+repository = "https://github.com/maxritter/pilot-shell"
+added = 2026-10-30

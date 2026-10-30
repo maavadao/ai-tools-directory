@@ -1,0 +1,7 @@
+name = "It's a Plan"
+description = "Self-hosted, open-source issue tracker where people and AI agents work the same board. AGPL-3.0 alternative to Linear, Jira, and Plane, on your own server."
+category = "education"
+website = "https://itsaplan.dev"
+open_source = true
+repository = "https://github.com/croffasia/itsaplan"
+added = 2026-10-30

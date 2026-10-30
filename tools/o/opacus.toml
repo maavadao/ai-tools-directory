@@ -1,0 +1,7 @@
+name = "opacus"
+description = "Train PyTorch models with Differential Privacy"
+category = "other"
+website = "https://opacus.ai"
+open_source = true
+repository = "https://github.com/meta-pytorch/opacus"
+added = 2026-10-30

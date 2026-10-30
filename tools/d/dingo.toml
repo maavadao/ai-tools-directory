@@ -1,0 +1,7 @@
+name = "dingo"
+description = "A multi-modal vector database that supports upserts and vector queries using unified SQL (MySQL-Compatible) on structured and unstructured data, while meeting the requirements of high concurrency and ultra-low latency."
+category = "other"
+website = "https://www.dingodb.com"
+open_source = true
+repository = "https://github.com/dingodb/dingo"
+added = 2026-10-30

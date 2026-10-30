@@ -1,0 +1,7 @@
+name = "symforce"
+description = "SymForce SymForce SymForce is a fast symbolic computation and code generation library for robotics applications like computer vision, state estimation, motion planning, and controls. It combines th..."
+category = "coding"
+website = "https://symforce.org"
+open_source = true
+repository = "https://github.com/symforce-org/symforce"
+added = 2026-10-30

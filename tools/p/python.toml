@@ -1,0 +1,7 @@
+name = "Python 潮流周刊"
+description = "在信息洪流中淘金太累？Python潮流周刊人工为你打捞出最硬核、最前沿的技术干货。告别信息过载，精准捕获最新趋势与深度洞察。已助力 350+ 技术人高效成长，你还在等什么？"
+category = "coding"
+website = "https://weekly.pythoncat.top"
+open_source = true
+repository = "https://github.com/chinesehuazhou/python-weekly"
+added = 2026-10-30

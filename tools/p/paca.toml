@@ -1,0 +1,7 @@
+name = "Paca"
+description = "AI-native, free, lightweight, open-source project management. Your AI agents get a seat at the table. Latest: workspace branding, a visual automation engine, and ACP agent support."
+category = "other"
+website = "https://paca-ai.org"
+open_source = true
+repository = "https://github.com/Paca-AI/paca"
+added = 2026-10-30

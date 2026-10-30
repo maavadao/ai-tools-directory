@@ -1,0 +1,7 @@
+name = "Helix Foundry"
+description = "Every system your company runs, matched into one set of objects you can explore and ask questions of. Hosted, or on your own machine."
+category = "agents"
+website = "https://foundry.helix-db.com"
+open_source = true
+repository = "https://github.com/HelixDB/helix-foundry"
+added = 2026-10-30

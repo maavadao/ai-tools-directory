@@ -1,0 +1,7 @@
+name = "ERD Editor"
+description = "Entity-Relationship Diagram Editor App"
+category = "other"
+website = "https://erd-editor.io"
+open_source = true
+repository = "https://github.com/dineug/erd-editor"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "Agent Safehouse"
+description = "Sandbox your LLM coding agents on macOS. Kernel-level enforcement via sandbox-exec — deny-first, composable, zero dependencies."
+category = "coding"
+website = "https://agent-safehouse.dev"
+open_source = true
+repository = "https://github.com/eugene1g/agent-safehouse"
+added = 2026-10-30

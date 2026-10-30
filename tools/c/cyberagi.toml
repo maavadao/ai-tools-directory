@@ -1,0 +1,7 @@
+name = "CyberAGI"
+description = "Excalibur does the work of an entire security department. Discovers threats, validates exposures, predicts where the next attack will land. Your premises. AI that evolves. Data that stays."
+category = "chatbots"
+website = "https://www.cyberagi.ai"
+open_source = true
+repository = "https://github.com/cyberagiinc/DevDocs"
+added = 2026-10-30

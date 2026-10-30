@@ -1,0 +1,7 @@
+name = "UndreamAI"
+description = "Generative AI built for gaming"
+category = "chatbots"
+website = "https://undream.ai"
+open_source = true
+repository = "https://github.com/undreamai/LLMUnity"
+added = 2026-10-30

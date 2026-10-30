@@ -1,0 +1,7 @@
+name = "sonar"
+description = "High-throughput inference for Hugging Face models"
+category = "image"
+website = "https://sonar.dphn.ai"
+open_source = true
+repository = "https://github.com/dphnAI/sonar"
+added = 2026-10-30

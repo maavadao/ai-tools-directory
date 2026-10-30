@@ -1,0 +1,7 @@
+name = "comfyui-mixlab-nodes"
+description = "Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS"
+category = "image"
+website = "https://mixlabnodes.com"
+open_source = true
+repository = "https://github.com/MixLabPro/comfyui-mixlab-nodes"
+added = 2026-10-30

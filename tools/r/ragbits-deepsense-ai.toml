@@ -1,0 +1,7 @@
+name = "Redirecting"
+description = "Building blocks for rapid development of GenAI applications"
+category = "agents"
+website = "https://ragbits.deepsense.ai"
+open_source = true
+repository = "https://github.com/deepsense-ai/ragbits"
+added = 2026-10-30

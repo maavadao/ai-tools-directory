@@ -65,6 +65,10 @@
 "checked": "2026-10-23",
 "image": "https://files.buildwithfern.com/zep.docs.buildwithfern.com/02c641ada228c93ddc35eb6c1bc7e334fc8b00cbce6788440d20f2d5097a0ef3/images/docs-social-card.png"
 },
+"zero": {
+"checked": "2026-10-30",
+"image": "https://zero.twigpine.com/og.png"
+},
 "zero-to-mastery-ml": {
 "checked": "2026-10-26"
 },
@@ -78,6 +82,10 @@
 "zeron": {
 "checked": "2026-10-28",
 "image": "https://zeron.sh/assets/app-screenshot.jpg"
+},
+"zeroshot": {
+"checked": "2026-10-30",
+"image": "https://zeroshot.sh/og.jpg?v=3e64daba"
 },
 "zleap-ai": {
 "checked": "2026-10-29"

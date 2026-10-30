@@ -1,0 +1,7 @@
+name = "Online Document Editor"
+description = "Edit Word, Excel and PowerPoint locally; annotate PDFs. No signup or Office installation. Optional AI (Experimental Beta), WebMCP and PWA support."
+category = "other"
+website = "https://edit.chaxus.com"
+open_source = true
+repository = "https://github.com/ranuts/document"
+added = 2026-10-30

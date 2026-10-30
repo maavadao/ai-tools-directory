@@ -1,0 +1,7 @@
+name = "dmux"
+description = "Manage multiple AI coding agents in isolated git worktrees. Branch, develop, and merge — all in parallel."
+category = "agents"
+website = "https://dmux.ai"
+open_source = true
+repository = "https://github.com/standardagents/dmux"
+added = 2026-10-30

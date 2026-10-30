@@ -83,6 +83,10 @@
 "eko": {
 "checked": "2026-10-27"
 },
+"elato-ai": {
+"checked": "2026-10-30",
+"image": "https://www.elatoai.com/images/hero.png"
+},
 "electerm": {
 "checked": "2026-10-24",
 "image": "https://electerm.org/android-chrome-512x512.png"
@@ -138,12 +142,29 @@
 "checked": "2026-10-29",
 "image": "https://og.tensorchord.ai/api/og?title=envd"
 },
+"enzyme-ad": {
+"checked": "2026-10-30"
+},
+"erd-editor": {
+"checked": "2026-10-30"
+},
 "erlich-liu": {
 "checked": "2026-10-28"
 },
 "ernie-blog": {
 "checked": "2026-10-26",
 "image": "https://ernie.baidu.com/blog/images/papermod-cover.png"
+},
+"eurekamoments": {
+"checked": "2026-10-30",
+"image": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+},
+"eva-os": {
+"checked": "2026-10-30"
+},
+"evalai": {
+"checked": "2026-10-30",
+"image": "https://eval.ai/dist/images/evalai-cover.png"
 },
 "eventcatalog": {
 "checked": "2026-10-28",

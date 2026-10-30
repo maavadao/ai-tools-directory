@@ -1,0 +1,7 @@
+name = "AI Renamer"
+description = "AI Renamer uses AI to automatically rename your files based on their content. Perfect for organizing images and documents with meaningful names."
+category = "agents"
+website = "https://airenamer.app"
+open_source = true
+repository = "https://github.com/ozgrozer/ai-renamer"
+added = 2026-10-30

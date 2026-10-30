@@ -1,0 +1,7 @@
+name = "Microsoft Bot Framework"
+description = "A highly-customizable web-based client for Azure Bot Services."
+category = "chatbots"
+website = "https://dev.botframework.com"
+open_source = true
+repository = "https://github.com/microsoft/BotFramework-WebChat"
+added = 2026-10-30

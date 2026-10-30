@@ -1,0 +1,7 @@
+name = "ClawSweeper"
+description = "ClawSweeper is the conservative maintenance bot for OpenClaw repositories. It reviews issues, pull requests, and commits — and only acts when the evidence is strong."
+category = "other"
+website = "https://clawsweeper.bot"
+open_source = true
+repository = "https://github.com/openclaw/clawsweeper"
+added = 2026-10-30

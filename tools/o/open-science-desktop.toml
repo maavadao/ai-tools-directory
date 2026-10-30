@@ -1,0 +1,7 @@
+name = "Open Science Desktop"
+description = "Open Science Desktop is a local-first, model-agnostic AI research workbench and open-source Claude Science desktop alternative for macOS, Windows, and Linux."
+category = "other"
+website = "https://openedscience.com"
+open_source = true
+repository = "https://github.com/ai4s-research/open-science"
+added = 2026-10-30

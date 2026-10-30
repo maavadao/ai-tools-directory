@@ -1,0 +1,7 @@
+name = "alkaline-ml"
+description = "Distilling machine learning into its basics"
+category = "data"
+website = "https://alkaline-ml.com"
+open_source = true
+repository = "https://github.com/alkaline-ml/pmdarima"
+added = 2026-10-30

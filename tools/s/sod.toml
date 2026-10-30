@@ -1,0 +1,7 @@
+name = "SOD"
+description = "SOD is an embedded, cross-platform computer vision and machine learning library that exposes a set of APIs for deep-learning, advanced media processing & analysis including real-time multi-class object detection."
+category = "other"
+website = "https://sod.pixlab.io"
+open_source = true
+repository = "https://github.com/symisc/sod"
+added = 2026-10-30

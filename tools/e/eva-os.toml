@@ -1,0 +1,7 @@
+name = "EVA OS"
+description = "EVA 是一个强大的智能交互平台，提供AI驱动的方案和工作流程。"
+category = "audio"
+website = "https://eva.autoarkai.com"
+open_source = true
+repository = "https://github.com/AutoArk/EVA-OS"
+added = 2026-10-30

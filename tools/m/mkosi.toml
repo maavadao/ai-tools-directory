@@ -1,0 +1,7 @@
+name = "mkosi"
+description = "Build Bespoke OS Images"
+category = "other"
+website = "https://mkosi.systemd.io"
+open_source = true
+repository = "https://github.com/systemd/mkosi"
+added = 2026-10-30

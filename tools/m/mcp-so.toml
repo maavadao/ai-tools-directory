@@ -1,0 +1,7 @@
+name = "MCP.so"
+description = "Discover MCP servers for coding, browsers, databases and more. Explore server listings, remote endpoints and setup guides for Claude, Cursor and other AI clients."
+category = "other"
+website = "https://mcp.so"
+open_source = true
+repository = "https://github.com/chatmcp/mcpso"
+added = 2026-10-30

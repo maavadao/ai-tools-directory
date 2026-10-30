@@ -1,0 +1,7 @@
+name = "happier"
+description = "Claude Code, Codex, OpenCode, Cursor and 9 more — in one end-to-end encrypted app, on every device, on your own subscriptions. Open-source and self-hostable."
+category = "coding"
+website = "https://happier.dev"
+open_source = true
+repository = "https://github.com/happier-dev/happier"
+added = 2026-10-30

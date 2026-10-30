@@ -1,0 +1,7 @@
+name = "OpenDAN"
+description = "Discover the power of an open-source Personal AI OS, offering effortless integration of various AI models without the pain of complex run-time environments. Explore our AI app-store and run a wide range of apps built on collaboration of multiple AI modules. Develop your own applications, automate t…"
+category = "chatbots"
+website = "https://www.opendan.ai"
+open_source = true
+repository = "https://github.com/fiatrete/OpenDAN-Personal-AI-OS"
+added = 2026-10-30

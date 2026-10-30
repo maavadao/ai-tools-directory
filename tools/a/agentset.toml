@@ -1,0 +1,7 @@
+name = "agentset"
+description = "The open-source platform to build AI apps that deliver reliable answers. Production-grade RAG in minutes, no expertise needed."
+category = "other"
+website = "https://agentset.ai"
+open_source = true
+repository = "https://github.com/agentset-ai/agentset"
+added = 2026-10-30

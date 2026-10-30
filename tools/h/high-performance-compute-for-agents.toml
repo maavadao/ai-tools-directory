@@ -1,0 +1,7 @@
+name = "High-Performance Compute for Agents"
+description = "Run sandboxes, task queues, and custom model inference with ultrafast boot times, instant autoscaling, and a developer experience that just works."
+category = "chatbots"
+website = "https://www.beam.cloud"
+open_source = true
+repository = "https://github.com/beam-cloud/beta9"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "Elato AI"
+description = "Bring any toy or plushie to life with Elato's expressive AI voices, custom characters, and real-time conversations."
+category = "audio"
+website = "https://www.elatoai.com"
+open_source = true
+repository = "https://github.com/akdeb/ElatoAI"
+added = 2026-10-30

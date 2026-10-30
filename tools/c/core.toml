@@ -1,0 +1,7 @@
+name = "CORE"
+description = "Your personal AI OS. Open the apps, see what CORE does — memory, toolkit, tasks."
+category = "coding"
+website = "https://www.getcore.me"
+open_source = true
+repository = "https://github.com/RedPlanetHQ/core"
+added = 2026-10-30

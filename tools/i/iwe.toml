@@ -1,0 +1,7 @@
+name = "IWE"
+description = "A Markdown knowledge base you and your AI agent work on together. Use the iWe Mac app with Claude Code or Codex inside, or your editor and the same tools."
+category = "productivity"
+website = "https://iwe.md"
+open_source = true
+repository = "https://github.com/iwe-org/iwe"
+added = 2026-10-30

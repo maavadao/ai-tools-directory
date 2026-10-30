@@ -1,0 +1,7 @@
+name = "zero"
+description = "Any model. Every tool. Zero limits. An open-source coding agent for your terminal, built in Go by Twigpine."
+category = "coding"
+website = "https://zero.twigpine.com"
+open_source = true
+repository = "https://github.com/Twigpine/zero"
+added = 2026-10-30

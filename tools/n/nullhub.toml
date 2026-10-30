@@ -1,0 +1,7 @@
+name = "NullHub"
+description = "NullHub — The simplest way to install, configure, and manage the NullClaw autonomous AI ecosystem."
+category = "chatbots"
+website = "https://nullhub.io"
+open_source = true
+repository = "https://github.com/nullclaw/nullhub"
+added = 2026-10-30

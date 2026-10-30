@@ -1,0 +1,7 @@
+name = "a5c.ai"
+description = "a5c.ai operates AI-agent solutions with your team and calibrates custom harnesses. Enforced process, deterministic memory, on open foundations."
+category = "other"
+website = "https://a5c.ai"
+open_source = true
+repository = "https://github.com/a5c-ai/babysitter"
+added = 2026-10-30

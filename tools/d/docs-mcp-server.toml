@@ -1,0 +1,7 @@
+name = "Docs MCP Server"
+description = "Your AI's up-to-date documentation expert. Index 3rd party docs from websites, GitHub, npm, PyPI and local files."
+category = "chatbots"
+website = "https://grounded.tools"
+open_source = true
+repository = "https://github.com/arabold/docs-mcp-server"
+added = 2026-10-30

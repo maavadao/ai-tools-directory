@@ -1,0 +1,7 @@
+name = "openchoreo"
+description = "OpenChoreo is an open-source, self-hostable internal developer platform to run your apps, infrastructure resources and AI agents on Kubernetes."
+category = "other"
+website = "https://openchoreo.dev"
+open_source = true
+repository = "https://github.com/openchoreo/openchoreo"
+added = 2026-10-30

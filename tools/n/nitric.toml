@@ -1,0 +1,7 @@
+name = "nitric"
+description = "Nitric Open Source Cloud-Native Framework auto-provisions infrastructure for your app from any language for any cloud. Launch now with AWS, GCP and Azure."
+category = "other"
+website = "https://nitric.io"
+open_source = true
+repository = "https://github.com/nitrictech/nitric"
+added = 2026-10-30

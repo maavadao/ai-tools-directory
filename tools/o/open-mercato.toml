@@ -1,0 +1,7 @@
+name = "Open Mercato"
+description = "AI-supportive CRM/ERP foundation framework. Modular, extensible, designed for teams that want strong defaults with room to customize everything."
+category = "coding"
+website = "https://www.openmercato.com"
+open_source = true
+repository = "https://github.com/open-mercato/open-mercato"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "tmux.online"
+description = "Monitor and control Claude Code, Codex, Gemini CLI, Aider, Copilot CLI and any tmux session from any browser. Terminal data stays on your machine"
+category = "coding"
+website = "https://tmux.online"
+open_source = true
+repository = "https://github.com/AI-Anywhere/AI-Anywhere"
+added = 2026-10-30

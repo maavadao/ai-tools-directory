@@ -1,0 +1,7 @@
+name = "Redis"
+description = "A virtual feature store for the modern AI stack"
+category = "data"
+website = "https://redis.io"
+open_source = true
+repository = "https://github.com/featureform/featureform"
+added = 2026-10-30

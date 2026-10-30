@@ -1,0 +1,7 @@
+name = "Venues"
+description = "Promoting openness in scientific communication and the peer-review process"
+category = "other"
+website = "https://openreview.net"
+open_source = true
+repository = "https://github.com/kwuking/TimeMixer"
+added = 2026-10-30

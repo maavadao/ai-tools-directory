@@ -1,0 +1,7 @@
+name = "omnigraph"
+description = "Graph engine for context assembly. Object-storage native. Agents work with graph data the way engineers work with code: branched, typed, reviewed, merged, audited, and governed."
+category = "other"
+website = "https://www.omnigraph.dev"
+open_source = true
+repository = "https://github.com/ModernRelay/omnigraph"
+added = 2026-10-30

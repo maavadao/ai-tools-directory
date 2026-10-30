@@ -1,0 +1,7 @@
+name = "chops"
+description = "A free, open-source macOS app to manage your AI coding agent skills in one place."
+category = "agents"
+website = "https://chops.md"
+open_source = true
+repository = "https://github.com/Shpigford/chops"
+added = 2026-10-30

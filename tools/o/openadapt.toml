@@ -1,0 +1,7 @@
+name = "OpenAdapt"
+description = "A person or an AI agent does a data-entry task once; OpenAdapt runs it as a checked program with no AI model. Real recordings with synthetic patients and claims."
+category = "other"
+website = "https://openadapt.ai"
+open_source = true
+repository = "https://github.com/OpenAdaptAI/OpenAdapt"
+added = 2026-10-30

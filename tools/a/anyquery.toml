@@ -1,0 +1,7 @@
+name = "anyquery"
+description = "Run SQL on GitHub, Notion, Spotify, Gmail, Airtable, Google Sheets, CSVs, Parquet, logs — and 40+ more. One binary, one dialect. Then hand it to an LLM over MCP. Open source, AGPL-3.0."
+category = "developer-platforms"
+website = "https://anyquery.dev"
+open_source = true
+repository = "https://github.com/julien040/anyquery"
+added = 2026-10-30

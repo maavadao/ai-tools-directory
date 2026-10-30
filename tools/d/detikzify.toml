@@ -1,0 +1,7 @@
+name = "DeTikZify"
+description = "Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ."
+category = "chatbots"
+website = "https://nllg-detikzify.hf.space"
+open_source = true
+repository = "https://github.com/potamides/DeTikZify"
+added = 2026-10-30

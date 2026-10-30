@@ -1,0 +1,7 @@
+name = "ASAP"
+description = "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
+category = "other"
+website = "https://agile.human2humanoid.com"
+open_source = true
+repository = "https://github.com/LeCAR-Lab/ASAP"
+added = 2026-10-30

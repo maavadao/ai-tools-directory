@@ -1,0 +1,7 @@
+name = "Betsy Blog"
+description = "Betsy 的技术博客，分享网络技术、服务器部署、Unity游戏开发、AI技术应用与原理等领域的原创技术文章与实战教程。"
+category = "coding"
+website = "https://www.micostar.cc"
+open_source = true
+repository = "https://github.com/Besty0728/Unity-Skills"
+added = 2026-10-30

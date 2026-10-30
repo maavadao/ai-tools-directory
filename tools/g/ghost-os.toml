@@ -1,0 +1,7 @@
+name = "ghost-os"
+description = "Ghostwright builds Ghost OS, Shadow, Specter, and Phantom. Open source eyes and hands, memory, infrastructure, and autonomy for AI agents."
+category = "agents"
+website = "https://ghostwright.dev"
+open_source = true
+repository = "https://github.com/ghostwright/ghost-os"
+added = 2026-10-30

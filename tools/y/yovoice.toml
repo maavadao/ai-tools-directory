@@ -1,0 +1,7 @@
+name = "yovoice"
+description = "yovoice 是一款免费、开源的纯本地 AI 音频与音乐创作工作台（支持 macOS、Windows 与 Linux）。零云端费用，100% 离线隐私，免配置 Python 环境。支持声音克隆、故事分镜配音、语音合成、AI 歌曲与音效生成及多轨 MIDI 编曲。"
+category = "audio"
+website = "https://yovoice.leemysw.com"
+open_source = true
+repository = "https://github.com/leemysw/yovoice"
+added = 2026-10-30

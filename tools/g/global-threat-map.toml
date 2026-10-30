@@ -1,0 +1,7 @@
+name = "Global Threat Map"
+description = "Real-time global situational awareness platform for security events, geopolitical developments, and threat indicators"
+category = "chatbots"
+website = "https://globalthreatmap.up.railway.app"
+open_source = true
+repository = "https://github.com/unicodeveloper/globalthreatmap"
+added = 2026-10-30

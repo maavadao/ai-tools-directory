@@ -1,4 +1,8 @@
 {
+"paca": {
+"checked": "2026-10-30",
+"image": "https://paca-ai.org/assets/paca-logo-512.png"
+},
 "paddleocr": {
 "checked": "2026-10-23"
 },
@@ -114,6 +118,15 @@
 "checked": "2026-10-27",
 "image": "https://peonping.com/images/og-image.png"
 },
+"perfectionist-ai-code-review": {
+"checked": "2026-10-30",
+"image": "https://www.sourcery.ai/sourcery-social-card-2026-10.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.sourcery.ai/pricing"
+}
+},
 "perplexity-ai": {
 "checked": "2026-10-23",
 "image": "https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png"
@@ -142,6 +155,10 @@
 },
 "photodemon": {
 "checked": "2026-10-29"
+},
+"photonix-photo-manager": {
+"checked": "2026-10-30",
+"image": "https://photonix.org/static/images/devices.jpg"
 },
 "photoprism": {
 "checked": "2026-10-23",
@@ -359,12 +376,20 @@
 "promptbin": {
 "checked": "2026-10-29"
 },
+"prompthub": {
+"checked": "2026-10-30",
+"image": "https://prompthub.click/og-image.webp"
+},
 "prompts-chat": {
 "checked": "2026-10-23",
 "image": "https://prompts.chat/opengraph-image.png?opengraph-image.57ebefa7.png"
 },
 "promptx": {
 "checked": "2026-10-28"
+},
+"proxyai": {
+"checked": "2026-10-30",
+"image": "https://tryproxy.io/card-image.png"
 },
 "pubax": {
 "checked": "2026-10-29"
@@ -415,11 +440,23 @@
 "url": "https://pydantic.dev/pricing"
 }
 },
+"pygpt": {
+"checked": "2026-10-30",
+"image": "https://pygpt.net/v1/thumb.jpg"
+},
+"pypots": {
+"checked": "2026-10-30",
+"image": "https://pypots.com/figs/pypots_logos/publicity/PyPOTS_LinkedIn_OG_image.jpg"
+},
 "pyspur": {
 "checked": "2026-10-26"
 },
 "pysr": {
 "checked": "2026-10-27"
+},
+"python": {
+"checked": "2026-10-30",
+"image": "https://weekly.pythoncat.top/og-image.png"
 },
 "python-telegram-bot": {
 "checked": "2026-10-24",

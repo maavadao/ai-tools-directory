@@ -1,0 +1,7 @@
+name = "Atomic-Chat"
+description = "Run Gemma, Qwen, DeepSeek and 1,000+ AI models locally on your device. Fully private and offline. No cloud, no account, no rate limits. Free & open-source."
+category = "other"
+website = "https://atomic.chat"
+open_source = true
+repository = "https://github.com/AtomicBot-ai/Atomic-Chat"
+added = 2026-10-30

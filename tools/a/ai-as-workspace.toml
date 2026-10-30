@@ -1,0 +1,7 @@
+name = "AI as Workspace"
+description = "AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端"
+category = "chatbots"
+website = "https://aiaw.app"
+open_source = true
+repository = "https://github.com/NitroRCr/AIaW"
+added = 2026-10-30

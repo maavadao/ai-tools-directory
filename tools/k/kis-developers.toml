@@ -1,0 +1,7 @@
+name = "KIS Developers"
+description = "한국투자증권 Open API 포탈"
+category = "legal-finance"
+website = "https://apiportal.koreainvestment.com"
+open_source = true
+repository = "https://github.com/koreainvestment/open-trading-api"
+added = 2026-10-30

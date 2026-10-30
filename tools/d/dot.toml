@@ -1,0 +1,7 @@
+name = "Dot"
+description = "Text-To-Speech, RAG, and LLMs. All local!"
+category = "audio"
+website = "https://dotapp.uk"
+open_source = true
+repository = "https://github.com/alexpinel/Dot"
+added = 2026-10-30

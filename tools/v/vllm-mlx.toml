@@ -1,0 +1,7 @@
+name = "vllm-mlx"
+description = "OpenAI and Anthropic compatible LLM inference on Apple Silicon"
+category = "audio"
+website = "https://vllm-mlx.is-a.dev"
+open_source = true
+repository = "https://github.com/waybarrios/vllm-mlx"
+added = 2026-10-30

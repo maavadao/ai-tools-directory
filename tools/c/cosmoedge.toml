@@ -1,0 +1,7 @@
+name = "CosmoEdge"
+description = "Connect cameras, run vision models and deliver events from edge devices. Explore CosmoEdge workflows, supported hardware, performance tests and deployment guides."
+category = "other"
+website = "https://www.cosmowander.ai"
+open_source = true
+repository = "https://github.com/cosmo-wander-ai/cosmo-edge"
+added = 2026-10-30

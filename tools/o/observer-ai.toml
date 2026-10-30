@@ -1,0 +1,7 @@
+name = "Observer AI"
+description = "Local open-source micro-agents that observe, log and react. Privacy-first, running entirely on your device."
+category = "agents"
+website = "https://observer-ai.com"
+open_source = true
+repository = "https://github.com/Roy3838/Observer"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "Solana Agent Kit"
+description = "Connect any AI Agents to Solana Protocols"
+category = "other"
+website = "https://kit.sendai.fun"
+open_source = true
+repository = "https://github.com/sendaifun/solana-agent-kit"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "PyPOTS"
+description = "PyPOTS: A comprehensive Python library for time series analysis with machine learning and deep learning. Offering 50+ state-of-the-art (SOTA) algorithms for time series imputation, forecasting, classification, anomaly detection, and clustering. Specifically designed for partially-observed time seri…"
+category = "other"
+website = "https://pypots.com"
+open_source = true
+repository = "https://github.com/WenjieDu/PyPOTS"
+added = 2026-10-30

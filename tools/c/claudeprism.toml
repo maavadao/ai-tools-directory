@@ -1,0 +1,7 @@
+name = "ClaudePrism"
+description = "Professional academic documents with zero effort. LaTeX + Python + 100+ scientific skills, powered by Claude."
+category = "chatbots"
+website = "https://claudeprism.delibae.dev"
+open_source = true
+repository = "https://github.com/delibae/claude-prism"
+added = 2026-10-30

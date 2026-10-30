@@ -1,0 +1,7 @@
+name = "Gymnasium-Robotics Documentation"
+description = "Gymnasium-Robotics is a collection of robotics simulation environments for Reinforcement Learning"
+category = "other"
+website = "https://robotics.farama.org"
+open_source = true
+repository = "https://github.com/Farama-Foundation/Gymnasium-Robotics"
+added = 2026-10-30

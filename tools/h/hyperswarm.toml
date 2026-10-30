@@ -1,0 +1,7 @@
+name = "HYPERSWARM"
+description = "Season 1 · Sept 15 2026 → Mar 15 2027. One swarm. Three ways in: browser, laptop, datacenter. Earn points serving the swarm."
+category = "agents"
+website = "https://agents.hyper.space"
+open_source = true
+repository = "https://github.com/hyperspaceai/agi"
+added = 2026-10-30

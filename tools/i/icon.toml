@@ -1,0 +1,7 @@
+name = "ICON"
+description = "[CVPR'22] ICON: Implicit Clothed humans Obtained from Normals"
+category = "video"
+website = "https://icon.is.tue.mpg.de"
+open_source = true
+repository = "https://github.com/YuliangXiu/ICON"
+added = 2026-10-30

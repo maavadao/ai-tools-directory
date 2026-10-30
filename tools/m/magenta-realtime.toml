@@ -1,0 +1,7 @@
+name = "magenta-realtime"
+description = "A research project exploring the role of machine learning in the process of creating art and music."
+category = "audio"
+website = "https://magenta.withgoogle.com"
+open_source = true
+repository = "https://github.com/magenta/magenta-realtime"
+added = 2026-10-30

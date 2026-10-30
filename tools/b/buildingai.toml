@@ -1,0 +1,7 @@
+name = "BuildingAI"
+description = "BuildingAI是领先的企业级开源AI智能体搭建平台，提供强大的智能体搭建、编排与管理系统。我们赋能企业快速构建对话型智能体、任务型智能体及多智能体协同系统。基于大语言模型、RAG、Agentic Workflow与低代码技术，打造懂业务、能决策、可行动的AI数字员工与超级助手，实现业务流程自动化与智能决策，驱动企业增长。"
+category = "chatbots"
+website = "https://www.buildingai.cc"
+open_source = true
+repository = "https://github.com/BidingCC/BuildingAI"
+added = 2026-10-30

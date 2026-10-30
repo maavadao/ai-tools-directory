@@ -7,6 +7,9 @@
 "checked": "2026-10-27",
 "image": "https://www.jabref.org/assets/jabref-mainscreen.png"
 },
+"jadeai": {
+"checked": "2026-10-30"
+},
 "jailbreak-llms": {
 "checked": "2026-10-28"
 },
@@ -62,6 +65,9 @@
 "trial": true,
 "url": "https://jeeliz.com"
 }
+},
+"jiant": {
+"checked": "2026-10-30"
 },
 "jina-ai": {
 "checked": "2026-10-24",

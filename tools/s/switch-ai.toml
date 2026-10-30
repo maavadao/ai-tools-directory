@@ -1,0 +1,7 @@
+name = "Switch AI"
+description = "Switch AI puts all your AI agents, from any vendor, to work with your people, makes sure each one is safe, and shows what it costs and returns."
+category = "other"
+website = "https://www.switchagents.ai"
+open_source = true
+repository = "https://github.com/sandbox-quantum/switch"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "YoMo"
+description = "Open source Serverless LLM Function Calling framework for AI agents"
+category = "other"
+website = "https://yomo.run"
+open_source = true
+repository = "https://github.com/yomorun/yomo"
+added = 2026-10-30

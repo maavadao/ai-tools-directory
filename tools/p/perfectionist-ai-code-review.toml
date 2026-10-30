@@ -1,0 +1,7 @@
+name = "Perfectionist AI Code Review"
+description = "AI code review that finds more issues than any other AI reviewer. Demand perfection from your coding agents. Try Sourcery free!"
+category = "coding"
+website = "https://www.sourcery.ai"
+open_source = true
+repository = "https://github.com/sourcery-ai/sourcery"
+added = 2026-10-30

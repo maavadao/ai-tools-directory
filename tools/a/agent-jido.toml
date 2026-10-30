@@ -1,0 +1,7 @@
+name = "Agent Jido"
+description = "Jido is an open-source agent framework for Elixir. Build supervised AI agents with fault tolerance, tool calling, and multi-agent coordination built in."
+category = "agents"
+website = "https://jido.run"
+open_source = true
+repository = "https://github.com/agentjido/jido"
+added = 2026-10-30

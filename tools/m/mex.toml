@@ -1,0 +1,7 @@
+name = "mex"
+description = "Project memory for engineering teams and their AI coding agents, built for multiplayer AI. Lives in your repo. Shared through Git. Open-source CLI is live. Hosted team product is in early access."
+category = "coding"
+website = "https://mexmemory.com"
+open_source = true
+repository = "https://github.com/mex-memory/mex"
+added = 2026-10-30

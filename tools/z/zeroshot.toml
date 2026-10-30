@@ -1,0 +1,7 @@
+name = "zeroshot"
+description = "zeroshot is an open-source workflow engine that enforces your team's QA process for coding agents, with independent review and repair loops."
+category = "coding"
+website = "https://zeroshot.sh"
+open_source = true
+repository = "https://github.com/the-open-engine/zeroshot"
+added = 2026-10-30

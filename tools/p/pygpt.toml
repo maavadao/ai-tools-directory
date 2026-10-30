@@ -1,0 +1,7 @@
+name = "PyGPT"
+description = "PyGPT is an open-source desktop AI assistant for Windows, Linux and macOS with agents, RAG, Python tools, MCP, vision, image/video generation and Ollama."
+category = "chatbots"
+website = "https://pygpt.net"
+open_source = true
+repository = "https://github.com/szczyglis-dev/py-gpt"
+added = 2026-10-30

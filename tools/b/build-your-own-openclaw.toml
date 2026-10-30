@@ -1,0 +1,7 @@
+name = "Build Your Own OpenClaw"
+description = "A step-by-step tutorial to build your own AI agent"
+category = "chatbots"
+website = "https://build-your-own-openclaw.kiyo-n-zane.com"
+open_source = true
+repository = "https://github.com/czl9707/build-your-own-openclaw"
+added = 2026-10-30

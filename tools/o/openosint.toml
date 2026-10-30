@@ -1,0 +1,7 @@
+name = "OpenOSINT"
+description = "Open-source engine for passive checks of public information: 21 tools in a CLI, an MCP server and a web UI. MIT licensed. Hosted Monitor and Diligence."
+category = "other"
+website = "https://openosint.tech"
+open_source = true
+repository = "https://github.com/OpenOSINT/OpenOSINT"
+added = 2026-10-30

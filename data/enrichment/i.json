@@ -1,4 +1,7 @@
 {
+"icon": {
+"checked": "2026-10-30"
+},
 "ifixai": {
 "checked": "2026-10-23",
 "image": "https://www.ifixai.ai/opengraph-image.png?opengraph-image.0aywu0gqsuo9-.png",
@@ -14,6 +17,9 @@
 "img2threejs": {
 "checked": "2026-10-24",
 "image": "https://img2threejs.io/og-cover.png"
+},
+"imgcook": {
+"checked": "2026-10-30"
 },
 "imnotai": {
 "checked": "2026-10-26",
@@ -46,6 +52,10 @@
 },
 "index": {
 "checked": "2026-10-25"
+},
+"inferencex": {
+"checked": "2026-10-30",
+"image": "https://inferencex.semianalysis.com/og-image.png"
 },
 "inferock": {
 "checked": "2026-10-23",
@@ -97,6 +107,10 @@
 "url": "https://insforge.dev/pricing"
 }
 },
+"insomnia": {
+"checked": "2026-10-30",
+"image": "https://getinsomnia.app/assets/og.jpg"
+},
 "instructor": {
 "checked": "2026-10-24"
 },
@@ -112,6 +126,10 @@
 },
 "intelligence-begins-with-memory": {
 "checked": "2026-10-25"
+},
+"intelligence-should-be-owned": {
+"checked": "2026-10-30",
+"image": "https://localstudio.ai/images/v3-launch-poster.png"
 },
 "intentcat": {
 "checked": "2026-10-26"
@@ -157,6 +175,16 @@
 "url": "https://intuitem.com/pricing"
 }
 },
+"investorskills": {
+"checked": "2026-10-30",
+"image": "https://assets.questflow.ai/questflow-default-54cc9859-1426-4d7e-9748-02bef0cef03c.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 69.99,
+"url": "https://questflow.ai/pricing/?utm_source=website&amp;utm_medium=navBar&amp;utm_campaign=questflow"
+}
+},
 "invideo": {
 "checked": "2026-10-23",
 "image": "https://pro-static-assets.invideo.io/images/large/Pasted_16_10_2026_at_19_54_50_8d5fd22857.png"
@@ -173,6 +201,10 @@
 "checked": "2026-10-24",
 "image": "https://invoke.ai/coverimage.png"
 },
+"ipollowork": {
+"checked": "2026-10-30",
+"image": "https://ipollo.ai/images/webclip.png"
+},
 "irisgo": {
 "checked": "2026-10-23",
 "image": "https://irisgo.ai/og-cover.png"
@@ -180,5 +212,19 @@
 "ironclaw": {
 "checked": "2026-10-25",
 "image": "https://ironclaw.com/featured-v1.jpg"
+},
+"it-s-a-plan": {
+"checked": "2026-10-30",
+"image": "https://itsaplan.dev/social-preview.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 24.0,
+"url": "https://itsaplan.dev/"
+}
+},
+"iwe": {
+"checked": "2026-10-30",
+"image": "https://iwe.md/images/app/og-iwe-mac.jpg"
 }
 }

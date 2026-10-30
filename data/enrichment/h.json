@@ -32,6 +32,13 @@
 "checked": "2026-10-27",
 "image": "https://handsy.tech/og/handsy.png"
 },
+"hang-zhang": {
+"checked": "2026-10-30"
+},
+"happier": {
+"checked": "2026-10-30",
+"image": "https://happier.dev/images/og.png"
+},
 "happy-engineering": {
 "checked": "2026-10-25",
 "image": "https://happy.engineering/og/happy-harness-v25.png?v=8"
@@ -53,6 +60,10 @@
 "harvey": {
 "checked": "2026-10-23",
 "image": "https://cdn.sanity.io/images/07s0r5r6/production/9a4b2e0eec438fb56057db128a11ade2c04c01cf-2400x1260.png?w=1200&h=630&fm=jpg&q=95&fit=crop"
+},
+"hash-for-developers": {
+"checked": "2026-10-30",
+"image": "https://hash.dev/social-cover.png"
 },
 "hatchet": {
 "checked": "2026-10-26",
@@ -83,9 +94,15 @@
 "url": "https://www.helicone.ai/pricing"
 }
 },
+"helix-foundry": {
+"checked": "2026-10-30"
+},
 "helixdb": {
 "checked": "2026-10-26",
 "image": "https://www.helix-db.com/opengraph-image?b24bbcbc49577ce1"
+},
+"hello": {
+"checked": "2026-10-30"
 },
 "hello-agents": {
 "checked": "2026-10-25"
@@ -110,6 +127,10 @@
 "herdr": {
 "checked": "2026-10-23",
 "image": "https://herdr.dev/assets/og-card-v9.png"
+},
+"herdr-ui": {
+"checked": "2026-10-30",
+"image": "https://herdrui.dev/assets/social-preview-dark.png?v=2"
 },
 "heretic": {
 "checked": "2026-10-23"
@@ -138,6 +159,15 @@
 },
 "heywillow-org": {
 "checked": "2026-10-28"
+},
+"high-performance-compute-for-agents": {
+"checked": "2026-10-30",
+"image": "https://www.beam.cloud/meta-hero.png?v=2",
+"pricing": {
+"currency": "USD",
+"from": 4.9,
+"url": "https://www.beam.cloud/pricing"
+}
 },
 "highwayenv-documentation": {
 "checked": "2026-10-28",
@@ -184,6 +214,10 @@
 },
 "homeclaw": {
 "checked": "2026-10-28"
+},
+"homepage": {
+"checked": "2026-10-30",
+"image": "https://paddler.intentee.com/assets/og-image_4B4SFH3H.png"
 },
 "homl-books": {
 "checked": "2026-10-24",
@@ -283,6 +317,10 @@
 "hyperresearch": {
 "checked": "2026-10-27",
 "image": "https://hyperresearch.ai/og/default.png"
+},
+"hyperswarm": {
+"checked": "2026-10-30",
+"image": "https://hyperswarm.sh/og/hyperswarm-og.png"
 },
 "hypit-ai": {
 "checked": "2026-10-25",

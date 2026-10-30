@@ -1,0 +1,7 @@
+name = "jiant"
+description = "jiant is an nlp toolkit"
+category = "other"
+website = "https://jiant.info"
+open_source = true
+repository = "https://github.com/nyu-mll/jiant"
+added = 2026-10-30

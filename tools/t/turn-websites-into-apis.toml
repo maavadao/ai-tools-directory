@@ -1,0 +1,7 @@
+name = "Turn websites into APIs"
+description = "The agent that turns any website into a typed API client in ten languages — generated from the requests the site actually makes."
+category = "other"
+website = "https://reverseapi.dev"
+open_source = true
+repository = "https://github.com/kalil0321/reverse-api-engineer"
+added = 2026-10-30

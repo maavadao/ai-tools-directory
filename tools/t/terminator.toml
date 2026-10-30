@@ -1,0 +1,7 @@
+name = "Terminator"
+description = "Open-source desktop automation that drives any Windows app through native accessibility APIs. Playwright-style SDK, Rust core, MCP server for Claude, Cursor, and VS Code."
+category = "chatbots"
+website = "https://t8r.tech"
+open_source = true
+repository = "https://github.com/mediar-ai/terminator"
+added = 2026-10-30

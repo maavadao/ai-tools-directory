@@ -1,0 +1,7 @@
+name = "cv-learn"
+description = "Vision, SLAM, Spatial AI"
+category = "education"
+website = "https://www.cv-learn.com"
+open_source = true
+repository = "https://github.com/changh95/visual-slam-roadmap"
+added = 2026-10-30

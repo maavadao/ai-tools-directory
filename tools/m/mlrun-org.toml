@@ -1,0 +1,7 @@
+name = "MLRun.org"
+description = "MLRun offers an integrative approach to manage your ML pipelines from early development through management in your production environment."
+category = "data"
+website = "https://www.mlrun.org"
+open_source = true
+repository = "https://github.com/mlrun/mlrun"
+added = 2026-10-30

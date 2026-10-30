@@ -1,0 +1,7 @@
+name = "AI DevKit"
+description = "One config, one console, shared memory, cross-agent communication, and verification for the coding agents you already use."
+category = "other"
+website = "https://ai-devkit.com"
+open_source = true
+repository = "https://github.com/codeaholicguy/ai-devkit"
+added = 2026-10-30

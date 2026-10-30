@@ -1,0 +1,7 @@
+name = "Intelligence Should Be Owned"
+description = "Every coding agent on your own models. Local Studio 3.0 is built on T3 Code (MIT)."
+category = "developer-platforms"
+website = "https://localstudio.ai"
+open_source = true
+repository = "https://github.com/sybil-solutions/local-studio"
+added = 2026-10-30

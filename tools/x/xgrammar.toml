@@ -1,0 +1,7 @@
+name = "XGrammar"
+description = "WebLLM: High-Performance In-Browser LLM Inference Engine"
+category = "other"
+website = "https://xgrammar.mlc.ai"
+open_source = true
+repository = "https://github.com/mlc-ai/xgrammar"
+added = 2026-10-30

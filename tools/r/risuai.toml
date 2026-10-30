@@ -1,0 +1,7 @@
+name = "RisuAI"
+description = "Platform for AI Roleplay"
+category = "chatbots"
+website = "https://risuai.net"
+open_source = true
+repository = "https://github.com/kwaroran/Risuai"
+added = 2026-10-30

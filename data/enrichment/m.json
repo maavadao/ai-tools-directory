@@ -14,6 +14,9 @@
 "checked": "2026-10-24",
 "image": "https://mlsysbook.ai/vol1/assets/images/covers/cover-hardcover-book-vol1.png"
 },
+"machine-learning-visualized": {
+"checked": "2026-10-30"
+},
 "macro": {
 "checked": "2026-10-27",
 "image": "https://macro.com/og/home-unified-2026-10-23.png",
@@ -43,6 +46,10 @@
 "trial": true,
 "url": "https://www.mage.ai/pricing"
 }
+},
+"magenta-realtime": {
+"checked": "2026-10-30",
+"image": "https://magenta.withgoogle.com/assets/magenta-logo-card.jpg"
 },
 "magentic": {
 "checked": "2026-10-29"
@@ -209,8 +216,15 @@
 "mcp-for-blender": {
 "checked": "2026-10-23"
 },
+"mcp-php-sdk": {
+"checked": "2026-10-30"
+},
 "mcp-python-sdk": {
 "checked": "2026-10-25"
+},
+"mcp-so": {
+"checked": "2026-10-30",
+"image": "https://mcp.so/imgs/og-image.png"
 },
 "mcp-superassistant": {
 "checked": "2026-10-29",
@@ -272,6 +286,10 @@
 "checked": "2026-10-26",
 "image": "https://www.megaparse.com/og-image.png"
 },
+"meigen": {
+"checked": "2026-10-30",
+"image": "https://www.meigen.ai/og.jpg"
+},
 "meilisearch": {
 "checked": "2026-10-23",
 "image": "https://www.meilisearch.com/og-image.png",
@@ -282,6 +300,10 @@
 "trial": true,
 "url": "https://www.meilisearch.com/pricing"
 }
+},
+"mellea": {
+"checked": "2026-10-30",
+"image": "https://mellea.ai/images/mellea-logo.svg"
 },
 "mem": {
 "checked": "2026-10-23",
@@ -324,6 +346,10 @@
 "memoh": {
 "checked": "2026-10-29",
 "image": "https://memoh.ai/og.jpg"
+},
+"memorax-code": {
+"checked": "2026-10-30",
+"image": "https://code.memorax.net/assets/memorax-code-og-v2.png"
 },
 "memori": {
 "checked": "2026-10-24",
@@ -397,9 +423,16 @@
 "url": "https://metorial.com/pricing"
 }
 },
+"mex": {
+"checked": "2026-10-30",
+"image": "https://mexmemory.com/og-image.png"
+},
 "microsoft": {
 "checked": "2026-10-25",
 "image": "https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png"
+},
+"microsoft-bot-framework": {
+"checked": "2026-10-30"
 },
 "microsoft-copilot": {
 "checked": "2026-10-23",
@@ -408,6 +441,9 @@
 "trial": true,
 "url": "https://www.microsoft.com/en-in/copilot/pricing/business?ocid=cmm2nvxwm2c?ocid=cmm2nvxwm2c"
 }
+},
+"microsoft-responsible-ai": {
+"checked": "2026-10-30"
 },
 "midjourney": {
 "checked": "2026-10-23"
@@ -422,6 +458,10 @@
 },
 "mimo-code": {
 "checked": "2026-10-25"
+},
+"minari-documentation": {
+"checked": "2026-10-30",
+"image": "https://minari.farama.org/_static/img/robotics-github.png"
 },
 "mindforger": {
 "checked": "2026-10-29"
@@ -488,6 +528,9 @@
 "url": "https://www.trymito.io/plans"
 }
 },
+"mkosi": {
+"checked": "2026-10-30"
+},
 "ml-for-trading": {
 "checked": "2026-10-24",
 "image": "https://ml4trading.io/static/img/og-image.a0471320e8d2.jpg"
@@ -517,6 +560,9 @@
 "mlflow": {
 "checked": "2026-10-24"
 },
+"mlj-jl": {
+"checked": "2026-10-30"
+},
 "mljar-studio": {
 "checked": "2026-10-28",
 "image": "https://mljar.com/images/mljar-card.jpg",
@@ -529,6 +575,18 @@
 },
 "mlpack": {
 "checked": "2026-10-26"
+},
+"mlr": {
+"checked": "2026-10-30",
+"image": "https://mlr.mlr-org.com/logo.png"
+},
+"mlrun-org": {
+"checked": "2026-10-30",
+"image": "https://www.mlrun.org/wp-content/uploads/2021/04/mlrun_social.png"
+},
+"mlx-serve": {
+"checked": "2026-10-30",
+"image": "https://mlxserve.com/mlxcore-screenshot-1.png"
 },
 "mmf": {
 "checked": "2026-10-26",
@@ -607,6 +665,10 @@
 "url": "https://moondream.ai/pricing"
 }
 },
+"mor-david": {
+"checked": "2026-10-30",
+"image": "https://mordavid.com/media/2026/10/dfb214e9-13be-44ab-8b58-902e5eb97daa.webp"
+},
 "morphic": {
 "checked": "2026-10-25",
 "image": "https://morphic.sh/opengraph-image.png?0720a92459949c23"
@@ -615,9 +677,16 @@
 "checked": "2026-10-28",
 "image": "https://www.morphik.ai/opengraph-image.png?opengraph-image.732ff123.png"
 },
+"moveit-motion-planning-framework": {
+"checked": "2026-10-30"
+},
 "movo-ai": {
 "checked": "2026-10-23",
 "image": "https://movoai.pro/assets/brand/movo-ai-social-preview.png"
+},
+"mpocash": {
+"checked": "2026-10-30",
+"image": "https://freebie.b-cdn.net/img/02-10-2026/1/gb-jalur-kedua-mp.webp"
 },
 "mrrss": {
 "checked": "2026-10-29",

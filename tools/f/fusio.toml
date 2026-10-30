@@ -1,0 +1,7 @@
+name = "fusio"
+description = "Fusio is an open source API management platform designed for API builders and developers."
+category = "developer-platforms"
+website = "https://www.fusio-project.org"
+open_source = true
+repository = "https://github.com/apioo/fusio"
+added = 2026-10-30

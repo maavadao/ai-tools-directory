@@ -1,0 +1,7 @@
+name = "xenodium.com"
+description = "This is my blog"
+category = "coding"
+website = "https://xenodium.com"
+open_source = true
+repository = "https://github.com/xenodium/agent-shell"
+added = 2026-10-30

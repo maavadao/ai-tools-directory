@@ -1,0 +1,7 @@
+name = "bub"
+description = "Bub is a tiny agent runtime, composable with plugins. Start with a working agent and customize how it thinks, remembers, and connects."
+category = "other"
+website = "https://bub.build"
+open_source = true
+repository = "https://github.com/bubbuild/bub"
+added = 2026-10-30

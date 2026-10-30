@@ -1,0 +1,7 @@
+name = "Gen.jl"
+description = "A general-purpose probabilistic programming system with programmable inference"
+category = "other"
+website = "https://www.gen.dev"
+open_source = true
+repository = "https://github.com/probcomp/Gen.jl"
+added = 2026-10-30

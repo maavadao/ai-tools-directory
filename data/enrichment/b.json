@@ -79,12 +79,22 @@
 "checked": "2026-10-29",
 "image": "https://beav.pro/beavicon.png"
 },
+"behavior": {
+"checked": "2026-10-30"
+},
 "behaviortree-cpp": {
 "checked": "2026-10-27"
+},
+"beikeshop": {
+"checked": "2026-10-30",
+"image": "https://beikeshop.com/image/beike-line.png"
 },
 "bench": {
 "checked": "2026-10-29",
 "image": "https://taubench.com/og-image.png"
+},
+"betsy-blog": {
+"checked": "2026-10-30"
 },
 "bibigpt": {
 "checked": "2026-10-26",
@@ -247,6 +257,10 @@
 "checked": "2026-10-24",
 "image": "https://www.browseros.com/og/home.png"
 },
+"bub": {
+"checked": "2026-10-30",
+"image": "https://bub.build/og/index.png"
+},
 "budibase": {
 "checked": "2026-10-24",
 "image": "https://budibase.com/og.png",
@@ -278,12 +292,19 @@
 "build-with-claude": {
 "checked": "2026-10-28"
 },
+"build-your-own-openclaw": {
+"checked": "2026-10-30"
+},
 "build-your-rich-text-editor": {
 "checked": "2026-10-24",
 "image": "https://platejs.org/og?title=Build%20your%20rich-text%20editor&description=A%20set%20of%20beautifully-designed%2C%20customizable%20plugins%20and%20components%20to%20help%20you%20build%20your%20rich-text%20editor.%20Open%20Source."
 },
 "builderbot": {
 "checked": "2026-10-28"
+},
+"buildingai": {
+"checked": "2026-10-30",
+"image": "https://www.buildingai.cc/og?title=BuildingAI%3A%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%BC%80%E6%BA%90%E6%99%BA%E8%83%BD%E4%BD%93%E6%90%AD%E5%BB%BA%E5%B9%B3%E5%8F%B0&description=BuildingAI%E6%98%AF%E9%A2%86%E5%85%88%E7%9A%84%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%BC%80%E6%BA%90AI%E6%99%BA%E8%83%BD%E4%BD%93%E6%90%AD%E5%BB%BA%E5%B9%B3%E5%8F%B0%EF%BC%8C%E6%8F%90%E4%BE%9B%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%99%BA%E8%83%BD%E4%BD%93%E6%90%AD%E5%BB%BA%E3%80%81%E7%BC%96%E6%8E%92%E4%B8%8E%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E3%80%82%E6%88%91%E4%BB%AC%E8%B5%8B%E8%83%BD%E4%BC%81%E4%B8%9A%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA%E5%AF%B9%E8%AF%9D%E5%9E%8B%E6%99%BA%E8%83%BD%E4%BD%93%E3%80%81%E4%BB%BB%E5%8A%A1%E5%9E%8B%E6%99%BA%E8%83%BD%E4%BD%93%E5%8F%8A%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%8D%8F%E5%90%8C%E7%B3%BB%E7%BB%9F%E3%80%82%E5%9F%BA%E4%BA%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E3%80%81RAG%E3%80%81Agentic%20Workflow%E4%B8%8E%E4%BD%8E%E4%BB%A3%E7%A0%81%E6%8A%80%E6%9C%AF%EF%BC%8C%E6%89%93%E9%80%A0%E6%87%82%E4%B8%9A%E5%8A%A1%E3%80%81%E8%83%BD%E5%86%B3%E7%AD%96%E3%80%81%E5%8F%AF%E8%A1%8C%E5%8A%A8%E7%9A%84AI%E6%95%B0%E5%AD%97%E5%91%98%E5%B7%A5%E4%B8%8E%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B%EF%BC%8C%E5%AE%9E%E7%8E%B0%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8E%E6%99%BA%E8%83%BD%E5%86%B3%E7%AD%96%EF%BC%8C%E9%A9%B1%E5%8A%A8%E4%BC%81%E4%B8%9A%E5%A2%9E%E9%95%BF%E3%80%82"
 },
 "burn": {
 "checked": "2026-10-24"

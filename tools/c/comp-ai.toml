@@ -1,0 +1,7 @@
+name = "Comp AI"
+description = "Automate SOC 2, ISO 27001, HIPAA, and GDPR. 580+ integrations, 1,000+ companies, audit-ready in days, with audit and pentest included."
+category = "other"
+website = "https://www.trycomp.ai"
+open_source = true
+repository = "https://github.com/trycompai/comp"
+added = 2026-10-30

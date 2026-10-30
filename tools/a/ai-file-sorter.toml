@@ -1,0 +1,7 @@
+name = "AI File Sorter"
+description = "Clean Downloads, rename photos and scanned documents, organize screenshots, and sort NAS archives with review-first AI File Sorter workflows."
+category = "chatbots"
+website = "https://filesorter.app"
+open_source = true
+repository = "https://github.com/hyperfield/ai-file-sorter"
+added = 2026-10-30

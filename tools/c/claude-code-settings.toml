@@ -1,0 +1,7 @@
+name = "claude-code-settings"
+description = "极客时间专栏作者，专注于 Kubernetes、AI Infra、AI Agent 领域的深度技术分享，让 AI 成为你的第二大脑"
+category = "agents"
+website = "https://feisky.xyz"
+open_source = true
+repository = "https://github.com/feiskyer/claude-code-settings"
+added = 2026-10-30

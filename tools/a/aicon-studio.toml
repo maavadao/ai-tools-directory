@@ -1,0 +1,7 @@
+name = "AICON Studio"
+description = "专业的全链路 AI 电影创作平台，支持角色一致性控制与电影级分镜生成。"
+category = "agents"
+website = "https://aicon-studio.com"
+open_source = true
+repository = "https://github.com/869413421/ai-moive-studio"
+added = 2026-10-30

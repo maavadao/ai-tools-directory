@@ -1,0 +1,7 @@
+name = "OxideTerm"
+description = "An AI-native workspace for remote servers: SSH terminals, SFTP, remote desktop, port forwarding, trzsz, lightweight editing, local shell, and OxideSens AI. No bundled Electron, no telemetry, and pure-Rust SSH without OpenSSL/libssh2."
+category = "other"
+website = "https://oxideterm.app"
+open_source = true
+repository = "https://github.com/AnalyseDeCircuit/oxideterm"
+added = 2026-10-30

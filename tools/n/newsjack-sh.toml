@@ -1,0 +1,7 @@
+name = "newsjack.sh"
+description = "Open-source PR skills for Claude Code, Codex, and other AI agents. Spot newsjacking openings, find the angle, vet reporters, and roast pitches before you send."
+category = "productivity"
+website = "https://newsjack.sh"
+open_source = true
+repository = "https://github.com/elvisun/newsjack"
+added = 2026-10-30

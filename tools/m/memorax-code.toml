@@ -1,0 +1,7 @@
+name = "MemoraX Code"
+description = "Carry project context, engineering decisions, and working preferences across coding sessions."
+category = "coding"
+website = "https://code.memorax.net"
+open_source = true
+repository = "https://github.com/memorax-ai/memorax-code"
+added = 2026-10-30

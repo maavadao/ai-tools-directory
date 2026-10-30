@@ -1,0 +1,7 @@
+name = "StableDiffusionBook"
+description = "一个介绍 Ai 绘画的 WIKI/A WIKI about Ai painting"
+category = "image"
+website = "https://draw.dianas.cyou"
+open_source = true
+repository = "https://github.com/sudoskys/StableDiffusionBook"
+added = 2026-10-30

@@ -99,6 +99,23 @@
 "checked": "2026-10-25",
 "image": "https://terax.app/opengraph-image?454764f837731647"
 },
+"terminator": {
+"checked": "2026-10-30"
+},
+"terravision": {
+"checked": "2026-10-30",
+"image": "https://terravision.online/assets/og-image.png"
+},
+"testkube": {
+"checked": "2026-10-30",
+"image": "https://cdn.prod.website-files.com/61e00b3936e571a4ea7a5a4c/6a2f7757a77c1ee08cc0bdae_Home_og.png",
+"pricing": {
+"currency": "USD",
+"from": 199.0,
+"trial": true,
+"url": "https://testkube.io/pricing"
+}
+},
 "testsprite": {
 "checked": "2026-10-27",
 "image": "https://www.testsprite.com/framerusercontent/images/hMEbxGbRjpi0xFeUtHcSz6AT93c.png",
@@ -148,6 +165,9 @@
 "thinc": {
 "checked": "2026-10-29",
 "image": "https://thinc.ai/static/social-ed02e7f6979c7f7798f8a64e4589b0cc.jpg"
+},
+"thinkwee-s-blog": {
+"checked": "2026-10-30"
 },
 "three-ws": {
 "checked": "2026-10-26",
@@ -214,6 +234,14 @@
 "url": "https://tldraw.dev/pricing"
 }
 },
+"tmux-online": {
+"checked": "2026-10-30",
+"image": "https://tmux.online/og.png"
+},
+"tmuxai": {
+"checked": "2026-10-30",
+"image": "https://tmuxai.dev/og/main.png"
+},
 "toad": {
 "checked": "2026-10-28",
 "image": "https://batrachian.ai/images/toad-social.jpeg"
@@ -246,6 +274,10 @@
 "trial": true,
 "url": "https://tooljet.com/pricing"
 }
+},
+"tooluniverse": {
+"checked": "2026-10-30",
+"image": "https://aiscientist.tools/logo_transparent.png"
 },
 "toon": {
 "checked": "2026-10-24",
@@ -304,6 +336,10 @@
 "checked": "2026-10-26",
 "image": "https://treg.to/media/og.png"
 },
+"trench": {
+"checked": "2026-10-30",
+"image": "https://trench.dev/img/og-image.png"
+},
 "trendradar": {
 "checked": "2026-10-23",
 "image": "https://trendradar.sandev.cc/images/og-image.png"
@@ -346,9 +382,16 @@
 "checked": "2026-10-28",
 "image": "https://ngtechai.com/og-default.svg"
 },
+"turn-websites-into-apis": {
+"checked": "2026-10-30",
+"image": "https://reverseapi.dev/reverse-api-banner.png"
+},
 "tutti": {
 "checked": "2026-10-28",
 "image": "https://tutti.sh/cdn-cgi/image/format=auto,quality=85/_static/official/img/social-share-card.webp"
+},
+"tuyaopen": {
+"checked": "2026-10-30"
 },
 "tvm-cn": {
 "checked": "2026-10-27"

@@ -1,0 +1,7 @@
+name = "custom-diffusion"
+description = "School of Computer Science - Carnegie Mellon University"
+category = "image"
+website = "https://www.cs.cmu.edu"
+open_source = true
+repository = "https://github.com/adobe-research/custom-diffusion"
+added = 2026-10-30

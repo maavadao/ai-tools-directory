@@ -1,0 +1,7 @@
+name = "mellea"
+description = "Open-source Python library for structured, validated LLM output. Type-annotated outputs, token-level constrained decoding, requirements-driven validation. Works with any LLM provider."
+category = "agents"
+website = "https://mellea.ai"
+open_source = true
+repository = "https://github.com/generative-computing/mellea"
+added = 2026-10-30

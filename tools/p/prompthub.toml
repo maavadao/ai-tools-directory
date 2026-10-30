@@ -1,0 +1,7 @@
+name = "PromptHub"
+description = "PromptHub 是专业高效的个人 AI 资产管理箱与 Agent 工作台。统一管理 Prompt、Skill、Rules、MCP、Plugin、Agent 配置与项目资产，支持全局搜索、版本追溯、云端同步和多平台生态分发。"
+category = "chatbots"
+website = "https://prompthub.click"
+open_source = true
+repository = "https://github.com/legeling/PromptHub"
+added = 2026-10-30

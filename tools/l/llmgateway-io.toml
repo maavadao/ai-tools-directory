@@ -1,0 +1,7 @@
+name = "LLM Gateway"
+description = "Open-source LLM API gateway: route requests to 250+ models from 40+ providers, including OpenAI, Anthropic and Google, through one OpenAI-compatible API."
+category = "chatbots"
+website = "https://llmgateway.io"
+open_source = true
+repository = "https://github.com/theopenco/llmgateway"
+added = 2026-10-30

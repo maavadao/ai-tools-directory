@@ -1,0 +1,7 @@
+name = "ai-coding-guide"
+description = "面向 0 基础学习者的 Codex 中文教程与中文指南，覆盖安装、CLI、桌面 App、提示词、MCP、Skills、自动化和工程实战，同时提供完整的 Claude Code 教程。"
+category = "chatbots"
+website = "https://coding.stormzhang.ai"
+open_source = true
+repository = "https://github.com/stormzhang/ai-coding-guide"
+added = 2026-10-30

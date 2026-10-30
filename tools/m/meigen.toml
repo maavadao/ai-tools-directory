@@ -1,0 +1,7 @@
+name = "MeiGen"
+description = "Explore free GPT Image 2.5 and Nano Banana image prompts, plus Seedance 2.5 video prompts. Copy a prompt or generate on MeiGen."
+category = "other"
+website = "https://www.meigen.ai"
+open_source = true
+repository = "https://github.com/jau123/MeiGen-AI-Design-MCP"
+added = 2026-10-30

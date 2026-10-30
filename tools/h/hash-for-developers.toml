@@ -1,0 +1,7 @@
+name = "HASH for Developers"
+description = "Open-source resources and tools for developers who want to build the future of decision-making with HASH"
+category = "other"
+website = "https://hash.dev"
+open_source = true
+repository = "https://github.com/hashintel/hash"
+added = 2026-10-30

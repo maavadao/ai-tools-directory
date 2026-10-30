@@ -1,0 +1,7 @@
+name = "Durable Streams"
+description = "Durable Streams are persistent, addressable, real‑time streams for building resilient agent sessions and collaborative multi-user, multi-agent systems."
+category = "data"
+website = "https://durablestreams.com"
+open_source = true
+repository = "https://github.com/durable-streams/durable-streams"
+added = 2026-10-30

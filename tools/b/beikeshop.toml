@@ -1,0 +1,7 @@
+name = "BeikeShop"
+description = "Built on top of Laravel for Web Artisans. BeikeShop is a scalable, developer-friendly PHP eCommerce framework with elegant syntax. Alternative to WooCommerce."
+category = "chatbots"
+website = "https://beikeshop.com"
+open_source = true
+repository = "https://github.com/beikeshop/beikeshop"
+added = 2026-10-30

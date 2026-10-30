@@ -1,0 +1,7 @@
+name = "Awesome Claude"
+description = "The curated directory of Claude AI resources: the Claude Code 2.1 cheatsheet, agent skills, top MCP servers, plugins, SDKs and integrations for developers."
+category = "other"
+website = "https://awesomeclaude.ai"
+open_source = true
+repository = "https://github.com/webfuse-com/awesome-claude"
+added = 2026-10-30

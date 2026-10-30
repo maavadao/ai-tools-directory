@@ -1,0 +1,7 @@
+name = "TuyaOpen"
+description = "Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration"
+category = "audio"
+website = "https://tuyaopen.ai"
+open_source = true
+repository = "https://github.com/tuya/TuyaOpen"
+added = 2026-10-30

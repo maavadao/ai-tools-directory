@@ -1,0 +1,7 @@
+name = "GPTeam"
+description = "GPTeam: An open-source multi-agent simulation"
+category = "agents"
+website = "https://www.gpteamai.com"
+open_source = true
+repository = "https://github.com/101dotxyz/GPTeam"
+added = 2026-10-30

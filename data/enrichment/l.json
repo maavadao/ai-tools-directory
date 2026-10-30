@@ -280,8 +280,21 @@
 "url": "https://manifest.build/pricing/"
 }
 },
+"llm-ui": {
+"checked": "2026-10-30",
+"image": "https://llm-ui.com/og.png"
+},
 "llm-viz": {
 "checked": "2026-10-26"
+},
+"llmgateway-io": {
+"checked": "2026-10-30",
+"image": "https://llmgateway.io/opengraph-image?97785322527a65df",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://llmgateway.io/pricing"
+}
 },
 "llmlingua-series": {
 "checked": "2026-10-26",

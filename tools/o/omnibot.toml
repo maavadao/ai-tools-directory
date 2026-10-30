@@ -1,0 +1,7 @@
+name = "OmniBot"
+description = "OmniBot is an open-source Android AI agent with browser automation, an Alpine Linux terminal, Skills, MCP and Codex Bridge. Download Android or try Apple TestFlight."
+category = "coding"
+website = "https://omnibot.omnimind.com.cn"
+open_source = true
+repository = "https://github.com/omnimind-ai/OmniBot"
+added = 2026-10-30

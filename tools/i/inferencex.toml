@@ -1,0 +1,7 @@
+name = "InferenceX"
+description = "Compare AgentX long-context, multi-turn coding inference with fixed-sequence benchmarks across chips and frameworks, from public NVIDIA and AMD runs."
+category = "other"
+website = "https://inferencex.semianalysis.com"
+open_source = true
+repository = "https://github.com/SemiAnalysisAI/InferenceX"
+added = 2026-10-30

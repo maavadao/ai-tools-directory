@@ -1,0 +1,7 @@
+name = "OpenDataCam"
+description = "With computer vision, OpenDataCam understands and quantifies moving objects in videos. The simple setup allows everybody to start counting, cars, bicycles, sheeps and much more!"
+category = "other"
+website = "https://opendata.cam"
+open_source = true
+repository = "https://github.com/opendatacam/opendatacam"
+added = 2026-10-30

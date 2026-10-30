@@ -1,0 +1,7 @@
+name = "Orcah Studio"
+description = "Search your entire video library in plain English and jump straight to the footage you're looking for. Local-first. $249, once."
+category = "video"
+website = "https://orcah.app"
+open_source = true
+repository = "https://github.com/IliasHad/edit-mind"
+added = 2026-10-30

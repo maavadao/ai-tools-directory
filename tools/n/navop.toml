@@ -1,0 +1,7 @@
+name = "navop"
+description = "在一个原生桌面应用中管理数据库、服务器和终端会话，让 AI Agent 围绕真实连接、查询结果和命令输出协助工作。"
+category = "agents"
+website = "https://navop.dev"
+open_source = true
+repository = "https://github.com/feigeCode/navop"
+added = 2026-10-30

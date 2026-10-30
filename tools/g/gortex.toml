@@ -1,0 +1,7 @@
+name = "gortex"
+description = "Gortex indexes a repo into an in-memory knowledge graph and serves it to coding agents over MCP, HTTP, and a web UI. A 21-tool MCP surface (100+ operations), 18 resources, 257 languages — one graph query replaces a stack of file reads, up to 50× fewer tokens per response."
+category = "other"
+website = "https://gortex.dev"
+open_source = true
+repository = "https://github.com/zzet/gortex"
+added = 2026-10-30

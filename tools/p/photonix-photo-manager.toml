@@ -1,0 +1,7 @@
+name = "Photonix Photo Manager"
+description = "Photonix is a photo management application that solves a lot of problems. Once set up it will ingest all the photos in your collection and start building up an image database of everything you could want to search and filter by. It makes your entire collection available to you, whichever device you…"
+category = "image"
+website = "https://photonix.org"
+open_source = true
+repository = "https://github.com/photonixapp/photonix"
+added = 2026-10-30

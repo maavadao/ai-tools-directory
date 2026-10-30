@@ -1,0 +1,7 @@
+name = "nodeterm"
+description = "Terminals and coding agents as live nodes on an infinite canvas. macOS & Linux."
+category = "coding"
+website = "https://nodeterm.dev"
+open_source = true
+repository = "https://github.com/eneskirca/nodeterm"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "BEHAVIOR"
+description = "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx"
+category = "other"
+website = "https://behavior.stanford.edu"
+open_source = true
+repository = "https://github.com/StanfordVL/BEHAVIOR-1K"
+added = 2026-10-30

@@ -1,0 +1,7 @@
+name = "MoveIt Motion Planning Framework"
+description = "Incorporating the latest advances in motion planning, manipulation, 3D perception, kinematics, control and navigation."
+category = "other"
+website = "https://moveit.ai"
+open_source = true
+repository = "https://github.com/moveit/moveit2"
+added = 2026-10-30

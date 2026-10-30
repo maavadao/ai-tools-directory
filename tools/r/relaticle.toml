@@ -1,0 +1,7 @@
+name = "relaticle"
+description = "The open-source AI CRM for selling without a sales team. Work from Claude or ChatGPT, or ask Rela, the built-in assistant."
+category = "sales-marketing"
+website = "https://relaticle.com"
+open_source = true
+repository = "https://github.com/relaticle/relaticle"
+added = 2026-10-30

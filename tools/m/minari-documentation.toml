@@ -1,0 +1,7 @@
+name = "Minari Documentation"
+description = "Minari is a Python library for conducting research in offline reinforcement learning."
+category = "other"
+website = "https://minari.farama.org"
+open_source = true
+repository = "https://github.com/Farama-Foundation/Minari"
+added = 2026-10-30

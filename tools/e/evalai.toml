@@ -1,0 +1,7 @@
+name = "EvalAI"
+description = "EvalAI is an open-source web platform for organizing and participating in challenges to push the state of the art on AI tasks."
+category = "other"
+website = "https://eval.ai"
+open_source = true
+repository = "https://github.com/Cloud-CV/EvalAI"
+added = 2026-10-30

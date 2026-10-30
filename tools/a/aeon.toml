@@ -1,0 +1,7 @@
+name = "aeon"
+description = "Give it a direction - aeon uses 87 skills to get it done. No approval loops. No babysitting. Configure once, forget forever."
+category = "agents"
+website = "https://www.aeon.fun"
+open_source = true
+repository = "https://github.com/aeonfun/opendia"
+added = 2026-10-30

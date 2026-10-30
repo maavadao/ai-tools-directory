@@ -41,6 +41,9 @@
 "url": "https://veltrix.com/pricing"
 }
 },
+"venues": {
+"checked": "2026-10-30"
+},
 "vercel": {
 "checked": "2026-10-24",
 "image": "https://chatbot.ai-sdk.dev/opengraph-image.png?opengraph-image.8d2152cc.png"
@@ -119,6 +122,14 @@
 "vision-agents": {
 "checked": "2026-10-26",
 "image": "https://stream-52f5fdce.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=Vision+Agents&description=Build+low-latency+voice+and+video+AI+agents+with+any+model&theme=e154a42ebdd48682b2d75d0f&signature=ba7aade1bc640cd63ffb0a8a4ee54061b6a5fbced69b1d90377bdf3b4aeaf31a"
+},
+"vizdoom-documentation": {
+"checked": "2026-10-30",
+"image": "https://vizdoom.farama.org/_static/img/vizdoom-github.png"
+},
+"vllm-mlx": {
+"checked": "2026-10-30",
+"image": "https://opengraph.githubassets.com/1/waybarrios/vllm-mlx"
 },
 "vllm-semantic-router": {
 "checked": "2026-10-26",

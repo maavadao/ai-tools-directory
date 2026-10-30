@@ -1,0 +1,7 @@
+name = "Seal Report"
+description = "Database Reporting Tool and Tasks (.Net)"
+category = "other"
+website = "https://sealreport.org"
+open_source = true
+repository = "https://github.com/ariacom/Seal-Report"
+added = 2026-10-30

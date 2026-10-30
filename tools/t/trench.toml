@@ -1,0 +1,7 @@
+name = "trench"
+description = "Fast, scalable infrastructure for tracking events. Powered by ClickHouse and Kafka."
+category = "other"
+website = "https://www.trench.dev"
+open_source = true
+repository = "https://github.com/FrigadeHQ/trench"
+added = 2026-10-30
