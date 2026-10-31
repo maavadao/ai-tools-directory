@@ -1,0 +1,7 @@
+name = "RightNow AI"
+description = "RightNow System Zero. Send text, JSON, robot state, codebase, PDF, images, voice and video (preview) with your questions. Get answers with probabilities."
+category = "chatbots"
+website = "https://www.rightnowai.co"
+open_source = true
+repository = "https://github.com/RightNow-AI/picolm"
+added = 2026-10-31

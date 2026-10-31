@@ -1,0 +1,7 @@
+name = "Ouroboros"
+description = "Open-source AI agent with persistent identity, agent swarms, autonomous evolution, and reproducible self-reported SOTA results with public runs and traces."
+category = "coding"
+website = "https://ouroboros-agent.ai"
+open_source = true
+repository = "https://github.com/razzant/ouroboros"
+added = 2026-10-31

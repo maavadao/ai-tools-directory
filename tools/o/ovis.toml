@@ -1,0 +1,7 @@
+name = "ovis"
+description = "Ovis (formerly herdr web UI) is a free, open-source client for herdr: answer Claude Code, Codex and other coding agents from your phone or any browser."
+category = "other"
+website = "https://ovis.sh"
+open_source = true
+repository = "https://github.com/devswha/ovis"
+added = 2026-10-31

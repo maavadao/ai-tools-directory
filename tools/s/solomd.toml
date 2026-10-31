@@ -1,0 +1,7 @@
+name = "SoloMD"
+description = "Everything you'd pay a Markdown editor for — free. SoloMD is an open-source Typora alternative: live WYSIWYG preview, tabs, themes, PDF / Word export, plus AI rewrite, folder sync, local RAG search, and native iOS & Android apps. ~15 MB, MIT-licensed. No account, no subscription, no ads."
+category = "other"
+website = "https://solomd.app"
+open_source = true
+repository = "https://github.com/zhitongblog/solomd"
+added = 2026-10-31

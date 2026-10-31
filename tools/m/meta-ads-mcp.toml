@@ -1,0 +1,7 @@
+name = "meta-ads-mcp"
+description = "The MCP server that connects Claude, ChatGPT & Cursor to your Meta (Facebook), Google, TikTok & Reddit Ads. Launch campaigns, pull insights. Free plan."
+category = "sales-marketing"
+website = "https://pipeboard.co"
+open_source = true
+repository = "https://github.com/pipeboard-co/meta-ads-mcp"
+added = 2026-10-31

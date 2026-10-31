@@ -1,0 +1,7 @@
+name = "xmcp"
+description = "Build MCP servers in TypeScript with file-based tools, Zod validation, authentication integrations, and HTTP or STDIO transports. Start with xmcp."
+category = "other"
+website = "https://xmcp.dev"
+open_source = true
+repository = "https://github.com/basementstudio/xmcp"
+added = 2026-10-31

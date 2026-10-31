@@ -1,0 +1,7 @@
+name = "pgbot.dev"
+description = "Connect any PostgreSQL database and get visibility into performance, queries, health, schema, and changes — with AI-powered explanations."
+category = "data"
+website = "https://pgbot.dev"
+open_source = true
+repository = "https://github.com/pgrundev/pgbot"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "Hello-AI"
+description = "Hello-AI 是一个持续更新的 AI 开源项目导航，帮助开发者按任务、分类和技术方向发现值得使用的项目。"
+category = "image"
+website = "https://hello-ai.anzz.site"
+open_source = true
+repository = "https://github.com/xxxily/hello-ai"
+added = 2026-10-31

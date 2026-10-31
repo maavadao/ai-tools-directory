@@ -1,0 +1,7 @@
+name = "nyra labs"
+description = "nyra labs builds open speech models that preserve what was said, measure when, who, and how, and publish the research behind them."
+category = "audio"
+website = "https://nyra-labs.com"
+open_source = true
+repository = "https://github.com/nyrahealth/CrisperWhisper"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "vellum-assistant"
+description = "An assistant that knows you deeply, evolves alongside you, and belongs to no one else. Powered by memory that remembers the way you do."
+category = "coding"
+website = "https://www.vellum.ai"
+open_source = true
+repository = "https://github.com/vellum-ai/vellum-assistant"
+added = 2026-10-31

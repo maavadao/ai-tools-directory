@@ -1,0 +1,7 @@
+name = "Index"
+description = "🌊 Images to parallax effect videos"
+category = "video"
+website = "https://depth.tremeschin.com"
+open_source = true
+repository = "https://github.com/BrokenSource/DepthFlow"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "winkJS"
+description = "winkNLP and winkComposer — rigorous, high-performance open-source tools for Node.js. 18M+ downloads worldwide. MIT licensed."
+category = "chatbots"
+website = "https://winkjs.org"
+open_source = true
+repository = "https://github.com/winkjs/wink-nlp"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "Hermex"
+description = "Hermex is a native iPhone and iPad app for steering a Hermes agent you host yourself. Watch responses stream, answer approvals, and follow working bots and runs from the Dynamic Island and the Lock Screen."
+category = "chatbots"
+website = "https://hermexapp.com"
+open_source = true
+repository = "https://github.com/uzairansaruzi/hermex"
+added = 2026-10-31

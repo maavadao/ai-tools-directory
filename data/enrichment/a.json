@@ -17,12 +17,25 @@
 "academic-humanizer": {
 "checked": "2026-10-29"
 },
+"accompio-it-services": {
+"checked": "2026-10-31"
+},
 "aci-dev": {
 "checked": "2026-10-27",
 "image": "https://raw.githubusercontent.com/aipotheosis-labs/aipolabs-icons/refs/heads/main/meta/meta.png"
 },
 "acl-anthology": {
 "checked": "2026-10-26"
+},
+"actionbook": {
+"checked": "2026-10-31",
+"image": "https://actionbook.app/opengraph-image.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://actionbook.app/pricing"
+}
 },
 "activepieces": {
 "checked": "2026-10-24",
@@ -59,9 +72,26 @@
 "checked": "2026-10-29",
 "image": "https://course.spacy.io/social.jpg"
 },
+"aegis": {
+"checked": "2026-10-31",
+"image": "https://autoloom.codes/media/autoloom-demo-zh-poster.jpg"
+},
+"aegra": {
+"checked": "2026-10-31",
+"image": "https://aegra.dev/opengraph-image?959e12f12ec6d990",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 49.0,
+"url": "https://www.langchain.com/pricing"
+}
+},
 "aeon": {
 "checked": "2026-10-30",
 "image": "https://www.aeon.fun/og-image.jpg"
+},
+"aeon-toolkit-org": {
+"checked": "2026-10-31"
 },
 "ag2": {
 "checked": "2026-10-27",
@@ -129,6 +159,10 @@
 "checked": "2026-10-29",
 "image": "https://agent-orchestrators.com/og.png"
 },
+"agent-plugins": {
+"checked": "2026-10-31",
+"image": "https://agent-plugins.org/og/image.png"
+},
 "agent-router": {
 "checked": "2026-10-29",
 "image": "https://theagentrouter.ai/img/brand/og-card@1200.png"
@@ -156,6 +190,9 @@
 "agent-skills-techleads-club": {
 "checked": "2026-10-26",
 "image": "https://agent-skills.techleads.club/og-image.png"
+},
+"agent-substrate": {
+"checked": "2026-10-31"
 },
 "agent-teams": {
 "checked": "2026-10-29",
@@ -212,6 +249,15 @@
 "checked": "2026-10-25",
 "image": "https://ohmyopencodeslim.com/og-images/index.png"
 },
+"agentlas-os": {
+"checked": "2026-10-31",
+"image": "https://agentlas.cloud/og/agentlas-og-3.jpg",
+"pricing": {
+"currency": "USD",
+"from": 19.0,
+"url": "https://agentlas.cloud/pricing"
+}
+},
 "agentmemory": {
 "checked": "2026-10-24",
 "image": "https://agent-memory.dev/opengraph-image?8f7fe93d3f9fd0d3"
@@ -225,6 +271,10 @@
 "from": 40.0,
 "url": "https://www.agentops.ai/"
 }
+},
+"agentprotocol-ai": {
+"checked": "2026-10-31",
+"image": "https://agentprotocol.ai/og.png"
 },
 "agents-anywhere": {
 "checked": "2026-10-29",
@@ -256,6 +306,10 @@
 "checked": "2026-10-24",
 "image": "https://agent-skills.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=Agent+Skills+Overview&description=A+standardized+way+to+give+AI+agents+new+capabilities+and+expertise.&theme=eceafe6c9bba4d39011a3a78&signature=f49b9582af9c7723bc252d6f293c7333b92eeb2853b625641b0f6bc444624ce9"
 },
+"agentsociety": {
+"checked": "2026-10-31",
+"image": "https://agentsociety2.fiblab.net/logo.png"
+},
 "agili-hacker-podcast": {
 "checked": "2026-10-29"
 },
@@ -274,6 +328,10 @@
 "url": "https://www.agno.com/pricing"
 }
 },
+"agor": {
+"checked": "2026-10-31",
+"image": "https://agor.live/screenshots/board-hero.png"
+},
 "ai": {
 "checked": "2026-10-24",
 "image": "https://ai.codefather.cn/logo.png"
@@ -284,6 +342,9 @@
 "ai-assisted-code-security-research": {
 "checked": "2026-10-29",
 "image": "https://kritt.ai/social-card.png"
+},
+"ai-beat": {
+"checked": "2026-10-31"
 },
 "ai-binwang-me": {
 "checked": "2026-10-27"
@@ -390,6 +451,10 @@
 "url": "https://vercel.com/pricing"
 }
 },
+"ai-setup": {
+"checked": "2026-10-31",
+"image": "https://trycaliber.ai/solution/opengraph-image?238f877181863d0a"
+},
 "ai-short-video-factory": {
 "checked": "2026-10-26"
 },
@@ -398,6 +463,15 @@
 },
 "ai4finance-foundation": {
 "checked": "2026-10-27"
+},
+"aibuilderclub-com": {
+"checked": "2026-10-31",
+"image": "https://www.aibuilderclub.com/logo.png",
+"pricing": {
+"currency": "USD",
+"from": 24.0,
+"url": "https://www.aibuilderclub.com/"
+}
 },
 "aiclient-2-api": {
 "checked": "2026-10-25"
@@ -415,6 +489,10 @@
 },
 "aider": {
 "checked": "2026-10-23"
+},
+"aieng-zh-cn": {
+"checked": "2026-10-31",
+"image": "https://aieng-zh.cn/og/page/home.png?v=3e3328d30771"
 },
 "aihot": {
 "checked": "2026-10-25",
@@ -446,6 +524,15 @@
 "aionui": {
 "checked": "2026-10-23"
 },
+"aipex": {
+"checked": "2026-10-31",
+"image": "https://www.claudechrome.com/automation.png?v=2",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://www.claudechrome.com/pricing"
+}
+},
 "aipoch": {
 "checked": "2026-10-27",
 "image": "https://statics.aipoch.com/public/f/image/og-science-open-to-all-ab128c94.png"
@@ -463,12 +550,18 @@
 "url": "https://airbyte.com/pricing"
 }
 },
+"airunner-art": {
+"checked": "2026-10-31"
+},
 "aishort-top": {
 "checked": "2026-10-25"
 },
 "aitoearn": {
 "checked": "2026-10-24",
 "image": "https://aitoearn.ai/og-image.png"
+},
+"aktools-akfamily-xyz": {
+"checked": "2026-10-31"
 },
 "alicevision": {
 "checked": "2026-10-28",
@@ -488,6 +581,29 @@
 "free": true,
 "from": 8.0,
 "url": "https://presentation.allweone.com"
+}
+},
+"alook": {
+"checked": "2026-10-31",
+"image": "https://alook.ai/social/readme-card-7470c72ef1c3.png"
+},
+"amazon-com": {
+"checked": "2026-10-31"
+},
+"amazon-web-services-inc": {
+"checked": "2026-10-31",
+"pricing": {
+"free": true,
+"url": "https://aws.amazon.com/pricing/?nc2=h_pr_hub"
+}
+},
+"amical": {
+"checked": "2026-10-31",
+"image": "https://amical.ai/opengraph-image",
+"pricing": {
+"currency": "USD",
+"from": 7.0,
+"url": "https://amical.ai/pricing"
 }
 },
 "andrej-karpathy": {
@@ -515,6 +631,10 @@
 "antislop": {
 "checked": "2026-10-26",
 "image": "https://antislop.ai.id/assets/og-antislop.png"
+},
+"antsk": {
+"checked": "2026-10-31",
+"image": "https://antsk.cn/images/shouye.png"
 },
 "anus": {
 "checked": "2026-10-26",
@@ -638,6 +758,10 @@
 "from": 50.0,
 "url": "https://arize.com/pricing/"
 }
+},
+"arkflow": {
+"checked": "2026-10-31",
+"image": "https://arkflow-rs.com/img/arkflow.svg"
 },
 "art-documentation": {
 "checked": "2026-10-25"
@@ -780,6 +904,9 @@
 "url": "https://www.swarms.xyz/pricing"
 }
 },
+"autonomio": {
+"checked": "2026-10-31"
+},
 "autonomyware": {
 "checked": "2026-10-23",
 "image": "https://autonomyware.ai/assets/og-card.png",
@@ -843,6 +970,10 @@
 },
 "awesome-mlss": {
 "checked": "2026-10-28"
+},
+"awesome-muse-connectors": {
+"checked": "2026-10-31",
+"image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.2365-6/384127954_1010009116964035_2906046058102555347_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=4GqvgaR623cQ7kNvwEX6m2E&_nc_oc=Adr9c_tJOP35MKEN2ClOb7QE7e0V-V276hUgXcquKE6zbXJR1BPaZzHCpm8dAlKKCc-gd9cZT9GGY0Cb-itycz9M&_nc_ad=z-m&_nc_cid=0&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=g6ml-qGJA1HhVsKBtzzQKQ&oh=00_AQSvvRb40s3CnL44gtqogVvr3xvj8xlwAH4mrfiQgKGMNw&oe=6AEB66C5"
 },
 "awesome-open-source-ai": {
 "checked": "2026-10-27",

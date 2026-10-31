@@ -1,0 +1,7 @@
+name = "PowerContext"
+description = "Continue work in a new session without restating decisions, constraints, and progress."
+category = "agents"
+website = "https://powercontext.oceanbase.io"
+open_source = true
+repository = "https://github.com/oceanbase/powercontext"
+added = 2026-10-31

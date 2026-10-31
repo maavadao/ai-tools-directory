@@ -1,0 +1,7 @@
+name = "agor"
+description = "Agor is Multiplayer AI. Bring your team and agents together on live boards, learn from each other, and build workflows your team can share."
+category = "other"
+website = "https://agor.live"
+open_source = true
+repository = "https://github.com/preset-io/agor"
+added = 2026-10-31

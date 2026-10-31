@@ -1,0 +1,7 @@
+name = "accompio IT-Services"
+description = "KI als Service für Unternehmen: Vom AI Compass Health Check über ConfGPT und AI Academy bis hin zu AI Flow – sicher, skalierbar und sofort einsetzbar."
+category = "other"
+website = "https://www.accompio.com"
+open_source = true
+repository = "https://github.com/code-kern-ai/refinery"
+added = 2026-10-31

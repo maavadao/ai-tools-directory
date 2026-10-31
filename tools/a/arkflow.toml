@@ -1,0 +1,7 @@
+name = "ArkFlow"
+description = "High-performance Rust stream processing engine: WAL-durable pipelines, SQL processing, checkpointed state, and a control plane for fleet operations."
+category = "other"
+website = "https://arkflow-rs.com"
+open_source = true
+repository = "https://github.com/arkflow-rs/arkflow"
+added = 2026-10-31

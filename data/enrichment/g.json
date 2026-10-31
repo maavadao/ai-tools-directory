@@ -6,6 +6,13 @@
 "checked": "2026-10-23",
 "image": "https://sf16-ehi-tos.gauthstatic.com/obj/ehi-apk-sg/share-link-preview.png"
 },
+"gawkbot": {
+"checked": "2026-10-31",
+"image": "https://gawk.bot/og-image.png?v=4"
+},
+"gazebo": {
+"checked": "2026-10-31"
+},
 "gemini": {
 "checked": "2026-10-23",
 "image": "https://www.gstatic.com/lamda/images/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718.png"
@@ -32,6 +39,9 @@
 "genoffice": {
 "checked": "2026-10-25",
 "image": "https://genoffice.ai/assets/shots/hero-shot.png"
+},
+"gentle-ai": {
+"checked": "2026-10-31"
 },
 "gentle-stack": {
 "checked": "2026-10-26",
@@ -124,8 +134,15 @@
 "gocv": {
 "checked": "2026-10-26"
 },
+"golem-documentation": {
+"checked": "2026-10-31"
+},
 "golutra": {
 "checked": "2026-10-28"
+},
+"gomodel": {
+"checked": "2026-10-31",
+"image": "https://gomodel.enterpilot.io/og-image.png"
 },
 "gonavi": {
 "checked": "2026-10-30",
@@ -154,6 +171,16 @@
 "google-research": {
 "checked": "2026-10-23",
 "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+},
+"goose-skills": {
+"checked": "2026-10-31",
+"image": "https://gooseworks.ai/images/og-image.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 29.0,
+"url": "https://gooseworks.ai/pricing"
+}
 },
 "gorilla": {
 "checked": "2026-10-25"

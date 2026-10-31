@@ -1,0 +1,7 @@
+name = "OrcaRouter"
+description = "One OpenAI-compatible AI gateway for production AI — adaptive routing, load balancing, guardrails, agent firewall, observability and governance across 200+ models."
+category = "other"
+website = "https://www.orcarouter.ai"
+open_source = true
+repository = "https://github.com/Continuum-AI-Corp/OrcaRouter-Lite"
+added = 2026-10-31

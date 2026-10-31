@@ -1,0 +1,7 @@
+name = "ruckig"
+description = "Ruckig generates complex trajectories on-the-fly, allowing robots, machines, and motor drives to react instantaneously to sensor input."
+category = "other"
+website = "https://ruckig.com"
+open_source = true
+repository = "https://github.com/pantor/ruckig"
+added = 2026-10-31

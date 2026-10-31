@@ -1,0 +1,7 @@
+name = "Designing Multi-Agent Systems"
+description = "Master multi-agent AI systems from first principles. Learn to build agents from scratch, AutoGen framework, evaluation, and production deployment. Buy the book or access sample chapters."
+category = "education"
+website = "https://buy.multiagentbook.com"
+open_source = true
+repository = "https://github.com/victordibia/designing-multiagent-systems"
+added = 2026-10-31

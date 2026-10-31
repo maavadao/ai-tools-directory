@@ -61,6 +61,9 @@
 "url": "https://www.langchain.com/pricing"
 }
 },
+"langchat-agentic": {
+"checked": "2026-10-31"
+},
 "langflow": {
 "checked": "2026-10-23",
 "image": "https://www.langflow.org/images/og-image.png"
@@ -116,6 +119,9 @@
 "checked": "2026-10-28",
 "image": "https://lazycodex.ai/opengraph-image?78a75f0946c830bf"
 },
+"leancopilot": {
+"checked": "2026-10-31"
+},
 "leanctx": {
 "checked": "2026-10-28",
 "image": "https://leanctx.com/brand/leanctx-social-v6.jpg",
@@ -166,6 +172,14 @@
 "lemonade": {
 "checked": "2026-10-26"
 },
+"lemonai": {
+"checked": "2026-10-31",
+"image": "https://lemonai.ai/img/LemonAI.png",
+"pricing": {
+"free": true,
+"url": "https://lemonai.cc"
+}
+},
 "leoaido": {
 "checked": "2026-10-29",
 "image": "https://leoaido.com/og/default.jpg"
@@ -215,6 +229,9 @@
 "checked": "2026-10-28",
 "image": "https://x2v.light-ai.top/images/cover.jpg"
 },
+"lime": {
+"checked": "2026-10-31"
+},
 "limix": {
 "checked": "2026-10-27"
 },
@@ -250,6 +267,10 @@
 "checked": "2026-10-23",
 "image": "https://llama.app/og-image.png"
 },
+"llamachat": {
+"checked": "2026-10-31",
+"image": "https://llamachat.app/images/og/twitter-card.png"
+},
 "llamaindex": {
 "checked": "2026-10-23",
 "image": "https://www.llamaindex.ai/og-image.png",
@@ -265,6 +286,9 @@
 },
 "llm-attacks": {
 "checked": "2026-10-27"
+},
+"llm-colosseum": {
+"checked": "2026-10-31"
 },
 "llm-d": {
 "checked": "2026-10-27",
@@ -283,6 +307,10 @@
 "llm-ui": {
 "checked": "2026-10-30",
 "image": "https://llm-ui.com/og.png"
+},
+"llm-vision": {
+"checked": "2026-10-31",
+"image": "https://llmvision.org/assets/open-graph/home.webp"
 },
 "llm-viz": {
 "checked": "2026-10-26"

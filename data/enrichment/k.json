@@ -20,6 +20,14 @@
 "url": "https://hirekai.ai/pricing"
 }
 },
+"kai-9000": {
+"checked": "2026-10-31",
+"image": "https://kai9000.com/img/preview.png"
+},
+"kaibanjs": {
+"checked": "2026-10-31",
+"image": "https://www.kaibanjs.com/kaibanjs-ui.png"
+},
 "kakakslot88": {
 "checked": "2026-10-28"
 },
@@ -30,6 +38,16 @@
 "kedro": {
 "checked": "2026-10-25",
 "image": "https://kedro.org/images/kedro-social-image.png"
+},
+"keeper-sh": {
+"checked": "2026-10-31",
+"image": "https://www.keeper.sh/open-graph.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.0,
+"url": "https://www.keeper.sh/pricing"
+}
 },
 "kelivo": {
 "checked": "2026-10-27",
@@ -112,6 +130,16 @@
 "url": "https://kodlo.ai/pricing/"
 }
 },
+"kodus-ai": {
+"checked": "2026-10-31",
+"image": "https://kodus.io/wp-content/themes/kodus-child/assets/img/og-home.jpg",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"trial": true,
+"url": "https://kodus.io/pricing/"
+}
+},
 "koharu": {
 "checked": "2026-10-26",
 "image": "https://koharu.mintlify.app/_mintlify/api/og/v2?division=Start+here&title=Koharu+documentation&description=Everything+you+need+to+translate%2C+edit%2C+and+export+manga+with+Koharu.&theme=3f42ff101f60278a38b0edb0&signature=54ac6e4a7faf24db8ad67256822cb10eccda672528fdb43e884f5a63c4ae25ed"
@@ -167,5 +195,8 @@
 "kun": {
 "checked": "2026-10-26",
 "image": "https://www.kun-agent.com/mascot/kun-bird-logo.png"
+},
+"kusion": {
+"checked": "2026-10-31"
 }
 }

@@ -1,0 +1,7 @@
+name = "OpeniLink"
+description = "扫码绑定微信号，消息实时转发到你的服务。支持 WebSocket / Webhook / AI 自动回复三通道并行。7 种语言 SDK，JS 插件引擎，docker compose up -d 一键部署。"
+category = "chatbots"
+website = "https://openilink.com"
+open_source = true
+repository = "https://github.com/openilink/openilink-hub"
+added = 2026-10-31

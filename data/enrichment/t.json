@@ -88,6 +88,10 @@
 "tensorflow-docs": {
 "checked": "2026-10-28"
 },
+"tensorfold": {
+"checked": "2026-10-31",
+"image": "https://tensorfold.dev/assets/tensorfold-hero.png"
+},
 "tensoropera-ai": {
 "checked": "2026-10-27",
 "image": "https://tensoropera-static.becdn.net/images-webp/overview-TO.webp"
@@ -157,6 +161,9 @@
 "the-system-design-newsletter": {
 "checked": "2026-10-24",
 "image": "https://substackcdn.com/image/fetch/$s_!W5r-!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1c8067a-95bb-416b-9114-e0b9fb8821d4_256x256.png"
+},
+"thepi-pe": {
+"checked": "2026-10-31"
 },
 "thesvg": {
 "checked": "2026-10-29",
@@ -234,6 +241,9 @@
 "url": "https://tldraw.dev/pricing"
 }
 },
+"tmi-js": {
+"checked": "2026-10-31"
+},
 "tmux-online": {
 "checked": "2026-10-30",
 "image": "https://tmux.online/og.png"
@@ -245,6 +255,17 @@
 "toad": {
 "checked": "2026-10-28",
 "image": "https://batrachian.ai/images/toad-social.jpeg"
+},
+"tofu": {
+"checked": "2026-10-31",
+"image": "https://trytofu.ai/opengraph-image.png?v=dc3f3ab6a766",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.0,
+"trial": true,
+"url": "https://trytofu.ai/pricing"
+}
 },
 "together-ai": {
 "checked": "2026-10-23",
@@ -285,6 +306,9 @@
 },
 "topgo-skill-store": {
 "checked": "2026-10-25"
+},
+"torchdrug": {
+"checked": "2026-10-31"
 },
 "torchgeo": {
 "checked": "2026-10-27",
@@ -336,6 +360,9 @@
 "checked": "2026-10-26",
 "image": "https://treg.to/media/og.png"
 },
+"trek": {
+"checked": "2026-10-31"
+},
 "trench": {
 "checked": "2026-10-30",
 "image": "https://trench.dev/img/og-image.png"
@@ -343,6 +370,10 @@
 "trendradar": {
 "checked": "2026-10-23",
 "image": "https://trendradar.sandev.cc/images/og-image.png"
+},
+"tribuo": {
+"checked": "2026-10-31",
+"image": "https://tribuo.org/assets/img/tribuo-logo-color-1200.png"
 },
 "trigger-dev": {
 "checked": "2026-10-24",
@@ -369,6 +400,10 @@
 "ttime": {
 "checked": "2026-10-28",
 "image": "https://ttime.timerecord.cn/img/png/translate-dark-light.png"
+},
+"tty7": {
+"checked": "2026-10-31",
+"image": "https://tty7.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=tty7&description=A+terminal+workbench%3A+persistent+sessions%2C+remote+work%2C+agents.&theme=b16197a50e3f41c20a4cbd63&signature=3970c5198ff0d16bc453dbd1a7fbcdd3c99c4c4ae61fe8d6d49ca120dbe0f6d9"
 },
 "tuios": {
 "checked": "2026-10-26",

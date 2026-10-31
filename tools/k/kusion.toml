@@ -1,0 +1,7 @@
+name = "kusion"
+description = "Create a robust, secure, and enterprise-ready Internal Developer Platform on Kubernetes and cloud infrastructures."
+category = "other"
+website = "https://www.kusionstack.io"
+open_source = true
+repository = "https://github.com/KusionStack/kusion"
+added = 2026-10-31

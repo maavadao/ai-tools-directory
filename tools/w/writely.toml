@@ -1,0 +1,7 @@
+name = "writely"
+description = "A wrirting asistant"
+category = "writing"
+website = "https://writely.miao-ya.com"
+open_source = true
+repository = "https://github.com/anc95/writely"
+added = 2026-10-31

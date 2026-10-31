@@ -1,0 +1,7 @@
+name = "nightingale"
+description = "Turn any song into karaoke with neural network-powered stem separation, word-level lyrics, pitch scoring, and dynamic backgrounds. Ships as a single binary."
+category = "audio"
+website = "https://nightingale.cafe"
+open_source = true
+repository = "https://github.com/rzru/nightingale"
+added = 2026-10-31

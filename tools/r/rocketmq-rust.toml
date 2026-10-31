@@ -1,0 +1,7 @@
+name = "RocketMQ-Rust"
+description = "RocketMQ-Rust is a community-built Rust implementation of Apache RocketMQ: NameServer, Broker, Proxy, Controller and async clients with memory safety and non-blocking I/O."
+category = "other"
+website = "https://rocketmqrust.com"
+open_source = true
+repository = "https://github.com/mxsm/rocketmq-rust"
+added = 2026-10-31

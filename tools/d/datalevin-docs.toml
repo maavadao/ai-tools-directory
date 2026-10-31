@@ -1,0 +1,7 @@
+name = "Datalevin Docs"
+description = "Datalevin documentation, examples, and guides for Datalog, LMDB-backed storage, search, vectors, and production deployment."
+category = "other"
+website = "https://datalevin.org"
+open_source = true
+repository = "https://github.com/datalevin/datalevin"
+added = 2026-10-31

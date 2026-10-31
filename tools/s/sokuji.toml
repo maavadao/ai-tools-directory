@@ -1,0 +1,7 @@
+name = "sokuji"
+description = "Your voice goes out in their language."
+category = "audio"
+website = "https://sokuji.kizuna.ai"
+open_source = true
+repository = "https://github.com/kizuna-ai-lab/sokuji"
+added = 2026-10-31

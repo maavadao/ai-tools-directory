@@ -6,6 +6,13 @@
 "h4cker": {
 "checked": "2026-10-24"
 },
+"hackingbuddygpt": {
+"checked": "2026-10-31"
+},
+"haft": {
+"checked": "2026-10-31",
+"image": "https://haft.tools/og-image.png?v=haft"
+},
 "hallucination-leaderboard": {
 "checked": "2026-10-28",
 "image": "https://www.vectara.com/images/social-previews/index.jpg",
@@ -107,6 +114,10 @@
 "hello-agents": {
 "checked": "2026-10-25"
 },
+"hello-ai": {
+"checked": "2026-10-31",
+"image": "https://hello-ai.anzz.site/assets/img/social-card.png"
+},
 "hello-python": {
 "checked": "2026-10-23"
 },
@@ -143,9 +154,17 @@
 "checked": "2026-10-23",
 "image": "https://web-assets.nousresearch.com/marketing/706fb678b93ec8750030067c0778e57d9203985f/assets/hermes-agent/og-image.png"
 },
+"hermes-atlas": {
+"checked": "2026-10-31",
+"image": "https://hermesatlas.com/api/og?title=Hermes+Atlas&subtitle=Get+the+most+out+of+Hermes+Agent+-+install%2C+modes%2C+skills%2C+ecosystem&v=20260829"
+},
 "hermes-one": {
 "checked": "2026-10-24",
 "image": "https://hermesone.org/thumb.png"
+},
+"hermex": {
+"checked": "2026-10-31",
+"image": "https://hermexapp.com/og/og-home.png"
 },
 "heygen": {
 "checked": "2026-10-23",
@@ -155,6 +174,15 @@
 "free": true,
 "from": 24.0,
 "url": "https://www.heygen.com/en-in/pricing"
+}
+},
+"heym": {
+"checked": "2026-10-31",
+"image": "https://heym.run/og-image.png",
+"pricing": {
+"currency": "EUR",
+"from": 247.5,
+"url": "https://heym.run/pricing"
 }
 },
 "heywillow-org": {
@@ -190,6 +218,17 @@
 "hister": {
 "checked": "2026-10-26",
 "image": "https://hister.org/logo.png"
+},
+"hol": {
+"checked": "2026-10-31",
+"image": "https://hol.org/hol-og-image.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 4.99,
+"trial": true,
+"url": "https://hol.org/guard/pricing"
+}
 },
 "holaboss": {
 "checked": "2026-10-25",
@@ -309,6 +348,17 @@
 "hy-world-2-0": {
 "checked": "2026-10-29",
 "image": "https://3d-models.hunyuan.tencent.com/favicon.png"
+},
+"hyperagent": {
+"checked": "2026-10-31",
+"image": "https://www.hyperbrowser.ai/og-server-blueprint.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 30.0,
+"trial": true,
+"url": "https://www.hyperbrowser.ai/pricing"
+}
 },
 "hyperframes": {
 "checked": "2026-10-23",

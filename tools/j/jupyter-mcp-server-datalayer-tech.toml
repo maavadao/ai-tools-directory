@@ -1,0 +1,7 @@
+name = "Overview"
+description = "Jupyter MCP Server is a Model Context Protocol (MCP) server implementation that enables real-time interaction with 📓 Jupyter Notebooks, allowing AI to edit, document and execute code for data analysis, visualization etc."
+category = "other"
+website = "https://jupyter-mcp-server.datalayer.tech"
+open_source = true
+repository = "https://github.com/datalayer/jupyter-mcp-server"
+added = 2026-10-31

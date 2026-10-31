@@ -1,0 +1,7 @@
+name = "OmniBox"
+description = "内容收集、文件解析、知识整理、问答与创作，一个就够了。"
+category = "chatbots"
+website = "https://www.omnibox.pro"
+open_source = true
+repository = "https://github.com/import-ai/omnibox"
+added = 2026-10-31

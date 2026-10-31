@@ -1,0 +1,7 @@
+name = "Weco AI"
+description = "Weco is a research and product lab building recursively self-improving AI."
+category = "chatbots"
+website = "https://www.weco.ai"
+open_source = true
+repository = "https://github.com/WecoAI/aideml"
+added = 2026-10-31

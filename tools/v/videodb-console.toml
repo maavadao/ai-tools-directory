@@ -1,0 +1,7 @@
+name = "VideoDB Console"
+description = "Turn video files, live streams, cameras, and screen recordings into structured, searchable context that AI agents can understand and act on."
+category = "video"
+website = "https://chat.videodb.io"
+open_source = true
+repository = "https://github.com/video-db/Director"
+added = 2026-10-31

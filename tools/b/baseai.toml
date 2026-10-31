@@ -1,0 +1,7 @@
+name = "BaseAI"
+description = "BaseAI is the first web AI framework. Deployable with Langbase the composable serverless AI cloud. Built with a focus on simplicity and composability. Helping developers build AI agents with memory (RAG), and deploy serverless. It's composable by design and offers a simple API to build and deploy a…"
+category = "research"
+website = "https://BaseAI.dev"
+open_source = true
+repository = "https://github.com/CommandCodeAI/BaseAI"
+added = 2026-10-31

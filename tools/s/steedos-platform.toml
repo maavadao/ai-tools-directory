@@ -1,0 +1,7 @@
+name = "steedos-platform"
+description = "ObjectStack is the open protocol and SDK that ObjectOS is built on: one typed business ontology, and the database, API, Console and MCP tools derive from it."
+category = "chatbots"
+website = "https://objectstack.ai"
+open_source = true
+repository = "https://github.com/steedos/steedos-platform"
+added = 2026-10-31

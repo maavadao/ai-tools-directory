@@ -1,0 +1,7 @@
+name = "StartLux-Decision v1.1"
+description = "Open decision models from 0.8B to 27B: a calibrated probability for every option in one forward pass, and a short thought only when the first answer is unsure."
+category = "chatbots"
+website = "https://decision.startlux.com"
+open_source = true
+repository = "https://github.com/StartLuxLabs/StartLux-Decision"
+added = 2026-10-31

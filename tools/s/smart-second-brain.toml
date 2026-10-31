@@ -1,0 +1,7 @@
+name = "Smart Second Brain"
+description = "A free, open-source Obsidian plugin. Chat with your notes, see them grouped by topic, search by meaning. Runs fully offline."
+category = "chatbots"
+website = "https://smartsecondbrain.dev"
+open_source = true
+repository = "https://github.com/s2b-dev/smart-second-brain"
+added = 2026-10-31

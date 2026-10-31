@@ -1,0 +1,7 @@
+name = "kodus-ai"
+description = "Kodus is the open source alternative to CodeRabbit: AI code review you can self-host or run in the cloud, with your own model keys and zero markup."
+category = "coding"
+website = "https://kodus.io"
+open_source = true
+repository = "https://github.com/kodustech/kodus-ai"
+added = 2026-10-31

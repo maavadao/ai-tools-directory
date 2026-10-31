@@ -1,0 +1,7 @@
+name = "bernstein"
+description = "The open-source governance layer for AI agents. Policy as code for approvals and records, enforced around Claude Code, Codex, Gemini CLI and 40+ more."
+category = "other"
+website = "https://bernstein.run"
+open_source = true
+repository = "https://github.com/sipyourdrink-ltd/bernstein"
+added = 2026-10-31

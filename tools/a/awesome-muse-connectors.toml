@@ -1,0 +1,7 @@
+name = "awesome-muse-connectors"
+description = "Explore AI at Meta. Meet Muse, our new AI agent that takes tasks off your plate. Use Meta AI for questions and images, plus tools for developers."
+category = "chatbots"
+website = "https://ai.meta.com"
+open_source = true
+repository = "https://github.com/Anil-matcha/awesome-muse-connectors"
+added = 2026-10-31

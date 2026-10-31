@@ -1,0 +1,7 @@
+name = "HOL"
+description = "Secure AI agents with HOL Guard, find trusted plugins in the HOL registry, build on open standards, and advertise to AI developers or sponsor open source."
+category = "agents"
+website = "https://hol.org"
+open_source = true
+repository = "https://github.com/hashgraph-online/standards-sdk"
+added = 2026-10-31

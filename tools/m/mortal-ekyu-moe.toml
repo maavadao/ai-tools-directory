@@ -1,0 +1,7 @@
+name = "Introduction"
+description = "Mortal - a free and open source AI for Japanese mahjong"
+category = "other"
+website = "https://mortal.ekyu.moe"
+open_source = true
+repository = "https://github.com/Equim-chan/Mortal"
+added = 2026-10-31

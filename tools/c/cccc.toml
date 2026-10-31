@@ -1,0 +1,7 @@
+name = "CCCC"
+description = "让 Claude Code、Codex 等编程 Agent 在同一个工作空间里交流、协作。查看终端和消息，用 Voice 交代想法，通过 Connect 访问其他设备或连接选定的工作组。"
+category = "coding"
+website = "https://cccc.sh"
+open_source = true
+repository = "https://github.com/ChesterRa/cccc"
+added = 2026-10-31

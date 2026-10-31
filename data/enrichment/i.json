@@ -14,6 +14,10 @@
 "checked": "2026-10-24",
 "image": "https://iii.dev/opengraph-image.png"
 },
+"imagej-wiki": {
+"checked": "2026-10-31",
+"image": "https://imagej.github.io/media/icons/imagej2.png"
+},
 "img2threejs": {
 "checked": "2026-10-24",
 "image": "https://img2threejs.io/og-cover.png"
@@ -60,6 +64,9 @@
 "inferock": {
 "checked": "2026-10-23",
 "image": "https://inferock.ai/assets/og-card-ec1e4a4a.png"
+},
+"infinispan": {
+"checked": "2026-10-31"
 },
 "infisical": {
 "checked": "2026-10-24",
@@ -123,6 +130,9 @@
 "from": 499.0,
 "url": "https://www.integuru.com"
 }
+},
+"intellagent": {
+"checked": "2026-10-31"
 },
 "intelligence-begins-with-memory": {
 "checked": "2026-10-25"
@@ -200,6 +210,9 @@
 "invokeai-documentation": {
 "checked": "2026-10-24",
 "image": "https://invoke.ai/coverimage.png"
+},
+"iot-dc3": {
+"checked": "2026-10-31"
 },
 "ipollowork": {
 "checked": "2026-10-30",

@@ -1,0 +1,7 @@
+name = "FounderOS"
+description = "Open-source business OS, hosted for you. Local-first, cloud-connected, bring your own keys, unlimited seats."
+category = "agents"
+website = "https://founderos.sh"
+open_source = true
+repository = "https://github.com/Bennettxai/FounderOS"
+added = 2026-10-31

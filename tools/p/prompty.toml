@@ -1,0 +1,7 @@
+name = "prompty"
+description = "Prompty is a markdown file format for LLM prompts — define model config, inputs, tools, templates, and agentic controls in YAML frontmatter, then execute across Python, TypeScript, C#, and Rust."
+category = "other"
+website = "https://prompty.ai"
+open_source = true
+repository = "https://github.com/microsoft/prompty"
+added = 2026-10-31

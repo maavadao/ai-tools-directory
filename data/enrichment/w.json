@@ -43,6 +43,10 @@
 "webarena-x": {
 "checked": "2026-10-30"
 },
+"webbrain": {
+"checked": "2026-10-31",
+"image": "https://webbrain.one/og-image.png"
+},
 "webchatgpt": {
 "checked": "2026-10-26",
 "image": "https://www.webchatgpt.app/webchatgpt-social.png"
@@ -81,6 +85,10 @@
 "webots": {
 "checked": "2026-10-27"
 },
+"webperf-snippets": {
+"checked": "2026-10-31",
+"image": "https://res.cloudinary.com/nucliweb/image/upload/c_scale,dpr_auto,f_auto,q_auto,w_1200/v1792134386/webperf-snippets/webperf-snippets-og-image.png"
+},
 "webplotdigitizer": {
 "checked": "2026-10-28"
 },
@@ -90,6 +98,10 @@
 },
 "weclone": {
 "checked": "2026-10-24"
+},
+"weco-ai": {
+"checked": "2026-10-31",
+"image": "https://www.weco.ai/thumb_og.png?v=2"
 },
 "weconnect": {
 "checked": "2026-10-25",
@@ -117,6 +129,10 @@
 "winfunc": {
 "checked": "2026-10-24",
 "image": "https://winfunc.com/og/index.png"
+},
+"winkjs": {
+"checked": "2026-10-31",
+"image": "https://winkjs.org/images/og.png"
 },
 "woebot-health": {
 "checked": "2026-10-23",
@@ -159,6 +175,9 @@
 },
 "wppconnect": {
 "checked": "2026-10-28"
+},
+"writely": {
+"checked": "2026-10-31"
 },
 "writesonic": {
 "checked": "2026-10-23",

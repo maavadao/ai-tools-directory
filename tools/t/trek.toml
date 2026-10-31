@@ -1,0 +1,7 @@
+name = "TREK"
+description = "The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in."
+category = "other"
+website = "https://demo.liketrek.com"
+open_source = true
+repository = "https://github.com/liketrek/TREK"
+added = 2026-10-31

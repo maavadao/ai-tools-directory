@@ -1,0 +1,7 @@
+name = "RuleGo"
+description = "RuleGo 是基于Go语言的轻量级、高性能、嵌入式、新一代组件编排规则引擎。"
+category = "agents"
+website = "https://rulego.cc"
+open_source = true
+repository = "https://github.com/rulego/rulego"
+added = 2026-10-31

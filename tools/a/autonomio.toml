@@ -1,0 +1,7 @@
+name = "Autonomio"
+description = "Some questions are worth decades. Independent, non-profit AI research from Finland."
+category = "other"
+website = "https://autonom.io"
+open_source = true
+repository = "https://github.com/autonomio/talos"
+added = 2026-10-31

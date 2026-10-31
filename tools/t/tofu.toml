@@ -1,0 +1,7 @@
+name = "Tofu"
+description = "Paste one message into your coding agent and your app goes online at its own link. Tofu also sets up saved data, sign-in, your own .com and emails to your users, all in one account."
+category = "other"
+website = "https://trytofu.ai"
+open_source = true
+repository = "https://github.com/mikehasa/golive-skill"
+added = 2026-10-31

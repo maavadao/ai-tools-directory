@@ -1,0 +1,7 @@
+name = "n8n-as-code"
+description = "The AI Skill that gives your coding agent an installable n8n ontology, with GitOps for workflows, TypeScript output, and schema-grounded automation."
+category = "coding"
+website = "https://n8nascode.dev"
+open_source = true
+repository = "https://github.com/EtienneLescot/n8n-as-code"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "WebBrain"
+description = "The open-source alternative to Claude's browser plugin. AI-powered browser extension for Chrome & Firefox. Read, understand, and automate any web page. Multi-provider LLM support. Multilingual UI. Free forever."
+category = "other"
+website = "https://www.webbrain.one"
+open_source = true
+repository = "https://github.com/webbrain-one/webbrain"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "Danbooru 标签超市"
+description = "用于构建 Danbooru 标签组合的网站。"
+category = "image"
+website = "https://tags.novelai.dev"
+open_source = true
+repository = "https://github.com/wfjsw/danbooru-diffusion-prompt-builder"
+added = 2026-10-31

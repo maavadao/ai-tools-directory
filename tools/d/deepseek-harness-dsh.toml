@@ -1,0 +1,7 @@
+name = "DeepSeek Harness (dsh) 教程与文档"
+description = "DeepSeek Harness (dsh) 中文教程与文档：安装、配置 API Key、CLI 命令、插件生态、子 Agent、MCP 与工作流。社区维护的开源 AI 编码 Agent 框架。"
+category = "education"
+website = "https://deepseekdocs.com"
+open_source = true
+repository = "https://github.com/0xsline/awesome-deepseek-harness"
+added = 2026-10-31

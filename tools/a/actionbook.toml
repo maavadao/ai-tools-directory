@@ -1,0 +1,7 @@
+name = "actionbook"
+description = "Actionbook is an AI coworker in your browser. It gathers data from the web and your signed-in apps and turns it into one dashboard with the insights you need."
+category = "other"
+website = "https://actionbook.app"
+open_source = true
+repository = "https://github.com/actionbook/actionbook"
+added = 2026-10-31

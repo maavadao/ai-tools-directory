@@ -1,0 +1,7 @@
+name = "Yoshitomo Matsubara's personal webpage"
+description = "A coding-free framework built on PyTorch for reproducible deep learning studies. PyTorch Ecosystem. 🏆26 knowledge distillation methods presented at TPAMI, CVPR, ICLR, ECCV, NeurIPS, ICCV, AAAI, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring…"
+category = "other"
+website = "https://yoshitomo-matsubara.net"
+open_source = true
+repository = "https://github.com/yoshitomo-matsubara/torchdistill"
+added = 2026-10-31

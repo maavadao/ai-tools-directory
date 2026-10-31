@@ -12,6 +12,10 @@
 "url": "https://hub.x-cmd.com/pricing/"
 }
 },
+"xai": {
+"checked": "2026-10-31",
+"image": "https://ethical.institute/images/banner.jpg"
+},
 "xenodium-com": {
 "checked": "2026-10-30",
 "image": "https://xenodium.com/share.png"
@@ -31,6 +35,13 @@
 },
 "xiaozhi-ai": {
 "checked": "2026-10-23"
+},
+"xllm": {
+"checked": "2026-10-31"
+},
+"xmcp": {
+"checked": "2026-10-31",
+"image": "https://xmcp.dev/xmcp-chrome-og.gif"
 },
 "xoilac365": {
 "checked": "2026-10-27",

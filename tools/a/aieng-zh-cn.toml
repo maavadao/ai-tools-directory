@@ -1,0 +1,7 @@
+name = "AI 工程从零开始"
+description = "542 节课，20 个阶段。在引入任何框架之前，亲手写出反向传播、分词器、注意力机制和 agent 循环。Python、TypeScript、Rust、Julia。"
+category = "agents"
+website = "https://aieng-zh.cn"
+open_source = true
+repository = "https://github.com/fancyboi999/ai-engineering-from-scratch-zh"
+added = 2026-10-31

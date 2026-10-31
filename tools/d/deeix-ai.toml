@@ -1,0 +1,7 @@
+name = "DEEIX AI"
+description = "DEEIX AI explores artificial intelligence and builds real AI products, including DEEIX Chat."
+category = "chatbots"
+website = "https://deeix.com"
+open_source = true
+repository = "https://github.com/DEEIX-AI/DEEIX-Chat"
+added = 2026-10-31

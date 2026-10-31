@@ -1,0 +1,7 @@
+name = "sourcey"
+description = "Document software you build and evaluate software you use. Free, self-hosted docs tools, startup offers and source-backed Agent Readiness reports."
+category = "coding"
+website = "https://sourcey.com"
+open_source = true
+repository = "https://github.com/sourcey/sourcey"
+added = 2026-10-31

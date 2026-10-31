@@ -1,0 +1,7 @@
+name = "首页"
+description = "AKTools 是 AKShare 的 HTTP API 工具，一行命令即可让任何编程语言通过 HTTP 获取 AKShare 的财经数据"
+category = "data"
+website = "https://aktools.akfamily.xyz"
+open_source = true
+repository = "https://github.com/akfamily/aktools"
+added = 2026-10-31

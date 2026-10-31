@@ -1,0 +1,7 @@
+name = "detoxify"
+description = "Unitary's blended team of AI agents and expert humans carry out customer and marketplace operations tasks with high accuracy, allowing businesses to minimise costs and prepare for scale."
+category = "other"
+website = "https://www.unitary.ai"
+open_source = true
+repository = "https://github.com/unitaryai/detoxify"
+added = 2026-10-31

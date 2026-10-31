@@ -1,0 +1,7 @@
+name = "open-scouts"
+description = "Create AI scouts that continuously search and notify you when they find what you're looking for. Open-source monitoring powered by AI."
+category = "agents"
+website = "https://openscouts.firecrawl.dev"
+open_source = true
+repository = "https://github.com/firecrawl/open-scouts"
+added = 2026-10-31

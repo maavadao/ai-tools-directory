@@ -1,0 +1,7 @@
+name = "Starlight Search"
+description = "Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust"
+category = "other"
+website = "https://embed-anything.com"
+open_source = true
+repository = "https://github.com/StarlightSearch/EmbedAnything"
+added = 2026-10-31

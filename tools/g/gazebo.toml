@@ -1,0 +1,7 @@
+name = "Gazebo"
+description = "Simulation Driven Robotics. Iterate quickly on design concepts and control strategies with Gazebo's rich suite of tools, libraries, and cloud services."
+category = "other"
+website = "https://gazebosim.org"
+open_source = true
+repository = "https://github.com/gazebosim/gz-sim"
+added = 2026-10-31

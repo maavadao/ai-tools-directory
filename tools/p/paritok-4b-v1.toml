@@ -1,0 +1,7 @@
+name = "paritok-4b-v1"
+description = "Paritok drops in and non-destructively compresses tools, files, and history on the fly for longer sessions and smaller bills. Gateway + 4B model both Apache-2.0."
+category = "coding"
+website = "https://www.paritok.com"
+open_source = true
+repository = "https://github.com/Paritok-official/paritok-4b-v1"
+added = 2026-10-31

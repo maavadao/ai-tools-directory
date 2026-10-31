@@ -1,0 +1,7 @@
+name = "superlog"
+description = "Superlog can triage alerts, answer support questions, watch deploys, performance and observability in your code and infrastructure. Choose your model and harness, bring your tokens and subscriptions."
+category = "chatbots"
+website = "https://superlog.sh"
+open_source = true
+repository = "https://github.com/superloglabs/superlog"
+added = 2026-10-31

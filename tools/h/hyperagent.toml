@@ -1,0 +1,7 @@
+name = "HyperAgent"
+description = "Cloud browsers, isolated sandboxes, and web data APIs for AI agents. Spin up Chrome sessions and microVMs in one call, and connect Playwright, Puppeteer, or any agent."
+category = "chatbots"
+website = "https://www.hyperbrowser.ai"
+open_source = true
+repository = "https://github.com/hyperbrowserai/HyperAgent"
+added = 2026-10-31

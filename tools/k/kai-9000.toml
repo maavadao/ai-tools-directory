@@ -1,0 +1,7 @@
+name = "Kai 9000"
+description = "An open-source AI powerhouse with persistent memory that runs locally in your pocket."
+category = "chatbots"
+website = "https://kai9000.com"
+open_source = true
+repository = "https://github.com/SimonSchubert/Kai"
+added = 2026-10-31

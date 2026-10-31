@@ -1,0 +1,7 @@
+name = "PaperDebugger"
+description = "Strengthen your academic writing with AI suggestions for clarity, flow, and publication-ready polish. Make your research papers stand out."
+category = "agents"
+website = "https://www.paperdebugger.com"
+open_source = true
+repository = "https://github.com/PaperDebugger/paperdebugger"
+added = 2026-10-31

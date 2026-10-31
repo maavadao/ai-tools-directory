@@ -1,0 +1,7 @@
+name = "thepi.pe"
+description = "Data for multimodal LLMs, from any source."
+category = "other"
+website = "https://thepi.pe"
+open_source = true
+repository = "https://github.com/emcf/thepipe"
+added = 2026-10-31

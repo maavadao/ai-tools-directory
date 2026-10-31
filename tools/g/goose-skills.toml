@@ -1,0 +1,7 @@
+name = "goose-skills"
+description = "Goose reads your ads, store, email and analytics every day, tells you what each problem is worth a month, and fixes it when you say yes. Built for e-commerce brands doing $1M+ a year."
+category = "other"
+website = "https://gooseworks.ai"
+open_source = true
+repository = "https://github.com/gooseworks-ai/goose-skills"
+added = 2026-10-31

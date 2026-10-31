@@ -1,0 +1,7 @@
+name = "xai"
+description = "An independent research institute working to ensure that frontier AI is safe, aligned and open for people and society."
+category = "other"
+website = "https://ethical.institute"
+open_source = true
+repository = "https://github.com/EthicalML/xai"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "Versus"
+description = "Your AI SRE Teammate. Detect anomalies, monitor service health, reduce alert fatigue and define SLOs from your service signals."
+category = "other"
+website = "https://versusincident.com"
+open_source = true
+repository = "https://github.com/VersusControl/devops-ai-guidelines"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "MailCheap"
+description = "You pay for the emails you send, not for dormant subscribers. At 4,000 subscribers, MailCheap is 83% cheaper than beehiiv and 75% cheaper than Mailchimp. From $19 a month."
+category = "productivity"
+website = "https://mailcheap.ai"
+open_source = true
+repository = "https://github.com/marclou/mailcheap"
+added = 2026-10-31

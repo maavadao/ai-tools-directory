@@ -1,0 +1,7 @@
+name = "nocturne_memory"
+description = "A lightweight, rollbackable, visual AI external MCP memory bank based on URI routing rather than Vector RAG. Give your AI persistent structured memory across models, sessions, and tools."
+category = "other"
+website = "https://misaligned.top"
+open_source = true
+repository = "https://github.com/Dataojitori/nocturne_memory"
+added = 2026-10-31

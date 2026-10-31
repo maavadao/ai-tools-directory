@@ -1,0 +1,7 @@
+name = "puppyone"
+description = "A folder for Claude Code, Codex, Cursor and 40+ agents. On your computer or in the cloud. Every change tracked and reversible. Free and open source."
+category = "agents"
+website = "https://www.puppyone.ai"
+open_source = true
+repository = "https://github.com/puppyone-ai/puppyone-cloud"
+added = 2026-10-31

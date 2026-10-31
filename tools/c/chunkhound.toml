@@ -1,0 +1,7 @@
+name = "ChunkHound"
+description = "ChunkHound gives AI agents cited context across current code, git history, and technical web research — for safer edits, clearer reviews, and release-ready summaries. Local-first. MIT licensed."
+category = "agents"
+website = "https://chunkhound.ai"
+open_source = true
+repository = "https://github.com/chunkhound/chunkhound"
+added = 2026-10-31

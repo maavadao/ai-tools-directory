@@ -1,0 +1,7 @@
+name = "infinispan"
+description = "Infinispan is an open-source, distributed, in-memory database with full-text and vector search"
+category = "other"
+website = "https://infinispan.org"
+open_source = true
+repository = "https://github.com/infinispan/infinispan"
+added = 2026-10-31

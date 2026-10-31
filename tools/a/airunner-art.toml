@@ -1,0 +1,7 @@
+name = "AIRunner Art"
+description = "An art grid and AI image generator, built on AIRunner. The public site is in development."
+category = "image"
+website = "https://airunner.art"
+open_source = true
+repository = "https://github.com/Capsize-Games/airunner"
+added = 2026-10-31

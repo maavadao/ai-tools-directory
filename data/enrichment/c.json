@@ -77,6 +77,10 @@
 "checked": "2026-10-23",
 "image": "https://ccswitch.io/og-image.png?v=2"
 },
+"cccc": {
+"checked": "2026-10-31",
+"image": "https://cccc.sh/og.png"
+},
 "ccg-workflow": {
 "checked": "2026-10-26",
 "image": "https://ccg.fengshao1227.com/logo/ccg-social-og.png"
@@ -103,6 +107,10 @@
 },
 "chainforge": {
 "checked": "2026-10-28"
+},
+"chandan-singh": {
+"checked": "2026-10-31",
+"image": "https://csinva.io/assets/img/cartoon_propic.gif"
 },
 "chaofa": {
 "checked": "2026-10-29",
@@ -162,11 +170,17 @@
 "url": "https://chatgpt.com/pricing/"
 }
 },
+"chatgpt-prompts-extension": {
+"checked": "2026-10-31"
+},
 "chatgpt-telegram-workers": {
 "checked": "2026-10-28"
 },
 "chatlab": {
 "checked": "2026-10-26"
+},
+"chatpad": {
+"checked": "2026-10-31"
 },
 "chattts-by-2noise": {
 "checked": "2026-10-23"
@@ -206,6 +220,10 @@
 "from": 250.0,
 "url": "https://www.trychroma.com/pricing"
 }
+},
+"chunkhound": {
+"checked": "2026-10-31",
+"image": "https://chunkhound.ai/og-image-dark.png"
 },
 "cindy": {
 "checked": "2026-10-27",
@@ -289,6 +307,10 @@
 "claude-tracker": {
 "checked": "2026-10-28",
 "image": "https://claudetracker.com/assets/social-card.png?v=2026-10-28"
+},
+"claudebar": {
+"checked": "2026-10-31",
+"image": "https://claudebar.tddworks.com/screenshots/og-card.png"
 },
 "claudecodeui": {
 "checked": "2026-10-25",
@@ -503,6 +525,9 @@
 "checked": "2026-10-23",
 "image": "https://codewhale.net/opengraph-image"
 },
+"codex": {
+"checked": "2026-10-31"
+},
 "codex-monitor": {
 "checked": "2026-10-27",
 "image": "https://www.codexmonitor.app/assets/main.png"
@@ -529,6 +554,10 @@
 "collaborative-kubernetes-ai-assistant": {
 "checked": "2026-10-29",
 "image": "https://cdn.prod.website-files.com/633705de6adaa38599d8e258/659586d07cd8a996f387ffcd_BK_scene-OG.webp"
+},
+"colliepwa": {
+"checked": "2026-10-31",
+"image": "https://colliepwa.dev/social-card.png"
 },
 "colossal-ai": {
 "checked": "2026-10-23",
@@ -582,6 +611,10 @@
 "checked": "2026-10-23",
 "image": "https://commandline.microsoft.com/wp-content/uploads/2026/05/command-line-intro-16x9-bigger-cursor-scaled.png"
 },
+"commonly": {
+"checked": "2026-10-31",
+"image": "https://commonly.me/og-card.png?v=4"
+},
 "comp-ai": {
 "checked": "2026-10-30",
 "image": "https://www.trycomp.ai/og.webp"
@@ -609,6 +642,10 @@
 "conduit": {
 "checked": "2026-10-29",
 "image": "https://conduit.mobile/og-image.png"
+},
+"conor-luddy": {
+"checked": "2026-10-31",
+"image": "https://conor.fyi/opengraph-image?da1e1e207910bed8"
 },
 "consensus-ai-for-research": {
 "checked": "2026-10-23",
@@ -776,6 +813,10 @@
 "url": "https://crewclaw.com/"
 }
 },
+"crit": {
+"checked": "2026-10-31",
+"image": "https://crit.md/images/og.png"
+},
 "crosspaste": {
 "checked": "2026-10-29",
 "image": "https://crosspaste.com/crosspaste_share.png"
@@ -855,6 +896,9 @@
 "checked": "2026-10-30",
 "image": "https://www.cs.cmu.edu/site-images/gates_web.jpg"
 },
+"cv-arxiv-daily": {
+"checked": "2026-10-31"
+},
 "cv-learn": {
 "checked": "2026-10-30"
 },
@@ -896,5 +940,9 @@
 "cylonjs-com": {
 "checked": "2026-10-28",
 "image": "https://cdn.xoilacvbc.tv/2025/05/xoilac365-tv.png"
+},
+"cz-git": {
+"checked": "2026-10-31",
+"image": "https://cz-git.qbb.sh/images/og.png"
 }
 }

@@ -1,0 +1,7 @@
+name = "ClaudeBar"
+description = "Track usage quotas across 28 AI coding assistants from your macOS menu bar. Native SwiftUI, free and open source."
+category = "other"
+website = "https://claudebar.tddworks.com"
+open_source = true
+repository = "https://github.com/tddworks/ClaudeBar"
+added = 2026-10-31

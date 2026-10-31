@@ -1,0 +1,7 @@
+name = "CV Arxiv Daily"
+description = "Automatically updated computer vision papers from arXiv, grouped by topic"
+category = "other"
+website = "https://papers.vincentqin.tech"
+open_source = true
+repository = "https://github.com/Vincentqyw/cv-arxiv-daily"
+added = 2026-10-31

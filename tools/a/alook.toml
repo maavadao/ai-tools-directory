@@ -1,0 +1,7 @@
+name = "alook"
+description = "Bring Claude Code and Codex agents into shared chats with Alook. Coordinate multi-agent workflows, share context, and review work with your team."
+category = "coding"
+website = "https://alook.ai"
+open_source = true
+repository = "https://github.com/alookai/alook"
+added = 2026-10-31

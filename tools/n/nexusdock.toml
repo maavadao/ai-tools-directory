@@ -1,0 +1,7 @@
+name = "NexusDock"
+description = "Connect ChatGPT, Claude and other AI clients to your Mac, Windows, Linux and Android devices. Give AI persistent memory, tools and reusable automations with NexusDock and AgentDock."
+category = "agents"
+website = "https://www.nexusdock.co"
+open_source = true
+repository = "https://github.com/uvwt/agentdock"
+added = 2026-10-31

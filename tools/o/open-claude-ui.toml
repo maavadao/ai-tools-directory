@@ -1,0 +1,7 @@
+name = "Open Claude UI"
+description = "Open Claude UI 是分析 Claude 桌面端界面设计的社区手册：配色、字体、圆角、间距和动效，38 个在线 React 组件演示，每个数值都标明出处。开源 MIT，非官方。"
+category = "other"
+website = "https://openclaudeui.com"
+open_source = true
+repository = "https://github.com/Caho1/open-claude-ui"
+added = 2026-10-31

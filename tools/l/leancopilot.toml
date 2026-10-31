@@ -1,0 +1,7 @@
+name = "LeanCopilot"
+description = "LLMs as Copilots for Theorem Proving in Lean"
+category = "chatbots"
+website = "https://leandojo.org"
+open_source = true
+repository = "https://github.com/lean-dojo/LeanCopilot"
+added = 2026-10-31

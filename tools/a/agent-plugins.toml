@@ -1,0 +1,7 @@
+name = "Agent Plugins"
+description = "A portable package format for reusable components that extend AI agents."
+category = "other"
+website = "https://agent-plugins.org"
+open_source = true
+repository = "https://github.com/agentplugins/agent-plugins-spec"
+added = 2026-10-31

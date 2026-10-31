@@ -1,0 +1,7 @@
+name = "Bug0 AI"
+description = "Covers your browser regression testing end-to-end. AI executes natural language steps via Playwright, with intelligent caching, auto-healing, and multi-model assertion verification."
+category = "other"
+website = "https://ai.bug0.com"
+open_source = true
+repository = "https://github.com/bug0inc/qa-agent"
+added = 2026-10-31

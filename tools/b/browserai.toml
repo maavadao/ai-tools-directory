@@ -1,0 +1,7 @@
+name = "BrowserAI"
+description = "Privacy-focused, personalized AI with zero infrastructure costs"
+category = "audio"
+website = "https://browserai.dev"
+open_source = true
+repository = "https://github.com/sauravpanda/BrowserAI"
+added = 2026-10-31

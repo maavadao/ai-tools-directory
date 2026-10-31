@@ -1,0 +1,7 @@
+name = "spotlight"
+description = "Renumics - Agentic AI for Engineering Teams"
+category = "audio"
+website = "https://renumics.com"
+open_source = true
+repository = "https://github.com/Renumics/spotlight"
+added = 2026-10-31

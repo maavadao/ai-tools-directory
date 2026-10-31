@@ -1,0 +1,7 @@
+name = "mirobody"
+description = "Bring scattered health records into one picture. Mirobody powers Theta with standardized data and health insights, and offers an open-source edition for developers."
+category = "other"
+website = "https://mirobody.ai"
+open_source = true
+repository = "https://github.com/thetahealth/mirobody"
+added = 2026-10-31

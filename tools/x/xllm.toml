@@ -1,0 +1,7 @@
+name = "xLLM"
+description = "xLLM is a high-performance inference framework for LLM, VLM, DiT, and REC models, optimized for heterogeneous AI accelerators."
+category = "other"
+website = "https://xllm-ai.com"
+open_source = true
+repository = "https://github.com/xLLM-AI/xllm"
+added = 2026-10-31

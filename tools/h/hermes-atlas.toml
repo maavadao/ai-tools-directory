@@ -1,0 +1,7 @@
+name = "Hermes Atlas"
+description = "Get the most out of Hermes Agent — install it right, pick your mode, choose your skills, and level up your setup. 280+ open-source tools tracked with live GitHub data."
+category = "agents"
+website = "https://hermesatlas.com"
+open_source = true
+repository = "https://github.com/ksimback/hermes-ecosystem"
+added = 2026-10-31

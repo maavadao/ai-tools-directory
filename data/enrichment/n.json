@@ -7,6 +7,10 @@
 "url": "https://n8n.io/pricing/"
 }
 },
+"n8n-as-code": {
+"checked": "2026-10-31",
+"image": "https://n8nascode.dev/img/og-image.png"
+},
 "n8n-mcp": {
 "checked": "2026-10-24",
 "image": "https://www.n8n-mcp.com/opengraph-image.png?opengraph-image.37_02n-ygxj6_.png",
@@ -21,6 +25,9 @@
 },
 "nacos": {
 "checked": "2026-10-25"
+},
+"nader-dabit": {
+"checked": "2026-10-31"
 },
 "naga2000": {
 "checked": "2026-10-30",
@@ -47,6 +54,16 @@
 "nanomuse": {
 "checked": "2026-10-29",
 "image": "https://nanomuse.cn/assets/social-card.png"
+},
+"nanonets": {
+"checked": "2026-10-31",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 100.0,
+"trial": true,
+"url": "https://nanonets.com/pricing"
+}
 },
 "narratoai": {
 "checked": "2026-10-25",
@@ -139,6 +156,10 @@
 "neuralprophet": {
 "checked": "2026-10-27"
 },
+"neuroapi-host": {
+"checked": "2026-10-31",
+"image": "https://neuroapi.host/og/home"
+},
 "neuron-ai": {
 "checked": "2026-10-29",
 "image": "https://www.neuron-ai.dev/og-image.png"
@@ -155,6 +176,10 @@
 "checked": "2026-10-23",
 "image": "https://next-ai-drawio.jiang.jp/architecture.png"
 },
+"next-js-gemini-chatbot": {
+"checked": "2026-10-31",
+"image": "https://gemini.vercel.ai/opengraph-image-12cog0.png?8190afebf6a79ae8"
+},
 "nextchat": {
 "checked": "2026-10-23"
 },
@@ -164,6 +189,14 @@
 },
 "nexus-office": {
 "checked": "2026-10-29"
+},
+"nexusdock": {
+"checked": "2026-10-31",
+"image": "https://www.nexusdock.co/assets/og-default.png",
+"pricing": {
+"free": true,
+"url": "https://www.nexusdock.co"
+}
 },
 "nezha": {
 "checked": "2026-10-30"
@@ -176,6 +209,10 @@
 "url": "https://www.ngram.com/pricing"
 }
 },
+"nightingale": {
+"checked": "2026-10-31",
+"image": "https://nightingale.cafe/og-image.png"
+},
 "nitric": {
 "checked": "2026-10-30",
 "image": "https://nitric.io/images/og/og_image.png"
@@ -187,6 +224,10 @@
 "free": true,
 "url": "https://nitrostack.ai/cloud/pricing"
 }
+},
+"nixopus": {
+"checked": "2026-10-31",
+"image": "https://nixopus.com/og-image.png"
 },
 "nixtla": {
 "checked": "2026-10-27",
@@ -221,6 +262,9 @@
 "nocobase": {
 "checked": "2026-10-24",
 "image": "https://static-docs.nocobase.com/20260513-og-github-v3.jpg"
+},
+"nocturne-memory": {
+"checked": "2026-10-31"
 },
 "node-llama-cpp": {
 "checked": "2026-10-29",
@@ -348,5 +392,9 @@
 "nxai-minds-for-machines": {
 "checked": "2026-10-29",
 "image": "https://a.storyblok.com/f/272863/2400x1260/4233f99f24/nxai-home-og-2x.jpg"
+},
+"nyra-labs": {
+"checked": "2026-10-31",
+"image": "https://nyra-labs.com/opengraph-image?41694ac8a798c91a"
 }
 }

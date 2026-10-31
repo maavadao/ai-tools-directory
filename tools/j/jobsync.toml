@@ -1,0 +1,7 @@
+name = "JobSync"
+description = "Track applications, match resumes, and discover jobs automatically with AI. Open source, self-hostable job search management for modern professionals."
+category = "other"
+website = "https://jobsync.ca"
+open_source = true
+repository = "https://github.com/Gsync/jobsync"
+added = 2026-10-31

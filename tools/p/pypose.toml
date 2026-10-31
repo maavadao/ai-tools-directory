@@ -1,0 +1,7 @@
+name = "PyPose"
+description = "Accelerate research via differentiable robotics with learning."
+category = "education"
+website = "https://pypose.org"
+open_source = true
+repository = "https://github.com/pypose/pypose"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "PyTorchStepByStep"
+description = "Learn PyTorch in an easy-to-follow guide written for beginners. From the basics of gradient descent all the way to fine-tuning large NLP models."
+category = "other"
+website = "https://pytorchstepbystep.com"
+open_source = true
+repository = "https://github.com/dvgodoy/PyTorchStepByStep"
+added = 2026-10-31

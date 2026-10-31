@@ -64,6 +64,10 @@
 "checked": "2026-10-26",
 "image": "https://react-grab.com/api/og"
 },
+"react-native-ai": {
+"checked": "2026-10-31",
+"image": "https://react-native-ai.dev/og-image.jpg"
+},
 "read-aloud": {
 "checked": "2026-10-30",
 "image": "https://readaloud.app/images/marquee.jpg"
@@ -85,6 +89,10 @@
 "realsense": {
 "checked": "2026-10-25",
 "image": "https://www.realsenseai.com/wp-content/uploads/2025/07/home-page-detail.jpg"
+},
+"reason-machines": {
+"checked": "2026-10-31",
+"image": "https://reasonmachines.com/blog-covers/home-og.jpg"
 },
 "reclaim": {
 "checked": "2026-10-23",
@@ -201,6 +209,9 @@
 "checked": "2026-10-24",
 "image": "https://resumematcher.fyi/images/meta/og-image.jpg"
 },
+"reticle": {
+"checked": "2026-10-31"
+},
 "retriever-ai": {
 "checked": "2026-10-23",
 "image": "https://rtrvr.ai/meta/rtrvr-paper-route-og.png",
@@ -226,6 +237,10 @@
 },
 "rig": {
 "checked": "2026-10-25"
+},
+"rightnow-ai": {
+"checked": "2026-10-31",
+"image": "https://www.rightnowai.co/og/main.png?v=8805a80f"
 },
 "rikkahub": {
 "checked": "2026-10-27"
@@ -290,6 +305,10 @@
 "robotgo": {
 "checked": "2026-10-25"
 },
+"rocketmq-rust": {
+"checked": "2026-10-31",
+"image": "https://rocketmqrust.com/img/docusaurus-social-card.jpg"
+},
 "rool": {
 "checked": "2026-10-23",
 "image": "https://rool.dev/og-image.png",
@@ -303,6 +322,13 @@
 "root": {
 "checked": "2026-10-28",
 "image": "https://root.cern/assets/images/ROOT-image-share.png"
+},
+"ros-mcp-server": {
+"checked": "2026-10-31",
+"image": "https://robotmcp.ai/img/architecture.png"
+},
+"roshan-ai-ir": {
+"checked": "2026-10-31"
 },
 "row-bot": {
 "checked": "2026-10-30",
@@ -326,8 +352,14 @@
 "checked": "2026-10-27",
 "image": "https://rubyllm.com/assets/images/social/index.png"
 },
+"ruckig": {
+"checked": "2026-10-31"
+},
 "rufus": {
 "checked": "2026-10-23"
+},
+"rulego": {
+"checked": "2026-10-31"
 },
 "runanywhere": {
 "checked": "2026-10-25",

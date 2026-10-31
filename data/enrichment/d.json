@@ -47,6 +47,9 @@
 "checked": "2026-10-23",
 "image": "https://dailyhelm.com/og-image.svg"
 },
+"danbooru": {
+"checked": "2026-10-31"
+},
 "danghuangshang": {
 "checked": "2026-10-29"
 },
@@ -92,6 +95,14 @@
 "url": "https://databox.com/pricing"
 }
 },
+"datalevin-docs": {
+"checked": "2026-10-31",
+"image": "https://datalevin.org/images/diagrams/unified-data-model.svg?v=cf3b765a3237"
+},
+"dataline": {
+"checked": "2026-10-31",
+"image": "https://dataline.app/og_card.png"
+},
 "datarobot": {
 "checked": "2026-10-23",
 "image": "https://www.datarobot.com/wp-content/uploads/2026/06/default-image-2026.jpg"
@@ -125,6 +136,10 @@
 "from": 19.0,
 "url": "https://decepticon.red/pricing"
 }
+},
+"deeix-ai": {
+"checked": "2026-10-31",
+"image": "https://deeix.com/og/deeix-ai.png"
 },
 "deep-chat": {
 "checked": "2026-10-28",
@@ -215,11 +230,19 @@
 "checked": "2026-10-23",
 "image": "https://www.deepseek.com/images/deepseek-social.jpg"
 },
+"deepseek-harness-dsh": {
+"checked": "2026-10-31",
+"image": "https://deepseekdocs.com/img/logo-1024.png"
+},
 "deepspeed": {
 "checked": "2026-10-23"
 },
 "deerflow": {
 "checked": "2026-10-23"
+},
+"depth-tremeschin-com": {
+"checked": "2026-10-31",
+"image": "https://depth.tremeschin.com/assets/images/social/index.png"
 },
 "descript": {
 "checked": "2026-10-23",
@@ -228,6 +251,14 @@
 "free": true,
 "url": "https://www.descript.com/pricing"
 }
+},
+"design-computer": {
+"checked": "2026-10-31",
+"image": "https://www.designcomputer.com/assets/DesignComputerLogo2022-300x300.jpg"
+},
+"designing-multi-agent-systems": {
+"checked": "2026-10-31",
+"image": "https://buy.multiagentbook.com/images/og-card.webp"
 },
 "designlang": {
 "checked": "2026-10-27",
@@ -251,6 +282,9 @@
 },
 "detikzify": {
 "checked": "2026-10-30"
+},
+"detoxify": {
+"checked": "2026-10-31"
 },
 "developers-digest": {
 "checked": "2026-10-27",
@@ -394,6 +428,10 @@
 "dstack": {
 "checked": "2026-10-29",
 "image": "https://dstack.ai/static-assets/static-assets/images/dstack-social.png"
+},
+"duckle": {
+"checked": "2026-10-31",
+"image": "https://duckle.org/assets/img/og-card.png"
 },
 "duolingo": {
 "checked": "2026-10-23",

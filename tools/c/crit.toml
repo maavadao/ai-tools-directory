@@ -1,0 +1,7 @@
+name = "crit"
+description = "Review AI coding agents' plans, diffs and running apps in the browser. Inline comments, round-by-round diffs. Local-first, works with any agent."
+category = "coding"
+website = "https://crit.md"
+open_source = true
+repository = "https://github.com/tomasz-tomczyk/crit"
+added = 2026-10-31

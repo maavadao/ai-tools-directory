@@ -1,0 +1,7 @@
+name = "MyoSuite"
+description = "Musculoskeletal simulation for science & embodied AI"
+category = "other"
+website = "https://www.myosuite.org"
+open_source = true
+repository = "https://github.com/MyoHub/myosuite"
+added = 2026-10-31

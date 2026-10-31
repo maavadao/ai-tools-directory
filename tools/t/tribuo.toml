@@ -1,0 +1,7 @@
+name = "tribuo"
+description = "Tribuo is a Java ML library for multi-class classification, regression, clustering, anomaly detection and multi-label classification."
+category = "other"
+website = "https://tribuo.org"
+open_source = true
+repository = "https://github.com/oracle/tribuo"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "Amazon.com"
+description = "Build production-ready LLM applications and advanced agents using Python, LangChain, and LangGraph. This is the companion repository for the book on generative AI with LangChain."
+category = "education"
+website = "https://www.amazon.com"
+open_source = true
+repository = "https://github.com/benman1/generative_ai_with_langchain"
+added = 2026-10-31

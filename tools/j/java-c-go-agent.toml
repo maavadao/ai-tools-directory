@@ -1,0 +1,7 @@
+name = "卡码笔记｜程序员面试题库，Java、C++、Go、Agent、大模型八股文"
+description = "卡码笔记是一个面向程序员求职与学习提升的技术笔记网站，系统整理各编程语言面试题、八股文、真实面经、学习路线与高频知识点，覆盖 Java、C++、Go、Python、前端、MySQL、Redis、消息队列、操作系统、计算机网络、数据结构与算法等方向，帮助校招、春招、秋招、社招同学高效准备面试。"
+category = "chatbots"
+website = "https://notes.kamacoder.com"
+open_source = true
+repository = "https://github.com/youngyangyang04/llm-master"
+added = 2026-10-31

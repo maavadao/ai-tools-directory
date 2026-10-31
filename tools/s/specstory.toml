@@ -1,0 +1,7 @@
+name = "SpecStory"
+description = "Save the conversations behind your code with SpecStory. RunStory tests your software and sends defects back to your coding agent."
+category = "other"
+website = "https://specstory.com"
+open_source = true
+repository = "https://github.com/specstoryai/getspecstory"
+added = 2026-10-31

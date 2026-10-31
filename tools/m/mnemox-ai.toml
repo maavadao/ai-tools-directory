@@ -1,0 +1,7 @@
+name = "Mnemox AI"
+description = "TradeMemory Protocol for algorithmic trading memory. Idea Reality Check for pre-build validation."
+category = "other"
+website = "https://www.mnemox.ai"
+open_source = true
+repository = "https://github.com/mnemox-ai/tradememory-protocol"
+added = 2026-10-31

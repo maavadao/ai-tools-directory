@@ -1,0 +1,7 @@
+name = "SkillKit"
+description = "Write once, deploy to 46 AI coding agents. Skills for Claude Code, Cursor, Codex, Windsurf, GitHub Copilot, and more."
+category = "coding"
+website = "https://www.skillkit.sh"
+open_source = true
+repository = "https://github.com/rohitg00/skillkit"
+added = 2026-10-31

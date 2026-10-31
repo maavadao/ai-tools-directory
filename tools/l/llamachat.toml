@@ -1,0 +1,7 @@
+name = "LlamaChat"
+description = "Chat with your favourite LLaMA LLM models"
+category = "other"
+website = "https://llamachat.app"
+open_source = true
+repository = "https://github.com/alexrozanski/LlamaChat"
+added = 2026-10-31

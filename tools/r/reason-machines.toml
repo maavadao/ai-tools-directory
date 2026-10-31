@@ -1,0 +1,7 @@
+name = "Reason Machines"
+description = "Reason is a frontier coding agent that works with all your others: Claude Code, Codex, Cursor, Grok Bot and Muse on one network. Free, open-source engine."
+category = "other"
+website = "https://reasonmachines.com"
+open_source = true
+repository = "https://github.com/reason-machines/reason-network"
+added = 2026-10-31

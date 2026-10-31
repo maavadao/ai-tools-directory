@@ -1,0 +1,7 @@
+name = "LLM Colosseum"
+description = "Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM"
+category = "chatbots"
+website = "https://llm-colosseum.phospho.ai"
+open_source = true
+repository = "https://github.com/OpenGenerativeAI/llm-colosseum"
+added = 2026-10-31

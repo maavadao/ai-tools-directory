@@ -1,0 +1,7 @@
+name = "ColliePWA"
+description = "A mobile client for Herdr. Drive Claude Code, Codex and OpenCode from your iPhone or Android phone. An open-source, self-hosted web app. No app store."
+category = "coding"
+website = "https://colliepwa.dev"
+open_source = true
+repository = "https://github.com/AltanS/collie"
+added = 2026-10-31

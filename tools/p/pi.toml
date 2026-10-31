@@ -1,0 +1,7 @@
+name = "动手学 Pi"
+description = "15 个 checkpoint，亲手实现一个可运行、可恢复、可扩展的 Pi。"
+category = "chatbots"
+website = "https://build-your-own-pi-cn.enochzhang.chatgpt.site"
+open_source = true
+repository = "https://github.com/hahhforest/pi-textbook"
+added = 2026-10-31

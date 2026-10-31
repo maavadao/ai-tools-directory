@@ -1,0 +1,7 @@
+name = "Lime"
+description = "收集参考、整理草稿、生成多版本，并把结果留在同一个项目里继续写。"
+category = "agents"
+website = "https://limeai.run"
+open_source = true
+repository = "https://github.com/limecloud/lime"
+added = 2026-10-31

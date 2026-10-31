@@ -1,0 +1,7 @@
+name = "jonex"
+description = "Jonex 将多模态企业数据转化为受治理、本体感知的知识，并提供可溯源依据的检索。"
+category = "agents"
+website = "https://jonex.ai"
+open_source = true
+repository = "https://github.com/yuezhiai/jonex"
+added = 2026-10-31

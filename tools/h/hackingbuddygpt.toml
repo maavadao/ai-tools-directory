@@ -1,0 +1,7 @@
+name = "hackingBuddyGPT"
+description = "Helping Ethical Hackers use LLMs in 50 Lines of Code or less.."
+category = "chatbots"
+website = "https://hackingbuddy.ai"
+open_source = true
+repository = "https://github.com/ipa-lab/hackingBuddyGPT"
+added = 2026-10-31

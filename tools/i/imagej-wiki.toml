@@ -1,0 +1,7 @@
+name = "ImageJ Wiki"
+description = "The ImageJ wiki is a community-edited knowledge base on topics relating to ImageJ, a public domain program for processing and analyzing scientific images, and its ecosystem of derivatives and variants, including ImageJ2, Fiji, and others."
+category = "other"
+website = "https://imagej.net"
+open_source = true
+repository = "https://github.com/imagej/imagej2"
+added = 2026-10-31

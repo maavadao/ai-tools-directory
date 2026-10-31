@@ -84,6 +84,20 @@
 "checked": "2026-10-25",
 "image": "https://usemagpie.ai/img/og.png"
 },
+"maia-chess": {
+"checked": "2026-10-31",
+"image": "https://www.maiachess.com/assets/og-maia.png"
+},
+"mailcheap": {
+"checked": "2026-10-31",
+"image": "https://mailcheap.ai/opengraph-image-1uq35j?f7d309b698249c82",
+"pricing": {
+"currency": "USD",
+"from": 19.0,
+"trial": true,
+"url": "https://mailcheap.ai/pricing"
+}
+},
 "main-gorgonia": {
 "checked": "2026-10-26"
 },
@@ -377,6 +391,17 @@
 "mercury-agent": {
 "checked": "2026-10-28"
 },
+"meta-ads-mcp": {
+"checked": "2026-10-31",
+"image": "https://pipeboard.co/opengraph-image?07123b6d8088653c",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 10.0,
+"trial": true,
+"url": "https://pipeboard.co/pricing"
+}
+},
 "meta-ai-research": {
 "checked": "2026-10-23",
 "image": "https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp"
@@ -402,6 +427,9 @@
 "metalbear": {
 "checked": "2026-10-27",
 "image": "https://metalbear.com/og-home.png"
+},
+"metascreener": {
+"checked": "2026-10-31"
 },
 "metaview": {
 "checked": "2026-10-23",
@@ -489,6 +517,9 @@
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/assets/IRAj5ULLLszD1Dx3XZQDb8373ww.png"
 },
+"minutes": {
+"checked": "2026-10-31"
+},
 "mirage": {
 "checked": "2026-10-28",
 "image": "https://www.strukto.ai/og-default.png"
@@ -496,6 +527,14 @@
 "mirai-labs": {
 "checked": "2026-10-29",
 "image": "https://trymirai.com/images/og/default.jpg"
+},
+"mirascope-com": {
+"checked": "2026-10-31",
+"image": "https://mirascope.com/social-cards/index.webp"
+},
+"mirobody": {
+"checked": "2026-10-31",
+"image": "https://mirobody.ai/assets/og-image.png"
 },
 "miso-com": {
 "checked": "2026-10-23",
@@ -596,6 +635,15 @@
 "checked": "2026-10-28",
 "image": "https://mnemosyne.site/og-image.jpg?v=4"
 },
+"mnemox-ai": {
+"checked": "2026-10-31",
+"image": "https://www.mnemox.ai/assets/og-home.png",
+"pricing": {
+"currency": "USD",
+"from": 29.0,
+"url": "https://www.mnemox.ai/pricing"
+}
+},
 "mng-bz": {
 "checked": "2026-10-27"
 },
@@ -630,6 +678,15 @@
 "mockserver": {
 "checked": "2026-10-27",
 "image": "https://www.mock-server.com/images/social-card.png"
+},
+"modal-examples": {
+"checked": "2026-10-31",
+"image": "https://modal.com/assets/social-image-5.jpg",
+"pricing": {
+"currency": "USD",
+"from": 30.0,
+"url": "https://modal.com/pricing"
+}
 },
 "model-context-protocol": {
 "checked": "2026-10-25",
@@ -677,6 +734,9 @@
 "checked": "2026-10-28",
 "image": "https://www.morphik.ai/opengraph-image.png?opengraph-image.732ff123.png"
 },
+"mortal-ekyu-moe": {
+"checked": "2026-10-31"
+},
 "moveit-motion-planning-framework": {
 "checked": "2026-10-30"
 },
@@ -691,6 +751,10 @@
 "mrrss": {
 "checked": "2026-10-29",
 "image": "https://DevXDojo.github.io/MrRSS/assets/og.png"
+},
+"muesli": {
+"checked": "2026-10-31",
+"image": "https://muesli.works/og-muesli.jpg?v=20260513-2"
 },
 "mujoco": {
 "checked": "2026-10-24"
@@ -713,5 +777,9 @@
 "mylens": {
 "checked": "2026-10-23",
 "image": "https://mylens.ai/opengraph-image"
+},
+"myosuite": {
+"checked": "2026-10-31",
+"image": "https://www.myosuite.org/opengraph-image.png?2b37c90b1d2150ba"
 }
 }

@@ -1,0 +1,7 @@
+name = "TensorFold"
+description = "Run LLMs fast on the GPUs you own with native Metal and CUDA inference."
+category = "chatbots"
+website = "https://tensorfold.dev"
+open_source = true
+repository = "https://github.com/ashhart/TensorFold"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "ChatGPT Prompts Extension"
+description = "Access and use the best ChatGPT prompts easily with our browser extension. Discover and share new prompts, customize your ChatGPT with themes like SMS, hacker, cozy fireplace, and more."
+category = "chatbots"
+website = "https://www.aipromptgenius.app"
+open_source = true
+repository = "https://github.com/AI-Prompt-Genius/AI-Prompt-Genius"
+added = 2026-10-31

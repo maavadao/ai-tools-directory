@@ -1,0 +1,7 @@
+name = "minutes"
+description = "Meetings, calls, voice memos, and dictation, transcribed on your own machine and saved as markdown you own. Free and open source."
+category = "productivity"
+website = "https://useminutes.app"
+open_source = true
+repository = "https://github.com/silverstein/minutes"
+added = 2026-10-31

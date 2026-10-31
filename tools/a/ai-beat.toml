@@ -1,0 +1,7 @@
+name = "AI Beat"
+description = "Choose PromptBeat for model and prompt red teaming, or AgentBeat for black-box HTTP agent evaluation."
+category = "agents"
+website = "https://www.aibeat.ai"
+open_source = true
+repository = "https://github.com/tophant-ai/aibeat"
+added = 2026-10-31

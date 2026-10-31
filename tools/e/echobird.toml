@@ -1,0 +1,7 @@
+name = "EchoBird"
+description = "ChatGPT、Codex CLI、Claude Code 多账号切换与额度查看；多模型智能路由、优先级排序、故障自动切换。"
+category = "other"
+website = "https://EchoBird.ai"
+open_source = true
+repository = "https://github.com/edison7009/EchoBird"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "SDAI"
+description = "Generate AI images from your phone with self-hosted servers, cloud providers such as Fal.ai and ArliAI, Android local SDXL, or iOS Core ML/Bonsai, and browse the SDAI Kotlin API documentation."
+category = "image"
+website = "https://sdai.moroz.cc"
+open_source = true
+repository = "https://github.com/ShiftHackZ/Stable-Diffusion-KMP"
+added = 2026-10-31

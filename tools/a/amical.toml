@@ -1,0 +1,7 @@
+name = "amical"
+description = "Amical turns your voice into polished text with AI — open-source dictation for Mac, Windows, iOS & Android. Fast, accurate, context-aware, and private."
+category = "other"
+website = "https://amical.ai"
+open_source = true
+repository = "https://github.com/amicalhq/amical"
+added = 2026-10-31

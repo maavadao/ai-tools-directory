@@ -1,0 +1,7 @@
+name = "React Native AI"
+description = "On-device AI for React Native apps: Apple Foundation Models, Core AI, Gemini Nano and llama.rn as drop-in Vercel AI SDK providers. No server, no API key."
+category = "chatbots"
+website = "https://www.react-native-ai.dev"
+open_source = true
+repository = "https://github.com/callstackincubator/ai"
+added = 2026-10-31

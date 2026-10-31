@@ -1,0 +1,7 @@
+name = "Golem documentation"
+description = "Learn how to build, deploy, and manage applications on Golem Cloud."
+category = "agents"
+website = "https://learn.golem.cloud"
+open_source = true
+repository = "https://github.com/golemcloud/golem"
+added = 2026-10-31

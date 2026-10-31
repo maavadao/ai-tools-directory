@@ -1,0 +1,7 @@
+name = "遇之"
+description = "文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。"
+category = "other"
+website = "https://yuzhi.tech"
+open_source = true
+repository = "https://github.com/caol64/wenyan-mcp"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "heym"
+description = "Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure."
+category = "agents"
+website = "https://heym.run"
+open_source = true
+repository = "https://github.com/heymrun/heym"
+added = 2026-10-31

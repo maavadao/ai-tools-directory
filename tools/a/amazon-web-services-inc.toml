@@ -1,0 +1,7 @@
+name = "Amazon Web Services, Inc."
+description = "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use."
+category = "other"
+website = "https://aws.amazon.com"
+open_source = true
+repository = "https://github.com/aws-samples/amazon-bedrock-samples"
+added = 2026-10-31

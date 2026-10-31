@@ -1,0 +1,7 @@
+name = "skills"
+description = "Join 1000+ builders. Learn AI with Cursor, MCP & Agent courses, trending AI projects, expert talks. The fastest way to learn to build with AI"
+category = "coding"
+website = "https://www.aibuilderclub.com"
+open_source = true
+repository = "https://github.com/AI-Builder-Club/skills"
+added = 2026-10-31

@@ -28,6 +28,15 @@
 "checked": "2026-10-29",
 "image": "https://www.vcptoolbox.com/assets/logo1.png"
 },
+"vellum-assistant": {
+"checked": "2026-10-31",
+"image": "https://www.vellum.ai/og-cover-v2.jpg",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"url": "https://www.vellum.ai/pricing"
+}
+},
 "velozity": {
 "checked": "2026-10-23",
 "image": "https://getvelozity.com/assets/meta/og-card-v3.png"
@@ -51,6 +60,9 @@
 "vergex": {
 "checked": "2026-10-25",
 "image": "https://vergex.trade/vergex/og-image.png?v=2"
+},
+"versus": {
+"checked": "2026-10-31"
 },
 "verticals-gg": {
 "checked": "2026-10-29",
@@ -100,6 +112,10 @@
 "checked": "2026-10-24",
 "image": "https://weifeng2333.github.io/VideoCaptioner/logo.png"
 },
+"videodb-console": {
+"checked": "2026-10-31",
+"image": "https://chat.videodb.io/ogimage.gif"
+},
 "vieneu": {
 "checked": "2026-10-28",
 "image": "https://www.vieneu.io/og-image.png"
@@ -135,6 +151,9 @@
 "checked": "2026-10-26",
 "image": "https://vllm-sr.ai/img/vllm-sr-logo.social.png"
 },
+"voca": {
+"checked": "2026-10-31"
+},
 "voicebox": {
 "checked": "2026-10-23",
 "image": "https://voicebox.sh/og.webp",
@@ -142,6 +161,10 @@
 "free": true,
 "url": "https://voicebox.sh/pricing"
 }
+},
+"voicemode": {
+"checked": "2026-10-31",
+"image": "https://voicemode.dev/og-image.png?v=2"
 },
 "voicestudio": {
 "checked": "2026-10-23",

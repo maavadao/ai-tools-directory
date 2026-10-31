@@ -1,0 +1,7 @@
+name = "AgentSociety²"
+description = "AgentSociety² provides an Integrated Research Environment for executable social science, connecting hypothesis generation, generative social simulation, intervention, analysis, and writing."
+category = "agents"
+website = "https://agentsociety2.fiblab.net"
+open_source = true
+repository = "https://github.com/tsinghua-fib-lab/AgentSociety"
+added = 2026-10-31

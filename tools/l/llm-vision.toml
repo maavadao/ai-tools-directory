@@ -1,0 +1,7 @@
+name = "LLM Vision"
+description = "An intelligent Home Assistant integration to analyze images, videos, and more with AI."
+category = "chatbots"
+website = "https://llmvision.org"
+open_source = true
+repository = "https://github.com/valentinfrlch/ha-llmvision"
+added = 2026-10-31

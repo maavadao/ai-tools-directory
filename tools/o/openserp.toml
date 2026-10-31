@@ -1,0 +1,7 @@
+name = "OpenSERP"
+description = "Free open-source SERP API for Google, Bing, Yandex, Baidu, DuckDuckGo. Self-host with Docker or use OpenSERP Cloud."
+category = "chatbots"
+website = "https://openserp.org"
+open_source = true
+repository = "https://github.com/karust/openserp"
+added = 2026-10-31

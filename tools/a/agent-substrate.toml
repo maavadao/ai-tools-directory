@@ -1,0 +1,7 @@
+name = "Agent Substrate"
+description = "Every agent runs in its own microVM or gVisor sandbox with an identity, no credentials, and no open network. Idle agents suspend, resume in under 500ms on any ready worker, and keep their memory and filesystem state."
+category = "agents"
+website = "https://ate.dev"
+open_source = true
+repository = "https://github.com/agent-substrate/substrate"
+added = 2026-10-31

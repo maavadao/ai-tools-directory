@@ -129,6 +129,18 @@
 "figma-context-mcp": {
 "checked": "2026-10-24"
 },
+"files-sdk": {
+"checked": "2026-10-31",
+"image": "https://files-sdk.dev/og/index.png"
+},
+"fim-one": {
+"checked": "2026-10-31",
+"image": "https://one.fim.ai/og-image.png",
+"pricing": {
+"free": true,
+"url": "https://one.fim.ai/en/pricing"
+}
+},
 "finceptterminal": {
 "checked": "2026-10-23",
 "image": "https://fincept.in/capture.png"
@@ -163,6 +175,10 @@
 },
 "firerpa": {
 "checked": "2026-10-25"
+},
+"first-fluke": {
+"checked": "2026-10-31",
+"image": "https://firstfluke.com/opengraph-image.png"
 },
 "fish-audio": {
 "checked": "2026-10-25"
@@ -232,6 +248,14 @@
 "formkit": {
 "checked": "2026-10-27",
 "image": "https://formkit.com/__og-image__/static/og.png"
+},
+"founderos": {
+"checked": "2026-10-31",
+"pricing": {
+"currency": "USD",
+"from": 200.0,
+"url": "https://founderos.sh"
+}
 },
 "fragments-by-e2b": {
 "checked": "2026-10-26"

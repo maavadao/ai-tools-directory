@@ -1,0 +1,7 @@
+name = "Codex 国内站"
+description = "Codex 国内站正式上线，无需魔法、无需海外手机号，一半价格使用 GPT-5.6 Sol / Terra / Luna 和 GPTimage2，适合 Codex 小白、独立开发者、内容创作者和 AI 工具重度用户。"
+category = "other"
+website = "https://codex.maynorai.top"
+open_source = true
+repository = "https://github.com/xianyu110/gpt-codex"
+added = 2026-10-31

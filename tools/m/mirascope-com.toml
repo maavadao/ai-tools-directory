@@ -1,0 +1,7 @@
+name = "Home"
+description = "The complete toolkit for AI engineers"
+category = "coding"
+website = "https://mirascope.com"
+open_source = true
+repository = "https://github.com/Mirascope/mirascope"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "Files SDK"
+description = "Write once, store anywhere: one small, honest API for S3, R2, Vercel Blob, GCS, Azure, and 44 more object and blob stores, with web-standard I/O and a typed escape hatch."
+category = "agents"
+website = "https://files-sdk.dev"
+open_source = true
+repository = "https://github.com/haydenbleasel/files-sdk"
+added = 2026-10-31

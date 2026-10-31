@@ -1,0 +1,7 @@
+name = "ai-setup"
+description = "AI spend and usage intelligence for the whole org. Caliber puts every seat, token and agent your company pays for on the org tree from your HRIS: spend by team and owner, budgets that hold at the vendor, and insights that help every person get better."
+category = "other"
+website = "https://trycaliber.ai"
+open_source = true
+repository = "https://github.com/caliber-ai-org/ai-setup"
+added = 2026-10-31

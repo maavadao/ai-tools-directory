@@ -1,0 +1,7 @@
+name = "ChatPad"
+description = "A focused pair of names for chat, assistants, and AI-native conversation products."
+category = "chatbots"
+website = "https://chatpad.ai"
+open_source = true
+repository = "https://github.com/deiucanta/chatpad"
+added = 2026-10-31

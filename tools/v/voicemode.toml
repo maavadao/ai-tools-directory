@@ -1,0 +1,7 @@
+name = "VoiceMode"
+description = "Natural voice conversations with Claude Code and other AI coding assistants. Open-source, local-first, OpenAI-compatible."
+category = "audio"
+website = "https://voicemode.dev"
+open_source = true
+repository = "https://github.com/mbailey/voicemode"
+added = 2026-10-31

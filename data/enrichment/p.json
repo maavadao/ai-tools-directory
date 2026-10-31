@@ -20,6 +20,10 @@
 "url": "https://pageindex.ai/developer"
 }
 },
+"pagelines": {
+"checked": "2026-10-31",
+"image": "https://www.pagelines.com/og/index.png"
+},
 "pake": {
 "checked": "2026-10-23",
 "image": "https://pake.run/img/og.png?v=9edc4d3d8acb"
@@ -45,6 +49,9 @@
 "checked": "2026-10-23",
 "image": "https://paperclip.ing/og-v4.jpg"
 },
+"paperdebugger": {
+"checked": "2026-10-31"
+},
 "paperlib": {
 "checked": "2026-10-29"
 },
@@ -64,6 +71,13 @@
 "pricing": {
 "free": true,
 "url": "https://www.parakeet-ai.com"
+}
+},
+"paritok-4b-v1": {
+"checked": "2026-10-31",
+"pricing": {
+"free": true,
+"url": "https://www.paritok.com/"
 }
 },
 "parlant-io": {
@@ -153,6 +167,9 @@
 "url": "https://pexo.ai/pricing"
 }
 },
+"pgbot-dev": {
+"checked": "2026-10-31"
+},
 "photodemon": {
 "checked": "2026-10-29"
 },
@@ -167,8 +184,16 @@
 "phyagentos": {
 "checked": "2026-10-28"
 },
+"pi": {
+"checked": "2026-10-31",
+"image": "https://build-your-own-pi-cn.enochzhang.chatgpt.site/og.png"
+},
 "pi-desktop": {
 "checked": "2026-10-26"
+},
+"pier-paolo-ippolito": {
+"checked": "2026-10-31",
+"image": "https://ppiconsulting.dev/assets/img/posts/intro.jpg"
 },
 "pii-tools": {
 "checked": "2026-10-24",
@@ -330,6 +355,9 @@
 "checked": "2026-10-26",
 "image": "https://potpie.ai/og.png"
 },
+"powercontext": {
+"checked": "2026-10-31"
+},
 "pr-agent-ai": {
 "checked": "2026-10-25",
 "image": "https://docs.pr-agent.ai/img/social-card.png"
@@ -348,6 +376,10 @@
 "prism": {
 "checked": "2026-10-29",
 "image": "https://prismphp.com/assets/og-image.png?v=3"
+},
+"prismer-cloud": {
+"checked": "2026-10-31",
+"image": "https://prod.docbrew.cn/logo-light.png"
 },
 "prismml": {
 "checked": "2026-10-28",
@@ -387,9 +419,17 @@
 "promptx": {
 "checked": "2026-10-28"
 },
+"prompty": {
+"checked": "2026-10-31",
+"image": "https://prompty.ai/og-image.png"
+},
 "proxyai": {
 "checked": "2026-10-30",
 "image": "https://tryproxy.io/card-image.png"
+},
+"ptero": {
+"checked": "2026-10-31",
+"image": "https://ptero.pro/wp-content/uploads/2026/10/ptero-1.png"
 },
 "pubax": {
 "checked": "2026-10-29"
@@ -409,6 +449,14 @@
 "pulse": {
 "checked": "2026-10-26",
 "image": "https://pulserelay.pro/dashboard.jpg"
+},
+"puppyone": {
+"checked": "2026-10-31",
+"image": "https://www.puppyone.ai/og-image-v2.png",
+"pricing": {
+"free": true,
+"url": "https://www.puppyone.ai/en/pricing"
+}
 },
 "pwnagotchi": {
 "checked": "2026-10-25"
@@ -444,6 +492,10 @@
 "checked": "2026-10-30",
 "image": "https://pygpt.net/v1/thumb.jpg"
 },
+"pypose": {
+"checked": "2026-10-31",
+"image": "https://pypose.org/assets/images/pytorch-logo.png"
+},
 "pypots": {
 "checked": "2026-10-30",
 "image": "https://pypots.com/figs/pypots_logos/publicity/PyPOTS_LinkedIn_OG_image.jpg"
@@ -462,6 +514,10 @@
 "checked": "2026-10-24",
 "image": "https://github.com/python-telegram-bot/logos/raw/master/logo/png/ptb-logo_2048.png"
 },
+"python-whatsapp-bot": {
+"checked": "2026-10-31",
+"image": "https://www.datalumina.com/og/default.jpg"
+},
 "pytorch": {
 "checked": "2026-10-23",
 "image": "https://pytorch.org/wp-content/uploads/2025/01/pytorch_seo.png"
@@ -476,6 +532,10 @@
 "pytorch-ignite": {
 "checked": "2026-10-27",
 "image": "https://raw.githubusercontent.com/pytorch/ignite/master/assets/logo/ignite_logo.png"
+},
+"pytorchstepbystep": {
+"checked": "2026-10-31",
+"image": "https://pytorchstepbystep.com/assets/img/vol0.png"
 },
 "pyvideotrans": {
 "checked": "2026-10-24"

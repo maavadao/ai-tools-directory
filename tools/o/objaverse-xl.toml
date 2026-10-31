@@ -1,0 +1,7 @@
+name = "objaverse-xl"
+description = "Objaverse 1.0 is a Massive Dataset of 800K+ Annotated 3D Objects"
+category = "other"
+website = "https://objaverse.allenai.org"
+open_source = true
+repository = "https://github.com/allenai/objaverse-xl"
+added = 2026-10-31

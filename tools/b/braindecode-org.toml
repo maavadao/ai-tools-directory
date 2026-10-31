@@ -1,0 +1,7 @@
+name = "Page Redirection"
+description = "Deep learning software to decode EEG, ECG or MEG signals"
+category = "other"
+website = "https://braindecode.org"
+open_source = true
+repository = "https://github.com/braindecode/braindecode"
+added = 2026-10-31

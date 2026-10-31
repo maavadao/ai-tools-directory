@@ -2,6 +2,15 @@
 "01-ai": {
 "checked": "2026-10-26"
 },
+"10x": {
+"checked": "2026-10-31",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 15.0,
+"url": "https://try10x.co/pricing"
+}
+},
 "10xjoy": {
 "checked": "2026-10-23",
 "image": "https://10xjoy.com/opengraph-image.jpg?opengraph-image.2thubg4lctd_u.jpg"

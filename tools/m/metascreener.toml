@@ -1,0 +1,7 @@
+name = "MetaScreener"
+description = "Fast, accurate AI-assisted literature screening tool for systematic reviews and meta-analyses."
+category = "chatbots"
+website = "https://www.metascreener.net"
+open_source = true
+repository = "https://github.com/ChaokunHong/MetaScreener"
+added = 2026-10-31

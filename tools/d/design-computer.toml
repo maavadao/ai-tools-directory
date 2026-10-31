@@ -1,0 +1,7 @@
+name = "Design Computer"
+description = "Technical Support, Software & Hardware Development"
+category = "chatbots"
+website = "https://designcomputer.com"
+open_source = true
+repository = "https://github.com/designcomputer/mysql_mcp_server"
+added = 2026-10-31

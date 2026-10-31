@@ -1,0 +1,7 @@
+name = "duckle"
+description = "Open-source ETL you deploy on your own infrastructure. Author on a canvas, in Python or in SQL, then run it headless on a schedule in Docker, on EC2 or on Kubernetes. 96M rows Postgres to Parquet in 39.9s. No vendor cloud, no per-row billing."
+category = "other"
+website = "https://duckle.org"
+open_source = true
+repository = "https://github.com/slothflowlabs/duckle"
+added = 2026-10-31

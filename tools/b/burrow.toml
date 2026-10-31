@@ -1,0 +1,7 @@
+name = "burrow"
+description = "Clean junk, manage apps, run maintenance, map your disk, and watch live status, in one native desktop app. Native on macOS, now in beta on Windows. Free and MIT-licensed. Plus history and an MCP server."
+category = "other"
+website = "https://burrow.computer"
+open_source = true
+repository = "https://github.com/caezium/burrow"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "AIPex"
+description = "AIPex AI Browser Assistant for intelligent automation. 30+ tools for tab management, data extraction, and workflow automation. Zero migration cost, instant setup."
+category = "other"
+website = "https://www.claudechrome.com"
+open_source = true
+repository = "https://github.com/AIPexStudio/AIPex"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "FIM One"
+description = "Self-hosted agent platform that wires every system (global SaaS to the China enterprise stack) through one agent core. Self-hosted, any LLM."
+category = "chatbots"
+website = "https://one.fim.ai"
+open_source = true
+repository = "https://github.com/fim-ai/fim-one"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "gawkbot"
+description = "Bring all your terminal agents into a single team, manage them with an AI Chief of Staff, and never miss them when they need you from your Mac or iPhone."
+category = "coding"
+website = "https://gawk.bot"
+open_source = true
+repository = "https://github.com/najmuzzaman-mohammad/gawkbot"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "LangChat Agentic"
+description = "LangChat Agentic 面向企业提供模型接入、知识加工、数据分析、智能体构建、流程编排、内容生产、扩展执行、安全治理和生产运维能力，把 AI 能力转化为可配置、可发布、可审计、可持续运营的业务应用。"
+category = "chatbots"
+website = "https://langchat.cn"
+open_source = true
+repository = "https://github.com/LangChat/langchat"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "aegra"
+description = "Open source LangGraph platform alternative. Self-host LangGraph agents on your infrastructure. Drop-in replacement for LangGraph Platform with no vendor lock-in."
+category = "other"
+website = "https://www.aegra.dev"
+open_source = true
+repository = "https://github.com/aegra/aegra"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "Reticle"
+description = "Reticle tests your web app the way a QA engineer would, and proves what works with evidence."
+category = "other"
+website = "https://app.reticle.sh"
+open_source = true
+repository = "https://github.com/reticlehq/reticle"
+added = 2026-10-31

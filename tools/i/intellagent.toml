@@ -1,0 +1,7 @@
+name = "intellagent"
+description = "A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions"
+category = "agents"
+website = "https://intellagent-doc.plurai.ai"
+open_source = true
+repository = "https://github.com/plurai-ai/intellagent"
+added = 2026-10-31

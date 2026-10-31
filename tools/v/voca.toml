@@ -1,0 +1,7 @@
+name = "VOCA"
+description = "This codebase demonstrates how to synthesize realistic 3D character animations given an arbitrary speech signal and a static character mesh."
+category = "other"
+website = "https://voca.is.tue.mpg.de"
+open_source = true
+repository = "https://github.com/TimoBolkart/voca"
+added = 2026-10-31

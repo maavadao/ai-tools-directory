@@ -1,0 +1,7 @@
+name = "НейроАПИ"
+description = "OpenAI-совместимый API для ChatGPT и других моделей в России: один ключ NeuroAPI, оплата в рублях, вход через личный кабинет и работа без собственного VPN."
+category = "coding"
+website = "https://neuroapi.host"
+open_source = true
+repository = "https://github.com/neurogen-dev/NeuroAPI"
+added = 2026-10-31

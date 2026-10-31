@@ -1,0 +1,7 @@
+name = "modal-examples"
+description = "Cloud infrastructure for teams that develop, train, and serve AI applications at scale."
+category = "image"
+website = "https://modal.com"
+open_source = true
+repository = "https://github.com/modal-labs/modal-examples"
+added = 2026-10-31

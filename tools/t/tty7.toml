@@ -1,0 +1,7 @@
+name = "tty7"
+description = "A terminal workbench: persistent sessions, remote work, agents."
+category = "coding"
+website = "https://tty7.io"
+open_source = true
+repository = "https://github.com/l0ng-ai/tty7"
+added = 2026-10-31

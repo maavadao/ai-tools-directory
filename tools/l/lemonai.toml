@@ -1,0 +1,7 @@
+name = "LemonAI"
+description = "Build, train, and evolve intelligent AI agents with LemonAI. Free platform for creating custom AI solutions. Start your AI journey today."
+category = "chatbots"
+website = "https://lemonai.cc"
+open_source = true
+repository = "https://github.com/hexdocom/lemonai"
+added = 2026-10-31

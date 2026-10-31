@@ -1,0 +1,7 @@
+name = "TorchDrug"
+description = "Powerful and flexible machine learning library for drug discovery"
+category = "other"
+website = "https://torchdrug.ai"
+open_source = true
+repository = "https://github.com/DeepGraphLearning/torchdrug"
+added = 2026-10-31

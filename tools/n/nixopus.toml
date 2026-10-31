@@ -1,0 +1,7 @@
+name = "nixopus"
+description = "Deploy and run apps on your own infrastructure in seconds. Self-host on Hetzner, DigitalOcean, AWS alternatives. No DevOps needed."
+category = "other"
+website = "https://nixopus.com"
+open_source = true
+repository = "https://github.com/nixopus/nixopus"
+added = 2026-10-31

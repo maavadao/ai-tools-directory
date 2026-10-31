@@ -56,6 +56,10 @@
 "checked": "2026-10-29",
 "image": "https://sdppp.zombee.tech/index_screenshot.png"
 },
+"sdai": {
+"checked": "2026-10-31",
+"image": "https://sdai.moroz.cc/screenshots/site/ios/en-US/01-create.png"
+},
 "seal-report": {
 "checked": "2026-10-30"
 },
@@ -174,6 +178,9 @@
 "url": "https://www.sim.ai/pricing"
 }
 },
+"simpletransformers-ai": {
+"checked": "2026-10-31"
+},
 "skales": {
 "checked": "2026-10-29",
 "image": "https://skales.app/og-skales.png"
@@ -188,6 +195,10 @@
 "skill-seekers": {
 "checked": "2026-10-25",
 "image": "https://skillseekersweb.com/og-image.png"
+},
+"skillkit": {
+"checked": "2026-10-31",
+"image": "https://skillkit.sh/og-image.png"
 },
 "skills": {
 "checked": "2026-10-23",
@@ -215,6 +226,9 @@
 "checked": "2026-10-29",
 "image": "https://skybridge.tech/assets/Skybridge-og.jpg"
 },
+"skyjake-apos-s-capsule": {
+"checked": "2026-10-31"
+},
 "skypilot": {
 "checked": "2026-10-25",
 "image": "https://cdn.sanity.io/images/9qcljuzt/production/1d7efde891b608b79232e7cb65725cdae2b8666c-1200x630.png?rect=0,2,1200,627&w=1200&h=627&fit=crop&auto=format"
@@ -230,6 +244,10 @@
 },
 "smart-plugins-for-obsidian": {
 "checked": "2026-10-26"
+},
+"smart-second-brain": {
+"checked": "2026-10-31",
+"image": "https://smartsecondbrain.dev/og.png"
 },
 "smartsub-linxiaodong-com": {
 "checked": "2026-10-26",
@@ -267,9 +285,17 @@
 "sod": {
 "checked": "2026-10-30"
 },
+"sokuji": {
+"checked": "2026-10-31",
+"image": "https://sokuji.kizuna.ai/og-image.png"
+},
 "solana-agent-kit": {
 "checked": "2026-10-30",
 "image": "https://kit.sendai.fun/og.png"
+},
+"solomd": {
+"checked": "2026-10-31",
+"image": "https://solomd.app/og-image.png"
 },
 "solon-opensolon": {
 "checked": "2026-10-29"
@@ -294,6 +320,10 @@
 "trial": true,
 "url": "https://sourcegraph.com/pricing"
 }
+},
+"sourcey": {
+"checked": "2026-10-31",
+"image": "https://sourcey.com/brand/sourcey-mark.png"
 },
 "spacebot": {
 "checked": "2026-10-29",
@@ -320,6 +350,15 @@
 "spec-kitty": {
 "checked": "2026-10-30",
 "image": "https://spec-kitty.ai/og/index.png"
+},
+"specstory": {
+"checked": "2026-10-31",
+"image": "https://specstory.com/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 650.0,
+"url": "https://specstory.com/runstory/pricing"
+}
 },
 "spectrum-ts": {
 "checked": "2026-10-29",
@@ -349,6 +388,9 @@
 "from": 12.0,
 "url": "https://spira.ai/pricing"
 }
+},
+"spotlight": {
+"checked": "2026-10-31"
 },
 "spring-ai-alibaba": {
 "checked": "2026-10-25",
@@ -388,9 +430,15 @@
 "checked": "2026-10-24",
 "image": "https://stagehand.dev/opengraph-image.png?opengraph-image.0tcx71yo14ho0.png"
 },
+"starlight-search": {
+"checked": "2026-10-31"
+},
 "start-machine-learning": {
 "checked": "2026-10-27",
 "image": "https://www.louisbouchard.ai/og-default.png"
+},
+"startlux-decision-v1-1": {
+"checked": "2026-10-31"
 },
 "stasosphere-base": {
 "checked": "2026-10-24"
@@ -406,6 +454,10 @@
 "url": "https://statable.com/pricing"
 }
 },
+"steedos-platform": {
+"checked": "2026-10-31",
+"image": "https://objectstack.ai/hero-cover-dark.webp"
+},
 "steel-browser": {
 "checked": "2026-10-26",
 "image": "https://steel.dev/opengraph-image.png?opengraph-image.2o2pbo9kni2n0.png",
@@ -419,6 +471,10 @@
 "stemroller": {
 "checked": "2026-10-28",
 "image": "https://www.stemroller.com/img/og-image.png"
+},
+"strands-agents": {
+"checked": "2026-10-31",
+"image": "https://strandsagents.com/og-image.png"
 },
 "streamdown": {
 "checked": "2026-10-26",
@@ -446,6 +502,16 @@
 },
 "stylegan2-pytorch": {
 "checked": "2026-10-28"
+},
+"sum4all-site": {
+"checked": "2026-10-31",
+"image": "https://assets.dub.co/thumbnail.jpg",
+"pricing": {
+"currency": "USD",
+"from": 81.0,
+"trial": true,
+"url": "https://dub.co/pricing?utm_source=Custom+Domain&amp;utm_medium=Navbar&amp;utm_campaign=sum4all.site&amp;utm_content=Pricing"
+}
 },
 "summarize": {
 "checked": "2026-10-26",
@@ -531,6 +597,10 @@
 "trial": true,
 "url": "https://superhuman.com/plans/go"
 }
+},
+"superlog": {
+"checked": "2026-10-31",
+"image": "https://superlog.sh/superlog-og.png"
 },
 "supermemory": {
 "checked": "2026-10-23",

@@ -1,0 +1,7 @@
+name = "muesli"
+description = "Local speech-to-text, AI dictation, and meeting transcription for Mac. Run ASR on-device with Parakeet, Whisper, and Apple Silicon."
+category = "audio"
+website = "https://muesli.works"
+open_source = true
+repository = "https://github.com/Muesli-HQ/muesli"
+added = 2026-10-31

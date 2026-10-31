@@ -1,0 +1,7 @@
+name = "Maia Chess"
+description = "Maia is a neural network chess model that captures human style. Go beyond perfect engine lines by analyzing games with real-world context, training with curated puzzles, and seeing what players at higher rating levels actually do in every position."
+category = "other"
+website = "https://www.maiachess.com"
+open_source = true
+repository = "https://github.com/CSSLab/maia-chess"
+added = 2026-10-31

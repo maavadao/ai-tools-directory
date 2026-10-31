@@ -1,0 +1,7 @@
+name = "GoModel"
+description = "Open-source AI gateway written in Go. One OpenAI- and Anthropic-compatible endpoint for 37 providers - aliases, scoped workflows, caching, failover, budgets, audit logs, and usage tracking."
+category = "other"
+website = "https://gomodel.enterpilot.io"
+open_source = true
+repository = "https://github.com/ENTERPILOT/GoModel"
+added = 2026-10-31

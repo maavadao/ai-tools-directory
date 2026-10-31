@@ -1,0 +1,7 @@
+name = "OpenPets"
+description = "Download free open-source desktop pets for your computer. OpenPets includes animated virtual desktop pets, a pet gallery, plugins, and optional local integrations with coding tools like Claude Code, OpenCode, and Cursor."
+category = "other"
+website = "https://openpets.dev"
+open_source = true
+repository = "https://github.com/OpenPetsHQ/openpets"
+added = 2026-10-31

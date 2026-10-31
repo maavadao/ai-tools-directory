@@ -1,0 +1,7 @@
+name = "AntSK"
+description = "AntSK是一款基于大模型技术的AI知识库解决方案，提供精准知识检索、持续学习能力和流畅智能交互体验，轻松打造企业专属AI解决方案。"
+category = "other"
+website = "https://antsk.cn"
+open_source = true
+repository = "https://github.com/shuyu-labs/AntSK"
+added = 2026-10-31

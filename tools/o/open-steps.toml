@@ -1,0 +1,7 @@
+name = "Open Steps"
+description = "The same agent session, translated. Free agent skills for Claude Code, Codex, Cursor and Gemini CLI that turn jargon into honest reports, verdicts and steps."
+category = "other"
+website = "https://opensteps.ai"
+open_source = true
+repository = "https://github.com/kharmanskyi/open-steps"
+added = 2026-10-31

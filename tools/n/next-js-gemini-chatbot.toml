@@ -1,0 +1,7 @@
+name = "Next.js Gemini Chatbot"
+description = "Next.js chatbot template using the AI SDK and Gemini."
+category = "chatbots"
+website = "https://gemini.vercel.ai"
+open_source = true
+repository = "https://github.com/vercel-labs/gemini-chatbot"
+added = 2026-10-31

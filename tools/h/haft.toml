@@ -1,0 +1,7 @@
+name = "haft"
+description = "Decision engineering for AI coding tools. ProblemOps, decision contracts, evidence decay tracking."
+category = "coding"
+website = "https://haft.tools"
+open_source = true
+repository = "https://github.com/m0n0x41d/haft"
+added = 2026-10-31

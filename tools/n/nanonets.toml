@@ -1,0 +1,7 @@
+name = "Nanonets"
+description = "Nanonets' document parsing and extraction APIs convert complex documents into clean, structured data for LLM-based and other use cases - RAG pipelines, AI agents, JSON extraction, and more."
+category = "chatbots"
+website = "https://nanonets.com"
+open_source = true
+repository = "https://github.com/NanoNets/docstrange"
+added = 2026-10-31

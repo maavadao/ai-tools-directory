@@ -1,0 +1,7 @@
+name = "Page Redirection"
+description = "A toolkit for time series machine learning and deep learning"
+category = "data"
+website = "https://aeon-toolkit.org"
+open_source = true
+repository = "https://github.com/aeon-toolkit/aeon"
+added = 2026-10-31

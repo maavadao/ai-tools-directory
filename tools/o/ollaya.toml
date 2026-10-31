@@ -1,0 +1,7 @@
+name = "ollaya"
+description = "System 1 for AI agents. Ollaya serves open decision models on your own machine, behind a self-hosted, Jev-compatible API: typed, calibrated answers in milliseconds for routing, guardrails, triage and tool approval."
+category = "other"
+website = "https://ollaya.dev"
+open_source = true
+repository = "https://github.com/ollaya-dev/ollaya"
+added = 2026-10-31

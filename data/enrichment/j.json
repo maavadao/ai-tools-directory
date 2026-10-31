@@ -30,6 +30,9 @@
 "url": "https://www.jasper.ai/pricing"
 }
 },
+"java-c-go-agent": {
+"checked": "2026-10-31"
+},
 "java-sdk-modelcontextprotocol-io": {
 "checked": "2026-10-28"
 },
@@ -83,6 +86,10 @@
 "jittor": {
 "checked": "2026-10-28"
 },
+"jobsync": {
+"checked": "2026-10-31",
+"image": "https://jobsync.ca/images/jobsync-dashboard-screenshot.png"
+},
 "jockey-by-twelvelabs": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/images/HCQkFF3Rw3hgP3u68YqGAP4s.webp",
@@ -92,6 +99,14 @@
 "from": 29.0,
 "url": "https://www.twelvelabs.io/pricing"
 }
+},
+"jonex": {
+"checked": "2026-10-31",
+"image": "https://jonex.ai/og.png"
+},
+"js-mastery-pro": {
+"checked": "2026-10-31",
+"image": "https://jsmastery.com/assets/seo/images/opengraph_home.png"
 },
 "jscpd": {
 "checked": "2026-10-26",
@@ -118,6 +133,9 @@
 "from": 16.0,
 "url": "https://julius.ai/pricing"
 }
+},
+"jupyter-mcp-server-datalayer-tech": {
+"checked": "2026-10-31"
 },
 "justhireme": {
 "checked": "2026-10-29",

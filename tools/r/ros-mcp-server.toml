@@ -1,0 +1,7 @@
+name = "ros-mcp-server"
+description = "Control any robot with natural language. The open-source LLM-to-robot connector built on ROS and MCP."
+category = "other"
+website = "https://robotmcp.ai"
+open_source = true
+repository = "https://github.com/robotmcp/ros-mcp-server"
+added = 2026-10-31

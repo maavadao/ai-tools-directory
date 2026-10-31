@@ -1,0 +1,7 @@
+name = "Empryo"
+description = "Empryo maps your repository, edits code by symbol and checks its work. An AI coding harness for desktop and terminal, with your choice of model."
+category = "coding"
+website = "https://empryo.com"
+open_source = true
+repository = "https://github.com/proxysoul/Empryo"
+added = 2026-10-31

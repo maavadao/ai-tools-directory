@@ -1,0 +1,7 @@
+name = "Keeper.sh"
+description = "Keeper.sh copies your events between Google Calendar, Outlook, iCloud and Fastmail so all of them show you as busy at the same times. Event titles stay private."
+category = "productivity"
+website = "https://www.keeper.sh"
+open_source = true
+repository = "https://github.com/ridafkih/keeper.sh"
+added = 2026-10-31

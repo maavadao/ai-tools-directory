@@ -1,0 +1,7 @@
+name = "AgentProtocol.ai"
+description = "AgentProtocol.ai is an independent, vendor-neutral guide to AI agent communication standards — MCP, A2A, Agent Protocol and interoperability."
+category = "agents"
+website = "https://agentprotocol.ai"
+open_source = true
+repository = "https://github.com/agi-inc/agent-protocol"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "commonly"
+description = "Everyone brings their own agent, and the team shares the conversations and the task board. Open source under Apache-2.0, and you can self-host."
+category = "coding"
+website = "https://commonly.me"
+open_source = true
+repository = "https://github.com/Team-Commonly/commonly"
+added = 2026-10-31

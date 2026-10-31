@@ -1,0 +1,7 @@
+name = "IoT DC3"
+description = "IoT DC3 is a multi-protocol, cloud-native, AI-powered, open-source industrial IoT platform evolving toward AI agents."
+category = "other"
+website = "https://dc3.site"
+open_source = true
+repository = "https://github.com/pnoker/iot-dc3"
+added = 2026-10-31

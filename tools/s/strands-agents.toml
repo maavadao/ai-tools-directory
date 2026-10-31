@@ -1,0 +1,7 @@
+name = "Strands Agents"
+description = "Strands is the open source toolkit for building production AI agents in Python and TypeScript: an agent harness and SDK, sandboxed shell, evals, and research labs."
+category = "agents"
+website = "https://strandsagents.com"
+open_source = true
+repository = "https://github.com/strands-agents/tools"
+added = 2026-10-31

@@ -1,0 +1,7 @@
+name = "python-whatsapp-bot"
+description = "Datalumina helps AI-forward companies design, build, and launch production-grade AI systems in weeks, not months."
+category = "chatbots"
+website = "https://www.datalumina.com"
+open_source = true
+repository = "https://github.com/daveebbelaar/python-whatsapp-bot"
+added = 2026-10-31
