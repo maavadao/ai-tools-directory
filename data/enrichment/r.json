@@ -31,6 +31,10 @@
 "ramalama": {
 "checked": "2026-10-28"
 },
+"rampstack": {
+"checked": "2026-11-01",
+"image": "https://rampstack.co/og-image.jpg"
+},
 "ranul-tinga": {
 "checked": "2026-10-28"
 },
@@ -41,6 +45,10 @@
 "rath": {
 "checked": "2026-10-27",
 "image": "https://kanaries.net/assets/kanaries-slice.svg"
+},
+"rath-team": {
+"checked": "2026-11-01",
+"image": "https://www.openrath.com/assets/openrath-logo-dark-balanced-transparent.png?v=20260527-no-fill"
 },
 "raven": {
 "checked": "2026-10-26"
@@ -175,6 +183,9 @@
 "checked": "2026-10-24",
 "image": "https://repomix.com/images/og-image-large.png"
 },
+"repoprompt": {
+"checked": "2026-11-01"
+},
 "repowise": {
 "checked": "2026-10-26",
 "image": "https://repowise.dev/api/og/home",
@@ -281,6 +292,9 @@
 "checked": "2026-10-27",
 "image": "https://rivet.ironcladapp.com/img/social-card.png"
 },
+"rl-tools": {
+"checked": "2026-11-01"
+},
 "rlcard-showdown": {
 "checked": "2026-10-27"
 },
@@ -305,9 +319,20 @@
 "robotgo": {
 "checked": "2026-10-25"
 },
+"robotics-library": {
+"checked": "2026-11-01"
+},
 "rocketmq-rust": {
 "checked": "2026-10-31",
 "image": "https://rocketmqrust.com/img/docusaurus-social-card.jpg"
+},
+"rogue": {
+"checked": "2026-11-01",
+"pricing": {
+"currency": "USD",
+"from": 550.0,
+"url": "https://qualifire.ai/pricing"
+}
 },
 "rool": {
 "checked": "2026-10-23",
@@ -357,6 +382,9 @@
 },
 "rufus": {
 "checked": "2026-10-23"
+},
+"ruiyuan-gao": {
+"checked": "2026-11-01"
 },
 "rulego": {
 "checked": "2026-10-31"

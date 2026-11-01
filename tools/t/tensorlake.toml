@@ -1,0 +1,7 @@
+name = "tensorlake"
+description = "Sandboxes for AI agents. Securely run untrusted, LLM-generated code in isolated Firecracker microVM sandboxes that scale from one to thousands — with snapshot, suspend/resume, and durable orchestration."
+category = "chatbots"
+website = "https://www.tensorlake.ai"
+open_source = true
+repository = "https://github.com/tensorlakeai/tensorlake"
+added = 2026-11-01

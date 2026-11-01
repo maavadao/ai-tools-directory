@@ -17,6 +17,10 @@
 "checked": "2026-10-23",
 "image": "https://zed.dev/img/home/og.webp"
 },
+"zed-sdk": {
+"checked": "2026-11-01",
+"image": "https://cdn.sanity.io/images/s18ewfw4/staging/a4ac75f23573f083f715b6ee6cfdc595e8308380-60x60.svg?rect=0,14,60,32&w=1200&h=630"
+},
 "zenabm": {
 "checked": "2026-10-23",
 "image": "https://zenabm.com/opengraph-image",
@@ -89,6 +93,10 @@
 },
 "zleap-ai": {
 "checked": "2026-10-29"
+},
+"zlib": {
+"checked": "2026-11-01",
+"image": "https://zlib.heartleo.dev/og.png"
 },
 "zml": {
 "checked": "2026-10-27"

@@ -82,6 +82,9 @@
 "url": "https://heynatively.com/pricing"
 }
 },
+"nautilus-compass": {
+"checked": "2026-11-01"
+},
 "nautilustrader": {
 "checked": "2026-10-23",
 "image": "https://nautilustrader.io/blog/preview.jpg"
@@ -107,6 +110,10 @@
 "trial": true,
 "url": "https://needle.app/pricing"
 }
+},
+"nekroai": {
+"checked": "2026-11-01",
+"image": "https://nekro.ai/og-image.png"
 },
 "neo-chat": {
 "checked": "2026-10-30",
@@ -163,6 +170,9 @@
 "neuron-ai": {
 "checked": "2026-10-29",
 "image": "https://www.neuron-ai.dev/og-image.png"
+},
+"neurreps-2026": {
+"checked": "2026-11-01"
 },
 "new-api": {
 "checked": "2026-10-23",
@@ -241,6 +251,9 @@
 "url": "https://www.nixtla.io/book-a-free-trial?utm_source=website&amp;utm_medium=pricing_free_trial"
 }
 },
+"nlp-overview": {
+"checked": "2026-11-01"
+},
 "nlp-progress": {
 "checked": "2026-10-24"
 },
@@ -297,6 +310,10 @@
 "nonelinear-com-cn": {
 "checked": "2026-10-26",
 "image": "https://nonelinear.com.cn/static/assets/logo.png"
+},
+"nostr-vpn": {
+"checked": "2026-11-01",
+"image": "https://nostrvpn.org/nostr-vpn-connection.png"
 },
 "notebooks": {
 "checked": "2026-10-25",
@@ -369,6 +386,9 @@
 },
 "nullhub": {
 "checked": "2026-10-30"
+},
+"nuplan-devkit": {
+"checked": "2026-11-01"
 },
 "nvidia": {
 "checked": "2026-10-29",

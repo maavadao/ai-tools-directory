@@ -1,0 +1,7 @@
+name = "Nostr VPN"
+description = "Pay for VPN access as you go with Bitcoin, or connect your own devices for free."
+category = "agents"
+website = "https://nostrvpn.org"
+open_source = true
+repository = "https://github.com/mmalmi/nostr-vpn"
+added = 2026-11-01

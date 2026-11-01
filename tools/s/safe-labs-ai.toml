@@ -1,0 +1,7 @@
+name = "Safe Labs AI"
+description = "Find vulnerabilities in your AI agents before attackers do. OWASP ASI aligned. 47 adversarial test vectors. Audit-ready compliance reports."
+category = "other"
+website = "https://agentsafelabs.com"
+open_source = true
+repository = "https://github.com/AgentSafeLabs/safelabs-eval"
+added = 2026-11-01

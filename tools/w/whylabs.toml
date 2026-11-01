@@ -1,0 +1,7 @@
+name = "WhyLabs"
+description = "LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). Extracts signals from prompts & responses, ensuring safety & security. Features include text quality, relevance metrics, & sentiment analysis. A comprehensive tool for LLM observability."
+category = "other"
+website = "https://whylabs.ai"
+open_source = true
+repository = "https://github.com/whylabs/langkit"
+added = 2026-11-01

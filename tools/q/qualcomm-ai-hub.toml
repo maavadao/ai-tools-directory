@@ -1,0 +1,7 @@
+name = "Qualcomm AI Hub"
+description = "The platform for on-device AI, with optimized open source and licensed models, or bring your own. Validate performance on real Qualcomm devices."
+category = "other"
+website = "https://aihub.qualcomm.com"
+open_source = true
+repository = "https://github.com/qualcomm/ai-hub-models"
+added = 2026-11-01

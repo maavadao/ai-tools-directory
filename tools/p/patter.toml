@@ -1,0 +1,7 @@
+name = "Patter"
+description = "Open-source SDK for voice AI. Connect any AI agent to phone calls in 4 lines of code. Python & TypeScript, MIT licensed."
+category = "audio"
+website = "https://www.getpatter.com"
+open_source = true
+repository = "https://github.com/PatterAI/Patter"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "SPLX"
+description = "SplxAI provides the most comprehensive platform for AI Security Testing and Red Teaming, ensuring your AI Assistants and Agents are secure and reliable from build to runtime."
+category = "other"
+website = "https://splx.ai"
+open_source = true
+repository = "https://github.com/splx-ai/agentic-radar"
+added = 2026-11-01

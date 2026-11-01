@@ -1,0 +1,7 @@
+name = "ClawBench"
+description = "Two-stage scoring: HTTP-request interception + LLM judge. 130 real-world tasks across 63 live platforms. Open submissions via PR."
+category = "chatbots"
+website = "https://claw-bench.com"
+open_source = true
+repository = "https://github.com/TIGER-AI-Lab/ClawBench"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "Anoma.ly"
+description = "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta."
+category = "audio"
+website = "https://anoma.ly"
+open_source = true
+repository = "https://github.com/anomalyco/hex"
+added = 2026-11-01

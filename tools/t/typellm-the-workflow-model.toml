@@ -1,0 +1,7 @@
+name = "TypeLLM: the workflow model"
+description = "Declare the decisions and how they depend on each other. TypeLLM runs the whole workflow in one API call, every answer in its type."
+category = "other"
+website = "https://typellm.ai"
+open_source = true
+repository = "https://github.com/TypeLLM/TypeLLM"
+added = 2026-11-01

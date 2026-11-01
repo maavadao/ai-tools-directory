@@ -1,0 +1,7 @@
+name = "NekroAI"
+description = "NekroAI为开发者提供完整的AI助手开发生态系统，从代码执行到应用部署，一站式解决方案。包含NekroAgent智能聊天机器人和NekroEdge全栈模板。"
+category = "chatbots"
+website = "https://nekro.ai"
+open_source = true
+repository = "https://github.com/KroMiose/nekro-agent"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "Agent Relay"
+description = "Your agents should talk to each other, just not through you. Connect your agents and your teammates’ agents so they can coordinate directly, without the copy-paste."
+category = "agents"
+website = "https://agentrelay.com"
+open_source = true
+repository = "https://github.com/AgentWorkforce/relay"
+added = 2026-11-01

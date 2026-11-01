@@ -1,0 +1,7 @@
+name = "Dynamiq"
+description = "Build chat, voice and workflow agents on one governed platform, deployed in your cloud or data center with our engineers. SOC 2, HIPAA, GDPR, CASA Tier 2."
+category = "chatbots"
+website = "https://www.getdynamiq.ai"
+open_source = true
+repository = "https://github.com/dynamiq-ai/dynamiq"
+added = 2026-11-01

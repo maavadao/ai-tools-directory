@@ -1,0 +1,7 @@
+name = "chatd"
+description = "chatd is your private and completely local AI that can read files on your computer"
+category = "chatbots"
+website = "https://www.chatd.ai"
+open_source = true
+repository = "https://github.com/BruceMacD/chatd"
+added = 2026-11-01

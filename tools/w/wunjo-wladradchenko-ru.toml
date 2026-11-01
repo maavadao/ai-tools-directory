@@ -1,0 +1,7 @@
+name = "wunjo.wladradchenko.ru"
+description = "Wunjo AI is powerful open-source software for video, image, and audio creation and manipulation. Features include Face Swap, Live Portrait and Retarget Face, Video Generation, Lip Sync, Object and Background Removal, Restyling, Voice Cloning, and more. Available for free locally or via API. Choose…"
+category = "video"
+website = "https://wunjo.online"
+open_source = true
+repository = "https://github.com/wladradchenko/wunjo.wladradchenko.ru"
+added = 2026-11-01

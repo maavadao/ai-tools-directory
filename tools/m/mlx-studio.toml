@@ -1,0 +1,7 @@
+name = "MLX Studio"
+description = "Chat, code with 20 agentic tools, and generate images with Flux — entirely on Apple Silicon. Built on the vMLX inference engine. Free, offline, no API keys."
+category = "chatbots"
+website = "https://mlx.studio"
+open_source = true
+repository = "https://github.com/jjang-ai/mlxstudio"
+added = 2026-11-01

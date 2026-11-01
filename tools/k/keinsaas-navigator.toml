@@ -1,0 +1,7 @@
+name = "keinsaas navigator"
+description = "Keinsaas Navigator is an AI assistant that uses tools to answer questions and help with tasks."
+category = "chatbots"
+website = "https://app.keinsaas.com"
+open_source = true
+repository = "https://github.com/keinsaasforever/better-chatbot"
+added = 2026-11-01

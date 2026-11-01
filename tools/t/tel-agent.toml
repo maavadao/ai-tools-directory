@@ -1,0 +1,7 @@
+name = "Tel-Agent"
+description = "One AI agent on every channel - phone, WhatsApp, Telegram, web chat, email. Open source and self-hosted: your models, your keys, your own server."
+category = "agents"
+website = "https://Tel-Agent.com"
+open_source = true
+repository = "https://github.com/Dpro-at/Tel-Agent"
+added = 2026-11-01

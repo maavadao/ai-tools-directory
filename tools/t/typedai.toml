@@ -1,0 +1,7 @@
+name = "TypedAI"
+description = "TypeScript AI platform with AI chat, Autonomous agents, Software developer agents, chatbots and more"
+category = "chatbots"
+website = "https://typedai.dev"
+open_source = true
+repository = "https://github.com/TrafficGuard/typedai"
+added = 2026-11-01

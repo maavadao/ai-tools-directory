@@ -1,0 +1,7 @@
+name = "fess"
+description = "Fess is a free, open source enterprise search server — crawler, admin console, and search UI built in. Set up in minutes."
+category = "research"
+website = "https://fess.codelibs.org"
+open_source = true
+repository = "https://github.com/codelibs/fess"
+added = 2026-11-01

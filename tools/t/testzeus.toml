@@ -1,0 +1,7 @@
+name = "TestZeus"
+description = "TestZeus is the AI-native test automation platform for Salesforce. Ship reliable, self-healing tests with zero code and zero maintenance."
+category = "agents"
+website = "https://testzeus.com"
+open_source = true
+repository = "https://github.com/test-zeus-ai/testzeus-hercules"
+added = 2026-11-01

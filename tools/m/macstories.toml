@@ -1,0 +1,7 @@
+name = "MacStories"
+description = "Apple news, app reviews, and stories by Federico Viticci and John Voorhees."
+category = "agents"
+website = "https://www.macstories.net"
+open_source = true
+repository = "https://github.com/viticci/shortcuts-playground-plugin"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "ThinkAny"
+description = "ThinkAny is a free AI search engine using advanced RAG vector search for precise, trusted answers, with interactive AI assistant chat for comprehensive user support."
+category = "other"
+website = "https://thinkany.ai"
+open_source = true
+repository = "https://github.com/thinkany-ai/rag-search"
+added = 2026-11-01

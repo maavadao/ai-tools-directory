@@ -1,0 +1,7 @@
+name = "NeurReps 2026"
+description = "A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond"
+category = "education"
+website = "https://neurreps.org"
+open_source = true
+repository = "https://github.com/neurreps/awesome-neural-geometry"
+added = 2026-11-01

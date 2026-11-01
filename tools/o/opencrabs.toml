@@ -1,0 +1,7 @@
+name = "OpenCrabs"
+description = "Open-source AI agent that runs in your terminal. Connect any LLM, orchestrate tools, and work from Telegram, Discord, Slack, WhatsApp, or TUI. Built in Rust."
+category = "agents"
+website = "https://opencrabs.com"
+open_source = true
+repository = "https://github.com/opencrabs/opencrabs"
+added = 2026-11-01

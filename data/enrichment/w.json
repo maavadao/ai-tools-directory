@@ -82,6 +82,10 @@
 "webllm": {
 "checked": "2026-10-24"
 },
+"webllm-chat": {
+"checked": "2026-11-01",
+"image": "https://chat.webllm.ai/mlc-logo.png"
+},
 "webots": {
 "checked": "2026-10-27"
 },
@@ -91,6 +95,14 @@
 },
 "webplotdigitizer": {
 "checked": "2026-10-28"
+},
+"webwhiz": {
+"checked": "2026-11-01",
+"image": "https://www.webwhiz.ai/webwhiz.png"
+},
+"wechatrss": {
+"checked": "2026-11-01",
+"image": "https://wechatrss.waytomaster.com/favicon.svg"
 },
 "wechaty": {
 "checked": "2026-10-24",
@@ -116,12 +128,29 @@
 "weld": {
 "checked": "2026-10-28"
 },
+"wellally": {
+"checked": "2026-11-01",
+"image": "https://wellally.tech/og.png"
+},
+"wesight": {
+"checked": "2026-11-01"
+},
 "whisper-turbo": {
 "checked": "2026-10-30"
+},
+"white-circle": {
+"checked": "2026-11-01",
+"image": "https://whitecircle.com/opengraph-image.png?opengraph-image.1y9m-ecakhlr5.png"
+},
+"whylabs": {
+"checked": "2026-11-01"
 },
 "wigolo": {
 "checked": "2026-10-26",
 "image": "https://wigolo.app/wigolo/wigolo-social.png"
+},
+"william-peebles": {
+"checked": "2026-11-01"
 },
 "windmill": {
 "checked": "2026-10-24"
@@ -161,6 +190,17 @@
 "url": "https://vercel.com/pricing"
 }
 },
+"workshop": {
+"checked": "2026-11-01",
+"image": "https://www.raindrop.ai/_next/static/media/social.f0ddb4ec.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 299.0,
+"trial": true,
+"url": "https://www.raindrop.ai/"
+}
+},
 "workspace-mcp": {
 "checked": "2026-10-28",
 "image": "https://workspacemcp.com/og-cover.png"
@@ -186,5 +226,22 @@
 "wsl-manager": {
 "checked": "2026-10-27",
 "image": "https://wslmanager.com/img/screenshot2.png"
+},
+"wunjo-wladradchenko-ru": {
+"checked": "2026-11-01",
+"image": "https://wunjo.online/static/icon/square/white/logo.png",
+"pricing": {
+"currency": "EUR",
+"free": true,
+"from": 5.0,
+"url": "https://wunjo.online/pricing"
+}
+},
+"wuwenjie-xyz": {
+"checked": "2026-11-01"
+},
+"www-cognizant-com": {
+"checked": "2026-11-01",
+"image": "https://cognizant.scene7.com/is/image/cognizant/CognizantLogo400-6"
 }
 }

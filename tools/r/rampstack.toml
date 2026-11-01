@@ -1,0 +1,7 @@
+name = "RampStack"
+description = "103 open-source Claude Skills, a four-axis creative direction framework, and AI engines that run them. MIT-licensed, stack-agnostic, and free to use."
+category = "writing"
+website = "https://rampstack.co"
+open_source = true
+repository = "https://github.com/rampstackco/claude-skills"
+added = 2026-11-01

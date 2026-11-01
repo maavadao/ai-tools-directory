@@ -1,0 +1,7 @@
+name = "loki-mode"
+description = "Turn a software brief into reviewed, tested work with a live Control Plane, quality gates, and an evidence receipt you can verify yourself."
+category = "coding"
+website = "https://www.autonomi.dev"
+open_source = true
+repository = "https://github.com/asklokesh/loki-mode"
+added = 2026-11-01

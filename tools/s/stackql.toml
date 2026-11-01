@@ -1,0 +1,7 @@
+name = "StackQL"
+description = "StackQL is an open-source engine that lets humans and AI agents query, provision and operate cloud and SaaS services with SQL, with no state file and no per-cloud SDK."
+category = "other"
+website = "https://stackql.io"
+open_source = true
+repository = "https://github.com/stackql/stackql"
+added = 2026-11-01

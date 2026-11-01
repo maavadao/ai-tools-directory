@@ -1,0 +1,7 @@
+name = "OpenOps"
+description = "The batteries-included, No-Code FinOps automation platform, with the AI you trust."
+category = "agents"
+website = "https://www.openops.com"
+open_source = true
+repository = "https://github.com/openops-cloud/openops"
+added = 2026-11-01

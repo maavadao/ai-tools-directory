@@ -1,0 +1,7 @@
+name = "www.cognizant.com"
+description = "Discover how Cognizant AI Lab drives the latest AI breakthroughs in decision intelligence. Explore research and agentic tools shaping smarter decisions."
+category = "agents"
+website = "https://www.cognizant.com"
+open_source = true
+repository = "https://github.com/cognizant-ai-lab/neuro-san-studio"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "OpenQodex"
+description = "Open source code review for Claude Code, Codex, Cursor and Cline, before you push. Scanners plus a separate reviewer on your own login. No key, no account."
+category = "other"
+website = "https://openqodex.com"
+open_source = true
+repository = "https://github.com/openqodex/openqodex"
+added = 2026-11-01

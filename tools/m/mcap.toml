@@ -1,0 +1,7 @@
+name = "MCAP"
+description = "MCAP (pronounced \"em-cap\") is an open source container file format for multimodal log data. It supports multiple channels of timestamped pre-serialized data, and is ideal for use in pub/sub or robotics applications."
+category = "data"
+website = "https://mcap.dev"
+open_source = true
+repository = "https://github.com/foxglove/mcap"
+added = 2026-11-01

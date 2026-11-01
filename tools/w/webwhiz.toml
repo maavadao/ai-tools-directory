@@ -1,0 +1,7 @@
+name = "WebWhiz"
+description = "Launch an AI-powered assistant that knows everything about your product and delivers instant, precise responses to support queries."
+category = "chatbots"
+website = "https://www.webwhiz.ai"
+open_source = true
+repository = "https://github.com/webwhiz-ai/webwhiz"
+added = 2026-11-01

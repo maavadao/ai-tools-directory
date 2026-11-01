@@ -1,0 +1,7 @@
+name = "AgentRQ"
+description = "Keep humans in the loop while Claude Code and ACP agents run autonomously. AgentRQ connects agents to you via MCP notification channels — tasks, replies, and approvals in real-time."
+category = "agents"
+website = "https://agentrq.com"
+open_source = true
+repository = "https://github.com/agentrq/agentrq"
+added = 2026-11-01

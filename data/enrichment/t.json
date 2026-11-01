@@ -28,6 +28,10 @@
 "checked": "2026-10-25",
 "image": "https://tambo.co/opengraph-image.jpg?11260a68d402786d"
 },
+"taranis-ai": {
+"checked": "2026-11-01",
+"image": "https://taranis.ai/screenshot.png"
+},
 "taste-skill": {
 "checked": "2026-10-23",
 "image": "https://www.tasteskill.dev/og-image.jpg"
@@ -41,6 +45,9 @@
 },
 "taxhacker": {
 "checked": "2026-10-26"
+},
+"td-mpc2": {
+"checked": "2026-11-01"
 },
 "teable": {
 "checked": "2026-10-24",
@@ -63,6 +70,10 @@
 "teepublic": {
 "checked": "2026-10-29"
 },
+"tel-agent": {
+"checked": "2026-11-01",
+"image": "https://tel-agent.com/en/opengraph-image?5249478dc6d999e7"
+},
 "telegram": {
 "checked": "2026-10-23",
 "image": "https://telegram.org/img/t_logo_2x.png"
@@ -81,6 +92,10 @@
 "checked": "2026-10-24",
 "image": "https://cdn-3d-prod.hunyuan.tencent.com/public/static/favicon/android-chrome-512x512.png"
 },
+"tensorblock": {
+"checked": "2026-11-01",
+"image": "https://www.tensorblock.co/assets/img/BlogThumbnail.jpg"
+},
 "tensorflow": {
 "checked": "2026-10-23",
 "image": "https://www.tensorflow.org/static/images/tf_logo_social.png"
@@ -91,6 +106,15 @@
 "tensorfold": {
 "checked": "2026-10-31",
 "image": "https://tensorfold.dev/assets/tensorfold-hero.png"
+},
+"tensorlake": {
+"checked": "2026-11-01",
+"image": "https://tensorlake.ai/opengraph-image?eb3e95b33420899b",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.tensorlake.ai/pricing"
+}
 },
 "tensoropera-ai": {
 "checked": "2026-10-27",
@@ -129,6 +153,16 @@
 "url": "https://www.testsprite.com/pricing"
 }
 },
+"testzeus": {
+"checked": "2026-11-01",
+"image": "https://framerusercontent.com/assets/SZgvib9qTCzjdxvtmSPcwEWOM.png",
+"pricing": {
+"currency": "USD",
+"from": 800.0,
+"trial": true,
+"url": "https://testzeus.com/pricing"
+}
+},
 "text-to-cad": {
 "checked": "2026-10-24",
 "image": "https://www.texttocad.dev/social-preview.png"
@@ -140,9 +174,16 @@
 "tf-router": {
 "checked": "2026-10-24"
 },
+"thclaws": {
+"checked": "2026-11-01",
+"image": "https://thclaws.ai/assets/og.jpg"
+},
 "the-ai-operator": {
 "checked": "2026-10-27",
 "image": "https://substackcdn.com/image/fetch/$s_!draq!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05cfa09d-6c44-40bb-8a54-1973247fc43c_500x500.png"
+},
+"the-constructor": {
+"checked": "2026-11-01"
 },
 "the-crm-for-agents": {
 "checked": "2026-10-25"
@@ -173,8 +214,15 @@
 "checked": "2026-10-29",
 "image": "https://thinc.ai/static/social-ed02e7f6979c7f7798f8a64e4589b0cc.jpg"
 },
+"thinkany": {
+"checked": "2026-11-01"
+},
 "thinkwee-s-blog": {
 "checked": "2026-10-30"
+},
+"this-word-does-not-exist": {
+"checked": "2026-11-01",
+"image": "https://www.thisworddoesnotexist.com/static/twitter_card_biggest_title.png?4362984378"
 },
 "three-ws": {
 "checked": "2026-10-26",
@@ -325,6 +373,15 @@
 "url": "https://www.tracecat.com/pricing"
 }
 },
+"tracely": {
+"checked": "2026-11-01",
+"image": "https://tracely-ai.com/opengraph-image?2c25afa2117fa480",
+"pricing": {
+"currency": "USD",
+"from": 49.0,
+"url": "https://tracely-ai.com"
+}
+},
 "tradecatlabs": {
 "checked": "2026-10-25"
 },
@@ -409,6 +466,9 @@
 "checked": "2026-10-26",
 "image": "https://tuios.dev/og/site/image.png"
 },
+"turboocr": {
+"checked": "2026-11-01"
+},
 "turing-jl": {
 "checked": "2026-10-29",
 "image": "https://turinglang.org/assets/logo/turing-text-logo.jpg"
@@ -424,6 +484,9 @@
 "tutti": {
 "checked": "2026-10-28",
 "image": "https://tutti.sh/cdn-cgi/image/format=auto,quality=85/_static/official/img/social-share-card.webp"
+},
+"tuui": {
+"checked": "2026-11-01"
 },
 "tuyaopen": {
 "checked": "2026-10-30"
@@ -455,5 +518,16 @@
 "from": 39.0,
 "url": "https://typebot.com/pricing"
 }
+},
+"typedai": {
+"checked": "2026-11-01"
+},
+"typellm-the-workflow-model": {
+"checked": "2026-11-01",
+"image": "https://typellm.ai/opengraph-image.png?29555dabe120b2f3"
+},
+"typingmind": {
+"checked": "2026-11-01",
+"image": "https://image.social/get?url=typingmind.com"
 }
 }

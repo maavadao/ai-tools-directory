@@ -1,0 +1,7 @@
+name = "AgentKit by Inngest"
+description = "A TypeScript library to create and orchestrate AI Agents."
+category = "chatbots"
+website = "https://agentkit.inngest.com"
+open_source = true
+repository = "https://github.com/inngest/agent-kit"
+added = 2026-11-01

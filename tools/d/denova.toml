@@ -1,0 +1,7 @@
+name = "Denova"
+description = "在本地管理小说、角色与世界观，用 AI 构思、大纲、续写和改稿，或创建分支互动故事。Denova 支持 Windows、macOS 和 Linux，可自选模型、扩展 Skills，并审阅与恢复创作修改。"
+category = "agents"
+website = "https://denova-ai.com"
+open_source = true
+repository = "https://github.com/alfredxw/denova"
+added = 2026-11-01

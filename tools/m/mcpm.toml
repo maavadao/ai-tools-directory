@@ -1,0 +1,7 @@
+name = "MCPM"
+description = "Open source, community-driven, forever free. A Homebrew-like service for managing Model Context Protocol (MCP) servers across clients."
+category = "other"
+website = "https://mcpm.sh"
+open_source = true
+repository = "https://github.com/pathintegral-institute/mcpm.sh"
+added = 2026-11-01

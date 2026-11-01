@@ -1,0 +1,7 @@
+name = "langchain"
+description = "Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs."
+category = "chatbots"
+website = "https://hexdocs.pm"
+open_source = true
+repository = "https://github.com/brainlid/langchain"
+added = 2026-11-01

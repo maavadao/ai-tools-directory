@@ -1,0 +1,7 @@
+name = "Grandet"
+description = "LLM API price ranking and free tokens. Compare prices from 1,878 sites by model: official prices, inference providers and API relays listed separately, with multiplier-adjusted prices, group names, units and observation dates. Lowest prices and free credits for Claude, GPT, Gemini, DeepSeek and Qwe…"
+category = "other"
+website = "https://grandet.ai"
+open_source = true
+repository = "https://github.com/hanzohanzhe/Grandet"
+added = 2026-11-01

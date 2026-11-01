@@ -1,0 +1,7 @@
+name = "Orbital"
+description = "维护项目上下文，派活给 Claude Code、Codex、Kimi Code，自己也能干活。所有成果都留在同一个本地项目里。"
+category = "agents"
+website = "https://orbital.top"
+open_source = true
+repository = "https://github.com/zqiren/Orbital"
+added = 2026-11-01

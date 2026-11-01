@@ -60,6 +60,16 @@
 "checked": "2026-10-24",
 "image": "https://dapr.io/images/dapr-og-default.png"
 },
+"darkmoon": {
+"checked": "2026-11-01",
+"image": "https://dark-moon.org/screens/dashboard.png",
+"pricing": {
+"currency": "EUR",
+"free": true,
+"from": 149.0,
+"url": "https://dark-moon.org/"
+}
+},
 "dash": {
 "checked": "2026-10-24",
 "image": "https://plotly.com/cms/img/45139d28-6d34-4168-9480-2c57ee3a81c8_plotly.png?auto=compress&fm=webp",
@@ -73,6 +83,9 @@
 "dashboard-icons": {
 "checked": "2026-10-25",
 "image": "https://dashboardicons.com/og-image.png"
+},
+"data-goblins": {
+"checked": "2026-11-01"
 },
 "databench-by-alkera": {
 "checked": "2026-10-23",
@@ -94,6 +107,10 @@
 "trial": true,
 "url": "https://databox.com/pricing"
 }
+},
+"datadreamer": {
+"checked": "2026-11-01",
+"image": "https://datadreamer.dev/docs/latest/_static/images/cover.png"
 },
 "datalevin-docs": {
 "checked": "2026-10-31",
@@ -212,6 +229,9 @@
 "deeplivecam": {
 "checked": "2026-10-23"
 },
+"deepmyst": {
+"checked": "2026-11-01"
+},
 "deepnote": {
 "checked": "2026-10-28",
 "image": "https://deepnote.com/_next/static/media/og-image.a724d03f.png",
@@ -239,6 +259,13 @@
 },
 "deerflow": {
 "checked": "2026-10-23"
+},
+"demo-voapi-top": {
+"checked": "2026-11-01"
+},
+"denova": {
+"checked": "2026-11-01",
+"image": "https://denova-ai.com/denova/ide.png"
 },
 "depth-tremeschin-com": {
 "checked": "2026-10-31",
@@ -376,6 +403,10 @@
 "checked": "2026-10-24",
 "image": "https://www.dolthub.com/dolthub-preview.png"
 },
+"doop": {
+"checked": "2026-11-01",
+"image": "https://doop.design/og.png"
+},
 "dora": {
 "checked": "2026-10-27",
 "image": "https://dora-rs.ai/og.png"
@@ -448,5 +479,13 @@
 "dyad": {
 "checked": "2026-10-24",
 "image": "https://www.dyad.sh/opengraph-image"
+},
+"dynamiq": {
+"checked": "2026-11-01",
+"image": "https://www.getdynamiq.ai/og?title=Dynamiq%3A+enterprise+AI+agents+in+your+cloud+or+data+center&sig=LCqfBeMbU1kP80yO",
+"pricing": {
+"free": true,
+"url": "https://www.getdynamiq.ai/pricing"
+}
 }
 }

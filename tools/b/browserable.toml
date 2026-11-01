@@ -1,0 +1,7 @@
+name = "browserable"
+description = "Open source JS browser automation library for AI agents"
+category = "other"
+website = "https://www.browserable.ai"
+open_source = true
+repository = "https://github.com/browserable/browserable"
+added = 2026-11-01

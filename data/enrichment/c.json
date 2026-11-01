@@ -93,6 +93,9 @@
 "checked": "2026-10-29",
 "image": "https://ccs.kaitran.ca/logo/ccs-social-media.webp"
 },
+"cebra": {
+"checked": "2026-11-01"
+},
 "cekura-bench": {
 "checked": "2026-10-23",
 "image": "https://benchmarks.cekura.ai/opengraph-image?d63bd4d18ec698db"
@@ -126,6 +129,10 @@
 "chat-geekai-me": {
 "checked": "2026-10-27"
 },
+"chat-js": {
+"checked": "2026-11-01",
+"image": "https://chatjs.dev/opengraph-image.jpg?opengraph-image.0i9k2_e_bsbee.jpg?dpl=dpl_Ah3vPCvNpQb7XnnZuAcDT5317XG7"
+},
 "chat-plexpt-com": {
 "checked": "2026-10-28"
 },
@@ -152,6 +159,16 @@
 "chatanywhere": {
 "checked": "2026-10-25"
 },
+"chatbotx": {
+"checked": "2026-11-01",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 29.0,
+"trial": true,
+"url": "https://chatbotx.io/pricing/"
+}
+},
 "chatbox-ai": {
 "checked": "2026-10-23",
 "image": "https://download.chatboxai.app/static/twitter-card.png",
@@ -161,6 +178,9 @@
 "from": 3.5,
 "url": "https://chatboxai.app/en/pricing"
 }
+},
+"chatd": {
+"checked": "2026-11-01"
 },
 "chatgpt": {
 "checked": "2026-10-23",
@@ -210,6 +230,10 @@
 },
 "chops": {
 "checked": "2026-10-30"
+},
+"chorus": {
+"checked": "2026-11-01",
+"image": "https://chorus-ai.dev/images/chorus-icon.png"
 },
 "chroma": {
 "checked": "2026-10-24",
@@ -304,6 +328,10 @@
 "url": "https://www.k-dense.ai/pricing"
 }
 },
+"claude-settings": {
+"checked": "2026-11-01",
+"image": "https://claudesettings.com/og-settings.webp"
+},
 "claude-tracker": {
 "checked": "2026-10-28",
 "image": "https://claudetracker.com/assets/social-card.png?v=2026-10-28"
@@ -327,9 +355,17 @@
 "checked": "2026-10-30",
 "image": "https://claude-prism-landing.delibae.workers.dev/og.png"
 },
+"claudish": {
+"checked": "2026-11-01",
+"image": "https://claudish.com/og-image.png"
+},
 "claurst": {
 "checked": "2026-10-25",
 "image": "https://claurst.kuber.studio/public/social-image.png"
+},
+"clawbench": {
+"checked": "2026-11-01",
+"image": "https://claw-bench.com/static/social-card.png?v=20260515"
 },
 "clawd-on-desk": {
 "checked": "2026-10-26"
@@ -444,6 +480,15 @@
 "checked": "2026-10-28",
 "image": "https://www.cloudpods.org/img/docusaurus-social-card.jpg"
 },
+"cloudroom": {
+"checked": "2026-11-01",
+"image": "https://www.cloudroom.dev/opengraph-image",
+"pricing": {
+"currency": "USD",
+"from": 50.0,
+"url": "https://www.cloudroom.dev/pricing"
+}
+},
 "cmux": {
 "checked": "2026-10-24",
 "image": "https://cmux.com/opengraph-image",
@@ -535,6 +580,10 @@
 "codexbar": {
 "checked": "2026-10-24",
 "image": "https://codexbar.app/social.png?v=1436859e75bb3a24"
+},
+"codync": {
+"checked": "2026-11-01",
+"image": "https://www.codync.dev/opengraph-image.png?opengraph-image.0b~~wuyuv9axf.png"
 },
 "cofounder-by-openinterface": {
 "checked": "2026-10-26",
@@ -716,6 +765,10 @@
 "url": "https://www.copy.ai/prices"
 }
 },
+"coral": {
+"checked": "2026-11-01",
+"image": "https://coral.compounding-intelligence.ai/opengraph-image?b2aff699cde19d9b"
+},
 "core": {
 "checked": "2026-10-30"
 },
@@ -751,6 +804,10 @@
 "costrict": {
 "checked": "2026-10-27",
 "image": "https://costrict.ai/og-image.png"
+},
+"cotabby": {
+"checked": "2026-11-01",
+"image": "https://cotabby.app/opengraph-image.png?opengraph-image.0r1djok-1_5cy.png"
 },
 "count-beejz-com": {
 "checked": "2026-10-29",
@@ -796,6 +853,9 @@
 "crawlee": {
 "checked": "2026-10-24"
 },
+"createmvp": {
+"checked": "2026-11-01"
+},
 "creative-tim": {
 "checked": "2026-10-25",
 "image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/refs/heads/master/creative-tim/creative-tim-new-thumb-opt.jpg"
@@ -834,6 +894,10 @@
 "from": 20.0,
 "url": "https://nimbalyst.com/pricing/"
 }
+},
+"ctx": {
+"checked": "2026-11-01",
+"image": "https://ctx.rs/android-chrome-512x512.png"
 },
 "cua-spaces": {
 "checked": "2026-10-23",
@@ -878,6 +942,9 @@
 "free": true,
 "url": "https://cuey.io/pricing"
 }
+},
+"cuga": {
+"checked": "2026-11-01"
 },
 "cumora": {
 "checked": "2026-10-27",

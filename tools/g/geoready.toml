@@ -1,0 +1,7 @@
+name = "GeoReady"
+description = "Free AI visibility audit: check if ChatGPT, Perplexity, Claude and Gemini can reach, read and cite your site, then monitor the score over time."
+category = "writing"
+website = "https://geoready.dev"
+open_source = true
+repository = "https://github.com/Auriti-Labs/geo-optimizer-skill"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "EngineWire"
+description = "One MCP tool, 400+ Unreal Editor capabilities. Claude, Cursor and VS Code build levels, Blueprints, materials, UI and effects in your running editor. UE 5.0 to 5.8, MIT."
+category = "other"
+website = "https://enginewire.dev"
+open_source = true
+repository = "https://github.com/ChiR24/Unreal_mcp"
+added = 2026-11-01

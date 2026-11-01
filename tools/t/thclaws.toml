@@ -1,0 +1,7 @@
+name = "thClaws"
+description = "Native-Rust AI agent workspace. Multi-provider. Open standards. No cloud lock-in."
+category = "other"
+website = "https://thclaws.ai"
+open_source = true
+repository = "https://github.com/thClaws/thClaws"
+added = 2026-11-01

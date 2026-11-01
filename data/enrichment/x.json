@@ -12,6 +12,9 @@
 "url": "https://hub.x-cmd.com/pricing/"
 }
 },
+"x-reader": {
+"checked": "2026-11-01"
+},
 "xai": {
 "checked": "2026-10-31",
 "image": "https://ethical.institute/images/banner.jpg"
@@ -33,6 +36,10 @@
 "xiaohongshu-mcp": {
 "checked": "2026-10-25"
 },
+"xiaoyaosai-com": {
+"checked": "2026-11-01",
+"image": "https://www.xiaoyaosai.com/images/og-default.png"
+},
 "xiaozhi-ai": {
 "checked": "2026-10-23"
 },
@@ -46,5 +53,8 @@
 "xoilac365": {
 "checked": "2026-10-27",
 "image": "https://cdn.bluecloudsolutions.com/2025/05/xoilac365-tv.png"
+},
+"xuance": {
+"checked": "2026-11-01"
 }
 }

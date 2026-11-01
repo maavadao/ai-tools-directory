@@ -1,0 +1,7 @@
+name = "CEBRA"
+description = "Mapping behavioural actions to neural activity is a fundamental goal of neuroscience. As our ability to record large neural and behavioural data increases, there is growing interest in modeling neural dynamics during adaptive behaviors to probe neural representations. In particular, neural latent e…"
+category = "other"
+website = "https://cebra.ai"
+open_source = true
+repository = "https://github.com/AdaptiveMotorControlLab/CEBRA"
+added = 2026-11-01

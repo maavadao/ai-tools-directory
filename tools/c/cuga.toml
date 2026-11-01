@@ -1,0 +1,7 @@
+name = "CUGA"
+description = "CUGA: the enterprise agent harness for sovereign, policy-controlled automation. Your infrastructure. Your policies. Your models. Built with IBM SiL. Open source, Apache 2.0."
+category = "agents"
+website = "https://cuga.dev"
+open_source = true
+repository = "https://github.com/cuga-project/cuga-agent"
+added = 2026-11-01

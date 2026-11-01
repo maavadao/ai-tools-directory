@@ -1,0 +1,7 @@
+name = "hax"
+description = "A single native C binary using only a few MB of RAM. Local models are first-class; supports OpenAI, Anthropic, Codex, OpenRouter, and OpenCode Zen/Go."
+category = "chatbots"
+website = "https://usehax.dev"
+open_source = true
+repository = "https://github.com/OleksandrChekhovskyi/hax"
+added = 2026-11-01

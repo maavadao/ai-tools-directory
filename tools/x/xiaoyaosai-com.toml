@@ -1,0 +1,7 @@
+name = "小遥AI"
+description = "小遥AI生态官网：本地优先的AI产品生态。中枢小遥Claw把小遥搜索、小遥账单、飞书/钉钉导出等开源工具连成一张网——你的数据，先落在你自己的设备上。开源产品 GitHub 即下即用，桌面 App 公测期免费，加微信 dtsola 进用户交流群。"
+category = "research"
+website = "https://www.xiaoyaosai.com"
+open_source = true
+repository = "https://github.com/dtsola/xiaoyaosearch"
+added = 2026-11-01

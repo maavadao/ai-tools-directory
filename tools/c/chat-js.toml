@@ -1,0 +1,7 @@
+name = "chat-js"
+description = "A production-ready foundation with auth, streaming, tool calling, and 120+ models. Scaffold it, customize it, ship it."
+category = "chatbots"
+website = "https://www.chatjs.dev"
+open_source = true
+repository = "https://github.com/FranciscoMoretti/chat-js"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "Claude Settings"
+description = "Copy working Claude Code and Codex CLI settings with Kimi, MiniMax, Z.ai / GLM variants, and install plugins, skills and hooks from one marketplace."
+category = "coding"
+website = "https://claudesettings.com"
+open_source = true
+repository = "https://github.com/fcakyon/claude-codex-settings"
+added = 2026-11-01

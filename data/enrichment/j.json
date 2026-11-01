@@ -13,6 +13,15 @@
 "jailbreak-llms": {
 "checked": "2026-10-28"
 },
+"jamaibase": {
+"checked": "2026-11-01",
+"pricing": {
+"currency": "USD",
+"from": 25.0,
+"trial": true,
+"url": "https://www.jamaibase.com/pricing"
+}
+},
 "jan": {
 "checked": "2026-10-23",
 "image": "https://jan.ai/assets/images/general/og-image.png"
@@ -119,6 +128,15 @@
 "currency": "EUR",
 "from": 27.0,
 "url": "https://judge0.com/"
+}
+},
+"judgment-labs": {
+"checked": "2026-11-01",
+"image": "https://judgmentlabs.ai/og/og-icon.png",
+"pricing": {
+"currency": "USD",
+"from": 250.0,
+"url": "https://www.judgmentlabs.ai/pricing"
 }
 },
 "julep-memory-store": {

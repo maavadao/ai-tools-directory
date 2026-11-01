@@ -1,0 +1,7 @@
+name = "TUUI"
+description = "TUUI is a free and open-source desktop application designed for AI agentic systems, leveraging the Model Context Protocol."
+category = "agents"
+website = "https://www.tuui.com"
+open_source = true
+repository = "https://github.com/AI-QL/tuui"
+added = 2026-11-01

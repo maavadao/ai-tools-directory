@@ -1,0 +1,7 @@
+name = "Get It."
+description = "Open-source desktop study companion. Drop a PDF. The document tags its own concepts with 3D models, animations, formulas, plotted graphs and cited sources. Prove mastery through chat, flashcards, quizzes and Feynman sessions. Runs on the ChatGPT subscription you already pay for."
+category = "education"
+website = "https://getit.noesisai.it"
+open_source = true
+repository = "https://github.com/beltromatti/get-it"
+added = 2026-11-01

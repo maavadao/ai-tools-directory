@@ -1,0 +1,7 @@
+name = "luvus"
+description = "Mission control for your AI coding agents. Run, watch, resume, and orchestrate Claude Code, Codex, Copilot, opencode and more from one terminal, with a live view of every agent."
+category = "agents"
+website = "https://luvus.dev"
+open_source = true
+repository = "https://github.com/RizRiyz/luvus"
+added = 2026-11-01

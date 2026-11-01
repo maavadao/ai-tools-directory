@@ -1,0 +1,7 @@
+name = "Obot AI"
+description = "Build and govern enterprise AI with Obot's Enterprise AI Control Plane. Deploy secure AI agents through an enterprise-ready MCP Gateway."
+category = "chatbots"
+website = "https://obot.ai"
+open_source = true
+repository = "https://github.com/obot-platform/obot"
+added = 2026-11-01

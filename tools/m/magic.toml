@@ -1,0 +1,7 @@
+name = "magic"
+description = "An open source AI app builder you self-host. Full-stack apps and AI agents from plain English — compiled to a whitelisted AST that runs only what you permit."
+category = "agents"
+website = "https://hyperlambda.dev"
+open_source = true
+repository = "https://github.com/polterguy/magic"
+added = 2026-11-01

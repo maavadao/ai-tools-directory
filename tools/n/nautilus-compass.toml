@@ -1,0 +1,7 @@
+name = "nautilus-compass"
+description = "LongMemEval-S 检索 P@5 97.8% vs mem0 91.6% · LOCOMO 客场反超 · 本地黑盒 · drift 检测"
+category = "chatbots"
+website = "https://compass.nautilus.social"
+open_source = true
+repository = "https://github.com/chunxiaoxx/nautilus-compass"
+added = 2026-11-01

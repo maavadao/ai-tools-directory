@@ -1,0 +1,7 @@
+name = "Agents-Flex"
+description = "面向 Java 开发者的 AI 应用与智能体框架"
+category = "chatbots"
+website = "https://agentsflex.com"
+open_source = true
+repository = "https://github.com/agents-flex/agents-flex"
+added = 2026-11-01

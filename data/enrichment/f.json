@@ -55,6 +55,16 @@
 "checked": "2026-10-24",
 "image": "https://course.fast.ai/www/social.png"
 },
+"fastcrw": {
+"checked": "2026-11-01",
+"image": "https://fastcrw.com/opengraph-image",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 11.0,
+"url": "https://fastcrw.com/pricing"
+}
+},
 "fastgpt": {
 "checked": "2026-10-24",
 "image": "https://fastgpt.io/opengraph-image.png",
@@ -96,6 +106,20 @@
 "from": 75.0,
 "trial": true,
 "url": "https://ferndesk.com/pricing"
+}
+},
+"fess": {
+"checked": "2026-11-01",
+"image": "https://fess.codelibs.org/_static/img/fess-ogp.png"
+},
+"fetcher-mcp": {
+"checked": "2026-11-01",
+"image": "https://1team.top/og.png",
+"pricing": {
+"currency": "USD",
+"from": 9.9,
+"trial": true,
+"url": "https://1team.top/pricing"
 }
 },
 "ffcv": {
@@ -196,6 +220,9 @@
 "url": "https://floot.com/en/pricing"
 }
 },
+"flow-like": {
+"checked": "2026-11-01"
+},
 "flower-advance-collaborative-superintelligence": {
 "checked": "2026-10-26",
 "image": "https://flower.ai/static/images/previews/1200x628/default.jpg"
@@ -259,6 +286,9 @@
 },
 "fragments-by-e2b": {
 "checked": "2026-10-26"
+},
+"free4chat": {
+"checked": "2026-11-01"
 },
 "freellmapi": {
 "checked": "2026-10-23",

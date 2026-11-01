@@ -1,0 +1,7 @@
+name = "StashBase"
+description = "Stash notes, PDFs and docs in a local folder. Claude, Codex or Antigravity works inside it with you and keeps your knowledge base up to date. Free and open source."
+category = "other"
+website = "https://stashbase.ai"
+open_source = true
+repository = "https://github.com/liliu-z/stashbase"
+added = 2026-11-01

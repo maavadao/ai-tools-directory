@@ -1,0 +1,7 @@
+name = "kandev"
+description = "Run coding agents in parallel, track tasks, and review code changes in one workspace."
+category = "coding"
+website = "https://kandev.ai"
+open_source = true
+repository = "https://github.com/kdlbs/kandev"
+added = 2026-11-01

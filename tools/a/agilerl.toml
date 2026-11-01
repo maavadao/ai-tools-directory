@@ -1,0 +1,7 @@
+name = "AgileRL"
+description = "Arena by AgileRL post-trains open-weight models into agents specialized for your task with reinforcement learning, then deploys them on your infrastructure."
+category = "agents"
+website = "https://agilerl.com"
+open_source = true
+repository = "https://github.com/AgileRL/AgileRL"
+added = 2026-11-01

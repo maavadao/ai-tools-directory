@@ -1,0 +1,7 @@
+name = "OpenPrice"
+description = "OpenPrice 聚合 ChatGPT Plus、Claude Pro、Gemini、Grok、Cursor 等 AI 订阅的官方价格与卡网渠道报价，支持查询 AI 订阅价格、卡网渠道比价和实时低价。"
+category = "coding"
+website = "https://www.openprice.cc"
+open_source = true
+repository = "https://github.com/bytedoger/awesome-OpenPrice"
+added = 2026-11-01

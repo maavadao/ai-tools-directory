@@ -58,6 +58,17 @@
 "geoflow": {
 "checked": "2026-10-27"
 },
+"geoready": {
+"checked": "2026-11-01",
+"image": "https://geoready.dev/og/home.png",
+"pricing": {
+"trial": true,
+"url": "https://geoready.dev/"
+}
+},
+"get-it": {
+"checked": "2026-11-01"
+},
 "getdesign-md": {
 "checked": "2026-10-23",
 "image": "https://getdesign.md/api/og/default?v=2"
@@ -229,6 +240,18 @@
 "checked": "2026-10-23",
 "image": "https://static-web.grammarly.com/1e6ajr2k4140/1kGiUxfxoLhCPH7wGcvknN/c218a7bbcdfc24301fbbfb6ae9892ec6/default_social_share.png"
 },
+"grandet": {
+"checked": "2026-11-01",
+"image": "https://grandet.ai/images/grandet-ranking-card.png"
+},
+"graperoot": {
+"checked": "2026-11-01",
+"image": "https://graperoot.dev/og-image.png",
+"pricing": {
+"trial": true,
+"url": "https://graperoot.dev/pricing"
+}
+},
 "graphify": {
 "checked": "2026-10-23",
 "image": "https://graphify.com/opengraph-image.png?opengraph-image.3ssypa_91yyrh.png",
@@ -240,6 +263,9 @@
 "graphjin": {
 "checked": "2026-10-28",
 "image": "https://graphjin.com/og/graphjin-og.png"
+},
+"graspnet": {
+"checked": "2026-11-01"
 },
 "grida": {
 "checked": "2026-10-29",
@@ -259,6 +285,10 @@
 "guardrails-ai": {
 "checked": "2026-10-26",
 "image": "https://framerusercontent.com/images/T1HPbJMDn1XYH6qmREYjv5jZSw.png"
+},
+"gufo": {
+"checked": "2026-11-01",
+"image": "https://gufo.blog/og.png"
 },
 "gun": {
 "checked": "2026-10-24"

@@ -1,0 +1,7 @@
+name = "gufo"
+description = "Gufo runs text, vision and speech models locally on AMD Strix Halo, with image and video generation in progress."
+category = "chatbots"
+website = "https://gufo.blog"
+open_source = true
+repository = "https://github.com/gufo-org/gufo"
+added = 2026-11-01

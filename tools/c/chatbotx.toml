@@ -1,0 +1,7 @@
+name = "ChatbotX"
+description = "ChatbotX is the agentic chat marketing platform that you can self-host, white-label, and resell to your clients. Bring your own OpenClaw, Hermes, or Claude agents!"
+category = "chatbots"
+website = "https://chatbotx.io"
+open_source = true
+repository = "https://github.com/ChatbotXIO/ChatbotX"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "Agentero"
+description = "连接你自己的 Agent，研究上下文留在本地 Vault。从 Zotero 无缝迁移，阅读、理解、连接并复用你的研究上下文。"
+category = "chatbots"
+website = "https://agentero.app"
+open_source = true
+repository = "https://github.com/poco-ai/Agentero"
+added = 2026-11-01

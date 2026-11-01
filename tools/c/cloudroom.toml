@@ -1,0 +1,7 @@
+name = "cloudroom"
+description = "Any model. Any harness. Any subscription. Cloudroom gives you cloud agents for free, and it is fully open source."
+category = "other"
+website = "https://www.cloudroom.dev"
+open_source = true
+repository = "https://github.com/davidondrej/cloudroom"
+added = 2026-11-01

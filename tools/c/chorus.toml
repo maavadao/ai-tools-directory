@@ -1,0 +1,7 @@
+name = "Chorus"
+description = "Chorus is the agent harness for AI-human collaboration. AI proposes, humans verify."
+category = "coding"
+website = "https://chorus-ai.dev"
+open_source = true
+repository = "https://github.com/Chorus-AIDLC/Chorus"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "OneBox"
+description = "A free, open-source AI agent & toolbox for Android. Describe what you need and the built-in agent drives 90+ on-device tools to get it done."
+category = "agents"
+website = "https://www.oneboxable.com"
+open_source = true
+repository = "https://github.com/wangzhishou/OneBox"
+added = 2026-11-01

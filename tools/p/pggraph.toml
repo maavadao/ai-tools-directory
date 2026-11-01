@@ -1,0 +1,7 @@
+name = "pgGraph"
+description = "One unified API for AI retrieval over your database. Bring graph, vector, and text retrieval to your Postgres with Polygres, and keep shipping."
+category = "agents"
+website = "https://polygres.com"
+open_source = true
+repository = "https://github.com/Evokoa/pgGraph"
+added = 2026-11-01

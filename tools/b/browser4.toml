@@ -1,0 +1,7 @@
+name = "Browser4"
+description = "Browser infrastructure engineered for the agent era"
+category = "agents"
+website = "https://browser4.io"
+open_source = true
+repository = "https://github.com/platonai/Browser4"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "White Circle"
+description = "We keep your AI models safe, reliable, and secure."
+category = "chatbots"
+website = "https://whitecircle.com"
+open_source = true
+repository = "https://github.com/bricks-cloud/BricksLLM"
+added = 2026-11-01

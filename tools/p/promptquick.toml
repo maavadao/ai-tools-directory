@@ -1,0 +1,7 @@
+name = "PromptQuick"
+description = "Tired of vague AI answers? PromptQuick's copy-paste prompt rules get you clearer, more useful results from ChatGPT, Claude and Gemini. Get the free sample."
+category = "agents"
+website = "https://promptquick.ai"
+open_source = true
+repository = "https://github.com/TechNomadCode/AI-Product-Development-Toolkit"
+added = 2026-11-01

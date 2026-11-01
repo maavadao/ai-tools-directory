@@ -1,0 +1,7 @@
+name = "SearChat"
+description = "Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker. AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。"
+category = "chatbots"
+website = "https://isou.chat"
+open_source = true
+repository = "https://github.com/yokingma/SearChat"
+added = 2026-11-01

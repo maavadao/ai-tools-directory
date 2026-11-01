@@ -1,0 +1,7 @@
+name = "Codync"
+description = "Bring Claude Code, Codex or any of 40+ AI agents and your own subscription, then message them as bots from iPhone, Mac, Windows or Linux. Free and open source."
+category = "other"
+website = "https://www.codync.dev"
+open_source = true
+repository = "https://github.com/leepokai/Codync"
+added = 2026-11-01

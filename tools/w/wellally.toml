@@ -1,0 +1,7 @@
+name = "WellAlly"
+description = "WellAlly: codes-first medical intelligence with 1,000+ clinical entities linking diseases and drugs to labs and imaging evidence. One graph with real codes."
+category = "healthcare"
+website = "https://wellally.tech"
+open_source = true
+repository = "https://github.com/huifer/WellAlly-health"
+added = 2026-11-01

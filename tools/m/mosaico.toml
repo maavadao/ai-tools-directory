@@ -1,0 +1,7 @@
+name = "mosaico"
+description = "The data engine for physical AI"
+category = "other"
+website = "https://mosaico.dev"
+open_source = true
+repository = "https://github.com/mosaico-labs/mosaico"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "SkillPack.sh"
+description = "Deploy skillpacks locally and use them directly from Slack and Telegram"
+category = "agents"
+website = "https://skillpack.sh"
+open_source = true
+repository = "https://github.com/CreminiAI/skillpack"
+added = 2026-11-01

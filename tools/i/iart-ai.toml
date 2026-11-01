@@ -1,0 +1,7 @@
+name = "iArt.ai"
+description = "AI motion graphics software — the After Effects alternative anyone can use. Create animations and explainer videos from a text prompt in minutes."
+category = "coding"
+website = "https://www.iart.ai"
+open_source = true
+repository = "https://github.com/iart-ai/motion-skills"
+added = 2026-11-01

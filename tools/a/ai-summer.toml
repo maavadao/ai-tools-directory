@@ -1,0 +1,7 @@
+name = "AI Summer"
+description = "Learn Deep Learning and Artificial Intelligence"
+category = "other"
+website = "https://theaisummer.com"
+open_source = true
+repository = "https://github.com/The-AI-Summer/self-attention-cv"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "EvoTorch"
+description = "Next-generation Evolutionary Search, Learning and Planning"
+category = "other"
+website = "https://evotorch.ai"
+open_source = true
+repository = "https://github.com/nnaisense/evotorch"
+added = 2026-11-01

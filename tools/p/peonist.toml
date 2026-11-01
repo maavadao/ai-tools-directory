@@ -1,0 +1,7 @@
+name = "PEONIST"
+description = "PEONIST — Halogen Flash Server, Halogen Server, and Crucible."
+category = "chatbots"
+website = "https://peonist.ai"
+open_source = true
+repository = "https://github.com/peonist-ai/halogen-flash-server"
+added = 2026-11-01

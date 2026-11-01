@@ -1,0 +1,7 @@
+name = "GraspNet通用物体抓取"
+description = "Baseline model for \"GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping\" (CVPR 2020)"
+category = "other"
+website = "https://graspnet.net"
+open_source = true
+repository = "https://github.com/graspnet/graspnet-baseline"
+added = 2026-11-01

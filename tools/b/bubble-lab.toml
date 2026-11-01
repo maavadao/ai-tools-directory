@@ -1,0 +1,7 @@
+name = "Bubble Lab"
+description = "The intelligence layer for communities and events: attendee enrichment, matchmaking and introductions, applications and onboarding, a searchable member directory, and analytics on who came, who connected and who joined."
+category = "coding"
+website = "https://bubblelab.ai"
+open_source = true
+repository = "https://github.com/bubblelabai/BubbleLab"
+added = 2026-11-01

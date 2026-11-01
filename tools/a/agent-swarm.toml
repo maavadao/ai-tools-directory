@@ -1,0 +1,7 @@
+name = "Agent Swarm"
+description = "Agent Swarm is the open-source company OS: a lead agent runs a team of AI agents on your infrastructure, with shared memory and skills."
+category = "agents"
+website = "https://www.agent-swarm.dev"
+open_source = true
+repository = "https://github.com/desplega-ai/agent-swarm"
+added = 2026-11-01

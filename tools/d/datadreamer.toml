@@ -1,0 +1,7 @@
+name = "DataDreamer"
+description = "DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models."
+category = "other"
+website = "https://datadreamer.dev"
+open_source = true
+repository = "https://github.com/datadreamer-dev/DataDreamer"
+added = 2026-11-01

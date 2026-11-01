@@ -9,6 +9,16 @@
 "hackingbuddygpt": {
 "checked": "2026-10-31"
 },
+"hacxgpt": {
+"checked": "2026-11-01",
+"image": "https://hacxgpt.com/og.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 69.0,
+"url": "https://hacxgpt.com/pricing/"
+}
+},
 "haft": {
 "checked": "2026-10-31",
 "image": "https://haft.tools/og-image.png?v=haft"
@@ -81,6 +91,10 @@
 "from": 99.0,
 "url": "https://hatchet.run/announcement/pay-as-you-go-pricing?utm_source=hatchet.run&amp;utm_medium=announcement&amp;utm_campaign=pay-as-you-go-pricing"
 }
+},
+"hax": {
+"checked": "2026-11-01",
+"image": "https://usehax.dev/demo-card.png"
 },
 "haystack": {
 "checked": "2026-10-24",
@@ -165,6 +179,9 @@
 "hermex": {
 "checked": "2026-10-31",
 "image": "https://hermexapp.com/og/og-home.png"
+},
+"hexdocs-pm": {
+"checked": "2026-11-01"
 },
 "heygen": {
 "checked": "2026-10-23",
@@ -279,6 +296,9 @@
 "horizon": {
 "checked": "2026-10-25"
 },
+"https-adk-mo-ai-kr-ko": {
+"checked": "2026-11-01"
+},
 "https-dsc-gg": {
 "checked": "2026-10-23",
 "image": "https://dsc.gg/static/img/banner.png"
@@ -344,6 +364,9 @@
 "hunyuanvideo": {
 "checked": "2026-10-25",
 "image": "https://aivideo.hunyuan.tencent.com/public/static/logo/favicon.png"
+},
+"huy-le-nguyen": {
+"checked": "2026-11-01"
 },
 "hy-world-2-0": {
 "checked": "2026-10-29",

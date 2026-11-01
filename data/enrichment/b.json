@@ -42,6 +42,10 @@
 "checked": "2026-10-31",
 "image": "https://raw.githubusercontent.com/LangbaseInc/docs-images/refs/heads/main/baseai/baseai-ogg.jpg"
 },
+"baseten": {
+"checked": "2026-11-01",
+"image": "https://baseten-preview.mintlify.app/_mintlify/api/og/v2?division=Get+started&title=Baseten+overview&description=Run+hosted+models%2C+deploy+custom+models%2C+and+train+models+on+production+GPU+infrastructure.&theme=ff3d51168aeb82649c015173&signature=8313220418969bc03e2c7688e40b29ae7e1338ad24cdc282f7e1b836439bae96"
+},
 "basic-memory": {
 "checked": "2026-10-27",
 "image": "https://basicmemory.com/_og/d/h_630,a_Basic+Memory+page+preview,c_BasicMemory,title_Basic+Memory,description_~T25lIGtub3dsZWRnZSBiYXNlIGZvciB5b3UsIHlvdXIgQUkgdG9vbHMsIGFuZCB5b3VyIHRlYW0uIFlvdXIgY2hhdHMsIGRvY3MsIGRlY2lzaW9ucywgYW5kIHJlc2VhcmNoLCBjb25uZWN0ZWQgaW4gYSBsaXZpbmcga25vd2xlZGdlIGdyYXBoLiBQbGFpbiBNYXJrZG93biB5b3UgY29udHJvbC4gT3BlbiBzb3VyY2UsIE1DUC1uYXRpdmUsIHdvcmtzIHdpdGggZXZlcnkgQUku,path_basicmemory.com,s_Fm3i-JgC9UMd1-88.png",
@@ -166,6 +170,10 @@
 "checked": "2026-10-29",
 "image": "https://bitterbot.ai/opengraph-image?3c8f8c39d8da51f5"
 },
+"bla-bla-agents": {
+"checked": "2026-11-01",
+"image": "https://bla.tools/assets/logo.png"
+},
 "bleetz-network": {
 "checked": "2026-10-23",
 "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_2h6zcs1ppc9w5vw8fj72vn763s/0da7660965d2d10218896de3e7216398_1792196505044.png"
@@ -260,6 +268,14 @@
 "url": "https://browser-use.com/pricing"
 }
 },
+"browser4": {
+"checked": "2026-11-01",
+"image": "https://bolt.new/static/og_default.png"
+},
+"browserable": {
+"checked": "2026-11-01",
+"image": "https://browserable.ai/browserable-meta.png"
+},
 "browseract": {
 "checked": "2026-10-26",
 "image": "https://www.browseract.com/og/browseract-home.jpeg",
@@ -274,6 +290,10 @@
 "browserai": {
 "checked": "2026-10-31"
 },
+"browsernode": {
+"checked": "2026-11-01",
+"image": "https://www.browsernode.com/BrowserNode-OG.png"
+},
 "browseros": {
 "checked": "2026-10-24",
 "image": "https://www.browseros.com/og/home.png"
@@ -281,6 +301,15 @@
 "bub": {
 "checked": "2026-10-30",
 "image": "https://bub.build/og/index.png"
+},
+"bubble-lab": {
+"checked": "2026-11-01",
+"image": "https://bubblelab.ai/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 99.0,
+"url": "https://bubblelab.ai/pricing"
+}
 },
 "budibase": {
 "checked": "2026-10-24",
@@ -355,5 +384,18 @@
 "trial": true,
 "url": "https://www.bytebase.com/pricing/"
 }
+},
+"bytechef": {
+"checked": "2026-11-01",
+"image": "https://www.bytechef.io/bytechef-cover-image.png",
+"pricing": {
+"currency": "USD",
+"from": 23.0,
+"trial": true,
+"url": "https://www.bytechef.io/pricing"
+}
+},
+"byzer-org": {
+"checked": "2026-11-01"
 }
 }

@@ -1,0 +1,7 @@
+name = "Almanac"
+description = "A single source of truth for your codebase, so every developer and coding agent stays on the same page."
+category = "coding"
+website = "https://www.codealmanac.com"
+open_source = true
+repository = "https://github.com/AlmanacCode/codealmanac"
+added = 2026-11-01

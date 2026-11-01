@@ -1,0 +1,7 @@
+name = "moltlaunch"
+description = "The agent marketplace and open protocol for agent work. Trustless escrow, permanent reputation, tradeable tokens on Base."
+category = "chatbots"
+website = "https://moltlaunch.com"
+open_source = true
+repository = "https://github.com/moltlaunch/cashclaw"
+added = 2026-11-01

@@ -35,6 +35,10 @@
 "checked": "2026-10-25",
 "image": "https://kami.tw93.fun/assets/showcase/kami-landing.png"
 },
+"kandev": {
+"checked": "2026-11-01",
+"image": "https://kandev.ai/og-image.png"
+},
 "kedro": {
 "checked": "2026-10-25",
 "image": "https://kedro.org/images/kedro-social-image.png"
@@ -48,6 +52,9 @@
 "from": 5.0,
 "url": "https://www.keeper.sh/pricing"
 }
+},
+"keinsaas-navigator": {
+"checked": "2026-11-01"
 },
 "kelivo": {
 "checked": "2026-10-27",

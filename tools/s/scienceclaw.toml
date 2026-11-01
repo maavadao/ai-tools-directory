@@ -1,0 +1,7 @@
+name = "ScienceClaw"
+description = "Skills and Operators that grow from replay-verified executions."
+category = "chatbots"
+website = "https://scienceclaw.science"
+open_source = true
+repository = "https://github.com/beita6969/ScienceClaw"
+added = 2026-11-01

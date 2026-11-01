@@ -1,0 +1,7 @@
+name = "sandboxd"
+description = "Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT."
+category = "coding"
+website = "https://sandboxd.io"
+open_source = true
+repository = "https://github.com/tastyeffectco/sandboxd"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "AgentDojo"
+description = "A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents."
+category = "other"
+website = "https://agentdojo.spylab.ai"
+open_source = true
+repository = "https://github.com/ethz-spylab/agentdojo"
+added = 2026-11-01

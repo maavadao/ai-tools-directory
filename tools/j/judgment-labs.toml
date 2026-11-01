@@ -1,0 +1,7 @@
+name = "Judgment Labs"
+description = "Surface recurring failures, search agent behavior, and test fixes offline. Judgment is the data and evaluation layer for long-horizon agents."
+category = "chatbots"
+website = "https://www.judgmentlabs.ai"
+open_source = true
+repository = "https://github.com/JudgmentLabs/judgeval"
+added = 2026-11-01

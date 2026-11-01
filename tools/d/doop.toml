@@ -1,0 +1,7 @@
+name = "doop"
+description = "Doop is an open-source multiplayer design canvas and design MCP for Claude Code, Codex, and any AI agent. Design side by side with agents — free in beta."
+category = "design"
+website = "https://doop.design"
+open_source = true
+repository = "https://github.com/kgoedecke/doop"
+added = 2026-11-01

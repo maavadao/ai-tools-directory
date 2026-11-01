@@ -1,0 +1,7 @@
+name = "Open Prompt"
+description = "OpenPrompt allows you to create, discover, and utilize customized prompts, enhancing the interaction with ChatGPT. Users can explore a variety of prompts, create their own for regular use, and save their favorite ones for easy access."
+category = "other"
+website = "https://openprompt.co"
+open_source = true
+repository = "https://github.com/timqian/openprompt.co"
+added = 2026-11-01

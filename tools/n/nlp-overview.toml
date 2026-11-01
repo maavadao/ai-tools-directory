@@ -1,0 +1,7 @@
+name = "nlp_overview"
+description = "Overview of Modern Deep Learning Techniques Applied to Natural Language Processing"
+category = "other"
+website = "https://nlpoverview.com"
+open_source = true
+repository = "https://github.com/omarsar/nlp_overview"
+added = 2026-11-01

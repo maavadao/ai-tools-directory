@@ -1,0 +1,7 @@
+name = "IM.codes"
+description = "Connect AI agents to multiple computers with scoped commands, file transfer, Computer Use, and human remote desktop takeover. IM.codes also provides shared memory, OpenSpec Auto Deliver, managed MCP tools, supervised execution, and cross-agent audit across AI providers."
+category = "coding"
+website = "https://im.codes"
+open_source = true
+repository = "https://github.com/im4codes/imcodes"
+added = 2026-11-01

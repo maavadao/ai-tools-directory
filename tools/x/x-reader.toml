@@ -1,0 +1,7 @@
+name = "x-reader"
+description = "One URL interface for source ingestion across social posts, articles, video, podcasts and the open web."
+category = "other"
+website = "https://xreader.leolabs.me"
+open_source = true
+repository = "https://github.com/runesleo/x-reader"
+added = 2026-11-01

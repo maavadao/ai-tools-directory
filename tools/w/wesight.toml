@@ -1,0 +1,7 @@
+name = "WeSight"
+description = "WeSight is an open-source desktop AI Agent workspace for CLI agents, local runtimes, model providers, permission events, skills, scheduled tasks, memory, and an Obsidian plugin."
+category = "chatbots"
+website = "https://wesight.ai"
+open_source = true
+repository = "https://github.com/freestylefly/wesight"
+added = 2026-11-01

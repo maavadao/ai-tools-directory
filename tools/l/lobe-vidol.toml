@@ -1,0 +1,7 @@
+name = "Lobe Vidol"
+description = "Making Virtual Idols Accessible for EveryOne"
+category = "audio"
+website = "https://vidol.lobehub.com"
+open_source = true
+repository = "https://github.com/lobehub/lobe-vidol"
+added = 2026-11-01

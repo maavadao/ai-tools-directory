@@ -1,0 +1,7 @@
+name = "OpenTabs"
+description = "OpenTabs gives AI agents access to any web application through your authenticated browser session. MCP server + Chrome extension + plugin SDK."
+category = "other"
+website = "https://opentabs.dev"
+open_source = true
+repository = "https://github.com/opentabs-dev/opentabs"
+added = 2026-11-01

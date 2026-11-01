@@ -1,0 +1,7 @@
+name = "XuanCe"
+description = "XuanCe: A Comprehensive and Unified Deep Reinforcement Learning Library"
+category = "other"
+website = "https://xuance.org"
+open_source = true
+repository = "https://github.com/agi-brain/xuance"
+added = 2026-11-01

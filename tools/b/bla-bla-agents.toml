@@ -1,0 +1,7 @@
+name = "BLA (bla-agents)"
+description = "BLA (Blind LLM Agents) is the open-source Blue Defense MCP and CLI built to protect software artifacts against automated AI reverse-engineering workflows."
+category = "other"
+website = "https://bla.tools"
+open_source = true
+repository = "https://github.com/qybaihe/bla"
+added = 2026-11-01

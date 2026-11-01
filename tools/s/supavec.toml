@@ -1,0 +1,7 @@
+name = "supavec"
+description = "The open-source alternative to Carbon.ai. Build powerful RAG applications with any data source, at any scale."
+category = "other"
+website = "https://www.supavec.com"
+open_source = true
+repository = "https://github.com/supavec/supavec"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "alpaca-mcp-server"
+description = "Alpaca's easy to use APIs allow developers and businesses to trade algorithms, build apps and embed investing into their services."
+category = "other"
+website = "https://alpaca.markets"
+open_source = true
+repository = "https://github.com/alpacahq/alpaca-mcp-server"
+added = 2026-11-01

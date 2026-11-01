@@ -1,0 +1,7 @@
+name = "ongrid"
+description = "Observability, remote execution, knowledge base, agents and skills — all chat-driven. Drop it into Slack, Telegram, Lark, or wherever your team already lives."
+category = "other"
+website = "https://ongrid.cloud"
+open_source = true
+repository = "https://github.com/ongridio/ongrid"
+added = 2026-11-01

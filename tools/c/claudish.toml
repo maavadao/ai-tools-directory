@@ -1,0 +1,7 @@
+name = "claudish"
+description = "Use your existing AI subscriptions (Gemini, ChatGPT, Grok, Kimi, Vertex AI, MiniMax) with Claude Code. 15+ direct providers, 580+ models via OpenRouter."
+category = "other"
+website = "https://claudish.com"
+open_source = true
+repository = "https://github.com/MadAppGang/claudish"
+added = 2026-11-01

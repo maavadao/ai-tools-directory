@@ -1,0 +1,7 @@
+name = "TD-MPC2"
+description = "TD-MPC2: Scalable, Robust World Models for Continuous Control"
+category = "other"
+website = "https://www.tdmpc2.com"
+open_source = true
+repository = "https://github.com/nicklashansen/tdmpc2"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "AGenUI"
+description = "端云一体的生成式 UI：从用户意图到三端原生界面。"
+category = "agents"
+website = "https://genui.amap.com"
+open_source = true
+repository = "https://github.com/AGenUI/AGenUI"
+added = 2026-11-01

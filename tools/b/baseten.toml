@@ -1,0 +1,7 @@
+name = "Baseten"
+description = "Package, configure, and iterate on a model with Truss at whatever level of control your model needs."
+category = "audio"
+website = "https://docs.baseten.co"
+open_source = true
+repository = "https://github.com/basetenlabs/truss"
+added = 2026-11-01

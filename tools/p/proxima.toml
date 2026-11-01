@@ -1,0 +1,7 @@
+name = "Proxima"
+description = "Run ChatGPT, Claude, Gemini & Perplexity inside Cursor, VS Code, Windsurf & Antigravity without paying for API keys. Free Multi-AI MCP server & autonomous action agent."
+category = "agents"
+website = "https://www.proximamcp.in"
+open_source = true
+repository = "https://github.com/Zen4-bit/Proxima"
+added = 2026-11-01

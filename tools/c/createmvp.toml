@@ -1,0 +1,7 @@
+name = "CreateMVP"
+description = "A curated list of awesome MCP servers focused on DevOps tools and capabilities."
+category = "chatbots"
+website = "https://createmvps.app"
+open_source = true
+repository = "https://github.com/rohitg00/awesome-devops-mcp-servers"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "HacxGPT"
+description = "Uncensored, high-performance language models served through an OpenAI- and Anthropic-compatible API. Built for security researchers, red teams, and the work mainstream AI refuses."
+category = "chatbots"
+website = "https://hacxgpt.com"
+open_source = true
+repository = "https://github.com/HacxGPT-Official/HacxGPT-CLI"
+added = 2026-11-01

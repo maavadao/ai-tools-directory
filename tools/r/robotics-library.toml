@@ -1,0 +1,7 @@
+name = "Robotics Library"
+description = "The Robotics Library (RL) is a self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control."
+category = "other"
+website = "https://www.roboticslibrary.org"
+open_source = true
+repository = "https://github.com/roboticslibrary/rl"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "DATA GOBLINS"
+description = "A blog for inspirational Power BI how-to's with a fantasy twist. Tips and instructional blogposts about how to design Power BI reports, models and visuals, as well as other technical topics like performance optimization and analyses in DAX."
+category = "coding"
+website = "https://data-goblins.com"
+open_source = true
+repository = "https://github.com/data-goblin/power-bi-agentic-development"
+added = 2026-11-01

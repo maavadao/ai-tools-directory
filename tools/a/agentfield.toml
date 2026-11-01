@@ -1,0 +1,7 @@
+name = "AgentField"
+description = "Build with /senior-dev, audit code with /sec and review GitHub pull requests with /review. Built-in specialists, one open-source software factory."
+category = "coding"
+website = "https://agentfield.ai"
+open_source = true
+repository = "https://github.com/Agent-Field/SWE-AF"
+added = 2026-11-01

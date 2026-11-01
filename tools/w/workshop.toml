@@ -1,0 +1,7 @@
+name = "workshop"
+description = "Trace every run. Auto-fix silent failures. Simulate before shipping."
+category = "chatbots"
+website = "https://www.raindrop.ai"
+open_source = true
+repository = "https://github.com/raindrop-ai/workshop"
+added = 2026-11-01

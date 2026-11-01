@@ -1,0 +1,7 @@
+name = "Tracely"
+description = "Trace your AI agents, grade every run, and turn production failures into regression tests that block the pull request which would ship them again."
+category = "coding"
+website = "https://tracely-ai.com"
+open_source = true
+repository = "https://github.com/jwuthri-cloud/Tracely-ai"
+added = 2026-11-01

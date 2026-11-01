@@ -1,0 +1,7 @@
+name = "saiku"
+description = "Open-source semantic layer: one cube for Excel (MDX/XMLA), dashboards, and AI agents (MCP). Mondrian + Apache Calcite."
+category = "data"
+website = "https://saiku.bi"
+open_source = true
+repository = "https://github.com/spiculedata/saiku"
+added = 2026-11-01

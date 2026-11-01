@@ -2,6 +2,10 @@
 "objaverse-xl": {
 "checked": "2026-10-31"
 },
+"obot-ai": {
+"checked": "2026-11-01",
+"image": "https://obot.ai/wp-content/uploads/2026/07/obot_aicontrolplane_01-1500x396-1.png"
+},
 "obscura": {
 "checked": "2026-10-24"
 },
@@ -16,6 +20,10 @@
 "observer-ai": {
 "checked": "2026-10-30",
 "image": "https://observer-ai.com/bserver.png"
+},
+"octocode": {
+"checked": "2026-11-01",
+"image": "https://octocode.ai/og-image-1200x630.jpg"
 },
 "octop": {
 "checked": "2026-10-25"
@@ -127,6 +135,10 @@
 "one-hub": {
 "checked": "2026-10-29"
 },
+"onebox": {
+"checked": "2026-11-01",
+"image": "https://www.oneboxable.com/assets/img/intro-en.jpg"
+},
 "onecli": {
 "checked": "2026-10-28",
 "image": "https://onecli.sh/og.png?v=6",
@@ -144,6 +156,9 @@
 "free": true,
 "url": "https://onepin.ai/pricing"
 }
+},
+"ongrid": {
+"checked": "2026-11-01"
 },
 "online-document-editor": {
 "checked": "2026-10-30",
@@ -201,6 +216,10 @@
 "checked": "2026-10-24",
 "image": "https://opcode.sh/opcode-og-image.jpg"
 },
+"open-agent-io": {
+"checked": "2026-11-01",
+"image": "https://open-agent.io/assets/images/og-image.webp"
+},
 "open-agents": {
 "checked": "2026-10-26",
 "image": "https://open-agents.dev/opengraph-image?31983319aa5e44a1"
@@ -236,6 +255,15 @@
 },
 "open-policy-agent": {
 "checked": "2026-10-25"
+},
+"open-prompt": {
+"checked": "2026-11-01",
+"image": "https://openprompt.co/logo.png",
+"pricing": {
+"currency": "USD",
+"from": 4.0,
+"url": "https://openprompt.co/pricing"
+}
 },
 "open-saas": {
 "checked": "2026-10-24",
@@ -354,8 +382,20 @@
 "checked": "2026-10-24",
 "image": "https://opencodex.me/og.png"
 },
+"opencompany": {
+"checked": "2026-11-01",
+"image": "https://opencompany.sh/og-image.png?v=2",
+"pricing": {
+"free": true,
+"url": "https://opencompany.sh/pricing/"
+}
+},
 "opencompass": {
 "checked": "2026-10-26"
+},
+"opencrabs": {
+"checked": "2026-11-01",
+"image": "https://opencrabs.com/public/og/home-v0.5.15.jpg"
 },
 "opencreator": {
 "checked": "2026-10-24",
@@ -453,6 +493,10 @@
 "url": "https://www.traceloop.com/pricing"
 }
 },
+"openloomi": {
+"checked": "2026-11-01",
+"image": "https://openloomi.ai/images/home/intelligence-hero.png"
+},
 "openlore": {
 "checked": "2026-10-30"
 },
@@ -502,6 +546,10 @@
 "url": "https://openobserve.ai/pricing/"
 }
 },
+"openops": {
+"checked": "2026-11-01",
+"image": "https://www.openops.com/wp-content/uploads/2025/11/OpenOps-Open-Graph-4-2.png"
+},
 "openosint": {
 "checked": "2026-10-30",
 "image": "https://openosint.tech/assets/og.png"
@@ -521,9 +569,17 @@
 "openpipe": {
 "checked": "2026-10-29"
 },
+"openprice": {
+"checked": "2026-11-01",
+"image": "https://www.openprice.cc/openprice-share.jpg"
+},
 "openpua": {
 "checked": "2026-10-24",
 "image": "https://openpua.ai/assets/og-image.png"
+},
+"openqodex": {
+"checked": "2026-11-01",
+"image": "https://openqodex.com/opengraph-image?7c6c8443baf90c97"
 },
 "openrouter": {
 "checked": "2026-10-23",
@@ -589,6 +645,9 @@
 "checked": "2026-10-23",
 "image": "https://www.openswarm.com/media/og.jpg"
 },
+"opentabs": {
+"checked": "2026-11-01"
+},
 "openui": {
 "checked": "2026-10-25",
 "image": "https://www.openui.com/og/home.jpg?v=ab061ade4a",
@@ -635,9 +694,17 @@
 "checked": "2026-10-25",
 "image": "https://operit.app/logo.png?v=2"
 },
+"ophel": {
+"checked": "2026-11-01",
+"image": "https://ophel.app/og-image.png"
+},
 "optimate": {
 "checked": "2026-10-26",
 "image": "https://framerusercontent.com/images/YDGtc5GwgzIyGPm5VDwI7yOmpo.png"
+},
+"optio": {
+"checked": "2026-11-01",
+"image": "https://optio.host/og-image.png"
 },
 "optuna": {
 "checked": "2026-10-24",
@@ -661,6 +728,10 @@
 "orange-data-mining": {
 "checked": "2026-10-26",
 "image": "https://orangedatamining.com/_next/static/media/orange-cover.6d606323.png"
+},
+"orbital": {
+"checked": "2026-11-01",
+"image": "https://orbital.top/assets/shots/hero-handoff.jpg"
 },
 "orca": {
 "checked": "2026-10-23",

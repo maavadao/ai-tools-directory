@@ -1,0 +1,7 @@
+name = "AI Factory"
+description = "Zero-config AI development environment. Spec-driven, always repeatable."
+category = "agents"
+website = "https://aif.cutcode.dev"
+open_source = true
+repository = "https://github.com/lee-to/ai-factory"
+added = 2026-11-01

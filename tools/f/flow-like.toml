@@ -1,0 +1,7 @@
+name = "flow-like"
+description = "Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization."
+category = "chatbots"
+website = "https://flow-like.com"
+open_source = true
+repository = "https://github.com/Rheosoph/flow-like"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "CORAL"
+description = "CORAL is an open-source autoresearch framework powered by autonomous coding agents. It runs long-lived agents in isolated Git worktrees, continuously grades experiments, and shares knowledge through persistent memory."
+category = "coding"
+website = "https://coral.compounding-intelligence.ai"
+open_source = true
+repository = "https://github.com/Human-Agent-Society/CORAL"
+added = 2026-11-01

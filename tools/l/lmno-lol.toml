@@ -1,0 +1,7 @@
+name = "lmno.lol"
+description = "Wholesome blogs minus the yucky bits of the modern web"
+category = "chatbots"
+website = "https://lmno.lol"
+open_source = true
+repository = "https://github.com/xenodium/chatgpt-shell"
+added = 2026-11-01

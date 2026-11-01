@@ -1,0 +1,7 @@
+name = "PipeLab"
+description = "PipeLab builds Pipelock, an open-source agent firewall for mediated egress and MCP traffic, with signed evidence for security and compliance."
+category = "other"
+website = "https://pipelab.org"
+open_source = true
+repository = "https://github.com/pipelab-org/pipelock"
+added = 2026-11-01

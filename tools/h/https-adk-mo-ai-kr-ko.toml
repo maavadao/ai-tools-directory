@@ -1,0 +1,7 @@
+name = "https://adk.mo.ai.kr/ko/"
+description = "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps."
+category = "other"
+website = "https://adk.mo.ai.kr"
+open_source = true
+repository = "https://github.com/modu-ai/moai-adk"
+added = 2026-11-01

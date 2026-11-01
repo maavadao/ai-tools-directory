@@ -1,0 +1,7 @@
+name = "PDF Oxide"
+description = "The fastest PDF library for Python, Node.js, Rust, Go, C#, and WASM. 0.8ms mean — 5× faster than PyMuPDF, 15× faster than pypdf. 100% pass rate on 3,830 PDFs. MIT licensed PyMuPDF alternative."
+category = "other"
+website = "https://oxide.fyi"
+open_source = true
+repository = "https://github.com/yfedoseev/pdf_oxide"
+added = 2026-11-01

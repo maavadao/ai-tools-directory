@@ -1,0 +1,7 @@
+name = "Awesome Reverse-Engineered"
+description = "Search 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, games and AI tools."
+category = "other"
+website = "https://awesome.alexgaoth.com"
+open_source = true
+repository = "https://github.com/alexgaoth/awesome-reverse-engineered"
+added = 2026-11-01

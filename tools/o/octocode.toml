@@ -1,0 +1,7 @@
+name = "octocode"
+description = "Evidence-first code research for AI agents. 13 tools for GitHub and local codebase analysis — code search, AST and LSP navigation, PR history, package lookup. Run it over MCP or the npx octocode CLI."
+category = "other"
+website = "https://octocode.ai"
+open_source = true
+repository = "https://github.com/bgauryy/octocode"
+added = 2026-11-01

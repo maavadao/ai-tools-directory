@@ -1,0 +1,7 @@
+name = "WeChatRSS"
+description = "把你关注的公众号变成可订阅的信息源：新文章自动进 RSS 阅读器、API 和 AI 客户端，支持整号导出 7 种格式。服务需付费开通，不提供免费体验账号。"
+category = "other"
+website = "https://wechatrss.waytomaster.com"
+open_source = true
+repository = "https://github.com/tmwgsicp/wechat-download-api"
+added = 2026-11-01

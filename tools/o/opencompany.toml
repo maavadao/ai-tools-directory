@@ -1,0 +1,7 @@
+name = "opencompany"
+description = "Self-improving AI that runs your whole business: six AI employees automate development, design, accounting, sales, marketing, and tax with 200+ AI models."
+category = "chatbots"
+website = "https://opencompany.sh"
+open_source = true
+repository = "https://github.com/zeenie-ai/OpenCompany"
+added = 2026-11-01

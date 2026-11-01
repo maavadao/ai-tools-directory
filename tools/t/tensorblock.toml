@@ -1,0 +1,7 @@
+name = "TensorBlock"
+description = "Open infrastructure for intelligent systems, including Forge and the free hosted MCP Index for searchable MCP server profiles and install metadata."
+category = "other"
+website = "https://www.tensorblock.co"
+open_source = true
+repository = "https://github.com/TensorBlock/awesome-mcp-servers"
+added = 2026-11-01

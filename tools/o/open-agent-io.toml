@@ -1,0 +1,7 @@
+name = "OpenAgent"
+description = "Search, think, and complete general tasks — Open-agent is a multimodal, agentic AI that combines the power of the best foundation models."
+category = "agents"
+website = "https://open-agent.io"
+open_source = true
+repository = "https://github.com/AFK-surf/open-agent"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "MEDUSA"
+description = "79 scanners. 40,000+ AI security rules. Detect prompt injection, MCP vulnerabilities, RAG poisoning, and agent attacks. Free and open source."
+category = "other"
+website = "https://pantheonsecurity.io"
+open_source = true
+repository = "https://github.com/Pantheon-Security/medusa"
+added = 2026-11-01

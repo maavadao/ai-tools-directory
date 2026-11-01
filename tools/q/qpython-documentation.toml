@@ -1,0 +1,7 @@
+name = "QPython Documentation"
+description = "QPython is an Android Python engine primarily designed for Python and AI learners. It offers a range of impressive features to enhance Python programming experience."
+category = "education"
+website = "https://www.qpython.org"
+open_source = true
+repository = "https://github.com/qpython-android/qpython"
+added = 2026-11-01

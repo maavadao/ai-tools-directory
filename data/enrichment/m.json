@@ -6,6 +6,10 @@
 "checked": "2026-10-27",
 "image": "https://maafw.com/maafw.png"
 },
+"machine-learning-in-r": {
+"checked": "2026-11-01",
+"image": "https://mlr3.mlr-org.com/logo.svg"
+},
 "machine-learning-refined": {
 "checked": "2026-10-29",
 "image": "https://www.mlrefined.com/opengraph-image?bbd4dbbf99975ca7"
@@ -26,6 +30,10 @@
 "from": 23.99,
 "url": "https://macro.com/pricing"
 }
+},
+"macstories": {
+"checked": "2026-11-01",
+"image": "https://www.macstories.net/wp-content/themes/macstories4/images/ms-opengraph.png"
 },
 "maestro": {
 "checked": "2026-10-28",
@@ -57,6 +65,17 @@
 "magi-1": {
 "checked": "2026-10-28",
 "image": "https://static.magi.world/build/website/225/_next/static/media/sand-ai-og.cc624676.jpg"
+},
+"magic": {
+"checked": "2026-11-01",
+"image": "https://hyperlambda.dev/assets/hyperlambda-og-spartan.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 100.0,
+"trial": true,
+"url": "https://hyperlambda.dev/pricing"
+}
 },
 "magic-resume": {
 "checked": "2026-10-25",
@@ -220,6 +239,10 @@
 "url": "https://maxun.dev/pricing"
 }
 },
+"mcap": {
+"checked": "2026-11-01",
+"image": "https://mcap.dev/img/og-image.jpeg"
+},
 "mcp-atlassian": {
 "checked": "2026-10-26",
 "image": "https://personal-1d37018d.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=MCP+Atlassian&description=Connect+AI+assistants+to+Jira+and+Confluence+%E2%80%94+search%2C+create%2C+update+issues+and+pages+via+MCP&theme=e973f3b58f90d97797885a76&signature=f7e2063e7aa88b76b7388455f4054a468c300a860e97ab229af051fcec40d65d"
@@ -271,6 +294,10 @@
 "free": true,
 "url": "https://www.mcpjam.com/pricing"
 }
+},
+"mcpm": {
+"checked": "2026-11-01",
+"image": "https://mcpm.sh/assets/images/mcpm-social.png"
 },
 "md2wechat-skill": {
 "checked": "2026-10-28",
@@ -627,6 +654,10 @@
 "checked": "2026-10-30",
 "image": "https://mlxserve.com/mlxcore-screenshot-1.png"
 },
+"mlx-studio": {
+"checked": "2026-11-01",
+"image": "https://mlx.studio/logos/png/banner-og-1200x630.png?v=20260908e"
+},
 "mmf": {
 "checked": "2026-10-26",
 "image": "https://mmf.sh/img/logo.png"
@@ -705,9 +736,21 @@
 "url": "https://dagster.io/pricing"
 }
 },
+"mofanpy-com": {
+"checked": "2026-11-01",
+"image": "https://mofanpy.com/img/description/mofanpython.png"
+},
 "moltis": {
 "checked": "2026-10-28",
 "image": "https://moltis.org/og-social.png?v=9"
+},
+"moltlaunch": {
+"checked": "2026-11-01",
+"image": "https://moltlaunch.com/og/home.png"
+},
+"momozi": {
+"checked": "2026-11-01",
+"image": "https://momozi.cc/momozi/avatar.png"
 },
 "monkeycode": {
 "checked": "2026-10-27"
@@ -736,6 +779,10 @@
 },
 "mortal-ekyu-moe": {
 "checked": "2026-10-31"
+},
+"mosaico": {
+"checked": "2026-11-01",
+"image": "https://mosaico.dev/og_image.png"
 },
 "moveit-motion-planning-framework": {
 "checked": "2026-10-30"
@@ -781,5 +828,9 @@
 "myosuite": {
 "checked": "2026-10-31",
 "image": "https://www.myosuite.org/opengraph-image.png?2b37c90b1d2150ba"
+},
+"myscale": {
+"checked": "2026-11-01",
+"image": "https://d3lhz231q7ogjd.cloudfront.net/website/myscale-thumbnail.jpg"
 }
 }

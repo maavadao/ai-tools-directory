@@ -1,0 +1,7 @@
+name = "TypingMind"
+description = "Chat with AI using your API keys. Pay only for what you use. ChatGPT, Gemini, Claude, and other LLMs supported. The best chat LLM frontend UI for all AI models."
+category = "chatbots"
+website = "https://www.typingmind.com"
+open_source = true
+repository = "https://github.com/TypingMind/typingmind"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "optio"
+description = "Coding agents, scheduled jobs, event automations, and interactive sessions. Your cluster, your machines, and native apps in your pocket."
+category = "coding"
+website = "https://optio.host"
+open_source = true
+repository = "https://github.com/jonwiggins/optio"
+added = 2026-11-01

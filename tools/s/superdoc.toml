@@ -1,0 +1,7 @@
+name = "SuperDoc"
+description = "Open-source DOCX Editor for the browser, server, and AI agents"
+category = "agents"
+website = "https://www.superdoc.dev"
+open_source = true
+repository = "https://github.com/superdoc/docx-editor"
+added = 2026-11-01

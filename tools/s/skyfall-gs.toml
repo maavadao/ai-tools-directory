@@ -1,0 +1,7 @@
+name = "Skyfall-GS"
+description = "Skyfall-GS converts satellite images to explorable 3D urban scenes using diffusion models, with real-time rendering performance."
+category = "image"
+website = "https://skyfall-gs.jayinnn.dev"
+open_source = true
+repository = "https://github.com/jayin92/Skyfall-GS"
+added = 2026-11-01

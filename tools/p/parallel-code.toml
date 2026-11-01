@@ -1,0 +1,7 @@
+name = "Parallel Code"
+description = "The open-source workspace for parallel AI coding. Each agent gets its own git worktree — review the diffs, merge the wins, toss the rest."
+category = "coding"
+website = "https://parallelcode.app"
+open_source = true
+repository = "https://github.com/johannesjo/parallel-code"
+added = 2026-11-01

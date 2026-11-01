@@ -1,0 +1,7 @@
+name = "Yuliang Xiu 修宇亮"
+description = "[CVPR'23, Highlight] ECON: Explicit Clothed humans Optimized via Normal integration"
+category = "other"
+website = "https://xiuyuliang.cn"
+open_source = true
+repository = "https://github.com/YuliangXiu/ECON"
+added = 2026-11-01

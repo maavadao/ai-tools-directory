@@ -1,0 +1,7 @@
+name = "99Agent"
+description = "99Agent 是一个可私有化部署的多用户 AI Agent 平台。"
+category = "agents"
+website = "https://agent.lightai.cloud"
+open_source = true
+repository = "https://github.com/vastxie/99AI"
+added = 2026-11-01

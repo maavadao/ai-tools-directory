@@ -163,6 +163,10 @@
 "checked": "2026-10-31",
 "image": "https://agent-plugins.org/og/image.png"
 },
+"agent-relay": {
+"checked": "2026-11-01",
+"image": "https://agentrelay.com/og/agent-relay-home-v20261014.png"
+},
 "agent-router": {
 "checked": "2026-10-29",
 "image": "https://theagentrouter.ai/img/brand/og-card@1200.png"
@@ -194,6 +198,10 @@
 "agent-substrate": {
 "checked": "2026-10-31"
 },
+"agent-swarm": {
+"checked": "2026-11-01",
+"image": "https://www.agent-swarm.dev/api/og?title=Agent+Swarm%3A+the+open-source+company+OS&subtitle=Your+company%E2%80%99s+AI+team.+One+lead+agent%2C+many+workers%2C+one+shared+memory.&style=amber"
+},
 "agent-teams": {
 "checked": "2026-10-29",
 "image": "https://agentteams.live/og-image-agent-teams-v7.png"
@@ -222,6 +230,17 @@
 "url": "https://agentdock.ai/pricing"
 }
 },
+"agentdojo": {
+"checked": "2026-11-01"
+},
+"agentero": {
+"checked": "2026-11-01",
+"image": "https://agentero.app/og.png"
+},
+"agentfield": {
+"checked": "2026-11-01",
+"image": "https://agentfield.ai/opengraph-image?62634ef0c2842cd4"
+},
 "agentflow": {
 "checked": "2026-10-30"
 },
@@ -248,6 +267,9 @@
 "agenting-development": {
 "checked": "2026-10-25",
 "image": "https://ohmyopencodeslim.com/og-images/index.png"
+},
+"agentkit-by-inngest": {
+"checked": "2026-11-01"
 },
 "agentlas-os": {
 "checked": "2026-10-31",
@@ -276,6 +298,10 @@
 "checked": "2026-10-31",
 "image": "https://agentprotocol.ai/og.png"
 },
+"agentrq": {
+"checked": "2026-11-01",
+"image": "https://agentrq.com/assets/og-image.png"
+},
 "agents-anywhere": {
 "checked": "2026-10-29",
 "image": "https://www.agents-anywhere.com/images/og-zh.png"
@@ -283,6 +309,9 @@
 "agents-blog": {
 "checked": "2026-10-30",
 "image": "https://agents.blog/branding/assets/agent-nodes-logo.png"
+},
+"agents-flex": {
+"checked": "2026-11-01"
 },
 "agents-md": {
 "checked": "2026-10-24",
@@ -309,6 +338,13 @@
 "agentsociety": {
 "checked": "2026-10-31",
 "image": "https://agentsociety2.fiblab.net/logo.png"
+},
+"agenui": {
+"checked": "2026-11-01"
+},
+"agilerl": {
+"checked": "2026-11-01",
+"image": "https://cdn.prod.website-files.com/6a579d89b03d82eea4e0789b/6aca6785a5f11de6a5c8022f_agilerl-og-2026.png"
 },
 "agili-hacker-podcast": {
 "checked": "2026-10-29"
@@ -378,6 +414,10 @@
 "ai-elements": {
 "checked": "2026-10-29"
 },
+"ai-elements-vue-com": {
+"checked": "2026-11-01",
+"image": "https://www.ai-elements-vue.com/cover.png"
+},
 "ai-engineer": {
 "checked": "2026-10-24",
 "pricing": {
@@ -397,6 +437,9 @@
 "checked": "2026-10-23",
 "image": "https://aiengineeringfromscratch.com/og/page/home.png?v=2a478f3e4210"
 },
+"ai-factory": {
+"checked": "2026-11-01"
+},
 "ai-file-sorter": {
 "checked": "2026-10-30",
 "image": "https://filesorter.app/static/images/meta/social-preview.png"
@@ -411,6 +454,9 @@
 },
 "ai-marketing-claude": {
 "checked": "2026-10-29"
+},
+"ai-mcn-tv": {
+"checked": "2026-11-01"
 },
 "ai-middleware": {
 "checked": "2026-10-27"
@@ -457,6 +503,10 @@
 },
 "ai-short-video-factory": {
 "checked": "2026-10-26"
+},
+"ai-summer": {
+"checked": "2026-11-01",
+"image": "https://theaisummer.com/static/915b46849ce3ea86ae61c6b8d39c8284/ai-summer-seo-image.jpeg"
 },
 "ai-trader": {
 "checked": "2026-10-24"
@@ -563,6 +613,10 @@
 "aktools-akfamily-xyz": {
 "checked": "2026-10-31"
 },
+"alethe-agents": {
+"checked": "2026-11-01",
+"image": "https://alethe-agents.kc1t.com/cover.png"
+},
 "alicevision": {
 "checked": "2026-10-28",
 "image": "https://alicevision.org/img/home_lion.jpg"
@@ -583,9 +637,17 @@
 "url": "https://presentation.allweone.com"
 }
 },
+"almanac": {
+"checked": "2026-11-01",
+"image": "https://www.codealmanac.com/og.png?v=3"
+},
 "alook": {
 "checked": "2026-10-31",
 "image": "https://alook.ai/social/readme-card-7470c72ef1c3.png"
+},
+"alpaca-mcp-server": {
+"checked": "2026-11-01",
+"image": "https://alpaca.markets/static/images/meta-image-homepage.png"
 },
 "amazon-com": {
 "checked": "2026-10-31"
@@ -609,6 +671,9 @@
 "andrej-karpathy": {
 "checked": "2026-10-24"
 },
+"annas-mcp": {
+"checked": "2026-11-01"
+},
 "annotated-deep-learning-paper-implementations": {
 "checked": "2026-10-23",
 "image": "https://avatars1.githubusercontent.com/u/64068543?s=400&v=4"
@@ -616,6 +681,10 @@
 "annyang": {
 "checked": "2026-10-26",
 "image": "https://www.talater.com/annyang/images/icon_speech.png"
+},
+"anoma-ly": {
+"checked": "2026-11-01",
+"image": "https://anoma.ly/og-image.png"
 },
 "anse": {
 "checked": "2026-10-30"
@@ -715,6 +784,16 @@
 "apps-extensions-modelcontextprotocol-io": {
 "checked": "2026-10-28"
 },
+"arcadedb": {
+"checked": "2026-11-01",
+"image": "https://arcadedb.com/assets/images/arcadedb-logo.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 19.99,
+"url": "https://arcadedb.com/pricing.html"
+}
+},
 "arcbox": {
 "checked": "2026-10-27",
 "image": "https://arcbox.dev/opengraph-image-1jdwle.png?opengraph-image.3_xizob8kj3jz.png",
@@ -812,6 +891,10 @@
 "checked": "2026-10-29",
 "image": "https://appeeky.com/metadata-cover.png"
 },
+"asp": {
+"checked": "2026-11-01",
+"image": "https://www.viperrtp.com/viper-og.png"
+},
 "assemblyai": {
 "checked": "2026-10-23",
 "image": "https://www.assemblyai.com/_aai/images/meta/og-default.jpg",
@@ -819,6 +902,10 @@
 "free": true,
 "url": "https://www.assemblyai.com/pricing"
 }
+},
+"assetfurnace": {
+"checked": "2026-11-01",
+"image": "https://assetfurnace.com/og-card-hero.jpg"
 },
 "assistant-ui": {
 "checked": "2026-10-25",
@@ -937,6 +1024,10 @@
 "url": "https://starterkit.getdesign.md/"
 }
 },
+"awesome-ai-companion": {
+"checked": "2026-11-01",
+"image": "https://daskio.de5.net/og-image.png"
+},
 "awesome-ai-painting": {
 "checked": "2026-10-25",
 "image": "https://cdn.goenhance.ai/images/static/sites/20240718-000924.jpeg"
@@ -982,8 +1073,16 @@
 "awesome-openclaw-tutorial": {
 "checked": "2026-10-27"
 },
+"awesome-reverse-engineered": {
+"checked": "2026-11-01",
+"image": "https://awesome.alexgaoth.com/og.png"
+},
 "awesome-streamlit-org-is-for-sale": {
 "checked": "2026-10-29"
+},
+"awesome-weekly-robotics": {
+"checked": "2026-11-01",
+"image": "https://weeklyrobotics.com/img/logos/logo_black.svg"
 },
 "axonhub": {
 "checked": "2026-10-27"

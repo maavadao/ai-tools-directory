@@ -1,0 +1,7 @@
+name = "The Constructor"
+description = "Caspian: the AI infrastructure stack for self-sovereign agents and their relationships with humans."
+category = "productivity"
+website = "https://trycaspianai.com"
+open_source = true
+repository = "https://github.com/TryCaspian/caspian-sdk"
+added = 2026-11-01

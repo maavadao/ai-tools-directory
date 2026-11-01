@@ -1,0 +1,7 @@
+name = "cotabby"
+description = "Local AI autocomplete for macOS text fields. Use Apple Intelligence or local GGUF models, accept inline suggestions with Tab, and keep every token on your Mac."
+category = "other"
+website = "https://cotabby.app"
+open_source = true
+repository = "https://github.com/FuJacob/cotabby"
+added = 2026-11-01

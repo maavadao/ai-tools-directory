@@ -1,0 +1,7 @@
+name = "speech-swift"
+description = "Soniqo (speech-swift / speech-core): on-device transcription, diarization, voice cloning, and TTS for Apple Silicon, Android, Windows, and Linux. Apache 2.0."
+category = "audio"
+website = "https://soniqo.audio"
+open_source = true
+repository = "https://github.com/soniqo/speech-swift"
+added = 2026-11-01

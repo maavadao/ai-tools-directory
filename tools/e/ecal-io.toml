@@ -1,0 +1,7 @@
+name = "Redirecting..."
+description = "eCAL - enhanced Communication Abstraction Layer. A high performance publish-subscribe, client-server cross-plattform middleware."
+category = "other"
+website = "https://eclipse-ecal.github.io"
+open_source = true
+repository = "https://github.com/eclipse-ecal/ecal"
+added = 2026-11-01

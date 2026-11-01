@@ -188,6 +188,10 @@
 "checked": "2026-10-24",
 "image": "https://getleon.ai/img/facebook-preview.png"
 },
+"let-s-code": {
+"checked": "2026-11-01",
+"image": "https://lets-code.co.in/opengraph-image.webp"
+},
 "letsfg": {
 "checked": "2026-10-29"
 },
@@ -224,6 +228,10 @@
 "from": 140.0,
 "url": "https://lightning.ai/pricing/"
 }
+},
+"lightswind-ui": {
+"checked": "2026-11-01",
+"image": "https://muhilanorg.in/storage/lightswind-hero-image.png"
 },
 "lightx2v": {
 "checked": "2026-10-28",
@@ -355,6 +363,10 @@
 "lmms-lab": {
 "checked": "2026-10-27"
 },
+"lmno-lol": {
+"checked": "2026-11-01",
+"image": "https://lmno.lol/share.png"
+},
 "lmnr": {
 "checked": "2026-10-28",
 "image": "https://laminar.sh/opengraph-image.png",
@@ -374,6 +386,10 @@
 "lobe-ui": {
 "checked": "2026-10-29",
 "image": "https://repository-images.githubusercontent.com/643435168/7514a374-d7de-4c8b-ad61-5460bc0bfe35"
+},
+"lobe-vidol": {
+"checked": "2026-11-01",
+"image": "https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/og-vidol-480x270.png"
 },
 "lobehub": {
 "checked": "2026-10-23",
@@ -404,6 +420,10 @@
 },
 "login": {
 "checked": "2026-10-26"
+},
+"loki-mode": {
+"checked": "2026-11-01",
+"image": "https://www.autonomi.dev/og-image.png"
 },
 "lollms-webui": {
 "checked": "2026-10-27"
@@ -441,5 +461,13 @@
 "luminoth": {
 "checked": "2026-10-29",
 "image": "https://tryolabs.com/_next/static/media/generic-social-image.dc10a1df.png"
+},
+"luong-nguyen-portfolio": {
+"checked": "2026-11-01",
+"image": "https://luongnv.com/img/og-card.jpg"
+},
+"luvus": {
+"checked": "2026-11-01",
+"image": "https://luvus.dev/og.png"
 }
 }

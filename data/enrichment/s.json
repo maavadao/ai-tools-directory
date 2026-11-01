@@ -1,6 +1,18 @@
 {
+"safe-labs-ai": {
+"checked": "2026-11-01"
+},
+"saiku": {
+"checked": "2026-11-01"
+},
 "samgeo-gishub-org": {
 "checked": "2026-10-27"
+},
+"sample-factory-documentation": {
+"checked": "2026-11-01"
+},
+"sandboxd": {
+"checked": "2026-11-01"
 },
 "sapient-intelligence": {
 "checked": "2026-10-25",
@@ -19,6 +31,10 @@
 "from": 75.0,
 "url": "https://schole.ai/pricing"
 }
+},
+"scienceclaw": {
+"checked": "2026-11-01",
+"image": "https://scienceclaw.science/img/overview.webp"
 },
 "scikit-image": {
 "checked": "2026-10-26"
@@ -74,9 +90,15 @@
 "url": "https://sealos.io/pricing/"
 }
 },
+"searchat": {
+"checked": "2026-11-01"
+},
 "sebastian-raschka-phd": {
 "checked": "2026-10-27",
 "image": "https://sebastianraschka.com/images/logos/hero.webp"
+},
+"security-check": {
+"checked": "2026-11-01"
 },
 "seekdb": {
 "checked": "2026-10-28"
@@ -93,6 +115,10 @@
 },
 "self-contained-agents-that-self-organize": {
 "checked": "2026-10-30"
+},
+"self-host": {
+"checked": "2026-11-01",
+"image": "https://self-host.fyi/_astro/og.B9XSrbvu.png"
 },
 "semantic-kernel": {
 "checked": "2026-10-24",
@@ -121,6 +147,10 @@
 "from": 15.0,
 "url": "https://sentrux.dev/docs/pro/"
 }
+},
+"sentry-mcp": {
+"checked": "2026-11-01",
+"image": "https://mcp.sentry.dev/flow.jpg"
 },
 "seth-hobson": {
 "checked": "2026-10-23",
@@ -200,6 +230,9 @@
 "checked": "2026-10-31",
 "image": "https://skillkit.sh/og-image.png"
 },
+"skillpack-sh": {
+"checked": "2026-11-01"
+},
 "skills": {
 "checked": "2026-10-23",
 "image": "https://res.cloudinary.com/total-typescript/image/upload/v1777557385/og-image-root_2x.jpg"
@@ -225,6 +258,10 @@
 "skybridge": {
 "checked": "2026-10-29",
 "image": "https://skybridge.tech/assets/Skybridge-og.jpg"
+},
+"skyfall-gs": {
+"checked": "2026-11-01",
+"image": "https://skyfall-gs.jayinnn.dev/static/images/skyfall_gs_logo.png"
 },
 "skyjake-apos-s-capsule": {
 "checked": "2026-10-31"
@@ -364,6 +401,10 @@
 "checked": "2026-10-29",
 "image": "https://photon.codes/assets/og/home.png"
 },
+"speech-swift": {
+"checked": "2026-11-01",
+"image": "https://soniqo.audio/images/og-default.png"
+},
 "speechgpt": {
 "checked": "2026-10-29",
 "image": "https://speechgpt.app/speechgpt.svg"
@@ -388,6 +429,10 @@
 "from": 12.0,
 "url": "https://spira.ai/pricing"
 }
+},
+"splx": {
+"checked": "2026-11-01",
+"image": "https://framerusercontent.com/images/I7lb48gk3lKgxwKnhomkErdvymI.png"
 },
 "spotlight": {
 "checked": "2026-10-31"
@@ -422,9 +467,17 @@
 "stability-matrix": {
 "checked": "2026-10-25"
 },
+"stable-retro-documentation": {
+"checked": "2026-11-01",
+"image": "https://stable-retro.farama.org/_static/img/stable-retro-github.svg"
+},
 "stablediffusionbook": {
 "checked": "2026-10-30",
 "image": "https://stable-diffusion-book.vercel.app/assets/images/social/index.png"
+},
+"stackql": {
+"checked": "2026-11-01",
+"image": "https://stackql.io/img/stackql-featured-image.png"
 },
 "stagehand": {
 "checked": "2026-10-24",
@@ -439,6 +492,14 @@
 },
 "startlux-decision-v1-1": {
 "checked": "2026-10-31"
+},
+"startup-skill": {
+"checked": "2026-11-01",
+"image": "https://startupskill.me/og-default.png"
+},
+"stashbase": {
+"checked": "2026-11-01",
+"image": "https://stashbase.ai/_astro/og.DqvspfHm.png"
 },
 "stasosphere-base": {
 "checked": "2026-10-24"
@@ -559,6 +620,10 @@
 "url": "https://supademo.com/pricing"
 }
 },
+"supavec": {
+"checked": "2026-11-01",
+"image": "https://www.supavec.com/opengraph-image.png?37e1ad0d78ea2682"
+},
 "super-agent-party": {
 "checked": "2026-10-29"
 },
@@ -573,6 +638,10 @@
 },
 "superagi": {
 "checked": "2026-10-24"
+},
+"superdoc": {
+"checked": "2026-11-01",
+"image": "https://www.superdoc.dev/og-image.png"
 },
 "superduper-agents": {
 "checked": "2026-10-27",

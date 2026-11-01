@@ -1,0 +1,7 @@
+name = "Let's Code"
+description = "Free platform for students to crack placement interviews with DSA roadmaps, PYQs, aptitude prep, and interview experiences."
+category = "agents"
+website = "https://www.lets-code.co.in"
+open_source = true
+repository = "https://github.com/avinash201199/free-ai-agents-resources"
+added = 2026-11-01

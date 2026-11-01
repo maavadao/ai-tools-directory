@@ -1,0 +1,7 @@
+name = "rogue"
+description = "Make sure your AI delivers exactly what you envisioned with Qualifire’s state-of-the-art evaluation, guardrails and controls platform"
+category = "chatbots"
+website = "https://qualifire.ai"
+open_source = true
+repository = "https://github.com/rogue-security/rogue"
+added = 2026-11-01

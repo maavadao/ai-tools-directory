@@ -1,0 +1,7 @@
+name = "ophel"
+description = "Ophel transforms AI chats into readable, navigable knowledge. Real-time outlines, chat folders & prompt library for ChatGPT, Gemini, Claude and more."
+category = "other"
+website = "https://ophel.app"
+open_source = true
+repository = "https://github.com/urzeye/ophel"
+added = 2026-11-01

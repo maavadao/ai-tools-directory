@@ -1,0 +1,7 @@
+name = "JamAIBase"
+description = "JamAI Base: Open-source BaaS for LLMs and GPT workflows. Integrate AI into your database with Retrieval-Augmented Generation (RAG), AI content management, and no complex AI stacks. Developer-friendly LangChain & LlamaIndex alternative."
+category = "chatbots"
+website = "https://www.jamaibase.com"
+open_source = true
+repository = "https://github.com/EmbeddedLLM/JamAIBase"
+added = 2026-11-01

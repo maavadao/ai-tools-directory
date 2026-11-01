@@ -1,0 +1,7 @@
+name = "ctx"
+description = "Search your agent history, blame code to the session that wrote it, map your codebase, and cut noisy tool output."
+category = "coding"
+website = "https://ctx.rs"
+open_source = true
+repository = "https://github.com/ctxrs/ctx"
+added = 2026-11-01

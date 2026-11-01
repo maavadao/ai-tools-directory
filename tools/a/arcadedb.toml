@@ -1,0 +1,7 @@
+name = "ArcadeDB"
+description = "The open-source multi-model graph database. Native graph, document, key-value, vector, search, and time-series in one engine. ACID and blazing-fast."
+category = "other"
+website = "https://arcadedb.com"
+open_source = true
+repository = "https://github.com/ArcadeData/arcadedb"
+added = 2026-11-01

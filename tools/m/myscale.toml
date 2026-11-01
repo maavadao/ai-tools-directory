@@ -1,0 +1,7 @@
+name = "MyScale"
+description = "Explore MyScale, the next-gen AI database fusing vector search with SQL analytics to deliver a streamlined, fully-managed, and high-performance experience. Unlock insights from massive multimodal vector datasets with unparalleled speed and efficiency."
+category = "other"
+website = "https://www.myscale.com"
+open_source = true
+repository = "https://github.com/myscale/MyScaleDB"
+added = 2026-11-01

@@ -1,0 +1,7 @@
+name = "Darkmoon"
+description = "50 AI agents. 80+ tools. Live dashboard. Real evidence. Open source under GPLv3."
+category = "chatbots"
+website = "https://dark-moon.org"
+open_source = true
+repository = "https://github.com/ASCIT31/Dark-Moon"
+added = 2026-11-01

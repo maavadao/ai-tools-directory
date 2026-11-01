@@ -1,0 +1,7 @@
+name = "WebLLM Chat"
+description = "Chat with AI large language models running natively in your browser"
+category = "chatbots"
+website = "https://chat.webllm.ai"
+open_source = true
+repository = "https://github.com/mlc-ai/web-llm-chat"
+added = 2026-11-01

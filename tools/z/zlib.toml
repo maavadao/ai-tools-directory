@@ -1,0 +1,7 @@
+name = "zlib"
+description = "Search, download, and send books to Kindle from the terminal, or hand the same binary to Claude Code or Codex."
+category = "chatbots"
+website = "https://zlib.heartleo.dev"
+open_source = true
+repository = "https://github.com/heartleo/zlib"
+added = 2026-11-01

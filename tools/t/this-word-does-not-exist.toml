@@ -1,0 +1,7 @@
+name = "this-word-does-not-exist"
+description = "We use artificial intelligence to make up new English words."
+category = "other"
+website = "https://www.thisworddoesnotexist.com"
+open_source = true
+repository = "https://github.com/turtlesoupy/this-word-does-not-exist"
+added = 2026-11-01

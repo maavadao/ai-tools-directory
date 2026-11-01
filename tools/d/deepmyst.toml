@@ -1,0 +1,7 @@
+name = "DeepMyst"
+description = "Build AI agents in human language. Run them across 500+ models. Govern every request from one platform."
+category = "coding"
+website = "https://www.deepmyst.com"
+open_source = true
+repository = "https://github.com/DeepMyst/Mysti"
+added = 2026-11-01

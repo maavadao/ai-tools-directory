@@ -1,0 +1,7 @@
+name = "vocalinux"
+description = "Voice dictation for Linux with local engines or an optional Remote API. Install in minutes and dictate in any app on Ubuntu, Fedora, Arch, X11, or Wayland."
+category = "audio"
+website = "https://vocalinux.com"
+open_source = true
+repository = "https://github.com/VocaHQ/vocalinux"
+added = 2026-11-01

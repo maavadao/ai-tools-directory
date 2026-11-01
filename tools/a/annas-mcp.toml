@@ -1,0 +1,7 @@
+name = "annas-mcp"
+description = "The world’s largest open-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, and more."
+category = "other"
+website = "https://annas-archive.gl"
+open_source = true
+repository = "https://github.com/iosifache/annas-mcp"
+added = 2026-11-01

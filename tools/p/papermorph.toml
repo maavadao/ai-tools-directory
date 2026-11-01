@@ -1,0 +1,7 @@
+name = "Papermorph"
+description = "A little library of books brought to life. Watch animated lessons, explore the ideas, and try them yourself."
+category = "video"
+website = "https://papermorph.diamonddoge.org"
+open_source = true
+repository = "https://github.com/DozenTwelve/Papermorph"
+added = 2026-11-01

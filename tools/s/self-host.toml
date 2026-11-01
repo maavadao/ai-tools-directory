@@ -1,0 +1,7 @@
+name = "self-host"
+description = "Your photos, files and favourite apps, running on your own computer. Choose from 93 Apps, install them yourself or ask your agent."
+category = "other"
+website = "https://self-host.fyi"
+open_source = true
+repository = "https://github.com/ajnart/self-host"
+added = 2026-11-01

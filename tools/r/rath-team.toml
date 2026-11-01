@@ -1,0 +1,7 @@
+name = "Rath Team"
+description = "OpenRath, documentation, examples, research notes, GitHub, and official channels for Rath Team."
+category = "chatbots"
+website = "https://www.openrath.com"
+open_source = true
+repository = "https://github.com/Rath-Team/OpenRath"
+added = 2026-11-01

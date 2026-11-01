@@ -1,0 +1,7 @@
+name = "Sample Factory Documentation"
+description = "High throughput synchronous and asynchronous reinforcement learning"
+category = "other"
+website = "https://www.samplefactory.dev"
+open_source = true
+repository = "https://github.com/alex-petrenko/sample-factory"
+added = 2026-11-01

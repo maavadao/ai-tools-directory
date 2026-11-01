@@ -1,0 +1,7 @@
+name = "OpenLoomi"
+description = "Open-source, local-first AI workspace with memory, context, and execution built in."
+category = "chatbots"
+website = "https://openloomi.ai"
+open_source = true
+repository = "https://github.com/melandlabs/openloomi"
+added = 2026-11-01

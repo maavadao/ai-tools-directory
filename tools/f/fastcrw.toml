@@ -1,0 +1,7 @@
+name = "fastCRW"
+description = "Open source Firecrawl + Tavily alternative. Search, scrape, crawl, map, and extract the web for AI agents. Self-hostable Rust binary, free tier."
+category = "chatbots"
+website = "https://fastcrw.com"
+open_source = true
+repository = "https://github.com/fastcrw/crw"
+added = 2026-11-01

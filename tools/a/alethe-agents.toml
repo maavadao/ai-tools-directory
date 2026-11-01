@@ -1,0 +1,7 @@
+name = "alethe-agents"
+description = "Reúna Claude Code, Codex, OpenCode e seus terminais num painel local. Menos janelas, mais coisas em paralelo."
+category = "coding"
+website = "https://alethe-agents.kc1t.com"
+open_source = true
+repository = "https://github.com/Kc1t/alethe-agents"
+added = 2026-11-01

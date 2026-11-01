@@ -1,0 +1,7 @@
+name = "Stable-Retro Documentation"
+description = "A fork of gym-retro with additional games, emulators and supported platforms"
+category = "research"
+website = "https://stable-retro.farama.org"
+open_source = true
+repository = "https://github.com/Farama-Foundation/Stable-Retro"
+added = 2026-11-01

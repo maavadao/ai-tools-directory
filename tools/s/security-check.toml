@@ -1,0 +1,7 @@
+name = "Security Check"
+description = "🛡️ Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI."
+category = "other"
+website = "https://zerodayevil.cloud"
+open_source = true
+repository = "https://github.com/ZeroDayEvil/ai-security-tool"
+added = 2026-11-01

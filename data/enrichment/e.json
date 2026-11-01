@@ -2,6 +2,9 @@
 "ebook-translator": {
 "checked": "2026-10-29"
 },
+"ecal-io": {
+"checked": "2026-11-01"
+},
 "ecc": {
 "checked": "2026-10-23",
 "image": "https://ecc.tools/og.png?v=3f55054986bd",
@@ -146,6 +149,10 @@
 "checked": "2026-10-31",
 "image": "https://empryo.com/og/home.png?v=339fbc61"
 },
+"enginewire": {
+"checked": "2026-11-01",
+"image": "https://enginewire.dev/assets/og.png"
+},
 "envd": {
 "checked": "2026-10-29",
 "image": "https://og.tensorchord.ai/api/og?title=envd"
@@ -202,6 +209,10 @@
 "evomap": {
 "checked": "2026-10-25",
 "image": "https://evomap.ai/og-image.png"
+},
+"evotorch": {
+"checked": "2026-11-01",
+"image": "https://evotorch.ai/social_white.png"
 },
 "exa-3-0": {
 "checked": "2026-10-23",

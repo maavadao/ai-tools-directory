@@ -1,0 +1,7 @@
+name = "nuplan-devkit"
+description = "The devkit of the nuPlan dataset."
+category = "other"
+website = "https://www.nuplan.org"
+open_source = true
+repository = "https://github.com/motional/nuplan-devkit"
+added = 2026-11-01

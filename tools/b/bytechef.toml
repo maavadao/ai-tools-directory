@@ -1,0 +1,7 @@
+name = "ByteChef"
+description = "Automate workflows & deploy AI agents with ByteChef, an open-source platform that you can fully customize, extend and make your own."
+category = "agents"
+website = "https://www.bytechef.io"
+open_source = true
+repository = "https://github.com/bytechefhq/bytechef"
+added = 2026-11-01

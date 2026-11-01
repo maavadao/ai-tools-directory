@@ -1,0 +1,7 @@
+name = "zed-sdk"
+description = "Stereolabs provides revolutionary vision-based AI perception for autonomy and sensing. Get compact, affordable, high accuracy AI cameras Shipping now."
+category = "other"
+website = "https://www.stereolabs.com"
+open_source = true
+repository = "https://github.com/stereolabs/zed-sdk"
+added = 2026-11-01

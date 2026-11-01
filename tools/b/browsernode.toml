@@ -1,0 +1,7 @@
+name = "browsernode"
+description = "Repetitive work is dead. Browser Use empowers anyone to automate repetitive online tasks, no code required."
+category = "chatbots"
+website = "https://browsernode.com"
+open_source = true
+repository = "https://github.com/lennybase/browsernode"
+added = 2026-11-01

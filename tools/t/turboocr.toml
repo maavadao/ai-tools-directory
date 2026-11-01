@@ -1,0 +1,7 @@
+name = "TurboOCR"
+description = "High-speed document OCR server built on NVIDIA TensorRT. Self-hosted, one container."
+category = "other"
+website = "https://turboocr.com"
+open_source = true
+repository = "https://github.com/aiptimizer/TurboOCR"
+added = 2026-11-01
