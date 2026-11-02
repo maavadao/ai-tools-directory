@@ -1,0 +1,7 @@
+name = "The Website Specification"
+description = "A platform-agnostic, full specification of the technical features a good website should have. Built in the open under an MIT licence."
+category = "writing"
+website = "https://specification.website"
+open_source = true
+repository = "https://github.com/jdevalk/specification.website"
+added = 2026-11-02

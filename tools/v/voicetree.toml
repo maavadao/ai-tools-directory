@@ -1,0 +1,7 @@
+name = "voicetree"
+description = "The graph holds your memory so you don't have to. Agents spawn agents. Watch from above, zoom into where you are needed."
+category = "coding"
+website = "https://voicetree.io"
+open_source = true
+repository = "https://github.com/voicetreelab/voicetree"
+added = 2026-11-02

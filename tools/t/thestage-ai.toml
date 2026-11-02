@@ -1,0 +1,7 @@
+name = "TheStage AI"
+description = "Accelerate models on NVIDIA & edge. Full guides for setup, optimization & deploy. ANNA, QLIP, Elastic Models, CLI & API. Built for AI teams & devs."
+category = "audio"
+website = "https://app.thestage.ai:443"
+open_source = true
+repository = "https://github.com/TheStageAI/TheWhisper"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "pro-chat"
+description = "Components Library for Quickly Building LLM Chat Interfaces."
+category = "chatbots"
+website = "https://pro-chat.antdigital.dev"
+open_source = true
+repository = "https://github.com/ant-design/pro-chat"
+added = 2026-11-02

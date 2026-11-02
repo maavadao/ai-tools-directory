@@ -1,0 +1,7 @@
+name = "cognetivy"
+description = "Define workflows, track runs, and keep reasoning in one place. Works with Cursor, Claude Code, OpenClaw, and MCP-compatible agents."
+category = "agents"
+website = "https://cognetivy.com"
+open_source = true
+repository = "https://github.com/meitarbe/cognetivy"
+added = 2026-11-02

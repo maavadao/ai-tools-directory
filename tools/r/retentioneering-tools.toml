@@ -1,0 +1,7 @@
+name = "retentioneering-tools"
+description = "Retentioneering — clickstream and user-path analysis."
+category = "other"
+website = "https://retentioneering.com"
+open_source = true
+repository = "https://github.com/retentioneering/retentioneering-tools"
+added = 2026-11-02

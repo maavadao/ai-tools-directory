@@ -1,0 +1,7 @@
+name = "HelixML"
+description = "Helix is an AI agent orchestration platform. Every agent gets a computer of its own to do your team's repetitive work, and a person approves every result."
+category = "chatbots"
+website = "https://helix.ml"
+open_source = true
+repository = "https://github.com/helixml/helix"
+added = 2026-11-02

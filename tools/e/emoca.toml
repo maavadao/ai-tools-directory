@@ -1,0 +1,7 @@
+name = "EMOCA"
+description = "Official repository accompanying a CVPR 2022 paper EMOCA: Emotion Driven Monocular Face Capture And Animation. EMOCA takes a single image of a face as input and produces a 3D reconstruction. EMOCA sets the new standard on reconstructing highly emotional images in-the-wild"
+category = "other"
+website = "https://emoca.is.tue.mpg.de"
+open_source = true
+repository = "https://github.com/radekd91/emoca"
+added = 2026-11-02

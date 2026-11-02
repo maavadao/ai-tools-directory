@@ -1,0 +1,7 @@
+name = "projectmem"
+description = "projectmem is open-source coding agent memory: a local-first memory and judgment layer for Claude Code, Cursor, Codex, Antigravity, Grok and any MCP client — plus DeepSeek, GLM, Qwen and other local coding LLMs through universal mode. It records issues, attempts, fixes and decisions, then warns you…"
+category = "coding"
+website = "https://www.projectmem.dev"
+open_source = true
+repository = "https://github.com/riponcm/projectmem"
+added = 2026-11-02

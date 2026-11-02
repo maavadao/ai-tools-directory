@@ -1,0 +1,7 @@
+name = "Awesome Claude Code Mods"
+description = "7,349 Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints."
+category = "other"
+website = "https://mods.aidojo.si"
+open_source = true
+repository = "https://github.com/karanb192/awesome-claude-code-mods"
+added = 2026-11-02

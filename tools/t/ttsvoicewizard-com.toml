@@ -1,0 +1,7 @@
+name = "Home"
+description = "A free and open-source Speech-To-Text and Text-To-Speech application designed for all your VRChat, VTuber and Streamer needs."
+category = "audio"
+website = "https://TTSVoiceWizard.com"
+open_source = true
+repository = "https://github.com/VRCWizard/TTS-Voice-Wizard"
+added = 2026-11-02

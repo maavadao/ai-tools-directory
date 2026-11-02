@@ -91,6 +91,10 @@
 "url": "https://fastrouter.ai/pricing"
 }
 },
+"fdeops": {
+"checked": "2026-11-02",
+"image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/94e11ec0-1565-4259-8c73-f824c4ef03a0/id-preview-c5ae5766--d9c6913b-71c7-411e-93b8-4aa5f60d8556.lovable.app-1782015556687.png"
+},
 "feast": {
 "checked": "2026-10-26",
 "image": "https://feast.dev/wp-content/uploads/2023/01/feast-og@2x.png"
@@ -210,6 +214,10 @@
 "flashinfer": {
 "checked": "2026-10-26"
 },
+"flatkey-ai": {
+"checked": "2026-11-02",
+"image": "https://flatkey.ai/assets/og-image.png"
+},
 "floot-mcp": {
 "checked": "2026-10-23",
 "image": "https://floot.com/opengraph-image?73d44ab152b4e4a6",
@@ -236,6 +244,9 @@
 "flux": {
 "checked": "2026-10-27",
 "image": "https://fluxml.ai/assets/images/FluxGitHubPreview.png"
+},
+"fluxvla": {
+"checked": "2026-11-02"
 },
 "flyde": {
 "checked": "2026-10-28"
@@ -272,6 +283,14 @@
 "checked": "2026-10-26",
 "image": "https://forgecode.dev/shared/og/home.png?v=2"
 },
+"formae": {
+"checked": "2026-11-02",
+"image": "https://formae.ai/media/site/og/index.png",
+"pricing": {
+"trial": true,
+"url": "https://formae.ai/pricing"
+}
+},
 "formkit": {
 "checked": "2026-10-27",
 "image": "https://formkit.com/__og-image__/static/og.png"
@@ -284,8 +303,20 @@
 "url": "https://founderos.sh"
 }
 },
+"foundry": {
+"checked": "2026-11-02",
+"image": "https://www.promptise.com/opengraph-image?bcef1b3f7f06f4e9"
+},
 "fragments-by-e2b": {
 "checked": "2026-10-26"
+},
+"frantic-board": {
+"checked": "2026-11-02",
+"image": "https://gofrantic.com/og.png"
+},
+"free-one-api": {
+"checked": "2026-11-02",
+"image": "https://free-one-api.rockchin.top/zh-CN/assets/load_balance.png"
 },
 "free4chat": {
 "checked": "2026-11-01"

@@ -1,0 +1,7 @@
+name = "MCP Ruby SDK"
+description = "The official Ruby SDK for Model Context Protocol servers and clients."
+category = "other"
+website = "https://ruby.sdk.modelcontextprotocol.io"
+open_source = true
+repository = "https://github.com/modelcontextprotocol/ruby-sdk"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "OpenFlowKit"
+description = "Architecture diagrams you draw, write as code, or hand to your agent. Paste a GitHub repo, get its map. Free, open source and local-first."
+category = "coding"
+website = "https://openflowkit.com"
+open_source = true
+repository = "https://github.com/openflowkit/openflowkit"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "surogate"
+description = "Agents that follow your processes, using models fine-tuned on your work, in your cloud or on your own hardware. Built in Europe."
+category = "chatbots"
+website = "https://surogate.ai"
+open_source = true
+repository = "https://github.com/invergent-ai/surogate"
+added = 2026-11-02

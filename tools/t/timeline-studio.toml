@@ -1,0 +1,7 @@
+name = "Timeline Studio"
+description = "Generate AI voiceovers, captions, talking avatars, and export timeline videos directly in your browser."
+category = "other"
+website = "https://video-editor.ai-creator.top"
+open_source = true
+repository = "https://github.com/MartinDelophy/ai-video-editor"
+added = 2026-11-02

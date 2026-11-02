@@ -1,0 +1,7 @@
+name = "Verbalized Sampling"
+description = "Mitigate Mode Collapse and Unlock LLM Diversity"
+category = "chatbots"
+website = "https://www.verbalized-sampling.com"
+open_source = true
+repository = "https://github.com/CHATS-lab/verbalized-sampling"
+added = 2026-11-02

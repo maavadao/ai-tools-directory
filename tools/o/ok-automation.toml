@@ -1,0 +1,7 @@
+name = "OK Automation"
+description = "ok-script 是纯 Python 计算机视觉自动化框架，并汇集 ok-ww、ok-nte、ok-end-field、ok-kes、ok-script-app 等开源项目。"
+category = "agents"
+website = "https://ok-script.com"
+open_source = true
+repository = "https://github.com/ok-oldking/ok-script"
+added = 2026-11-02

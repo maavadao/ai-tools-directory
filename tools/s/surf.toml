@@ -1,0 +1,7 @@
+name = "surf"
+description = "AI agent that interacts with a virtual desktop environment through natural language instructions"
+category = "agents"
+website = "https://surf.e2b.dev"
+open_source = true
+repository = "https://github.com/e2b-dev/surf"
+added = 2026-11-02

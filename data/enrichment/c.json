@@ -40,6 +40,10 @@
 "carefree-creator": {
 "checked": "2026-10-30"
 },
+"cartesiancs": {
+"checked": "2026-11-02",
+"image": "https://cartesiancs.com/logo192.jpg"
+},
 "cascadeflow": {
 "checked": "2026-10-27",
 "image": "https://cdn.ploy.ai/85867475-b06b-4544-912d-701fb42e8c02/user/a567e070-ai-generated-1783581868108.png"
@@ -103,6 +107,9 @@
 "certgames": {
 "checked": "2026-10-25",
 "image": "https://certgames.com/assets/certgames-social.png"
+},
+"cezar": {
+"checked": "2026-11-02"
 },
 "chainer": {
 "checked": "2026-10-26",
@@ -190,6 +197,14 @@
 "url": "https://chatgpt.com/pricing/"
 }
 },
+"chatgpt-i18n": {
+"checked": "2026-11-02",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"url": "https://www.i18n.ing/en/pricing"
+}
+},
 "chatgpt-prompts-extension": {
 "checked": "2026-10-31"
 },
@@ -213,6 +228,9 @@
 },
 "chemprop": {
 "checked": "2026-10-29"
+},
+"chenyang-yuan-39-s-homepage": {
+"checked": "2026-11-02"
 },
 "cherry-studio": {
 "checked": "2026-10-23",
@@ -286,6 +304,9 @@
 "claude-code-settings": {
 "checked": "2026-10-30",
 "image": "https://feisky.xyz/images/og-default.png"
+},
+"claude-code-skills": {
+"checked": "2026-11-02"
 },
 "claude-code-templates": {
 "checked": "2026-10-23",
@@ -366,6 +387,10 @@
 "clawbench": {
 "checked": "2026-11-01",
 "image": "https://claw-bench.com/static/social-card.png?v=20260515"
+},
+"clawcodex": {
+"checked": "2026-11-02",
+"image": "https://clawcodex.app/assets/og.png"
 },
 "clawd-on-desk": {
 "checked": "2026-10-26"
@@ -466,6 +491,10 @@
 "clodds": {
 "checked": "2026-10-28"
 },
+"clodex": {
+"checked": "2026-11-02",
+"image": "https://clodex.xyz/og-cover.png?v=20260729"
+},
 "cloudflare-docs": {
 "checked": "2026-10-26",
 "image": "https://developers.cloudflare.com/og-docs.png",
@@ -502,6 +531,10 @@
 "coai-dev": {
 "checked": "2026-10-25",
 "image": "https://www.coai.dev/og-image.png"
+},
+"coco-research": {
+"checked": "2026-11-02",
+"image": "https://cocoresearch.org/assets/img/og-cinematic.jpg"
 },
 "cocoindex": {
 "checked": "2026-10-25",
@@ -554,6 +587,10 @@
 "checked": "2026-10-26",
 "image": "https://codecompanion.olimorris.dev/assets/images/social_banner.png"
 },
+"codeman": {
+"checked": "2026-11-02",
+"image": "https://getcodeman.com/assets/og.png"
+},
 "codepilot": {
 "checked": "2026-10-26",
 "image": "https://www.codepilot.sh/screenshots/en/chat-window.webp"
@@ -600,6 +637,10 @@
 "url": "https://www.cognee.ai/pricing"
 }
 },
+"cognetivy": {
+"checked": "2026-11-02",
+"image": "https://cognetivy.com/og-image.png"
+},
 "collaborative-kubernetes-ai-assistant": {
 "checked": "2026-10-29",
 "image": "https://cdn.prod.website-files.com/633705de6adaa38599d8e258/659586d07cd8a996f387ffcd_BK_scene-OG.webp"
@@ -630,6 +671,10 @@
 "from": 4.0,
 "url": "https://comfy.org/pricing/"
 }
+},
+"comfyui-mcp": {
+"checked": "2026-11-02",
+"image": "https://artokun.mintlify.app/images/og.png"
 },
 "comfyui-mixlab-nodes": {
 "checked": "2026-10-30"
@@ -688,6 +733,15 @@
 "checked": "2026-10-25",
 "image": "https://concat.standalones.org/og.png"
 },
+"concord-ai": {
+"checked": "2026-11-02",
+"image": "https://getconcord.ai/brand/og.png",
+"pricing": {
+"currency": "USD",
+"from": 60.0,
+"url": "https://getconcord.ai/pricing"
+}
+},
 "conduit": {
 "checked": "2026-10-29",
 "image": "https://conduit.mobile/og-image.png"
@@ -699,6 +753,14 @@
 "consensus-ai-for-research": {
 "checked": "2026-10-23",
 "image": "https://consensus.app/images/og-default.png"
+},
+"console": {
+"checked": "2026-11-02",
+"image": "https://phase.dev/assets/images/meta.jpg",
+"pricing": {
+"trial": true,
+"url": "https://phase.dev/pricing/"
+}
 },
 "context-mode": {
 "checked": "2026-10-23",
@@ -813,6 +875,9 @@
 "checked": "2026-10-29",
 "image": "https://count.beejz.com/img/social-card.png"
 },
+"countbot": {
+"checked": "2026-11-02"
+},
 "countly-server": {
 "checked": "2026-10-26",
 "image": "https://cdn.prod.website-files.com/61c1b7c3e2f3805325be4594/668ce80fb93226b6ad88d718_d587926ef3277bc26935a28e68750dcb_Meta%20Tag-Countly.com.jpg",
@@ -826,6 +891,9 @@
 "course-content": {
 "checked": "2026-10-28"
 },
+"course-content-dl": {
+"checked": "2026-11-02"
+},
 "cowagent": {
 "checked": "2026-10-23",
 "image": "https://cowagent.ai/logo/cow-logo.png"
@@ -833,6 +901,10 @@
 "cox-automotive-inc": {
 "checked": "2026-10-30",
 "image": "https://www.coxautoinc.com/wp-content/uploads/2025/09/CAI-1200x628-1.png"
+},
+"crabwalk": {
+"checked": "2026-11-02",
+"image": "https://crabwalk.app/og-image.png"
 },
 "crate": {
 "checked": "2026-10-27",
@@ -1007,6 +1079,18 @@
 "cylonjs-com": {
 "checked": "2026-10-28",
 "image": "https://cdn.xoilacvbc.tv/2025/05/xoilac365-tv.png"
+},
+"cyrene": {
+"checked": "2026-11-02",
+"image": "https://cyrene-agent.example/img/logo.png"
+},
+"cyrus": {
+"checked": "2026-11-02",
+"image": "https://www.atcyrus.com/opengraph-image.jpg?opengraph-image.f75734f8.jpg",
+"pricing": {
+"trial": true,
+"url": "https://www.atcyrus.com/pricing"
+}
 },
 "cz-git": {
 "checked": "2026-10-31",

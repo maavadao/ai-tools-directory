@@ -1,0 +1,7 @@
+name = "AI Visual Prompt Cookbook"
+description = "Plug-and-play JSON style prompts for Nano Banana Pro, GPT Image & Midjourney. Copy one style.json, get a consistent look. New styles every week."
+category = "education"
+website = "https://prompts.vigocreativeai.com"
+open_source = true
+repository = "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook"
+added = 2026-11-02

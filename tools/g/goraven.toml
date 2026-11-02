@@ -1,0 +1,7 @@
+name = "GoRaven"
+description = "GoRaven — open-source, self-hosted AI agent platform. Not a chat window. A workstation."
+category = "agents"
+website = "https://goraven.dev"
+open_source = true
+repository = "https://github.com/8treenet/goraven"
+added = 2026-11-02

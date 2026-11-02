@@ -1,0 +1,7 @@
+name = "PandaProbe"
+description = "Turn AI agent failures into tested, reusable fixes your fleet can use safely."
+category = "agents"
+website = "https://www.pandaprobe.com"
+open_source = true
+repository = "https://github.com/chirpz-ai/pandaprobe"
+added = 2026-11-02

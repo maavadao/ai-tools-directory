@@ -42,6 +42,15 @@
 "url": "https://pancake.ai/pricing"
 }
 },
+"pandaprobe": {
+"checked": "2026-11-02",
+"image": "https://www.pandaprobe.com/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 29.0,
+"url": "https://www.pandaprobe.com/pricing"
+}
+},
 "pandasai": {
 "checked": "2026-10-24"
 },
@@ -120,6 +129,10 @@
 "url": "https://pasteapp.io/pricing"
 }
 },
+"pasteguard": {
+"checked": "2026-11-02",
+"image": "https://pasteguard.com/og-image.png"
+},
 "pastemd": {
 "checked": "2026-10-27",
 "image": "https://pastemd.richqaq.cn/logo.png"
@@ -138,6 +151,10 @@
 },
 "pdfmathtranslate": {
 "checked": "2026-10-23"
+},
+"pearai": {
+"checked": "2026-11-02",
+"image": "https://trypear.ai/images/og-image.png"
 },
 "penecho": {
 "checked": "2026-10-29",
@@ -220,6 +237,10 @@
 "checked": "2026-10-23",
 "image": "https://i.photoprism.app/prism?cover=64&style=centered+dark"
 },
+"photoshop-mcp": {
+"checked": "2026-11-02",
+"image": "https://photoshop-mcp.com/images/og-social.png"
+},
 "phyagentos": {
 "checked": "2026-10-28"
 },
@@ -281,6 +302,14 @@
 "trial": true,
 "url": "https://pipelab.org/pricing/"
 }
+},
+"pipeless": {
+"checked": "2026-11-02",
+"image": "https://www.pipeless.ai/opengraph-image-1udkml.png?a3f81baea2de6d6e"
+},
+"pipelex": {
+"checked": "2026-11-02",
+"image": "https://pipelex.com/og-banner.jpg"
 },
 "pipeshub": {
 "checked": "2026-10-28",
@@ -441,8 +470,18 @@
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/assets/krxtn3RfwXQLTWNHwaYuWFI.png"
 },
+"pro-chat": {
+"checked": "2026-11-02"
+},
+"project-plateau": {
+"checked": "2026-11-02"
+},
 "projectlearn": {
 "checked": "2026-10-26"
+},
+"projectmem": {
+"checked": "2026-11-02",
+"image": "https://projectmem.dev/og-mark.png"
 },
 "proma": {
 "checked": "2026-10-29"
@@ -460,9 +499,22 @@
 "promptbin": {
 "checked": "2026-10-29"
 },
+"promptdriven-ai": {
+"checked": "2026-11-02",
+"image": "https://promptdriven.ai/opengraph-image?571eec7fb35875ae"
+},
 "prompthub": {
 "checked": "2026-10-30",
 "image": "https://prompthub.click/og-image.webp"
+},
+"promptlayer": {
+"checked": "2026-11-02",
+"image": "https://promptlayer.com/open-graph.png",
+"pricing": {
+"currency": "USD",
+"from": 49.0,
+"url": "https://www.promptlayer.com/pricing/"
+}
 },
 "promptquick": {
 "checked": "2026-11-01",
@@ -487,6 +539,10 @@
 "checked": "2026-10-30",
 "image": "https://tryproxy.io/card-image.png"
 },
+"ps5lm": {
+"checked": "2026-11-02",
+"image": "https://ps5lm.cobanov.dev/media/og.jpg?v=4"
+},
 "psi-physical-superintelligence": {
 "checked": "2026-11-01",
 "image": "https://psi.inc/og-image.png"
@@ -506,6 +562,9 @@
 "from": 199.0,
 "url": "https://puckeditor.com/pricing"
 }
+},
+"puffer": {
+"checked": "2026-11-02"
 },
 "pufferlib": {
 "checked": "2026-10-26"

@@ -1,0 +1,7 @@
+name = "Claude Code Skills 中文精选集"
+description = "收录 444+ Claude Code Skills / Agents / Plugins，按场景分类，中文说明，复制即装，持续更新。"
+category = "coding"
+website = "https://claude-skills.bt199.com"
+open_source = true
+repository = "https://github.com/laolaoshiren/claude-code-skills-zh"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "puffer"
+description = "Puffer is a free live TV streaming website and a research study at Stanford using machine learning to improve video streaming"
+category = "other"
+website = "https://puffer.stanford.edu"
+open_source = true
+repository = "https://github.com/StanfordSNR/puffer"
+added = 2026-11-02

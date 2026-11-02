@@ -1,0 +1,7 @@
+name = "moss"
+description = "Sub-10ms semantic search for conversational AI, voice agents, and copilots. Connect your data once — Moss handles the rest."
+category = "agents"
+website = "https://www.moss.dev"
+open_source = true
+repository = "https://github.com/usemoss/moss"
+added = 2026-11-02

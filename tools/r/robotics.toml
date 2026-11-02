@@ -1,0 +1,7 @@
+name = "robotics"
+description = "Notebook-based book \"Introduction to Robotics and Perception\" by Frank Dellaert and Seth Hutchinson"
+category = "education"
+website = "https://www.roboticsbook.org"
+open_source = true
+repository = "https://github.com/gtbook/robotics"
+added = 2026-11-02

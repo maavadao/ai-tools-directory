@@ -1,0 +1,7 @@
+name = "handbook.academy"
+description = "Free, open-source engineering handbooks. 365 chapters across 3 books — system design, algorithms, more. Taught the way you'd want to learn."
+category = "chatbots"
+website = "https://handbook.academy"
+open_source = true
+repository = "https://github.com/handbook-academy/engineering-handbook"
+added = 2026-11-02

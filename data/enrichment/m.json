@@ -6,6 +6,10 @@
 "checked": "2026-10-27",
 "image": "https://maafw.com/maafw.png"
 },
+"macai": {
+"checked": "2026-11-02",
+"image": "https://macai.chat/screenshot.png"
+},
 "machine-learning-in-r": {
 "checked": "2026-11-01",
 "image": "https://mlr3.mlr-org.com/logo.svg"
@@ -103,6 +107,9 @@
 "checked": "2026-10-25",
 "image": "https://usemagpie.ai/img/og.png"
 },
+"mahotas": {
+"checked": "2026-11-02"
+},
 "maia-chess": {
 "checked": "2026-10-31",
 "image": "https://www.maiachess.com/assets/og-maia.png"
@@ -130,6 +137,14 @@
 "free": true,
 "url": "https://www.make.com/pricing"
 }
+},
+"makerskills": {
+"checked": "2026-11-02",
+"image": "https://maker-skills.com/opengraph-image?b6f00ae35350d997"
+},
+"mamma": {
+"checked": "2026-11-02",
+"image": "https://download.is.tue.mpg.de/mamma/assets/og-image.jpg"
 },
 "manga-image-translator": {
 "checked": "2026-10-25"
@@ -214,6 +229,10 @@
 "checked": "2026-10-26",
 "image": "https://mathmodel.top/mathmodel.png"
 },
+"maubot": {
+"checked": "2026-11-02",
+"image": "https://mau.bot/favicon.png"
+},
 "mausbot": {
 "checked": "2026-10-23",
 "image": "https://mausbot.com/opengraph-image?78aec392592697f3",
@@ -253,11 +272,21 @@
 "mcp-for-blender": {
 "checked": "2026-10-23"
 },
+"mcp-framework": {
+"checked": "2026-11-02"
+},
+"mcp-nixos": {
+"checked": "2026-11-02",
+"image": "https://mcp-nixos.io/images/og-image.png"
+},
 "mcp-php-sdk": {
 "checked": "2026-10-30"
 },
 "mcp-python-sdk": {
 "checked": "2026-10-25"
+},
+"mcp-ruby-sdk": {
+"checked": "2026-11-02"
 },
 "mcp-so": {
 "checked": "2026-10-30",
@@ -302,6 +331,10 @@
 "md2wechat-skill": {
 "checked": "2026-10-28",
 "image": "https://www.md2wechat.cn/og-image.jpg"
+},
+"mdp-sec": {
+"checked": "2026-11-02",
+"image": "https://mdpsec.com/og-image.jpg"
 },
 "medusa": {
 "checked": "2026-10-23",
@@ -396,6 +429,10 @@
 "checked": "2026-10-24",
 "image": "https://memorilabs.ai/og-image.png"
 },
+"memorix": {
+"checked": "2026-11-02",
+"image": "https://mem.rglens.com/brand/memorix-dashboard.png"
+},
 "memu": {
 "checked": "2026-10-24",
 "image": "https://memu.pro/static/memu-logo.png"
@@ -403,6 +440,10 @@
 "memvid": {
 "checked": "2026-10-24",
 "image": "https://memvid.com/og-image.png"
+},
+"menlo-research": {
+"checked": "2026-11-02",
+"image": "https://menlo.ai/images/brand/og-image.png"
 },
 "mentionbird": {
 "checked": "2026-10-23",
@@ -450,6 +491,10 @@
 "from": 20.0,
 "url": "https://atoms.dev/pricing"
 }
+},
+"metal": {
+"checked": "2026-11-02",
+"image": "https://framerusercontent.com/images/IGFgdoGdArr78ab5BosoZEfp0jg.jpg"
 },
 "metalbear": {
 "checked": "2026-10-27",
@@ -502,6 +547,9 @@
 },
 "midjourney": {
 "checked": "2026-10-23"
+},
+"midjourney-proxy-admin": {
+"checked": "2026-11-02"
 },
 "midscene-js": {
 "checked": "2026-10-24",
@@ -611,6 +659,10 @@
 "mlc-llm": {
 "checked": "2026-10-24"
 },
+"mlcommons": {
+"checked": "2026-11-02",
+"image": "https://mlcommons.org/wp-content/uploads/2024/10/hero-full.jpeg-scaled.webp"
+},
 "mlcourse-ai": {
 "checked": "2026-10-25"
 },
@@ -691,6 +743,10 @@
 "mobile-use": {
 "checked": "2026-10-28",
 "image": "https://www.minitap.ai/images/og-image.webp"
+},
+"mobilegym": {
+"checked": "2026-11-02",
+"image": "https://mobilegym.dev/figures/poster.jpg"
 },
 "mobilerun": {
 "checked": "2026-10-25",
@@ -783,6 +839,13 @@
 "mosaico": {
 "checked": "2026-11-01",
 "image": "https://mosaico.dev/og_image.png"
+},
+"moss": {
+"checked": "2026-11-02",
+"image": "https://www.moss.dev/og-image.png"
+},
+"moved-https-getaimaestro-com": {
+"checked": "2026-11-02"
 },
 "moveit-motion-planning-framework": {
 "checked": "2026-10-30"

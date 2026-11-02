@@ -1,4 +1,7 @@
 {
+"ucla-mobility-lab": {
+"checked": "2026-11-02"
+},
 "udio": {
 "checked": "2026-10-23",
 "image": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/1647e9a2-47d6-4d95-5ae0-02bae7a44000/public"
@@ -29,6 +32,10 @@
 "from": 100.0,
 "url": "https://www.ultravox.ai/pricing"
 }
+},
+"unbrowse": {
+"checked": "2026-11-02",
+"image": "https://unbrowse.ai/og.jpg"
 },
 "undreamai": {
 "checked": "2026-10-30"
@@ -79,6 +86,9 @@
 },
 "uptrain": {
 "checked": "2026-10-29"
+},
+"use-scroll-bottom-demo": {
+"checked": "2026-11-02"
 },
 "useit-studio": {
 "checked": "2026-10-23"

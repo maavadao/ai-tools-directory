@@ -1,0 +1,7 @@
+name = "browser-use-mcp-server"
+description = "Kontext is the runtime security platform for your AI workforce. Discover agents, map what they can access, block prohibited actions, detect risk in agent behavior, and manage spend to reduce costs. Keep evidence for every policy decision."
+category = "other"
+website = "https://kontext.security"
+open_source = true
+repository = "https://github.com/kontext-security/browser-use-mcp-server"
+added = 2026-11-02

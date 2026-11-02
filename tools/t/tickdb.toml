@@ -1,0 +1,7 @@
+name = "TickDB"
+description = "TickDB provides real-time market data via REST and WebSocket APIs for stocks, forex, metals, indices, China and Hong Kong futures, and crypto."
+category = "education"
+website = "https://tickdb.ai"
+open_source = true
+repository = "https://github.com/TickDB/tickdb-unified-realtime-marketdata-api"
+added = 2026-11-02

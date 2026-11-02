@@ -1,0 +1,7 @@
+name = "ClawCodex"
+description = "ClawCodex is an open-source, multi-provider coding agent for your terminal. A Python rebuild of Claude Code with a real tool-calling loop, a streaming REPL, skills, and one runtime in front of every major LLM provider."
+category = "coding"
+website = "https://clawcodex.app"
+open_source = true
+repository = "https://github.com/agentforce314/clawcodex"
+added = 2026-11-02

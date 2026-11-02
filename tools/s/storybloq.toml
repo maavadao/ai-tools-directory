@@ -1,0 +1,7 @@
+name = "storybloq"
+description = "Storybloq keeps plans, stories, decisions, and review records in your repo, helping Claude Code and Codex carry work across sessions."
+category = "coding"
+website = "https://www.storybloq.com"
+open_source = true
+repository = "https://github.com/Storybloq/storybloq"
+added = 2026-11-02

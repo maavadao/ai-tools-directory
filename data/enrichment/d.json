@@ -165,6 +165,9 @@
 "deep-learning-interviews": {
 "checked": "2026-10-27"
 },
+"deep-learning-wizard": {
+"checked": "2026-11-02"
+},
 "deep-prove": {
 "checked": "2026-10-28",
 "image": "https://cdn.prod.website-files.com/6626eae60883543ea2814ed0/6ada8dcedbcfbf478b2e710a_lagrange-og-2026-15-9m.webp"
@@ -197,6 +200,10 @@
 "deepdetect-by-jolibrain": {
 "checked": "2026-10-29",
 "image": "https://deepdetect.com/img/meta_logo.jpg"
+},
+"deepdrive": {
+"checked": "2026-11-02",
+"image": "https://deepdrive.io/assets/img/cam-depth3.jpg"
 },
 "deepeval": {
 "checked": "2026-10-24",
@@ -356,6 +363,9 @@
 "dingo": {
 "checked": "2026-10-30"
 },
+"dipy": {
+"checked": "2026-11-02"
+},
 "distilabel-argilla-io": {
 "checked": "2026-10-28"
 },
@@ -402,6 +412,9 @@
 "dolthub": {
 "checked": "2026-10-24",
 "image": "https://www.dolthub.com/dolthub-preview.png"
+},
+"domain-details-page": {
+"checked": "2026-11-02"
 },
 "doop": {
 "checked": "2026-11-01",

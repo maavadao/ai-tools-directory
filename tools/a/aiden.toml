@@ -1,0 +1,7 @@
+name = "aiden"
+description = "Aiden is an open source DevOS for Windows, Linux, WSL, and macOS API mode. Stable v4.21.2 through npm."
+category = "chatbots"
+website = "https://aiden.taracod.com"
+open_source = true
+repository = "https://github.com/taracodlabs/aiden"
+added = 2026-11-02

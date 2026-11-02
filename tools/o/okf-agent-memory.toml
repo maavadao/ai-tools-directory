@@ -1,0 +1,7 @@
+name = "OKF Agent Memory"
+description = "Sub-300µs, zero-dependency in-memory BM25 search, embedded MCP server, and progressive disclosure for Claude Code, Cursor, and Local LLMs. Standardized on Google OKF v0.2."
+category = "coding"
+website = "https://okf-memory.dev"
+open_source = true
+repository = "https://github.com/okf-memory/okf-agent-memory"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "ros2_controllers"
+description = "Generic robotic controllers to accompany ros2_control"
+category = "other"
+website = "https://control.ros.org"
+open_source = true
+repository = "https://github.com/ros-controls/ros2_controllers"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "ABBYY"
+description = "ABBYY helps enterprises gain a complete understanding of their business processes to accelerate digital transformation with a platform enabled with AI, NLP and OCR."
+category = "other"
+website = "https://www.abbyy.com"
+open_source = true
+repository = "https://github.com/neoml-lib/neoml"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "女娲Nuwax AI伙伴协作平台"
+description = "女娲是一个Team Agent，她是由第二空间推出的全场景数据融通的AI伙伴协作平台。女娲AI智能体OS（Nuwax AgentOS）——全球首个开源AI智能体操作系统。AgentFlow多智能体协作、VibeCoding全AI开发、AgentGroup集群作业、Skills技能体系、沙箱安全、MCP协议、LangGraph支持、工作流编排。从编排构建到自主执行，为企业打造智能体。"
+category = "chatbots"
+website = "https://nuwax.com"
+open_source = true
+repository = "https://github.com/nuwax-ai/nuwax"
+added = 2026-11-02

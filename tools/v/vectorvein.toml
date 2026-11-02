@@ -1,0 +1,7 @@
+name = "VectorVein"
+description = "Build AI Task Agents for complex research and reusable visual workflows for files, data, and tools. Start free with 5,000 credits, no card required."
+category = "agents"
+website = "https://vectorvein.ai"
+open_source = true
+repository = "https://github.com/AndersonBY/vector-vein"
+added = 2026-11-02

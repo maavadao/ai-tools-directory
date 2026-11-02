@@ -28,6 +28,9 @@
 "checked": "2026-10-25",
 "image": "https://tambo.co/opengraph-image.jpg?11260a68d402786d"
 },
+"taoran-yi": {
+"checked": "2026-11-02"
+},
 "taranis-ai": {
 "checked": "2026-11-01",
 "image": "https://taranis.ai/screenshot.png"
@@ -85,6 +88,16 @@
 "telegram-search": {
 "checked": "2026-10-27"
 },
+"temps": {
+"checked": "2026-11-02",
+"image": "https://temps.sh/og/home.png",
+"pricing": {
+"currency": "USD",
+"from": 5.0,
+"trial": true,
+"url": "https://temps.sh/pricing"
+}
+},
 "ten-agent": {
 "checked": "2026-10-25"
 },
@@ -126,6 +139,10 @@
 "terax-ai": {
 "checked": "2026-10-25",
 "image": "https://terax.app/opengraph-image?454764f837731647"
+},
+"terminal-bench-science": {
+"checked": "2026-11-02",
+"image": "https://terminal-bench-science.ai/terminal-bench-science-og-1200x630.png"
 },
 "terminator": {
 "checked": "2026-10-30"
@@ -203,8 +220,16 @@
 "checked": "2026-10-24",
 "image": "https://substackcdn.com/image/fetch/$s_!W5r-!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1c8067a-95bb-416b-9114-e0b9fb8821d4_256x256.png"
 },
+"the-website-specification": {
+"checked": "2026-11-02",
+"image": "https://specification.website/og-default.png"
+},
 "thepi-pe": {
 "checked": "2026-10-31"
+},
+"thestage-ai": {
+"checked": "2026-11-02",
+"image": "https://cdn.thestage.ai/production/og/og-image.png"
 },
 "thesvg": {
 "checked": "2026-10-29",
@@ -216,6 +241,14 @@
 },
 "thinkany": {
 "checked": "2026-11-01"
+},
+"thinkwatch": {
+"checked": "2026-11-02",
+"image": "https://thinkwat.ch/og/home.png",
+"pricing": {
+"free": true,
+"url": "https://thinkwat.ch/pricing/"
+}
 },
 "thinkwee-s-blog": {
 "checked": "2026-10-30"
@@ -231,6 +264,10 @@
 "thunderbolt": {
 "checked": "2026-10-27",
 "image": "https://thunderbolt.io/social.png"
+},
+"tickdb": {
+"checked": "2026-11-02",
+"image": "https://tickdb.ai/logo.svg"
 },
 "tidb": {
 "checked": "2026-10-23",
@@ -263,6 +300,10 @@
 "trial": true,
 "url": "https://www.tidio.com/pricing/"
 }
+},
+"timeline-studio": {
+"checked": "2026-11-02",
+"image": "https://video-editor.ai-creator.top/icons/timeline-studio-icon-512.png"
 },
 "tiny-humans-intelligence": {
 "checked": "2026-10-23",
@@ -385,6 +426,9 @@
 "tradecatlabs": {
 "checked": "2026-10-25"
 },
+"tradingagents-dashboard": {
+"checked": "2026-11-02"
+},
 "tradingmcp": {
 "checked": "2026-10-27",
 "image": "https://tradingmcp.ai/og-image.png?v=4",
@@ -454,9 +498,22 @@
 "checked": "2026-10-29",
 "image": "https://trustgraph.ai/og-image.png"
 },
+"trypost": {
+"checked": "2026-11-02",
+"image": "https://trypost.it/images/social/og.png",
+"pricing": {
+"currency": "USD",
+"from": 19.0,
+"url": "https://trypost.it/en/pricing"
+}
+},
 "ttime": {
 "checked": "2026-10-28",
 "image": "https://ttime.timerecord.cn/img/png/translate-dark-light.png"
+},
+"ttsvoicewizard-com": {
+"checked": "2026-11-02",
+"image": "https://ttsvoicewizard.com/img/AVoice4Everyone.png"
 },
 "tty7": {
 "checked": "2026-10-31",

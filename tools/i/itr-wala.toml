@@ -1,0 +1,7 @@
+name = "itr-wala"
+description = "Free and open source. The AI reads your documents; a tested Python engine computes every rupee. No CA, no fee, and you alone click Pay, Submit, e-Verify."
+category = "other"
+website = "https://itr-wala.karanbansal.in"
+open_source = true
+repository = "https://github.com/karanb192/itr-wala"
+added = 2026-11-02

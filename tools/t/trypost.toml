@@ -1,0 +1,7 @@
+name = "TryPost"
+description = "The agentic social media scheduling tool. Connect ChatGPT, Claude, or any MCP client to plan, write, and post to every network from one calendar."
+category = "other"
+website = "https://trypost.it"
+open_source = true
+repository = "https://github.com/trypostit/trypost"
+added = 2026-11-02

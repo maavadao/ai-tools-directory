@@ -1,4 +1,7 @@
 {
+"safe-control-gym": {
+"checked": "2026-11-02"
+},
 "safe-labs-ai": {
 "checked": "2026-11-01"
 },
@@ -14,9 +17,17 @@
 "sandboxd": {
 "checked": "2026-11-01"
 },
+"santifer-io": {
+"checked": "2026-11-02",
+"image": "https://santifer.io/og-image.jpg"
+},
 "sapient-intelligence": {
 "checked": "2026-10-25",
 "image": "https://sapient.inc/og.png"
+},
+"savant": {
+"checked": "2026-11-02",
+"image": "https://savant-ai.io/assets/images/og-default.png"
 },
 "scanpy": {
 "checked": "2026-10-29",
@@ -46,6 +57,15 @@
 "checked": "2026-10-30",
 "image": "https://embed.filekitcdn.com/e/wW49WBPsD4QcY2GCZ4gYa8/hMHBvGnzikG6wXTNhaiLHu"
 },
+"scout": {
+"checked": "2026-11-02",
+"image": "https://outcrawl.ai/og/home.png?v=0755282fa0",
+"pricing": {
+"currency": "USD",
+"from": 49.0,
+"url": "https://outcrawl.ai/pricing"
+}
+},
 "scrapegraphai": {
 "checked": "2026-10-23",
 "image": "https://pub-308fdc8a1858487d9ab275774108077b.r2.dev/images/og.png",
@@ -55,6 +75,10 @@
 "from": 20.0,
 "url": "https://scrapegraphai.com/pricing"
 }
+},
+"scrawl": {
+"checked": "2026-11-02",
+"image": "https://scrawl.kitlangton.com/og.png"
 },
 "screenpipe": {
 "checked": "2026-10-24",
@@ -97,6 +121,10 @@
 "checked": "2026-10-27",
 "image": "https://sebastianraschka.com/images/logos/hero.webp"
 },
+"second-brain": {
+"checked": "2026-11-02",
+"image": "https://www.thesecondbrain.dev/images/social/index.jpg"
+},
 "security-check": {
 "checked": "2026-11-01"
 },
@@ -120,6 +148,9 @@
 "checked": "2026-11-01",
 "image": "https://self-host.fyi/_astro/og.B9XSrbvu.png"
 },
+"self-refine": {
+"checked": "2026-11-02"
+},
 "semantic-kernel": {
 "checked": "2026-10-24",
 "image": "https://learn.microsoft.com/en-us/media/open-graph-image.png"
@@ -131,6 +162,9 @@
 "free": true,
 "url": "https://getsemantica.ai/pricing"
 }
+},
+"semantix": {
+"checked": "2026-11-02"
 },
 "semiotic": {
 "checked": "2026-10-29",
@@ -208,8 +242,15 @@
 "url": "https://www.sim.ai/pricing"
 }
 },
+"simone-vellei-blog": {
+"checked": "2026-11-02",
+"image": "https://simonevellei.com/images/portrait.jpg"
+},
 "simpletransformers-ai": {
 "checked": "2026-10-31"
+},
+"simworld": {
+"checked": "2026-11-02"
 },
 "skales": {
 "checked": "2026-10-29",
@@ -265,6 +306,10 @@
 },
 "skyjake-apos-s-capsule": {
 "checked": "2026-10-31"
+},
+"skylos": {
+"checked": "2026-11-02",
+"image": "https://skylos.dev/og.png"
 },
 "skypilot": {
 "checked": "2026-10-25",
@@ -497,6 +542,10 @@
 "checked": "2026-11-01",
 "image": "https://startupskill.me/og-default.png"
 },
+"stash": {
+"checked": "2026-11-02",
+"image": "https://usestash.io/og-image.png"
+},
 "stashbase": {
 "checked": "2026-11-01",
 "image": "https://stashbase.ai/_astro/og.DqvspfHm.png"
@@ -532,6 +581,10 @@
 "stemroller": {
 "checked": "2026-10-28",
 "image": "https://www.stemroller.com/img/og-image.png"
+},
+"storybloq": {
+"checked": "2026-11-02",
+"image": "https://www.storybloq.com/og-image.png"
 },
 "strands-agents": {
 "checked": "2026-10-31",
@@ -620,6 +673,9 @@
 "url": "https://supademo.com/pricing"
 }
 },
+"supar-8212-supar": {
+"checked": "2026-11-02"
+},
 "supavec": {
 "checked": "2026-11-01",
 "image": "https://www.supavec.com/opengraph-image.png?37e1ad0d78ea2682"
@@ -697,6 +753,9 @@
 "supervision-documentation": {
 "checked": "2026-10-23"
 },
+"surf": {
+"checked": "2026-11-02"
+},
 "surfer": {
 "checked": "2026-10-23",
 "image": "https://surfer.ai/images/og/basic.jpg",
@@ -709,12 +768,25 @@
 "checked": "2026-10-24",
 "image": "https://www.surfsense.com/og-image.png"
 },
+"surogate": {
+"checked": "2026-11-02",
+"image": "https://surogate.ai/og-image.jpg",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://surogate.ai/pricing/"
+}
+},
 "svnscha-de": {
 "checked": "2026-10-30",
 "image": "https://svnscha.de/og/default.png"
 },
 "swanlab": {
 "checked": "2026-10-27"
+},
+"swapper-toolkit": {
+"checked": "2026-11-02",
+"image": "https://swapper.finance/og-image.png"
 },
 "swarmpit": {
 "checked": "2026-10-28",
@@ -728,6 +800,12 @@
 },
 "swe-list": {
 "checked": "2026-10-23"
+},
+"swe-smith": {
+"checked": "2026-11-02"
+},
+"swiftide": {
+"checked": "2026-11-02"
 },
 "swirl-ai": {
 "checked": "2026-10-28",

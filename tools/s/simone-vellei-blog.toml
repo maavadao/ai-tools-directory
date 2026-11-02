@@ -1,0 +1,7 @@
+name = "Simone Vellei - Blog"
+description = "Blog di Simone Vellei su Go, backend, AI agents, produttività e lavoro da remoto."
+category = "chatbots"
+website = "https://simonevellei.com"
+open_source = true
+repository = "https://github.com/henomis/lingoose"
+added = 2026-11-02

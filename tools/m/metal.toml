@@ -1,0 +1,7 @@
+name = "Metal"
+description = "Metal structures your firm's deals, documents, and decisions into one Context Graph, so the AI you already use knows your firm."
+category = "developer-platforms"
+website = "https://www.metal.ai"
+open_source = true
+repository = "https://github.com/getmetal/motorhead"
+added = 2026-11-02

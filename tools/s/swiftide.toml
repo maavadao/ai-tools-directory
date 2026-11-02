@@ -1,0 +1,7 @@
+name = "swiftide"
+description = "Fast, streaming, indexing, query, and agent library for building LLM applications in Rust."
+category = "chatbots"
+website = "https://swiftide.rs"
+open_source = true
+repository = "https://github.com/bosun-ai/swiftide"
+added = 2026-11-02

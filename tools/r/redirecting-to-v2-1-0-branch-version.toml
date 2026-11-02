@@ -1,0 +1,7 @@
+name = "Redirecting to v2.1.0 branch/version"
+description = "A Python library for simulation-based inference with deep learning"
+category = "other"
+website = "https://bayesflow.org"
+open_source = true
+repository = "https://github.com/bayesflow-org/bayesflow"
+added = 2026-11-02

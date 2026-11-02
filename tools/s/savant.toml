@@ -1,0 +1,7 @@
+name = "Savant"
+description = "Savant is an open-source, high-performance computer vision framework built on NVIDIA DeepStream for real-time video analytics on edge and data center hardware."
+category = "video"
+website = "https://savant-ai.io"
+open_source = true
+repository = "https://github.com/insight-platform/Savant"
+added = 2026-11-02

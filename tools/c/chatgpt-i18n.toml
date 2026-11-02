@@ -1,0 +1,7 @@
+name = "ChatGPT-i18n"
+description = "Turn your website into international with multi-languages"
+category = "chatbots"
+website = "https://www.i18n.ing"
+open_source = true
+repository = "https://github.com/ObservedObserver/chatgpt-i18n"
+added = 2026-11-02

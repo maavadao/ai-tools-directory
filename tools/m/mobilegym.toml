@@ -1,0 +1,7 @@
+name = "mobilegym"
+description = "Structured environment state enables verifiable evaluation (vs. 10.2% VLM-judge misjudgment) and scalable online training (single-machine batch-parallel GRPO). 28 apps, 416 parameterized task templates, +40.7 pt Sim-to-Real."
+category = "chatbots"
+website = "https://mobilegym.dev"
+open_source = true
+repository = "https://github.com/Purewhiter/mobilegym"
+added = 2026-11-02

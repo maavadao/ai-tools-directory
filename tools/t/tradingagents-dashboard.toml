@@ -1,0 +1,7 @@
+name = "TradingAgents Dashboard"
+description = "A 股多智能体智能投研系统 — 基于 TradingAgents 架构，15 名 AI Agent 模拟机构协作与实时辩论对抗，全流程可视化，支持 OpenClaw / Claude Code 集成，Docker 一键部署。"
+category = "chatbots"
+website = "https://app.510168.xyz"
+open_source = true
+repository = "https://github.com/KylinMountain/TradingAgents-AShare"
+added = 2026-11-02

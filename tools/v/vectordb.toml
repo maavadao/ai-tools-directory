@@ -1,0 +1,7 @@
+name = "vectordb"
+description = "Build AI agents without engineering overhead. Agent-as-a-Service platform for enterprises."
+category = "data"
+website = "https://www.epsilla.com"
+open_source = true
+repository = "https://github.com/epsilla-cloud/vectordb"
+added = 2026-11-02

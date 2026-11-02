@@ -1,0 +1,7 @@
+name = "HappyClaw"
+description = "开源可私有化的企业级 Agent 平台，含行业能力库与落地陪跑服务。数据留在自己的内网，接入飞书、钉钉、微信等六端 IM，两周交付可用样例。"
+category = "agents"
+website = "https://happyclaw.cc"
+open_source = true
+repository = "https://github.com/riba2534/happyclaw"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "AutoScientists"
+description = "A decentralized team of AI agents that self-organize into research teams, run experiments in parallel, and reorganize when directions stagnate. +8.33% on BioML-Bench, 1.9× faster on GPT optimization, +12.5% Spearman on ACE2–Spike."
+category = "agents"
+website = "https://autoscientists.openscientist.ai"
+open_source = true
+repository = "https://github.com/mims-harvard/AutoScientists"
+added = 2026-11-02

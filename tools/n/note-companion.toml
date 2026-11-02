@@ -1,0 +1,7 @@
+name = "Note Companion"
+description = "Achieve seamless meeting notes, instant handwriting digitization, and the smartest AI chat for your Obsidian workflow. One tool, endless possibilities."
+category = "other"
+website = "https://www.notecompanion.ai"
+open_source = true
+repository = "https://github.com/Nexus-JPF/note-companion"
+added = 2026-11-02

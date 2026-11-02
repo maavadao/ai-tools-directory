@@ -1,0 +1,7 @@
+name = "attestix"
+description = "Verifiable agent identity, signed credentials, delegation and portable governance evidence. Open source under Apache 2.0."
+category = "agents"
+website = "https://attestix.io"
+open_source = true
+repository = "https://github.com/VibeTensor/attestix"
+added = 2026-11-02

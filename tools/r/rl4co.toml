@@ -1,0 +1,7 @@
+name = "RL4CO"
+description = "Official documentation for RL4CO"
+category = "other"
+website = "https://rl4co.ai4co.org"
+open_source = true
+repository = "https://github.com/ai4co/rl4co"
+added = 2026-11-02

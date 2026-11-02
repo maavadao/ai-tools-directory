@@ -1,0 +1,7 @@
+name = "SimWorld"
+description = "SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds"
+category = "agents"
+website = "https://simworld.org"
+open_source = true
+repository = "https://github.com/SimWorld-AI/SimWorld"
+added = 2026-11-02

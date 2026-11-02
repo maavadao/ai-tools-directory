@@ -28,6 +28,20 @@
 "checked": "2026-10-29",
 "image": "https://www.vcptoolbox.com/assets/logo1.png"
 },
+"vectordb": {
+"checked": "2026-11-02",
+"image": "https://www.epsilla.com/lovable-uploads/15c9d72d-da52-4584-a6f9-c26f126a2af8.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 29.0,
+"url": "https://www.epsilla.com/pricing"
+}
+},
+"vectorvein": {
+"checked": "2026-11-02",
+"image": "https://vectorvein.com/static-pages/assets/img/og-cover-en.png"
+},
 "vegastars": {
 "checked": "2026-11-01",
 "image": "https://autogptjs.com/media/banner/vegastars_casino_welcome_bonus_australia_r6oI8RI.jpeg"
@@ -57,6 +71,10 @@
 "venues": {
 "checked": "2026-10-30"
 },
+"verbalized-sampling": {
+"checked": "2026-11-02",
+"image": "https://www.verbalized-sampling.com/images/intro_teaser.jpg"
+},
 "vercel": {
 "checked": "2026-10-24",
 "image": "https://chatbot.ai-sdk.dev/opengraph-image.png?opengraph-image.8d2152cc.png"
@@ -83,6 +101,10 @@
 "checked": "2026-10-28",
 "image": "https://vexa.ai/opengraph-image"
 },
+"vibe-coding": {
+"checked": "2026-11-02",
+"image": "https://vibecoding.rest/og-image.png"
+},
 "vibe-coding-workflow": {
 "checked": "2026-10-28",
 "image": "https://vibeworkflow.app/vibeimage.webp",
@@ -107,6 +129,10 @@
 },
 "vibesdk": {
 "checked": "2026-10-27"
+},
+"vibeue": {
+"checked": "2026-11-02",
+"image": "https://www.vibeue.com/og-card.png"
 },
 "video-use": {
 "checked": "2026-10-24",
@@ -142,6 +168,9 @@
 "vision-agents": {
 "checked": "2026-10-26",
 "image": "https://stream-52f5fdce.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=Vision+Agents&description=Build+low-latency+voice+and+video+AI+agents+with+any+model&theme=e154a42ebdd48682b2d75d0f&signature=ba7aade1bc640cd63ffb0a8a4ee54061b6a5fbced69b1d90377bdf3b4aeaf31a"
+},
+"visp": {
+"checked": "2026-11-02"
 },
 "vizdoom-documentation": {
 "checked": "2026-10-30",
@@ -184,6 +213,10 @@
 "url": "https://elevenlabs.io/pricing"
 }
 },
+"voicetree": {
+"checked": "2026-11-02",
+"image": "https://voicetree.io/index-og-image.webp"
+},
 "volcano": {
 "checked": "2026-10-26",
 "image": "https://volcano.sh/img/landing/volcano_logo.png"
@@ -195,6 +228,14 @@
 "free": true,
 "trial": true,
 "url": "https://voltagent.dev/pricing/"
+}
+},
+"vonage-api-developer": {
+"checked": "2026-11-02",
+"image": "https://nuxtjs/_nuxt/assets/meta/nexmo-developer-card.png",
+"pricing": {
+"trial": true,
+"url": "https://www.vonage.com/communications-apis/pricing/"
 }
 },
 "vortex": {
@@ -213,6 +254,9 @@
 },
 "voyager-minedojo-org": {
 "checked": "2026-10-26"
+},
+"vt-code": {
+"checked": "2026-11-02"
 },
 "vuls": {
 "checked": "2026-10-25"

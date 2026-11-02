@@ -1,0 +1,7 @@
+name = "pipeless"
+description = "Easily create and deploy computer vision applications that analyze and manipulate video in real-time and forget about building and maintaining multimedia pipelines."
+category = "video"
+website = "https://www.pipeless.ai"
+open_source = true
+repository = "https://github.com/pipeless-ai/pipeless"
+added = 2026-11-02

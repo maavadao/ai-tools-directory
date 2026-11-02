@@ -1,0 +1,7 @@
+name = "xyne-spaces"
+description = "Xyne is an open-source enterprise AI platform to build apps & agents powered by your context. Model agnostic. Data sovereign."
+category = "agents"
+website = "https://xyne.ai"
+open_source = true
+repository = "https://github.com/juspay/xyne-spaces"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "WorldSeed"
+description = "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally."
+category = "agents"
+website = "https://worldseed.morphmind.ai"
+open_source = true
+repository = "https://github.com/AIScientists-Dev/WorldSeed"
+added = 2026-11-02

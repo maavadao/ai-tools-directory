@@ -32,6 +32,15 @@
 "checked": "2026-10-28",
 "image": "https://photoshot-3z3z4n2jg-baptiste-adriens-projects.vercel.app/Generate%20AI%20avatars%20that%20perfectly%20capture%20your%20unique%20style.%20Write%20a%20prompt%20and%20let%20our%20Dreambooth%20and%20Stable%20diffusion%20technology%20do%20the%20rest."
 },
+"generative-manim": {
+"checked": "2026-11-02",
+"image": "https://animo.video/opengraph-landing.png",
+"pricing": {
+"currency": "USD",
+"from": 35.0,
+"url": "https://animo.video/pricing"
+}
+},
 "genkit": {
 "checked": "2026-10-26",
 "image": "https://genkit.dev/ogimage.png?v=1"
@@ -122,6 +131,10 @@
 "checked": "2026-10-25",
 "image": "https://gitmcp.io/img/OG.png"
 },
+"gitpodcast": {
+"checked": "2026-11-02",
+"image": "https://gitpodcast.com/og-image.png?v=2"
+},
 "gitreverse": {
 "checked": "2026-10-30",
 "image": "https://gitreverse.com/opengraph-image?3febc7938165a21e"
@@ -147,6 +160,9 @@
 },
 "golem-documentation": {
 "checked": "2026-10-31"
+},
+"golf": {
+"checked": "2026-11-02"
 },
 "golutra": {
 "checked": "2026-10-28"
@@ -193,6 +209,10 @@
 "url": "https://gooseworks.ai/pricing"
 }
 },
+"goraven": {
+"checked": "2026-11-02",
+"image": "https://goraven.dev/og-image.png"
+},
 "gorilla": {
 "checked": "2026-10-25"
 },
@@ -202,6 +222,14 @@
 },
 "gortex": {
 "checked": "2026-10-30"
+},
+"gpt-image-2-5": {
+"checked": "2026-11-02",
+"image": "https://gptimage2.asia/og-image.png",
+"pricing": {
+"trial": true,
+"url": "https://gptimage2.asia/"
+}
 },
 "gpt-image-playground": {
 "checked": "2026-10-27"
@@ -221,12 +249,19 @@
 "url": "https://gptr.dev/pricing"
 }
 },
+"gpt-tokenizer-playground": {
+"checked": "2026-11-02",
+"image": "https://raw.githubusercontent.com/niieani/gpt-tokenizer/main/docs/gpt-tokenizer.png"
+},
 "gpteam": {
 "checked": "2026-10-30"
 },
 "gptme": {
 "checked": "2026-10-27",
 "image": "https://gptme.org/media/logo.png"
+},
+"gpumd": {
+"checked": "2026-11-02"
 },
 "gpupixel": {
 "checked": "2026-10-29",
@@ -235,6 +270,9 @@
 "gpustack": {
 "checked": "2026-10-26",
 "image": "https://gpustack.ai/opengraph-image?5dfcdf7b3fc6ea95"
+},
+"gradient-science": {
+"checked": "2026-11-02"
 },
 "grammarly": {
 "checked": "2026-10-23",
@@ -281,6 +319,9 @@
 "groq": {
 "checked": "2026-10-23",
 "image": "https://groq.com/images/og.png"
+},
+"guandao-yang": {
+"checked": "2026-11-02"
 },
 "guardrails-ai": {
 "checked": "2026-10-26",

@@ -1,0 +1,7 @@
+name = "OpenSparX"
+description = "OAK 是 OpenSparX 打造的端侧 Agent OS，集成模型、感知、情境理解、决策与工具调用能力，为设备提供从感知到行动的完整端侧智能解决方案。"
+category = "chatbots"
+website = "https://www.opensparx.ai"
+open_source = true
+repository = "https://github.com/OpenSparX/MasterAgent"
+added = 2026-11-02

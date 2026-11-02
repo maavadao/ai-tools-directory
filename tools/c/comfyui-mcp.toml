@@ -1,0 +1,7 @@
+name = "ComfyUI MCP"
+description = "The local-first, agent-native control plane for ComfyUI — an MCP server + Claude Code plugin that generates images, video and audio, authors and runs workflows, and manages models and custom nodes in natural language. Local, remote, or Comfy Cloud."
+category = "other"
+website = "https://comfyui-mcp.artokun.io"
+open_source = true
+repository = "https://github.com/artokun/comfyui-mcp"
+added = 2026-11-02

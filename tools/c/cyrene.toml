@@ -1,0 +1,7 @@
+name = "Cyrene"
+description = "认识 Cyrene：陪伴你聊天、工作、编程与学习的桌面伙伴。"
+category = "agents"
+website = "https://playaagentcyrene.online"
+open_source = true
+repository = "https://github.com/Playa-Cyrene/Cyrene-Agent"
+added = 2026-11-02

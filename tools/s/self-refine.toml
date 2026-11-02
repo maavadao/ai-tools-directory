@@ -1,0 +1,7 @@
+name = "self-refine"
+description = "Self-Refine is a framework for iteratively improving outputs from LLMs through a process of iterative creation with feedback"
+category = "other"
+website = "https://selfrefine.info"
+open_source = true
+repository = "https://github.com/madaan/self-refine"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "crabwalk"
+description = "Real-time AI agent activity monitoring, session tracking & action visualization."
+category = "agents"
+website = "https://crabwalk.app"
+open_source = true
+repository = "https://github.com/crabwise-ai/crabwalk"
+added = 2026-11-02

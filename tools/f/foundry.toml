@@ -1,0 +1,7 @@
+name = "Foundry"
+description = "Build AI agents that reason, connect them to your systems over MCP, and run them in production with guardrails, memory, tracing and audit. Open source, one…"
+category = "agents"
+website = "https://www.promptise.com"
+open_source = true
+repository = "https://github.com/promptise-com/Foundry"
+added = 2026-11-02

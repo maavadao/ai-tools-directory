@@ -1,0 +1,7 @@
+name = "deepdrive"
+description = "Deepdrive is an open simulation platform built to accelerate progress and increase transparency in self-driving."
+category = "other"
+website = "https://deepdrive.io"
+open_source = true
+repository = "https://github.com/deepdrive/deepdrive"
+added = 2026-11-02

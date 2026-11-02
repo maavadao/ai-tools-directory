@@ -1,0 +1,7 @@
+name = "LibreYOLO"
+description = "The MIT-licensed YOLO library for training, prediction and export. An alternative to Ultralytics with YOLO9, RF-DETR and a shared Python API."
+category = "other"
+website = "https://www.libreyolo.com"
+open_source = true
+repository = "https://github.com/LibreYOLO/libreyolo"
+added = 2026-11-02

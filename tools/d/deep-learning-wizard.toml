@@ -1,0 +1,7 @@
+name = "Deep Learning Wizard"
+description = "We try to make learning deep learning, deep bayesian learning, and deep reinforcement learning math and code easier. Open-source and used by thousands globally."
+category = "other"
+website = "https://www.deeplearningwizard.com"
+open_source = true
+repository = "https://github.com/ritchieng/deep-learning-wizard"
+added = 2026-11-02

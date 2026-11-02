@@ -1,0 +1,7 @@
+name = "scout"
+description = "Outcrawl gives your AI agent the web: clean data from any page, search with the results already read, real browsers in the cloud, and agents that finish whole tasks. 1,000 free credits every month, no card."
+category = "chatbots"
+website = "https://outcrawl.ai"
+open_source = true
+repository = "https://github.com/outcrawlai/scout"
+added = 2026-11-02

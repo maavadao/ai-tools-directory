@@ -1,0 +1,7 @@
+name = "MCP-NixOS"
+description = "MCP resources and tools for NixOS packages, options, Home Manager, and nix-darwin. Real answers, no hallucinations."
+category = "coding"
+website = "https://mcp-nixos.io"
+open_source = true
+repository = "https://github.com/utensils/mcp-nixos"
+added = 2026-11-02

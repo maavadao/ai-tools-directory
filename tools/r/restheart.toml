@@ -1,0 +1,7 @@
+name = "RESTHeart"
+description = "RESTHeart is a backend for web, mobile and AI apps. Open source and MongoDB-native, it is built on a modern Java stack with virtual threads and GraalVM nativ..."
+category = "agents"
+website = "https://restheart.org"
+open_source = true
+repository = "https://github.com/SoftInstigate/restheart"
+added = 2026-11-02

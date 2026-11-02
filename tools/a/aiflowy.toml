@@ -1,0 +1,7 @@
+name = "AIFlowy"
+description = "开源、可私有化部署的 AI 智能体开发平台，支持可视化编排与多模型接入，助力企业快速落地 AI 应用。"
+category = "agents"
+website = "https://aiflowy.tech"
+open_source = true
+repository = "https://github.com/aiflowy/aiflowy"
+added = 2026-11-02

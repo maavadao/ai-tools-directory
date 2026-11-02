@@ -1,0 +1,7 @@
+name = "Photoshop MCP"
+description = "Connect Claude, Cursor and any MCP client to Adobe Photoshop. Remove backgrounds, retouch, color grade and batch export from a chat — in one undo step. Free and open source, macOS and Windows."
+category = "other"
+website = "https://photoshop-mcp.com"
+open_source = true
+repository = "https://github.com/alisaitteke/photoshop-mcp"
+added = 2026-11-02

@@ -116,6 +116,10 @@
 "checked": "2026-10-24",
 "image": "https://www.eleuther.ai/assets/social/eleutherai-social-card.png"
 },
+"eleven": {
+"checked": "2026-11-02",
+"image": "https://eleven.chizi.app/og.png"
+},
 "elevenlabs": {
 "checked": "2026-10-23",
 "image": "https://elevenlabs.io/cover.png",
@@ -145,6 +149,9 @@
 "emgu": {
 "checked": "2026-10-29"
 },
+"emoca": {
+"checked": "2026-11-02"
+},
 "empryo": {
 "checked": "2026-10-31",
 "image": "https://empryo.com/og/home.png?v=339fbc61"
@@ -169,6 +176,9 @@
 "ernie-blog": {
 "checked": "2026-10-26",
 "image": "https://ernie.baidu.com/blog/images/papermod-cover.png"
+},
+"es617-s-blog": {
+"checked": "2026-11-02"
 },
 "eurekamoments": {
 "checked": "2026-10-30",
@@ -228,6 +238,9 @@
 },
 "excelize": {
 "checked": "2026-10-24"
+},
+"excelmcpserver-dev": {
+"checked": "2026-11-02"
 },
 "executor": {
 "checked": "2026-10-27",

@@ -1,0 +1,7 @@
+name = "gradient science"
+description = "Research highlights and perspectives on machine learning and optimization from MadryLab."
+category = "image"
+website = "https://gradientscience.org"
+open_source = true
+repository = "https://github.com/MadryLab/photoguard"
+added = 2026-11-02

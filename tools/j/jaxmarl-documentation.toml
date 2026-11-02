@@ -1,0 +1,7 @@
+name = "JaxMARL Documentation"
+description = "Multi-Agent Reinforcement Learning with JAX"
+category = "other"
+website = "https://jaxmarl.foersterlab.com"
+open_source = true
+repository = "https://github.com/bold-lab-ai/JaxMARL"
+added = 2026-11-02

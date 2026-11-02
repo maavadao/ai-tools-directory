@@ -1,0 +1,7 @@
+name = "agentfiles"
+description = "Browse, create, and edit skills, commands, and agents across Claude Code, Cursor, Codex, Windsurf, and 17 AI coding tools — from a single Obsidian panel."
+category = "other"
+website = "https://agentfiles.crafter.run"
+open_source = true
+repository = "https://github.com/Railly/agentfiles"
+added = 2026-11-02

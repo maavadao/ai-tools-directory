@@ -1,0 +1,7 @@
+name = "GPT Image 2.5"
+description = "Use gptimage2.5 (GPT Image 2.5 Flare & Sunburst) online—1K–4K images, reference edits, one free try, no API key."
+category = "other"
+website = "https://gptimage2.asia"
+open_source = true
+repository = "https://github.com/xianyu110/awesome-nanobananapro-prompts"
+added = 2026-11-02

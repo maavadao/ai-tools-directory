@@ -1,0 +1,7 @@
+name = "SWE-smith"
+description = "[NeurIPS 2025 D&B Spotlight] Scaling Data for SWE-agents"
+category = "agents"
+website = "https://swesmith.com"
+open_source = true
+repository = "https://github.com/SWE-bench/SWE-smith"
+added = 2026-11-02

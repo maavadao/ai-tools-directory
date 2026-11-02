@@ -6,6 +6,15 @@
 "h4cker": {
 "checked": "2026-10-24"
 },
+"hackerai": {
+"checked": "2026-11-02",
+"image": "https://hackerai.co/icon-512x512.png",
+"pricing": {
+"currency": "USD",
+"from": 29.0,
+"url": "https://hackerai.co/pricing"
+}
+},
 "hackingbuddygpt": {
 "checked": "2026-10-31"
 },
@@ -42,6 +51,10 @@
 "url": "https://tryhamster.com/pricing"
 }
 },
+"handbook-academy": {
+"checked": "2026-11-02",
+"image": "https://handbook.academy/static/og/site.png"
+},
 "hands-on-large-language-models": {
 "checked": "2026-10-24"
 },
@@ -59,6 +72,10 @@
 "happy-engineering": {
 "checked": "2026-10-25",
 "image": "https://happy.engineering/og/happy-harness-v25.png?v=8"
+},
+"happyclaw": {
+"checked": "2026-11-02",
+"image": "https://happyclaw.cc/og-image.png"
 },
 "harness-by-autonomous": {
 "checked": "2026-10-23",
@@ -115,12 +132,26 @@
 "url": "https://www.helicone.ai/pricing"
 }
 },
+"helix": {
+"checked": "2026-11-02",
+"image": "https://tryhelix.dev/og-image.png"
+},
 "helix-foundry": {
 "checked": "2026-10-30"
 },
 "helixdb": {
 "checked": "2026-10-26",
 "image": "https://www.helix-db.com/opengraph-image?b24bbcbc49577ce1"
+},
+"helixml": {
+"checked": "2026-11-02",
+"image": "https://helix.ml/og-default.jpg",
+"pricing": {
+"currency": "USD",
+"from": 499.0,
+"trial": true,
+"url": "https://helix.ml/pricing"
+}
 },
 "hello": {
 "checked": "2026-10-30"
@@ -205,6 +236,10 @@
 "heywillow-org": {
 "checked": "2026-10-28"
 },
+"higgsfield-ai-prompt-skill": {
+"checked": "2026-11-02",
+"image": "https://static.higgsfield.ai/public/thumbnail/default.jpg"
+},
 "high-performance-compute-for-agents": {
 "checked": "2026-10-30",
 "image": "https://www.beam.cloud/meta-hero.png?v=2",
@@ -217,6 +252,10 @@
 "highwayenv-documentation": {
 "checked": "2026-10-28",
 "image": "https://highway-env.farama.org/_static/img/highway-github.png"
+},
+"hippo-memory": {
+"checked": "2026-11-02",
+"image": "https://hippo-memory.com/og/home.png"
 },
 "hireez": {
 "checked": "2026-10-23",
@@ -306,6 +345,10 @@
 "hubspot": {
 "checked": "2026-10-23",
 "image": "https://www.hubspot.com/hubfs/assets/hubspot.com/homepage/hero-backgrounds-2025/HS_Full_Bleed_1.jpg"
+},
+"hue": {
+"checked": "2026-11-02",
+"image": "https://hueapp.io/og.jpg"
 },
 "hugedomains": {
 "checked": "2026-10-27",

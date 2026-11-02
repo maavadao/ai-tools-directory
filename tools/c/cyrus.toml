@@ -1,0 +1,7 @@
+name = "Cyrus"
+description = "Unlock faster product iteration for your entire team, not just engineering. Meanwhile, put incident first response on cruise control with the Cyrus SRE"
+category = "coding"
+website = "https://www.atcyrus.com"
+open_source = true
+repository = "https://github.com/cyrusagents/cyrus"
+added = 2026-11-02

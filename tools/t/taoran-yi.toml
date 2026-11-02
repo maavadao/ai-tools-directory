@@ -1,0 +1,7 @@
+name = "Taoran Yi"
+description = "[CVPR 2024] GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models"
+category = "image"
+website = "https://taoranyi.com"
+open_source = true
+repository = "https://github.com/hustvl/GaussianDreamer"
+added = 2026-11-02

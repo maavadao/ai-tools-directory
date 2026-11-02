@@ -1,0 +1,7 @@
+name = "Free One API"
+description = "一个地址、一个 key、一套协议：把各种 LLM 逆向工程库统一成标准 OpenAI API，支持流式输出、工具调用与多通道负载均衡，并附带 DS_WebAgent 真实浏览器渠道。"
+category = "chatbots"
+website = "https://free-one-api.rockchin.top"
+open_source = true
+repository = "https://github.com/RockChinQ/free-one-api"
+added = 2026-11-02

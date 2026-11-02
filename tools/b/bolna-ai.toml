@@ -1,0 +1,7 @@
+name = "Bolna AI"
+description = "Bolna AI builds voice AI agents in 20+ languages. Automate support, sales and recruitment calls in Hindi, Hinglish, Tamil, Telugu and more."
+category = "audio"
+website = "https://www.bolna.ai"
+open_source = true
+repository = "https://github.com/bolna-ai/bolna"
+added = 2026-11-02

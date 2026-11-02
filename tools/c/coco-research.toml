@@ -1,0 +1,7 @@
+name = "Coco Research"
+description = "Governed AI, built in the open."
+category = "coding"
+website = "https://cocoresearch.org"
+open_source = true
+repository = "https://github.com/coco-research/coco"
+added = 2026-11-02

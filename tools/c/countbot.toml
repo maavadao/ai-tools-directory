@@ -1,0 +1,7 @@
+name = "CountBot"
+description = "CountBot 是一个开源 AI Agent 框架与智能体运行中枢，支持多智能体协作、多渠道接入、长期记忆、定时任务、技能插件与外部编程代理接入。基于 Python 构建，本地部署、自主可控，针对国内大模型深度优化。"
+category = "chatbots"
+website = "https://countbot.cn"
+open_source = true
+repository = "https://github.com/countbot-ai/CountBot"
+added = 2026-11-02

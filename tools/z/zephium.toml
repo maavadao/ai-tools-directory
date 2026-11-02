@@ -1,0 +1,7 @@
+name = "Zephium"
+description = "Zephium is a fast, private, open-source browser built in Rust, with Work: a canvas where you and your agents browse, compare and plan in the open, and keep the results."
+category = "agents"
+website = "https://zephium.app"
+open_source = true
+repository = "https://github.com/zephium-browser/Zephium"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "Stash"
+description = "Stop repeating yourself to AI. Save your preferences, plans, and useful details with Stash, and recall them across connected AI tools."
+category = "other"
+website = "https://usestash.io"
+open_source = true
+repository = "https://github.com/alash3al/stash"
+added = 2026-11-02

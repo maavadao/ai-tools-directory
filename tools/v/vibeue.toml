@@ -1,0 +1,7 @@
+name = "VibeUE"
+description = "VibeUE is an Unreal Engine 5.8 plugin that expands UE5.8's native MCP server, ToolsetRegistry, and AgentSkill system. 33 service toolsets, ~86 agent skills, performance profiling, real-world terrain, Fab asset import, animation, audio, Niagara VFX, StateTree, Behavior Trees, and full Python-first a…"
+category = "coding"
+website = "https://www.vibeue.com"
+open_source = true
+repository = "https://github.com/kevinpbuckley/VibeUE"
+added = 2026-11-02

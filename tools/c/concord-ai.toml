@@ -1,0 +1,7 @@
+name = "Concord AI"
+description = "Let your coding agents message and collaborate with each other in a shared workspace."
+category = "coding"
+website = "https://getconcord.ai"
+open_source = true
+repository = "https://github.com/Get-Concord-AI/concord-mcp"
+added = 2026-11-02

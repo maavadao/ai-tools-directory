@@ -1,0 +1,7 @@
+name = "InstaVM"
+description = "Run AI agents like you'd run production servers: isolated, observable, controlled."
+category = "chatbots"
+website = "https://instavm.io"
+open_source = true
+repository = "https://github.com/instavm/coderunner"
+added = 2026-11-02

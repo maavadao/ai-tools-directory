@@ -1,0 +1,7 @@
+name = "GitPodcast"
+description = "Turn any GitHub repository into an engaging podcast in seconds."
+category = "audio"
+website = "https://www.gitpodcast.com"
+open_source = true
+repository = "https://github.com/BandarLabs/gitpodcast"
+added = 2026-11-02

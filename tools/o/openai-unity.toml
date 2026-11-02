@@ -1,0 +1,7 @@
+name = "OpenAI-Unity"
+description = "Create dynamic in-game conversations and voice-controlled interactions with AI-powered smart characters using our node-based editor and SDKs."
+category = "audio"
+website = "https://neocortex.link"
+open_source = true
+repository = "https://github.com/srcnalt/OpenAI-Unity"
+added = 2026-11-02

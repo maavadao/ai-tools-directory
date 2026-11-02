@@ -1,0 +1,7 @@
+name = "Domain Details Page"
+description = "This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters."
+category = "image"
+website = "https://sedo.com"
+open_source = true
+repository = "https://github.com/Tencent/LightDiffusionFlow"
+added = 2026-11-02

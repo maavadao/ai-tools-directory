@@ -1,0 +1,7 @@
+name = "Menlo Research"
+description = "Asimov 1 is the open humanoid you can build yourself, with a published BOM and CAD, a digital twin, and an agent-friendly SDK."
+category = "other"
+website = "https://menlo.ai"
+open_source = true
+repository = "https://github.com/menloresearch/asimov-v0"
+added = 2026-11-02

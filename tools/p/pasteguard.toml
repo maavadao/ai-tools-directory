@@ -1,0 +1,7 @@
+name = "PasteGuard"
+description = "Mask names, emails, secrets, and customer data before they reach ChatGPT, Claude, AI APIs, or coding agents. Open-source and self-hosted."
+category = "chatbots"
+website = "https://pasteguard.com"
+open_source = true
+repository = "https://github.com/sgasser/pasteguard"
+added = 2026-11-02

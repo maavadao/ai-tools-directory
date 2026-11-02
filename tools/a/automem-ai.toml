@@ -1,0 +1,7 @@
+name = "Home"
+description = "AutoMem gives Claude, Cursor, Copilot, Codex, ChatGPT, and MCP-compatible AI tools persistent memory through MCP and Streamable HTTP."
+category = "chatbots"
+website = "https://automem.ai"
+open_source = true
+repository = "https://github.com/verygoodplugins/automem"
+added = 2026-11-02

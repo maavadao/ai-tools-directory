@@ -1,0 +1,7 @@
+name = "maubot"
+description = "A plugin-based Matrix bot system written in Python."
+category = "chatbots"
+website = "https://mau.bot"
+open_source = true
+repository = "https://github.com/maubot/maubot"
+added = 2026-11-02

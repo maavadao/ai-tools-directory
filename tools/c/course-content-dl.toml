@@ -1,0 +1,7 @@
+name = "course-content-dl"
+description = "NMA deep learning course"
+category = "education"
+website = "https://deeplearning.neuromatch.io"
+open_source = true
+repository = "https://github.com/NeuromatchAcademy/course-content-dl"
+added = 2026-11-02

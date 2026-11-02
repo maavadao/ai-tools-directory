@@ -1,0 +1,7 @@
+name = "flatkey.ai"
+description = "flatkey routes your requests to official GPT, Claude, Gemini, DeepSeek, Qwen and GLM APIs, with frontier models and 1,000+ AI tools behind one key."
+category = "video"
+website = "https://flatkey.ai"
+open_source = true
+repository = "https://github.com/flatkey-ai/flatkey-cli"
+added = 2026-11-02

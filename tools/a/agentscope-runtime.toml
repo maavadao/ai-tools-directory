@@ -1,0 +1,7 @@
+name = "agentscope-runtime"
+description = "A production-ready runtime framework for agent apps with secure tool sandboxing, Agent-as-a-Service APIs, scalable deployment, full-stack observability, and broad framework compatibility."
+category = "agents"
+website = "https://runtime.agentscope.io"
+open_source = true
+repository = "https://github.com/agentscope-ai/agentscope-runtime"
+added = 2026-11-02

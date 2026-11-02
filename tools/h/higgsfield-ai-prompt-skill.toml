@@ -1,0 +1,7 @@
+name = "higgsfield-ai-prompt-skill"
+description = "Create images, videos, and voice content with Higgsfield AI from text prompts or references. Edit and upscale media, automate creative workflows with its AI agent, and generate content on web and mobile."
+category = "other"
+website = "https://higgsfield.ai"
+open_source = true
+repository = "https://github.com/OSideMedia/higgsfield-ai-prompt-skill"
+added = 2026-11-02

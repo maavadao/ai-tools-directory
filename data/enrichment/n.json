@@ -315,6 +315,10 @@
 "checked": "2026-11-01",
 "image": "https://nostrvpn.org/nostr-vpn-connection.png"
 },
+"note-companion": {
+"checked": "2026-11-02",
+"image": "https://www.notecompanion.ai/notecompanion.png"
+},
 "notebooks": {
 "checked": "2026-10-25",
 "image": "https://roboflow.com/_next/static/immutable/media/share-card.1m3utg40vtbq6.png",
@@ -327,6 +331,15 @@
 },
 "notegen": {
 "checked": "2026-10-25"
+},
+"notely-voice": {
+"checked": "2026-11-02",
+"image": "https://notelyvoice.ai/notely_voice_logo_white.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://notelyvoice.ai/pricing"
+}
 },
 "notfair": {
 "checked": "2026-10-27",
@@ -381,6 +394,10 @@
 "checked": "2026-10-24",
 "image": "https://nuclearplayer.com/images/social-banner.png"
 },
+"nucleoid": {
+"checked": "2026-11-02",
+"image": "https://cdn.nucleoid.com/media/og.png"
+},
 "nullclaw": {
 "checked": "2026-10-26"
 },
@@ -389,6 +406,9 @@
 },
 "nuplan-devkit": {
 "checked": "2026-11-01"
+},
+"nuwax-ai": {
+"checked": "2026-11-02"
 },
 "nvidia": {
 "checked": "2026-10-29",

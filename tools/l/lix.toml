@@ -1,0 +1,7 @@
+name = "lix"
+description = "Lix versions files of any format and Lix-managed SQL tables in one repository. Branch, diff, merge, and roll back changes to both."
+category = "agents"
+website = "https://lix.dev"
+open_source = true
+repository = "https://github.com/opral/lix"
+added = 2026-11-02

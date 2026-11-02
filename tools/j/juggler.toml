@@ -1,0 +1,7 @@
+name = "juggler"
+description = "The coding agent you can see inside. Open any step and see exactly what the model was sent and what came back; branch, rewind, edit and undo. Claude Code, Codex, Copilot, Gemini and Ollama behind one interface, direct to your provider. Open source, no account."
+category = "coding"
+website = "https://juggler.studio"
+open_source = true
+repository = "https://github.com/juggler-ai/juggler"
+added = 2026-11-02

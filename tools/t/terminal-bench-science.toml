@@ -1,0 +1,7 @@
+name = "TERMINAL-BENCH-SCIENCE"
+description = "A benchmark for evaluating AI agents on research workflows across scientific domains"
+category = "agents"
+website = "https://www.terminal-bench-science.ai"
+open_source = true
+repository = "https://github.com/harbor-framework/terminal-bench-science"
+added = 2026-11-02

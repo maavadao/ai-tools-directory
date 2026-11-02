@@ -1,0 +1,7 @@
+name = "temps"
+description = "One self-hosted platform replaces Vercel, PostHog, Sentry, Pingdom, Datadog, Resend and E2B — no per-seat fees, no bandwidth bills."
+category = "coding"
+website = "https://temps.sh"
+open_source = true
+repository = "https://github.com/gotempsh/temps"
+added = 2026-11-02

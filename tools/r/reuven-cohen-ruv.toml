@@ -1,0 +1,7 @@
+name = "Reuven Cohen (rUv)"
+description = "I build AI systems that perceive, think, coordinate, act, and evolve. Open source tooling and enterprise deployments across cloud and edge."
+category = "coding"
+website = "https://ruv.io"
+open_source = true
+repository = "https://github.com/ruvnet/agentic-flow"
+added = 2026-11-02

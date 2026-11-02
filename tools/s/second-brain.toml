@@ -1,0 +1,7 @@
+name = "Second Brain"
+description = "Keep your projects, preferences and decisions available across connected AI tools. Free, open-source memory in your own Cloudflare account."
+category = "other"
+website = "https://www.thesecondbrain.dev"
+open_source = true
+repository = "https://github.com/rahilp/second-brain-cloudflare"
+added = 2026-11-02

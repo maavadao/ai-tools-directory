@@ -1,0 +1,7 @@
+name = "rome"
+description = "Cracking open the black box of huge autoregressive transformer neural network language models."
+category = "other"
+website = "https://rome.baulab.info"
+open_source = true
+repository = "https://github.com/kmeng01/rome"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "macai"
+description = "A powerful, native AI assistant for macOS. Chat with efficient models directly from your desktop."
+category = "chatbots"
+website = "https://macai.chat"
+open_source = true
+repository = "https://github.com/Renset/macai"
+added = 2026-11-02

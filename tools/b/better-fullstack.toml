@@ -1,0 +1,7 @@
+name = "Better Fullstack"
+description = "Scaffold production-ready fullstack apps in seconds. Pick your stack from 1137 options across TypeScript, React Native, Rust, Python, Go, Java, Elixir, .NET, PHP, Ruby, Crystal - frameworks, databases, auth, payments, AI, and deployment - all wired together by one CLI."
+category = "other"
+website = "https://better-fullstack.dev"
+open_source = true
+repository = "https://github.com/Marve10s/Better-Fullstack"
+added = 2026-11-02

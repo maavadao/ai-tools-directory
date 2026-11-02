@@ -1,0 +1,7 @@
+name = "console"
+description = "Open source platform for teams and AI agents to securely access, manage and deploy application secrets — from development to production."
+category = "other"
+website = "https://phase.dev"
+open_source = true
+repository = "https://github.com/phasehq/console"
+added = 2026-11-02

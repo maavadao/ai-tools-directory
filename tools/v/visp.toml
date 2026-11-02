@@ -1,0 +1,7 @@
+name = "ViSP"
+description = "Open Source Visual Servoing Platform"
+category = "other"
+website = "https://visp.inria.fr"
+open_source = true
+repository = "https://github.com/lagadic/visp"
+added = 2026-11-02

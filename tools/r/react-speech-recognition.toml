@@ -1,0 +1,7 @@
+name = "react-speech-recognition"
+description = "Are you a web developer interested in adding speech recognition to your web app? Learn how to integrate speech-to-text technology here."
+category = "audio"
+website = "https://webspeechrecognition.com"
+open_source = true
+repository = "https://github.com/JamesBrill/react-speech-recognition"
+added = 2026-11-02

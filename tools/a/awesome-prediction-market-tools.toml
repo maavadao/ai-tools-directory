@@ -1,0 +1,7 @@
+name = "Awesome-Prediction-Market-Tools"
+description = "Compare real-time odds across Kalshi and Polymarket. Track prediction market prices, find arbitrage, and follow whale trades on 40+ events."
+category = "education"
+website = "https://www.oddpool.com"
+open_source = true
+repository = "https://github.com/aarora4/Awesome-Prediction-Market-Tools"
+added = 2026-11-02

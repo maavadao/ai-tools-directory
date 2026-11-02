@@ -1,0 +1,7 @@
+name = "PearAI"
+description = "PearAI is an open source AI code editor with powerful features like AI chat, PearAI Creator, and AI debugging to help you make what excites."
+category = "chatbots"
+website = "https://www.trypear.ai"
+open_source = true
+repository = "https://github.com/trypear/pearai-master"
+added = 2026-11-02

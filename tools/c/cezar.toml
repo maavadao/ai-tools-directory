@@ -1,0 +1,7 @@
+name = "cezar"
+description = "Open-source orchestrator that runs Claude Code, Codex, OpenCode and other coding agents in parallel, on your laptop or 24/7 on your own server, using the subscriptions you already pay for. No API keys."
+category = "coding"
+website = "https://cezar.run"
+open_source = true
+repository = "https://github.com/open-mercato/cezar"
+added = 2026-11-02

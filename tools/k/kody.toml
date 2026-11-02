@@ -1,0 +1,7 @@
+name = "kody"
+description = "One place for the credentials, tools, and workflows for every agent your team members use."
+category = "agents"
+website = "https://kody.codes"
+open_source = true
+repository = "https://github.com/kody-hq/kody"
+added = 2026-11-02

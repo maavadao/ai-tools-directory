@@ -1,0 +1,7 @@
+name = "LlamaFarm"
+description = "Deploy any AI model and related databases, RAG, agents, and pipelines to any device in 30 seconds. No cloud required."
+category = "chatbots"
+website = "https://llamafarm.dev"
+open_source = true
+repository = "https://github.com/llama-farm/llamafarm"
+added = 2026-11-02

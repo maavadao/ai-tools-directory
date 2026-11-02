@@ -1,0 +1,7 @@
+name = "PromptDriven.ai"
+description = "Your agent writes the spec in natural language. You run it and try it, and then the code comes."
+category = "coding"
+website = "https://promptdriven.ai"
+open_source = true
+repository = "https://github.com/promptdriven/pdd"
+added = 2026-11-02

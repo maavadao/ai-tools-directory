@@ -115,6 +115,10 @@
 "betsy-blog": {
 "checked": "2026-10-30"
 },
+"better-fullstack": {
+"checked": "2026-11-02",
+"image": "https://better-fullstack.dev/og/better-fullstack-terminal-preview-1200x630.png"
+},
 "bibigpt": {
 "checked": "2026-10-26",
 "image": "https://bibigpt.co/og-image.png?v=2023-04-26"
@@ -178,6 +182,9 @@
 "checked": "2026-10-23",
 "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_2h6zcs1ppc9w5vw8fj72vn763s/0da7660965d2d10218896de3e7216398_1792196505044.png"
 },
+"blender-plugin": {
+"checked": "2026-11-02"
+},
 "blinko": {
 "checked": "2026-10-25",
 "image": "https://blinko.space/preview.webp",
@@ -195,6 +202,14 @@
 "bob": {
 "checked": "2026-10-25"
 },
+"bolna-ai": {
+"checked": "2026-11-02",
+"image": "https://www.bolna.ai/images/bolna-new-banner.png",
+"pricing": {
+"trial": true,
+"url": "https://www.bolna.ai/pricing"
+}
+},
 "bolt-new": {
 "checked": "2026-10-23",
 "image": "https://bolt.new/static/social_preview_index-v2.png",
@@ -202,6 +217,10 @@
 "free": true,
 "url": "https://bolt.new/pricing"
 }
+},
+"boss-console": {
+"checked": "2026-11-02",
+"image": "https://bossconsole.ai/og-workspace-20260929.png"
 },
 "bot-novelai-dev": {
 "checked": "2026-10-29"
@@ -266,6 +285,15 @@
 "pricing": {
 "free": true,
 "url": "https://browser-use.com/pricing"
+}
+},
+"browser-use-mcp-server": {
+"checked": "2026-11-02",
+"image": "https://kontext.security/og-image-kontext.png",
+"pricing": {
+"currency": "USD",
+"from": 500.0,
+"url": "https://kontext.security/"
 }
 },
 "browser4": {

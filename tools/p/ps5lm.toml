@@ -1,0 +1,7 @@
+name = "PS5LM"
+description = "llama.cpp on the PS5's GPU: Qwen 3.5 9B at 55 tokens a second, decision models powered by Ollaya, OpenAI and Anthropic APIs. Open source, GPL-3.0."
+category = "chatbots"
+website = "https://ps5lm.cobanov.dev"
+open_source = true
+repository = "https://github.com/cobanov/PS5LM"
+added = 2026-11-02

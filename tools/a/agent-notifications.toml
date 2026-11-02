@@ -1,0 +1,7 @@
+name = "Agent Notifications"
+description = "Desktop notifications and webhooks for Claude, Codex CLI, OpenCode, Gemini CLI, Cursor CLI, Qoder and Pi. Agent and platform limits apply. Pi: sounds and terminal focus in the local TUI."
+category = "coding"
+website = "https://agent-notifications.com"
+open_source = true
+repository = "https://github.com/777genius/agent-notifications"
+added = 2026-11-02

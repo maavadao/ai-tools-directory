@@ -1,0 +1,7 @@
+name = "eleven"
+description = "Take apart any app and ask your agent what it does. Agent-first reverse engineering for Mac, Windows and Linux."
+category = "agents"
+website = "https://eleven.chizi.app"
+open_source = true
+repository = "https://github.com/Zfinix/eleven"
+added = 2026-11-02

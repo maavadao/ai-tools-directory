@@ -1,0 +1,7 @@
+name = "OpenAgent"
+description = "OpenAgent - End-to-End AI Agent Platform for building, deploying, and managing AI applications."
+category = "agents"
+website = "https://openllm.cloud"
+open_source = true
+repository = "https://github.com/Haohao-end/openagent"
+added = 2026-11-02

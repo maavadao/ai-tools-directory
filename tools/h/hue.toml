@@ -1,0 +1,7 @@
+name = "Hue"
+description = "An open-source skill for Claude Code and Codex that generates complete design systems so your AI builds on-brand, every time."
+category = "coding"
+website = "https://hueapp.io"
+open_source = true
+repository = "https://github.com/dominikmartn/hue"
+added = 2026-11-02

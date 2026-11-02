@@ -1,0 +1,7 @@
+name = "formae"
+description = "Infrastructure on autopilot: full control, no effort. Start from nothing or bring in what you already run. formae from Platform Engineering Labs."
+category = "other"
+website = "https://formae.ai"
+open_source = true
+repository = "https://github.com/platform-engineering-labs/formae"
+added = 2026-11-02

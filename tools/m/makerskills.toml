@@ -1,0 +1,7 @@
+name = "makerskills"
+description = "AI agent skills for the personal operator's craft. Decisions, research, second-brain, content rotation, and more."
+category = "productivity"
+website = "https://maker-skills.com"
+open_source = true
+repository = "https://github.com/coreyhaines31/makerskills"
+added = 2026-11-02

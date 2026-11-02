@@ -1,0 +1,7 @@
+name = "遁一的博客空間"
+description = "遁一（Jesse Lau，TradingwithEA）的博客：《道德經》英譯本逐章點評與道書研讀，兩屆 Dukascopy 策略大賽冠軍的程式化外匯交易筆記。"
+category = "image"
+website = "https://jesselau.com"
+open_source = true
+repository = "https://github.com/jesselau76/GPT-Prompts"
+added = 2026-11-02

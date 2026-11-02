@@ -1,0 +1,7 @@
+name = "generative-manim"
+description = "Animo is the Manim AI app. Describe your idea in plain text and get professional math animations powered by Manim, the engine behind 3Blue1Brown."
+category = "video"
+website = "https://animo.video"
+open_source = true
+repository = "https://github.com/marcelo-earth/generative-manim"
+added = 2026-11-02

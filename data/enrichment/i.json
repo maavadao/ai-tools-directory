@@ -9,6 +9,10 @@
 "url": "https://www.iart.ai/pricing"
 }
 },
+"ibl-ai": {
+"checked": "2026-11-02",
+"image": "https://ibl.ai/og?title=Sovereign+AI+Infrastructure+You+Own+and+Control&desc=Deploy+AI+agents+on+your+infrastructure.+Your+code%2C+your+data%2C+any+LLM.+1.6M%2B+users+across+400%2B+organizations."
+},
 "icon": {
 "checked": "2026-10-30"
 },
@@ -131,6 +135,16 @@
 "checked": "2026-10-30",
 "image": "https://getinsomnia.app/assets/og.jpg"
 },
+"instavm": {
+"checked": "2026-11-02",
+"image": "https://instavm.io/og-homepage.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 100.0,
+"url": "https://instavm.io/pricing"
+}
+},
 "instructor": {
 "checked": "2026-10-24"
 },
@@ -248,6 +262,18 @@
 "from": 24.0,
 "url": "https://itsaplan.dev/"
 }
+},
+"itch-io": {
+"checked": "2026-11-02",
+"image": "https://img.itch.zone/aW1nLzIyMjU5ODQ5LnBuZw==/508x254%23mb/rQzcpD.png"
+},
+"itops-agent-platform": {
+"checked": "2026-11-02",
+"image": "https://aiopsdoc-0mwug01t6.maozi.io/docs-assets/0-3.gif"
+},
+"itr-wala": {
+"checked": "2026-11-02",
+"image": "https://itr-wala.karanbansal.in/og.jpg"
 },
 "iwe": {
 "checked": "2026-10-30",

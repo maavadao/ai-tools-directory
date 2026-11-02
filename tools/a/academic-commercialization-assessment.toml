@@ -1,0 +1,7 @@
+name = "Academic Commercialization Assessment"
+description = "Turn a research paper or topic into a cited commercialization triage report: technology readiness, manufacturing, patents and market, with the risks spelled out."
+category = "agents"
+website = "https://academic-commercialization-agent.up.railway.app"
+open_source = true
+repository = "https://github.com/shuxiachai/academic-commercialization-agent"
+added = 2026-11-02

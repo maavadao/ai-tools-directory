@@ -1,0 +1,7 @@
+name = "VT Code"
+description = "VT Code WebMCP browser code editor with a safe in-memory fallback"
+category = "agents"
+website = "https://vtcode.vinhnx.chatgpt.site"
+open_source = true
+repository = "https://github.com/vinhnx/VTCode"
+added = 2026-11-02

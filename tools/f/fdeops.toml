@@ -1,0 +1,7 @@
+name = "FDEOps"
+description = "Skills for forward deployed engineers to discover, design, build, verify and hand over customer systems using AI coding agents."
+category = "other"
+website = "https://www.fdeops.io"
+open_source = true
+repository = "https://github.com/suboss87/FDEOps"
+added = 2026-11-02

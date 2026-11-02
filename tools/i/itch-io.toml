@@ -1,0 +1,7 @@
+name = "itch.io"
+description = "Fix AI pixel art and vector images right in your browser"
+category = "image"
+website = "https://jenissimo.itch.io"
+open_source = true
+repository = "https://github.com/jenissimo/unfake.js"
+added = 2026-11-02

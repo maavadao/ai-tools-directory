@@ -1,0 +1,7 @@
+name = "OpenCode Studio"
+description = "Visual interface for managing your OpenCode configuration. Configure MCP servers, skills, plugins, and AI agents with a modern dashboard."
+category = "coding"
+website = "https://opencode-studio.micr.dev"
+open_source = true
+repository = "https://github.com/Microck/opencode-studio"
+added = 2026-11-02

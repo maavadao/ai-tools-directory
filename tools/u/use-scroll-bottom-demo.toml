@@ -1,0 +1,7 @@
+name = "use-scroll-bottom demo"
+description = "A lightweight React Hook intended mainly for AI chat applications, for smoothly sticking to bottom of messages"
+category = "chatbots"
+website = "https://use-stick-to-bottom.samdenty.io"
+open_source = true
+repository = "https://github.com/stackblitz-labs/use-stick-to-bottom"
+added = 2026-11-02

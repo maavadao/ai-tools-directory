@@ -1,0 +1,7 @@
+name = "openclaw-nerve"
+description = "OpenClaw Nerve — self-hosted web UI for AI agents. Voice chat, workspace editing, charts, and cron scheduling. Open source."
+category = "audio"
+website = "https://nerve.zone"
+open_source = true
+repository = "https://github.com/daggerhashimoto/openclaw-nerve"
+added = 2026-11-02

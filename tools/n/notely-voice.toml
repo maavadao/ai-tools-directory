@@ -1,0 +1,7 @@
+name = "Notely Voice"
+description = "Transform your voice into text instantly with 100% private, on-device AI transcription. Perfect for students, professionals, and accessibility needs. No internet required."
+category = "audio"
+website = "https://notelyvoice.ai"
+open_source = true
+repository = "https://github.com/Notely-Voice/NotelyVoice"
+added = 2026-11-02

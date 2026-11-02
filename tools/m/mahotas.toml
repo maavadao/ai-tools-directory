@@ -1,0 +1,7 @@
+name = "mahotas"
+description = "Computer Vision in Python"
+category = "other"
+website = "https://mahotas.readthedocs.io"
+open_source = true
+repository = "https://github.com/luispedro/mahotas"
+added = 2026-11-02

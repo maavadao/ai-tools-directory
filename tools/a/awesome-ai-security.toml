@@ -1,0 +1,7 @@
+name = "Awesome AI Security"
+description = "A curated AI security portal for frameworks, tools, research, datasets, training, incident references, newsletters, Telegram updates, and community resources."
+category = "other"
+website = "https://www.awesomeaisecurity.com"
+open_source = true
+repository = "https://github.com/TalEliyahu/Awesome-AI-Security"
+added = 2026-11-02

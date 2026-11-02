@@ -1,0 +1,7 @@
+name = "pipelex"
+description = "Pipelex lets you build AI methods with your coding agent and run them anywhere: as an MCP for chatbots, as a webapp for people, or via API for your software."
+category = "chatbots"
+website = "https://pipelex.com"
+open_source = true
+repository = "https://github.com/Pipelex/pipelex"
+added = 2026-11-02

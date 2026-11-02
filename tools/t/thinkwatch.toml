@@ -1,0 +1,7 @@
+name = "ThinkWatch"
+description = "AI gateways that route, inspect and meter model requests and MCP tool calls: ThinkWatch Enterprise for organizations, ThinkWatch Lite for developers."
+category = "other"
+website = "https://thinkwat.ch"
+open_source = true
+repository = "https://github.com/ThinkWatchProject/ThinkWatch"
+added = 2026-11-02

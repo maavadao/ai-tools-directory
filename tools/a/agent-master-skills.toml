@@ -1,0 +1,7 @@
+name = "agent-master-skills"
+description = "Managed AI agent hosting for OpenClaw, Hermes Agent, Claude Code, Codex, and more. One-click deploy, 24/7 uptime, auto-updates, backups, and expert support."
+category = "other"
+website = "https://myclaw.ai"
+open_source = true
+repository = "https://github.com/LeoYeAI/agent-master-skills"
+added = 2026-11-02

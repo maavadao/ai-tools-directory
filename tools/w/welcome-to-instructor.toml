@@ -1,0 +1,7 @@
+name = "Welcome To Instructor"
+description = "structured extraction for llms"
+category = "chatbots"
+website = "https://js.useinstructor.com"
+open_source = true
+repository = "https://github.com/567-labs/instructor-js"
+added = 2026-11-02

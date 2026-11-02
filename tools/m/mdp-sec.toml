@@ -1,0 +1,7 @@
+name = "MDP SEC"
+description = "I test websites and Android apps the way a real attacker would. 582 security reports, 148 critical findings. Report first, you decide what it's worth."
+category = "other"
+website = "https://mdpsec.com"
+open_source = true
+repository = "https://github.com/mdpsec/bug-bounty-hunting-prompts"
+added = 2026-11-02

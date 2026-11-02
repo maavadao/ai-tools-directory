@@ -1,0 +1,7 @@
+name = "Whale"
+description = "Email, phone, texts and iMessage, plus an HTTP or WebSocket endpoint — all under one identity. Keep the agent and the runtime you already have."
+category = "chatbots"
+website = "https://wirebox.sh"
+open_source = true
+repository = "https://github.com/usewhale/Whale"
+added = 2026-11-02

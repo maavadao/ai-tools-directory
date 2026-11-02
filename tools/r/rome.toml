@@ -1,0 +1,7 @@
+name = "Rome"
+description = "Rome is an open-source, compounding agent OS for recursive agents. Build tools, retain context, and reuse capabilities across tasks."
+category = "chatbots"
+website = "https://romeos.cc"
+open_source = true
+repository = "https://github.com/rome-os/rome"
+added = 2026-11-02

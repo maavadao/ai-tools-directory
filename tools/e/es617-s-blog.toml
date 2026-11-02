@@ -1,0 +1,7 @@
+name = "es617's blog"
+description = "Enrico Santagati’s blog"
+category = "coding"
+website = "https://es617.dev"
+open_source = true
+repository = "https://github.com/es617/claude-replay"
+added = 2026-11-02

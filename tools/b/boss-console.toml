@@ -1,0 +1,7 @@
+name = "BOSS Console"
+description = "BOSS Console is a tiny OS for your always-on agents. Create your own agent with real tools, chat at fluck.ai, and access live sessions at cli.risaboss.com."
+category = "other"
+website = "https://bossconsole.ai"
+open_source = true
+repository = "https://github.com/risa-labs-inc/BossConsole"
+added = 2026-11-02

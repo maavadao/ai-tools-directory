@@ -1,0 +1,7 @@
+name = "OpenPortal"
+description = "Documentation for OpenPortal"
+category = "coding"
+website = "https://www.openportal.space"
+open_source = true
+repository = "https://github.com/hosenur/portal"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "GPT Tokenizer Playground"
+description = "Interactive tokenizer playground for OpenAI models. Count tokens, estimate pricing, and learn how tokenization shapes prompts."
+category = "data"
+website = "https://gpt-tokenizer.dev"
+open_source = true
+repository = "https://github.com/niieani/gpt-tokenizer"
+added = 2026-11-02

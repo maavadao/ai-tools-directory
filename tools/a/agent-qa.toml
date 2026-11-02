@@ -1,0 +1,7 @@
+name = "agent-qa"
+description = "Test web, Android, and iOS apps in plain English with agent-qa. A self-improving AI QA agent with persistent memory, built for developers and coding agents."
+category = "coding"
+website = "https://vostride.com"
+open_source = true
+repository = "https://github.com/vostride/agent-qa"
+added = 2026-11-02

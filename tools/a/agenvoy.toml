@@ -1,0 +1,7 @@
+name = "Agenvoy"
+description = "Private, local AI agent and personal AI assistant for AI automation: runs 24/7, builds its own AI tools, and works with Claude Code, Codex, Ollama and MCP."
+category = "other"
+website = "https://agenvoy.com"
+open_source = true
+repository = "https://github.com/agenvoy/Agenvoy"
+added = 2026-11-02

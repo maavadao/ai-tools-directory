@@ -51,6 +51,10 @@
 "checked": "2026-10-23",
 "image": "https://yeachan-heo.github.io/oh-my-codex-website/social-preview.png"
 },
+"ok-automation": {
+"checked": "2026-11-02",
+"image": "https://ok-script.com/assets/social/ok-script-zh-cn.png"
+},
 "okara": {
 "checked": "2026-10-23",
 "image": "https://okara.ai/images/og-cmo.png",
@@ -59,6 +63,10 @@
 "from": 108.0,
 "url": "https://okara.ai/pricing"
 }
+},
+"okf-agent-memory": {
+"checked": "2026-11-02",
+"image": "https://okf-memory.dev/assets/og-preview.png"
 },
 "olares": {
 "checked": "2026-10-27",
@@ -324,6 +332,16 @@
 "checked": "2026-10-23",
 "image": "https://developers.openai.com/open-graph.png"
 },
+"openai-unity": {
+"checked": "2026-11-02",
+"image": "https://neocortex.link/images/og-image.webp",
+"pricing": {
+"currency": "EUR",
+"free": true,
+"from": 9.0,
+"url": "https://neocortex.link/pricing"
+}
+},
 "openarm": {
 "checked": "2026-10-28",
 "image": "https://openarm.dev/images/ogp.webp"
@@ -367,6 +385,10 @@
 "checked": "2026-10-23",
 "image": "https://openclaw.ai/og-image.png"
 },
+"openclaw-nerve": {
+"checked": "2026-11-02",
+"image": "https://nerve.zone/og.png"
+},
 "openclaw-qt-cool": {
 "checked": "2026-10-28",
 "image": "https://openclaw.qt.cool/image/5.png"
@@ -377,6 +399,10 @@
 "opencode": {
 "checked": "2026-10-23",
 "image": "https://opencode.ai/social-share.png"
+},
+"opencode-studio": {
+"checked": "2026-11-02",
+"image": "https://opencode.micr.dev/og.jpg"
 },
 "opencodex": {
 "checked": "2026-10-24",
@@ -438,6 +464,10 @@
 "openfang": {
 "checked": "2026-10-24"
 },
+"openflowkit": {
+"checked": "2026-11-02",
+"image": "https://openflowkit.com/social.png"
+},
 "opengeni": {
 "checked": "2026-10-23",
 "image": "https://storage.googleapis.com/gpt-engineer-file-uploads/Hf4ZStO6mQfrguXHbUR4xW6KcOj1/social-images/social-1778687621456-Screenshot_2026-05-13_at_17.53.25.webp",
@@ -483,6 +513,9 @@
 "free": true,
 "url": "https://www.modular.com/pricing?utm_source=bentoml_pricing"
 }
+},
+"openllm-cloud": {
+"checked": "2026-11-02"
 },
 "openllmetry": {
 "checked": "2026-10-26",
@@ -569,6 +602,9 @@
 "openpipe": {
 "checked": "2026-10-29"
 },
+"openportal": {
+"checked": "2026-11-02"
+},
 "openprice": {
 "checked": "2026-11-01",
 "image": "https://www.openprice.cc/openprice-share.jpg"
@@ -624,6 +660,10 @@
 "from": 5.0,
 "url": "https://openship.io/pricing"
 }
+},
+"opensparx": {
+"checked": "2026-11-02",
+"image": "https://www.opensparx.ai/assets/social-cover.png"
 },
 "openspec": {
 "checked": "2026-10-23",

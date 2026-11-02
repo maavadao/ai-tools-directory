@@ -1,0 +1,7 @@
+name = "Helix"
+description = "Fix once. Immune everywhere. One agent learns, every agent inherits."
+category = "agents"
+website = "https://tryhelix.dev"
+open_source = true
+repository = "https://github.com/usehelix/helix"
+added = 2026-11-02

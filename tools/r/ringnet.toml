@@ -1,0 +1,7 @@
+name = "RINGNET"
+description = "Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision"
+category = "other"
+website = "https://ringnet.is.tue.mpg.de"
+open_source = true
+repository = "https://github.com/soubhiksanyal/RingNet"
+added = 2026-11-02

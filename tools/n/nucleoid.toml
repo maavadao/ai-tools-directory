@@ -1,0 +1,7 @@
+name = "Nucleoid"
+description = "Nucleoid is a declarative, logic-based, contextual runtime for Neuro-Symbolic AI that builds knowledge graph to process adaptive reasoning and decision-making."
+category = "other"
+website = "https://nucleoid.ai"
+open_source = true
+repository = "https://github.com/NucleoidAI/Nucleoid"
+added = 2026-11-02

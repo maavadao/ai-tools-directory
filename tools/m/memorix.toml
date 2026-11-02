@@ -1,0 +1,7 @@
+name = "Memorix"
+description = "Memorix is a local-first memory layer for coding agents. Share project memory across Claude Code, Codex, Cursor, and other MCP clients through MCP, CLI, hooks, and memcode."
+category = "other"
+website = "https://mem.rglens.com"
+open_source = true
+repository = "https://github.com/AVIDS2/memorix"
+added = 2026-11-02

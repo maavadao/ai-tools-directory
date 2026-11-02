@@ -1,0 +1,7 @@
+name = "MLCommons"
+description = "MLCommons develops and operates industrial-quality AI benchmarks with industry and academia - measuring quality, performance, safety, and cost so the market can make informed AI decisions."
+category = "other"
+website = "https://mlcommons.org"
+open_source = true
+repository = "https://github.com/mlcommons/croissant"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "skylos"
+description = "Open-source check for AI agent pull requests: runs your tests and blocks deleted or skipped tests, loosened CI steps and hard-coded answers. Runs locally."
+category = "other"
+website = "https://skylos.dev"
+open_source = true
+repository = "https://github.com/duriantaco/skylos"
+added = 2026-11-02

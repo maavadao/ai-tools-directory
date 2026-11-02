@@ -1,0 +1,7 @@
+name = "HackerAI"
+description = "HackerAI is an AI agent for penetration testing that helps security practitioners investigate targets, use terminal and browser tools, analyze findings, and prepare reports."
+category = "agents"
+website = "https://hackerai.co"
+open_source = true
+repository = "https://github.com/hackerai-tech/hackerai"
+added = 2026-11-02

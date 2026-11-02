@@ -1,0 +1,7 @@
+name = "Lobe TTS"
+description = "Text-to-speech and speech-to-text for server and browser, with React hooks and audio components."
+category = "audio"
+website = "https://tts.lobehub.com"
+open_source = true
+repository = "https://github.com/lobehub/lobe-tts"
+added = 2026-11-02

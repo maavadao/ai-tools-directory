@@ -1,0 +1,7 @@
+name = "Clodex"
+description = "Opus 4.8, GPT-5.6 xHigh and GPT 5.4 via one OpenAI-compatible endpoint. No VPN, works with Claude Code, Cursor and Cline."
+category = "coding"
+website = "https://ide.clodex.xyz"
+open_source = true
+repository = "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
+added = 2026-11-02

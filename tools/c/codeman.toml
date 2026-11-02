@@ -1,0 +1,7 @@
+name = "Codeman"
+description = "Free, open-source dashboard for Claude Code, Codex, Gemini CLI and 7 more agent CLIs. Runs in tmux on your machine; use it from any browser or phone."
+category = "agents"
+website = "https://getcodeman.com"
+open_source = true
+repository = "https://github.com/Ark0N/Codeman"
+added = 2026-11-02

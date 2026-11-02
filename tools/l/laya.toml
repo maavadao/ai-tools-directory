@@ -1,0 +1,7 @@
+name = "laya"
+description = "Aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook, and Calendar notifications into ready-to-approve action cards — powered by local LLMs via Ollama and LM Studio, or your own API keys."
+category = "agents"
+website = "https://laya.aay.sh"
+open_source = true
+repository = "https://github.com/aayushch/laya"
+added = 2026-11-02

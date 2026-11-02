@@ -1,0 +1,7 @@
+name = "scrawl"
+description = "Record your screen, voice, clicks and drawings on a Mac or PC, then paste one compact capture into your AI coding agent."
+category = "coding"
+website = "https://scrawl.kitlangton.com"
+open_source = true
+repository = "https://github.com/kitlangton/scrawl"
+added = 2026-11-02

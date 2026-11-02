@@ -1,0 +1,7 @@
+name = "GPUMD"
+description = "Graphics Processing Units Molecular Dynamics"
+category = "other"
+website = "https://gpumd.org"
+open_source = true
+repository = "https://github.com/brucefan1983/GPUMD"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "MAMMA"
+description = "A markerless motion-capture pipeline that accurately recovers SMPL-X parameters from multi-view video. CVPR 2026 Oral."
+category = "other"
+website = "https://mamma.is.tue.mpg.de"
+open_source = true
+repository = "https://github.com/cuevhv/mamma"
+added = 2026-11-02

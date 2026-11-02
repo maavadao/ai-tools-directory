@@ -76,6 +76,9 @@
 "checked": "2026-10-31",
 "image": "https://react-native-ai.dev/og-image.jpg"
 },
+"react-speech-recognition": {
+"checked": "2026-11-02"
+},
 "read-aloud": {
 "checked": "2026-10-30",
 "image": "https://readaloud.app/images/marquee.jpg"
@@ -129,6 +132,9 @@
 },
 "redirecting-to-structuredlabs-com": {
 "checked": "2026-10-27"
+},
+"redirecting-to-v2-1-0-branch-version": {
+"checked": "2026-11-02"
 },
 "redis": {
 "checked": "2026-10-30",
@@ -213,12 +219,19 @@
 "url": "https://www.resollm.ai/pricing/"
 }
 },
+"restheart": {
+"checked": "2026-11-02",
+"image": "https://restheart.org/images/restheart_social_preview_1200x630.png"
+},
 "restricted-domain": {
 "checked": "2026-10-27"
 },
 "resume-matcher": {
 "checked": "2026-10-24",
 "image": "https://resumematcher.fyi/images/meta/og-image.jpg"
+},
+"retentioneering-tools": {
+"checked": "2026-11-02"
 },
 "reticle": {
 "checked": "2026-10-31"
@@ -233,6 +246,10 @@
 "trial": true,
 "url": "https://rtrvr.ai/pricing"
 }
+},
+"reuven-cohen-ruv": {
+"checked": "2026-11-02",
+"image": "https://ruv.io/og-image.png"
 },
 "revision-39841": {
 "checked": "2026-10-25"
@@ -269,6 +286,9 @@
 "checked": "2026-10-23",
 "image": "https://rill.love/assets/og-image.png"
 },
+"ringnet": {
+"checked": "2026-11-02"
+},
 "rio-dev": {
 "checked": "2026-10-28"
 },
@@ -295,6 +315,9 @@
 "rl-tools": {
 "checked": "2026-11-01"
 },
+"rl4co": {
+"checked": "2026-11-02"
+},
 "rlcard-showdown": {
 "checked": "2026-10-27"
 },
@@ -319,6 +342,9 @@
 "robotgo": {
 "checked": "2026-10-25"
 },
+"robotics": {
+"checked": "2026-11-02"
+},
 "robotics-library": {
 "checked": "2026-11-01"
 },
@@ -333,6 +359,19 @@
 "from": 550.0,
 "url": "https://qualifire.ai/pricing"
 }
+},
+"rome": {
+"checked": "2026-11-02",
+"image": "https://romeos.cc/public-og-20260825.jpg",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://romeos.cc/pricing"
+}
+},
+"rome-baulab-info": {
+"checked": "2026-11-02",
+"image": "https://rome.baulab.info/images/ct-thumb.gif"
 },
 "rool": {
 "checked": "2026-10-23",
@@ -351,6 +390,9 @@
 "ros-mcp-server": {
 "checked": "2026-10-31",
 "image": "https://robotmcp.ai/img/architecture.png"
+},
+"ros2-controllers": {
+"checked": "2026-11-02"
 },
 "roshan-ai-ir": {
 "checked": "2026-10-31"

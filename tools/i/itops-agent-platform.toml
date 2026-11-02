@@ -1,0 +1,7 @@
+name = "ITOps Agent Platform"
+description = "企业级 IT 运维多 Agent 自动化平台 — 基于大语言模型的全开源多Agent智能运维解决方案"
+category = "agents"
+website = "https://aiopsdoc-0mwug01t6.maozi.io"
+open_source = true
+repository = "https://github.com/qinshihu/itops-agent-platform"
+added = 2026-11-02

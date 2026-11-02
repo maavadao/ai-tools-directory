@@ -1,0 +1,7 @@
+name = "Chenyang Yuan&#39;s Homepage"
+description = "Chenyang Yuan's research, software, tutorials and projects"
+category = "image"
+website = "https://www.chenyang.co"
+open_source = true
+repository = "https://github.com/yuanchenyang/smalldiffusion"
+added = 2026-11-02

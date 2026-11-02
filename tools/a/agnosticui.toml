@@ -1,0 +1,7 @@
+name = "AgnosticUI"
+description = "The UI kit that lives in your project. Local components. AI-friendly. React. Vue. Svelte. Astro. Angular. Solid. Preact."
+category = "other"
+website = "https://www.agnosticui.com"
+open_source = true
+repository = "https://github.com/AgnosticUI/agnosticui"
+added = 2026-11-02

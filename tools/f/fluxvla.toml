@@ -1,0 +1,7 @@
+name = "FluxVLA"
+description = "An all-in-one VLA engineering platform for embodied AI — from data to real-robot deployment."
+category = "other"
+website = "https://fluxvla.limxdynamics.com"
+open_source = true
+repository = "https://github.com/FluxVLA/FluxVLA"
+added = 2026-11-02

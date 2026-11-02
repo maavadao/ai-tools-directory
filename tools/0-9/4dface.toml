@@ -1,0 +1,7 @@
+name = "4dface"
+description = "Face tracking and 3D personal avatar creation"
+category = "other"
+website = "https://www.4dface.io"
+open_source = true
+repository = "https://github.com/patrikhuber/4dface"
+added = 2026-11-02

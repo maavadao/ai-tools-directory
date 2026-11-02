@@ -1,0 +1,7 @@
+name = "AI Gist"
+description = "保存、填写、复制，全程在本机完成"
+category = "chatbots"
+website = "https://getaigist.com"
+open_source = true
+repository = "https://github.com/yarin-zhang/AI-Gist"
+added = 2026-11-02

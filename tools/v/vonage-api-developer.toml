@@ -1,0 +1,7 @@
+name = "Vonage API Developer"
+description = "Get guides and code snippets, browse reference documentation, and more to develop connected applications with Vonage APIs and SDKs."
+category = "audio"
+website = "https://developer.vonage.com"
+open_source = true
+repository = "https://github.com/Vonage/vonage-php-sdk-core"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "swapper-toolkit"
+description = "Any asset, any chain in. A trade-ready stablecoin balance out. One integration."
+category = "other"
+website = "https://swapper.finance"
+open_source = true
+repository = "https://github.com/swapperfinance/swapper-toolkit"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "AgenticX"
+description = "覆盖 Python Runtime、Near 桌面与 Enterprise 的统一智能体技术栈。本地优先工作区，企业侧合规网关。"
+category = "chatbots"
+website = "https://www.agxbuilder.com"
+open_source = true
+repository = "https://github.com/DemonDamon/AgenticX"
+added = 2026-11-02

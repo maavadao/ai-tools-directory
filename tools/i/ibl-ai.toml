@@ -1,0 +1,7 @@
+name = "ibl.ai"
+description = "Deploy AI agents and applications on your infrastructure with ibl.ai's AI Operating System. Your code, your data, any LLM. Serving 1.6M+ users across 400+ organizations."
+category = "chatbots"
+website = "https://ibl.ai"
+open_source = true
+repository = "https://github.com/iblai/os"
+added = 2026-11-02

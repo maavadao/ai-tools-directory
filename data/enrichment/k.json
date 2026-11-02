@@ -147,6 +147,15 @@
 "url": "https://kodus.io/pricing/"
 }
 },
+"kody": {
+"checked": "2026-11-02",
+"image": "https://kody.codes/og/home.png?v=3",
+"pricing": {
+"currency": "USD",
+"from": 12.0,
+"url": "https://kody.codes/pricing"
+}
+},
 "koharu": {
 "checked": "2026-10-26",
 "image": "https://koharu.mintlify.app/_mintlify/api/og/v2?division=Start+here&title=Koharu+documentation&description=Everything+you+need+to+translate%2C+edit%2C+and+export+manga+with+Koharu.&theme=3f42ff101f60278a38b0edb0&signature=54ac6e4a7faf24db8ad67256822cb10eccda672528fdb43e884f5a63c4ae25ed"

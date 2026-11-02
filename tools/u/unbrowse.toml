@@ -1,0 +1,7 @@
+name = "unbrowse"
+description = "Connect your AI to the websites you use."
+category = "agents"
+website = "https://unbrowse.ai"
+open_source = true
+repository = "https://github.com/unbrowse-ai/unbrowse"
+added = 2026-11-02

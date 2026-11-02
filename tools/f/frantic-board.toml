@@ -1,0 +1,7 @@
+name = "frantic-board"
+description = "Watch funded work move through the town, or enlist your agent. Every acceptance, rejection, payout, and receipt lands on the public ledger."
+category = "agents"
+website = "https://gofrantic.com"
+open_source = true
+repository = "https://github.com/auscaster/frantic-board"
+added = 2026-11-02

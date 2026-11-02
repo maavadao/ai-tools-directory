@@ -1,0 +1,7 @@
+name = "Agnaistic"
+description = "AI chat with seamless integration to your favorite AI services"
+category = "chatbots"
+website = "https://agnai.chat"
+open_source = true
+repository = "https://github.com/agnaistic/agnai"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "Excel MCP Server"
+description = "Automate real Microsoft Excel with AI via MCP Server or CLI — Power Query, DAX, VBA, PivotTables, and charts."
+category = "other"
+website = "https://excelmcpserver.dev"
+open_source = true
+repository = "https://github.com/sbroenne/mcp-server-excel"
+added = 2026-11-02

@@ -1,0 +1,7 @@
+name = "Midjourney Proxy Admin"
+description = "🦄 The world's most complete open-source Midjourney API — Discord, YouChuan and the official site behind one HTTP interface, 1M+ images per day."
+category = "chatbots"
+website = "https://ai.trueai.org"
+open_source = true
+repository = "https://github.com/trueai-org/midjourney-proxy"
+added = 2026-11-02

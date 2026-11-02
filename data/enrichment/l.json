@@ -96,6 +96,15 @@
 "checked": "2026-10-26",
 "image": "https://latent.space/brand/social-home-v1.jpg"
 },
+"latex-document-skill": {
+"checked": "2026-11-02",
+"image": "https://happycapy.ai/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 17.0,
+"url": "https://happycapy.ai/pricing"
+}
+},
 "latitude-llm": {
 "checked": "2026-10-27",
 "image": "https://latitude.so/images/og-image.png",
@@ -110,6 +119,10 @@
 "lavague": {
 "checked": "2026-10-26",
 "image": "https://cdn.prod.website-files.com/65f2cdf991013d85c582af00/65fae15f9d9e05d00b759b64_open%20graph%20img.png"
+},
+"laya": {
+"checked": "2026-11-02",
+"image": "https://aayushch.github.io/laya/images/card-view.png"
 },
 "layerfs": {
 "checked": "2026-10-29",
@@ -211,6 +224,10 @@
 "checked": "2026-10-23",
 "image": "https://www.librechat.ai/api/og?v=a40e77512dc1"
 },
+"libreyolo": {
+"checked": "2026-11-02",
+"image": "https://www.libreyolo.com/opengraph-image"
+},
 "lichtfeld-studio": {
 "checked": "2026-10-27",
 "image": "https://lichtfeld.io/static/social-preview.png"
@@ -271,6 +288,10 @@
 "url": "https://liveblocks.io/pricing"
 }
 },
+"lix": {
+"checked": "2026-11-02",
+"image": "https://lix.dev/og.png"
+},
 "llama-cpp": {
 "checked": "2026-10-23",
 "image": "https://llama.app/og-image.png"
@@ -278,6 +299,10 @@
 "llamachat": {
 "checked": "2026-10-31",
 "image": "https://llamachat.app/images/og/twitter-card.png"
+},
+"llamafarm": {
+"checked": "2026-11-02",
+"image": "https://llamafarm.dev/images/31a0aa40-dbad-4436-a078-075840de90e5.png"
 },
 "llamaindex": {
 "checked": "2026-10-23",
@@ -383,6 +408,10 @@
 "checked": "2026-10-29",
 "image": "https://repository-images.githubusercontent.com/750129442/edc2a03a-a6c4-4f11-89c8-8ffafbb85a7a"
 },
+"lobe-tts": {
+"checked": "2026-11-02",
+"image": "https://repository-images.githubusercontent.com/713462676/d13d3fda-9c5d-457c-a816-4c333cc96363"
+},
 "lobe-ui": {
 "checked": "2026-10-29",
 "image": "https://repository-images.githubusercontent.com/643435168/7514a374-d7de-4c8b-ad61-5460bc0bfe35"
@@ -469,5 +498,8 @@
 "luvus": {
 "checked": "2026-11-01",
 "image": "https://luvus.dev/og.png"
+},
+"lux-ai-challenge": {
+"checked": "2026-11-02"
 }
 }
