@@ -1,0 +1,7 @@
+name = "hyperfide"
+description = "Give coding agents a local code graph, executable specs, and persistent project memory. Open source under Apache 2.0. Runs on your machine."
+category = "agents"
+website = "https://www.hyperfide.com"
+open_source = true
+repository = "https://github.com/Sidiora-Labs/hyperfide"
+added = 2026-11-03

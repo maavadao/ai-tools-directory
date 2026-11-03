@@ -1,0 +1,7 @@
+name = "Stirrup"
+description = "A reusable agent framework for building AI agents with tool use"
+category = "agents"
+website = "https://stirrup.artificialanalysis.ai"
+open_source = true
+repository = "https://github.com/ArtificialAnalysis/Stirrup"
+added = 2026-11-03

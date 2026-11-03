@@ -1,0 +1,7 @@
+name = "Aletheore"
+description = "Evidence-grounded GitHub audits: secrets, vulnerabilities, dead code, live endpoint monitoring, AIRview architecture maps, AI-generated Docs, and automated PR reviews."
+category = "other"
+website = "https://www.aletheore.com"
+open_source = true
+repository = "https://github.com/Aletheore/Aletheore"
+added = 2026-11-03

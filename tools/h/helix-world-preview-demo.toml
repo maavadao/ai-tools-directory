@@ -1,0 +1,7 @@
+name = "Helix World Preview Demo"
+description = "HelixWorld: real-time interactive audio-visual world model."
+category = "audio"
+website = "https://helixworld.org"
+open_source = true
+repository = "https://github.com/NoizAI/HelixWorld"
+added = 2026-11-03

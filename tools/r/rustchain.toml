@@ -1,0 +1,7 @@
+name = "RustChain"
+description = "A blockchain where vintage hardware earns higher mining rewards. PowerPC G4s from 2003 earn 2.5x. 11 miners, 3 attestation nodes."
+category = "agents"
+website = "https://rustchain.org"
+open_source = true
+repository = "https://github.com/Scottcjn/Rustchain"
+added = 2026-11-03

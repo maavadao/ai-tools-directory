@@ -1,0 +1,7 @@
+name = "Vuetify-Lux"
+description = "Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT"
+category = "chatbots"
+website = "https://lux.vuetify3.com"
+open_source = true
+repository = "https://github.com/yangjiakai/lux-ui"
+added = 2026-11-03

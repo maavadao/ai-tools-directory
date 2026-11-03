@@ -1,0 +1,7 @@
+name = "ViewComfy"
+description = "Turn ComfyUI workflows into serverless APIs, share them via simple interfaces and access the latest closed-source models."
+category = "image"
+website = "https://www.viewcomfy.com"
+open_source = true
+repository = "https://github.com/ViewComfy/ViewComfy"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "OpenYak"
+description = "Open-source desktop AI agent. Reads your local workspace, runs tools, returns files and reports inside the app. BYOK, MCP-native, and offline-ready."
+category = "agents"
+website = "https://open-yak.com"
+open_source = true
+repository = "https://github.com/openyak/openyak"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "LightSeek Foundation"
+description = "LightSeek Foundation is a nonprofit organization advancing open research and open-source innovation for next-generation AI systems."
+category = "chatbots"
+website = "https://lightseek.org"
+open_source = true
+repository = "https://github.com/smg-project/smg"
+added = 2026-11-03

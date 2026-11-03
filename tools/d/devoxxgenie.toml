@@ -1,0 +1,7 @@
+name = "DevoxxGenie"
+description = "Enhance your development with AI assistance. DevoxxGenie is a free, open-source plugin that brings local and cloud LLM capabilities directly to your JetBrains IDE (IntelliJ IDEA, PyCharm, WebStorm, and more) using your own API keys (BYOK)."
+category = "coding"
+website = "https://genie.devoxx.com"
+open_source = true
+repository = "https://github.com/devoxx/DevoxxGenieIDEAPlugin"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "trinity"
+description = "The applied AI lab behind professional services companies. We build Trinity, the open-source operating system they run on. Your company keeps what it builds."
+category = "other"
+website = "https://www.ability.ai"
+open_source = true
+repository = "https://github.com/Abilityai/trinity"
+added = 2026-11-03

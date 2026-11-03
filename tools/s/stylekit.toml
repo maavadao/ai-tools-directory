@@ -1,0 +1,7 @@
+name = "StyleKit"
+description = "Browse 149 visual styles with design tokens, component recipes, and AI prompts. Export to Tailwind, shadcn, Figma, and AI coding tools."
+category = "other"
+website = "https://www.stylekit.top"
+open_source = true
+repository = "https://github.com/AnxForever/stylekit"
+added = 2026-11-03

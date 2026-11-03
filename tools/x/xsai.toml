@@ -1,0 +1,7 @@
+name = "xsAI"
+description = "Build AI applications with small, composable packages."
+category = "other"
+website = "https://xsai.js.org"
+open_source = true
+repository = "https://github.com/moeru-ai/xsai"
+added = 2026-11-03

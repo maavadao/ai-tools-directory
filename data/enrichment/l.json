@@ -88,6 +88,13 @@
 "url": "https://langwatch.ai/pricing"
 }
 },
+"laragent": {
+"checked": "2026-11-03",
+"image": "https://laragent.ai/assets/images/card.jpg?v=83272c3c"
+},
+"laravel-restify": {
+"checked": "2026-11-03"
+},
 "latent-box": {
 "checked": "2026-10-29",
 "image": "https://latentbox.com/assets/resources/latentbox-hero.jpg"
@@ -182,6 +189,10 @@
 "url": "https://www.lemlist.com/pricing"
 }
 },
+"lemma-platform": {
+"checked": "2026-11-03",
+"image": "https://lemma.work/api/social-card?variant=build&title=Lemma+%E2%80%94+Hire+an+AI+teammate&detail=Hire+an+open-source+AI+teammate+and+share+it+with+your+people.+It+learns+from+all+of+you%2C+builds+the+tools+the+job+needs%2C+and+answers+each+person+within+their+permissions."
+},
 "lemonade": {
 "checked": "2026-10-26"
 },
@@ -192,6 +203,10 @@
 "free": true,
 "url": "https://lemonai.cc"
 }
+},
+"leo-labs": {
+"checked": "2026-11-03",
+"image": "https://leolabs.me/og-image.png"
 },
 "leoaido": {
 "checked": "2026-10-29",
@@ -220,6 +235,10 @@
 "url": "https://browser.lexmount.com/pricing"
 }
 },
+"lexora": {
+"checked": "2026-11-03",
+"image": "https://uselexora.app/landing/share-zh.png"
+},
 "librechat": {
 "checked": "2026-10-23",
 "image": "https://www.librechat.ai/api/og?v=a40e77512dc1"
@@ -245,6 +264,10 @@
 "from": 140.0,
 "url": "https://lightning.ai/pricing/"
 }
+},
+"lightseek-foundation": {
+"checked": "2026-11-03",
+"image": "https://lightseek.org/assets/images/top_bg_pic.png"
 },
 "lightswind-ui": {
 "checked": "2026-11-01",
@@ -337,6 +360,10 @@
 "url": "https://manifest.build/pricing/"
 }
 },
+"llm-hub": {
+"checked": "2026-11-03",
+"image": "https://www.llm-hub.app/og.jpg"
+},
 "llm-ui": {
 "checked": "2026-10-30",
 "image": "https://llm-ui.com/og.png"
@@ -364,6 +391,9 @@
 "llmstack": {
 "checked": "2026-10-29",
 "image": "https://storage.googleapis.com/trypromptly-static/static/images/opengraph.jpg"
+},
+"llmtornado": {
+"checked": "2026-11-03"
 },
 "llmware": {
 "checked": "2026-10-24",
@@ -457,6 +487,9 @@
 "lollms-webui": {
 "checked": "2026-10-27"
 },
+"loong": {
+"checked": "2026-11-03"
+},
 "lovable": {
 "checked": "2026-10-23",
 "image": "https://lovable.dev/img/opengraph-image.png",
@@ -501,5 +534,8 @@
 },
 "lux-ai-challenge": {
 "checked": "2026-11-02"
+},
+"lux-jl": {
+"checked": "2026-11-03"
 }
 }

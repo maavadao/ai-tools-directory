@@ -1,0 +1,7 @@
+name = "asqav-sdk"
+description = "Signed, tamper-evident receipts for AI agent actions. Answer customer security reviews and audits with records anyone can verify, without trusting your logs."
+category = "other"
+website = "https://www.asqav.com"
+open_source = true
+repository = "https://github.com/jagmarques/asqav-sdk"
+added = 2026-11-03

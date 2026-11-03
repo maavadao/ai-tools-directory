@@ -1,0 +1,7 @@
+name = "Nadir"
+description = "Nadir sends each Claude Code, Codex and Cursor turn to the cheapest model that can do it. Engineers keep their tools, and the bill gets smaller."
+category = "coding"
+website = "https://getnadir.com"
+open_source = true
+repository = "https://github.com/NadirRouter/NadirClaw"
+added = 2026-11-03

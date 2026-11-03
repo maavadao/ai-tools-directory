@@ -1,0 +1,7 @@
+name = "LarAgent"
+description = "Create AI Agents with Laravel"
+category = "agents"
+website = "https://laragent.ai"
+open_source = true
+repository = "https://github.com/MaestroError/LarAgent"
+added = 2026-11-03

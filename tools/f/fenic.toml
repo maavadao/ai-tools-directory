@@ -1,0 +1,7 @@
+name = "fenic"
+description = "Fenic is a semantic DataFrame engine: PySpark/SQL plus AI operators that turn structured and unstructured data into typed, reusable, inspectable pipelines."
+category = "chatbots"
+website = "https://fenic.ai"
+open_source = true
+repository = "https://github.com/typedef-ai/fenic"
+added = 2026-11-03

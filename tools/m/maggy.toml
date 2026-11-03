@@ -1,0 +1,7 @@
+name = "maggy"
+description = "Palgu is the world's first and only complete engineering superharness. Coding agents write code; Palgu runs engineering, from intent to proven change, with one set of routing, budgets, policy, review and audit for every agent and model. Use it from the terminal with srooterctl or on the desktop wit…"
+category = "coding"
+website = "https://www.palgu.ai"
+open_source = true
+repository = "https://github.com/alinaqi/maggy"
+added = 2026-11-03

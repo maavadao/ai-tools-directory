@@ -1,0 +1,7 @@
+name = "Nova3D"
+description = "Nova3D turns anything you describe into a living program: an object, a room, a world. Programs can be read, changed, moved, simulated and played."
+category = "other"
+website = "https://nova3d.xyz"
+open_source = true
+repository = "https://github.com/RareSense/Nova3D"
+added = 2026-11-03

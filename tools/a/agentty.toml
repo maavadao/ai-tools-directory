@@ -1,0 +1,7 @@
+name = "agentty"
+description = "A native C++26 terminal coding agent. A single static binary with millisecond cold start, sandboxed by default, one-command SSH air-gap, and runs inside Zed over ACP. Sign in with a subscription you already have — Claude Pro/Max, ChatGPT, GitHub Copilot, or Kimi (no API key) — or point it at DeepSe…"
+category = "chatbots"
+website = "https://agentty.org"
+open_source = true
+repository = "https://github.com/agentty-org/agentty"
+added = 2026-11-03

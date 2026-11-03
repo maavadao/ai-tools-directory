@@ -1,0 +1,7 @@
+name = "Probe Labs"
+description = "ProbeLabs is a research lab for engineering craft in the agentic era. We build the instruments that turn agent work into recoverable intent and rerunnable evidence."
+category = "research"
+website = "https://probelabs.com"
+open_source = true
+repository = "https://github.com/probelabs/probe"
+added = 2026-11-03

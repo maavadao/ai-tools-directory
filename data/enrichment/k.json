@@ -39,6 +39,10 @@
 "checked": "2026-11-01",
 "image": "https://kandev.ai/og-image.png"
 },
+"kanwas": {
+"checked": "2026-11-03",
+"image": "https://kanwas.ai/landing/images/og-image.jpg"
+},
 "kedro": {
 "checked": "2026-10-25",
 "image": "https://kedro.org/images/kedro-social-image.png"
@@ -67,6 +71,21 @@
 "checked": "2026-10-24",
 "image": "https://kestra.io/og-image.png"
 },
+"ketch": {
+"checked": "2026-11-03"
+},
+"keyid-ai": {
+"checked": "2026-11-03",
+"image": "https://keyid.ai/assets/brand/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 29.0,
+"url": "https://keyid.ai"
+}
+},
+"keypaste": {
+"checked": "2026-11-03"
+},
 "khanmigo": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/659ee90e075c502b5cc49dae/6618517343d5ef21ac0ec603_Frame%20625094.png"
@@ -74,6 +93,10 @@
 "khoj": {
 "checked": "2026-10-23",
 "image": "https://khoj.dev/social-banner.jpg"
+},
+"ki-expertise-f-r-ihr-unternehmen": {
+"checked": "2026-11-03",
+"image": "https://www.drborchers.com/og-default-de.png"
 },
 "kiln-ai": {
 "checked": "2026-10-27",
@@ -113,6 +136,9 @@
 "klavis-ai": {
 "checked": "2026-10-26"
 },
+"klaw": {
+"checked": "2026-11-03"
+},
 "klingai": {
 "checked": "2026-10-23",
 "image": "https://s16-kling.klingai.com/kos/s101/nlav112918/kling-web/kling-logo-payment-en.png"
@@ -126,6 +152,15 @@
 },
 "knp-labs": {
 "checked": "2026-10-27"
+},
+"ko-fi": {
+"checked": "2026-11-03",
+"image": "https://storage.ko-fi.com/cdn/og.png?v=2",
+"pricing": {
+"currency": "USD",
+"from": 12.0,
+"url": "https://ko-fi.com/pricing"
+}
 },
 "kodlo": {
 "checked": "2026-10-23",

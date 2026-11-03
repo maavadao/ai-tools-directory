@@ -1,0 +1,7 @@
+name = "OpenEcon.ai"
+description = "OpenEcon.ai builds free, open-source AI tools for economists — search 330,000+ economic indicators in plain English, run Stata and MATLAB from AI assistants, and draft, present, and referee papers with AI."
+category = "other"
+website = "https://openecon.ai"
+open_source = true
+repository = "https://github.com/hanlulong/awesome-ai-for-economists"
+added = 2026-11-03

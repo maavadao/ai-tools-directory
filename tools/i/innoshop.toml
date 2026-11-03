@@ -1,0 +1,7 @@
+name = "InnoShop"
+description = "InnoShop 是基于 Laravel 13 的开源电商系统，支持多语言、多币种，具备强大的插件架构，助力商家以天为单位上线店铺。"
+category = "other"
+website = "https://www.innoshop.com"
+open_source = true
+repository = "https://github.com/innocommerce/innoshop"
+added = 2026-11-03

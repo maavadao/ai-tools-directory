@@ -1,0 +1,7 @@
+name = "Bundled Page"
+description = "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code , Opencode durable memory — entirely offline."
+category = "other"
+website = "https://recallplugin.dev"
+open_source = true
+repository = "https://github.com/raiyanyahya/recall"
+added = 2026-11-03

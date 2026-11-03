@@ -1,0 +1,7 @@
+name = "CSML"
+description = "Build chatbots in a matter of minutes with CSML, the first open-source chatbot engine and programming language dedicated to developing powerful conversational agents."
+category = "chatbots"
+website = "https://www.csml.dev"
+open_source = true
+repository = "https://github.com/CSML-by-Clevy/csml-engine"
+added = 2026-11-03

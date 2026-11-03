@@ -1,0 +1,7 @@
+name = "XActions"
+description = "AI-powered mass unfollow, smart automation with LLM integration. Works with GPT, Claude & MCP servers. Free, open-source, no API fees."
+category = "agents"
+website = "https://xactions.app"
+open_source = true
+repository = "https://github.com/nirholas/XActions"
+added = 2026-11-03

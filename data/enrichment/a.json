@@ -45,6 +45,9 @@
 "url": "https://actionbook.app/pricing"
 }
 },
+"activegraph": {
+"checked": "2026-11-03"
+},
 "activepieces": {
 "checked": "2026-10-24",
 "image": "https://www.activepieces.com/og-default.jpg",
@@ -100,6 +103,17 @@
 },
 "aeon-toolkit-org": {
 "checked": "2026-10-31"
+},
+"aether": {
+"checked": "2026-11-03"
+},
+"affiliate-skills": {
+"checked": "2026-11-03",
+"image": "https://affitor.com/api/og?title=Affitor&description=AI-Native%20Affiliate%20Network%20for%20SaaS&path=/",
+"pricing": {
+"free": true,
+"url": "https://affitor.com/pricing"
+}
 },
 "ag2": {
 "checked": "2026-10-27",
@@ -159,6 +173,10 @@
 "checked": "2026-10-30",
 "image": "https://jido.run/og/render/home"
 },
+"agent-manager": {
+"checked": "2026-11-03",
+"image": "https://agent-manager.dev/assets/og.png?v=1e93e54e25"
+},
 "agent-master-skills": {
 "checked": "2026-11-02",
 "image": "https://myclaw.ai/opengraph-image",
@@ -166,6 +184,9 @@
 "trial": true,
 "url": "https://myclaw.ai/pricing"
 }
+},
+"agent-me": {
+"checked": "2026-11-03"
 },
 "agent-native": {
 "checked": "2026-10-26",
@@ -202,6 +223,15 @@
 "agent-s": {
 "checked": "2026-10-25",
 "image": "https://cdn.prod.website-files.com/666c58d71e64e2eb5bdf950b/6aa873794bc3db772b5daa8e_Codex%20Image%20Sep%2014%2C%202026%2C%2003_18_57%20PM.png"
+},
+"agent-safe-pipeline": {
+"checked": "2026-11-03",
+"image": "https://decionis.com/api/og/homepage",
+"pricing": {
+"currency": "USD",
+"from": 49.0,
+"url": "https://decionis.com/pricing"
+}
 },
 "agent-safehouse": {
 "checked": "2026-10-30",
@@ -295,6 +325,10 @@
 "agenticx": {
 "checked": "2026-11-02"
 },
+"agentiloop": {
+"checked": "2026-11-03",
+"image": "https://agentiloop.ai/agent-og.png"
+},
 "agenting-development": {
 "checked": "2026-10-25",
 "image": "https://ohmyopencodeslim.com/og-images/index.png"
@@ -376,6 +410,10 @@
 "checked": "2026-10-31",
 "image": "https://agentsociety2.fiblab.net/logo.png"
 },
+"agentty": {
+"checked": "2026-11-03",
+"image": "https://agentty.org/opengraph-image?0f60d12fd0758ca6"
+},
 "agenui": {
 "checked": "2026-11-01"
 },
@@ -416,9 +454,21 @@
 "checked": "2026-10-31",
 "image": "https://agor.live/screenshots/board-hero.png"
 },
+"agterm": {
+"checked": "2026-11-03",
+"image": "https://agterm.com/assets/agterm-og.png"
+},
 "ai": {
 "checked": "2026-10-24",
 "image": "https://ai.codefather.cn/logo.png"
+},
+"ai-agent-platforms": {
+"checked": "2026-11-03",
+"image": "https://aiagentplatforms.dev/og.png"
+},
+"ai-agents-kit": {
+"checked": "2026-11-03",
+"image": "https://aiagentskit.com/og-default.webp"
 },
 "ai-as-workspace": {
 "checked": "2026-10-30"
@@ -521,6 +571,14 @@
 "checked": "2026-10-27",
 "image": "https://infiniflow.org/img/infinity-social-card.png"
 },
+"ai-native-lang": {
+"checked": "2026-11-03",
+"image": "https://ainativelang.com/og?preset=default",
+"pricing": {
+"free": true,
+"url": "https://www.ainativelang.com/pricing"
+}
+},
 "ai-native-microservices-platform": {
 "checked": "2026-10-29"
 },
@@ -529,6 +587,9 @@
 },
 "ai-poster-design": {
 "checked": "2026-10-27"
+},
+"ai-ref-library-cn": {
+"checked": "2026-11-03"
 },
 "ai-renamer": {
 "checked": "2026-10-30",
@@ -679,6 +740,16 @@
 "checked": "2026-11-01",
 "image": "https://alethe-agents.kc1t.com/cover.png"
 },
+"aletheore": {
+"checked": "2026-11-03",
+"image": "https://www.aletheore.com/logo-mark.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 5.0,
+"url": "https://www.aletheore.com/pricing"
+}
+},
 "alicevision": {
 "checked": "2026-10-28",
 "image": "https://alicevision.org/img/home_lion.jpg"
@@ -748,6 +819,9 @@
 "checked": "2026-10-26",
 "image": "https://www.talater.com/annyang/images/icon_speech.png"
 },
+"anolisa": {
+"checked": "2026-11-03"
+},
 "anoma-ly": {
 "checked": "2026-11-01",
 "image": "https://anoma.ly/og-image.png"
@@ -762,6 +836,10 @@
 "ant-design-x": {
 "checked": "2026-10-27",
 "image": "https://mdn.alipayobjects.com/huamei_lkxviz/afts/img/MGdkQ6iLuXEAAAAAQDAAAAgADtFMAQFr/original"
+},
+"antirion": {
+"checked": "2026-11-03",
+"image": "https://antirion.ai/opengraph-image?fff9c97a0f571dac"
 },
 "antislop": {
 "checked": "2026-10-26",
@@ -788,6 +866,10 @@
 "checked": "2026-10-28",
 "image": "https://anylabeling.nrl.ai/og.jpeg"
 },
+"anymodelbot": {
+"checked": "2026-11-03",
+"image": "https://anymodel.bot/og/og-zh.png"
+},
 "anyquery": {
 "checked": "2026-10-30"
 },
@@ -799,12 +881,24 @@
 "checked": "2026-10-23",
 "image": "https://anythingllm.com/share-card.png"
 },
+"anythingmcp": {
+"checked": "2026-11-03",
+"image": "https://anythingmcp.com/api/og?type=page&slug=home&locale=en",
+"pricing": {
+"trial": true,
+"url": "https://anythingmcp.com/pricing?promo=START30"
+}
+},
 "apache-airflow": {
 "checked": "2026-10-23",
 "image": "https://airflow.apache.org/images/feature-image.png"
 },
 "apache-burr-incubating": {
 "checked": "2026-10-29"
+},
+"apache-casbin-gateway": {
+"checked": "2026-11-03",
+"image": "https://gateway.casbin.org/en/og/image.png"
 },
 "apache-hertzbeat": {
 "checked": "2026-10-26",
@@ -819,6 +913,9 @@
 "apfel": {
 "checked": "2026-10-26",
 "image": "https://apfel.franzai.com/og.png"
+},
+"api": {
+"checked": "2026-11-03"
 },
 "apify-mcp-server": {
 "checked": "2026-10-25"
@@ -879,6 +976,15 @@
 "archon": {
 "checked": "2026-10-24",
 "image": "https://archon.diy/brand/assets/archon-logo.png"
+},
+"arcjet-js": {
+"checked": "2026-11-03",
+"image": "https://arcjet.com/social/arcjet-og-image.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://arcjet.com/pricing"
+}
 },
 "arckit": {
 "checked": "2026-10-29",
@@ -964,6 +1070,14 @@
 "checked": "2026-11-01",
 "image": "https://www.viperrtp.com/viper-og.png"
 },
+"asqav-sdk": {
+"checked": "2026-11-03",
+"image": "https://www.asqav.com/logo.png",
+"pricing": {
+"trial": true,
+"url": "https://www.asqav.com/pricing"
+}
+},
 "assemblyai": {
 "checked": "2026-10-23",
 "image": "https://www.assemblyai.com/_aai/images/meta/og-default.jpg",
@@ -1015,6 +1129,10 @@
 "url": "https://www.tryatlas.cc"
 }
 },
+"atlas-inference": {
+"checked": "2026-11-03",
+"image": "https://atlascybernetics.ai/og-image.png"
+},
 "atomic-agent": {
 "checked": "2026-10-28",
 "image": "https://atomicagent.io/og.png"
@@ -1040,6 +1158,10 @@
 "aurelio-ai": {
 "checked": "2026-10-27",
 "image": "https://www.aurelio.ai/images/og2.png"
+},
+"auto-analyst": {
+"checked": "2026-11-03",
+"image": "https://xu73i5cewj3dp7jn.public.blob.vercel-storage.com/FireBirdTech%20%281%29.png"
 },
 "autoclaw": {
 "checked": "2026-10-24",
@@ -1090,6 +1212,10 @@
 "autoware": {
 "checked": "2026-10-25",
 "image": "https://autoware.org/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-01-at-19.01.16.jpeg"
+},
+"avibe-bot": {
+"checked": "2026-11-03",
+"image": "https://avibe.bot/screens/v5/workbench-vibey-en-dark.png"
 },
 "avinashkranjan": {
 "checked": "2026-10-28",
@@ -1145,6 +1271,10 @@
 "awesome-gpts": {
 "checked": "2026-10-25"
 },
+"awesome-ios-design-md": {
+"checked": "2026-11-03",
+"image": "https://www.spectr.to/opengraph-image?ad534c35b3e75365"
+},
 "awesome-llm-json": {
 "checked": "2026-10-29"
 },
@@ -1187,6 +1317,10 @@
 },
 "axonhub": {
 "checked": "2026-10-27"
+},
+"axuse": {
+"checked": "2026-11-03",
+"image": "https://ax-use.com/og-image.png"
 },
 "ayven": {
 "checked": "2026-10-23",

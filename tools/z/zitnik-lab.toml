@@ -1,0 +1,7 @@
+name = "Zitnik Lab"
+description = "Artificial Intelligence (AI), Machine Learning (ML), Medicine, Science, and Drug Discovery at Harvard"
+category = "agents"
+website = "https://zitniklab.hms.harvard.edu"
+open_source = true
+repository = "https://github.com/mims-harvard/TxAgent"
+added = 2026-11-03

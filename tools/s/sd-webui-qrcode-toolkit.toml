@@ -1,0 +1,7 @@
+name = "sd-webui-qrcode-toolkit"
+description = "Anthony's QR Toolkit for Stable Diffusion WebUI"
+category = "image"
+website = "https://qrcode.antfu.me"
+open_source = true
+repository = "https://github.com/antfu/sd-webui-qrcode-toolkit"
+added = 2026-11-03

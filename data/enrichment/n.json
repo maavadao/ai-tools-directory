@@ -29,6 +29,10 @@
 "nader-dabit": {
 "checked": "2026-10-31"
 },
+"nadir": {
+"checked": "2026-11-03",
+"image": "https://getnadir.com/og-image.png"
+},
 "naga2000": {
 "checked": "2026-10-30",
 "image": "https://universaldatatool.com/naga2000-banner-index.webp"
@@ -42,6 +46,10 @@
 "trial": true,
 "url": "https://www.nannyml.com/pricing"
 }
+},
+"nano-banana-editor": {
+"checked": "2026-11-03",
+"image": "https://nanobananaeditor.dev/og.png"
 },
 "nanobrowser": {
 "checked": "2026-10-24",
@@ -153,6 +161,9 @@
 "checked": "2026-10-23",
 "image": "https://www.netdata.cloud/img/og-image.png"
 },
+"netket": {
+"checked": "2026-11-03"
+},
 "netron": {
 "checked": "2026-10-23"
 },
@@ -192,6 +203,10 @@
 },
 "nextchat": {
 "checked": "2026-10-23"
+},
+"nextcrm": {
+"checked": "2026-11-03",
+"image": "https://demo.nextcrm.io/images/opengraph-image.png"
 },
 "nexu": {
 "checked": "2026-10-28",
@@ -294,6 +309,10 @@
 "checked": "2026-10-25",
 "image": "https://noib.app/img/docusaurus-social-card.jpg"
 },
+"nomi": {
+"checked": "2026-11-03",
+"image": "https://nomiaqm.com/assets/social-preview-zh.jpg"
+},
 "nomic": {
 "checked": "2026-10-23",
 "image": "https://www.nomic.ai/og/index.png?title=Accelerating+the+design+and+construction+of+the+built+world.&eyebrow=Domain-specific+AI+for+AEC&description=The+AI+agent+platform+for+AEC+firms%2C+grounded+in+your+drawings%2C+specs%2C+and+project+data.&v=1",
@@ -374,6 +393,10 @@
 "url": "https://www.notte.cc/pricing"
 }
 },
+"nova3d": {
+"checked": "2026-11-03",
+"image": "https://nova3d.xyz/media/og.jpg"
+},
 "novel": {
 "checked": "2026-10-24",
 "image": "https://novel.sh/opengraph-image.png?73cb1c6d8589016e"
@@ -389,6 +412,10 @@
 },
 "nsfw-js": {
 "checked": "2026-10-25"
+},
+"nubase": {
+"checked": "2026-11-03",
+"image": "https://nubase.ai/og.png"
 },
 "nuclear-music-player": {
 "checked": "2026-10-24",
@@ -417,6 +444,10 @@
 "nvidia-developer": {
 "checked": "2026-10-25",
 "image": "https://developer.download.nvidia.com/images/og-default.jpg"
+},
+"nwave": {
+"checked": "2026-11-03",
+"image": "https://nwave.ai/img/nWaveDogTag.png"
 },
 "nx": {
 "checked": "2026-10-24",

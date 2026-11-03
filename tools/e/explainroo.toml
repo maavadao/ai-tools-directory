@@ -1,0 +1,7 @@
+name = "explainroo"
+description = "explainroo is a free, open source tool that lets your AI agent make explainer videos with a voice. It runs on your own computer and needs no API key."
+category = "video"
+website = "https://www.explainroo.com"
+open_source = true
+repository = "https://github.com/vincentsch/explainroo"
+added = 2026-11-03

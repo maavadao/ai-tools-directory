@@ -1,0 +1,7 @@
+name = "lemma-platform"
+description = "Hire an open-source AI teammate and share it with your people. It learns from all of you, builds the tools the job needs, and answers each person within their permissions."
+category = "other"
+website = "https://lemma.work"
+open_source = true
+repository = "https://github.com/lemma-work/lemma-platform"
+added = 2026-11-03

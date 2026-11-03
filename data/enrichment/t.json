@@ -31,6 +31,15 @@
 "taoran-yi": {
 "checked": "2026-11-02"
 },
+"tapq": {
+"checked": "2026-11-03",
+"image": "https://tapq.ai/assets/img/tapq-og.png",
+"pricing": {
+"currency": "USD",
+"from": 15.0,
+"url": "https://tapq.ai"
+}
+},
 "taranis-ai": {
 "checked": "2026-11-01",
 "image": "https://taranis.ai/screenshot.png"
@@ -45,6 +54,10 @@
 },
 "tavernai-2": {
 "checked": "2026-10-29"
+},
+"tavotto": {
+"checked": "2026-11-03",
+"image": "https://www.tavotto.com/og/og.png"
 },
 "taxhacker": {
 "checked": "2026-10-26"
@@ -133,6 +146,9 @@
 "checked": "2026-10-27",
 "image": "https://tensoropera-static.becdn.net/images-webp/overview-TO.webp"
 },
+"tensorsharp": {
+"checked": "2026-11-03"
+},
 "tensorspace-js": {
 "checked": "2026-10-27"
 },
@@ -146,6 +162,13 @@
 },
 "terminator": {
 "checked": "2026-10-30"
+},
+"termio": {
+"checked": "2026-11-03",
+"image": "https://www.termio.sh/og.webp"
+},
+"terrashark": {
+"checked": "2026-11-03"
 },
 "terravision": {
 "checked": "2026-10-30",
@@ -191,9 +214,17 @@
 "tf-router": {
 "checked": "2026-10-24"
 },
+"tgo-ai": {
+"checked": "2026-11-03",
+"image": "https://tgo.ai/img/docusaurus-social-card.jpg"
+},
 "thclaws": {
 "checked": "2026-11-01",
 "image": "https://thclaws.ai/assets/og.jpg"
+},
+"the-ai-automators": {
+"checked": "2026-11-03",
+"image": "https://www.theaiautomators.com/wp-content/uploads/2026/08/lads-986x1024.jpg"
 },
 "the-ai-operator": {
 "checked": "2026-10-27",
@@ -300,6 +331,10 @@
 "trial": true,
 "url": "https://www.tidio.com/pricing/"
 }
+},
+"tidybot": {
+"checked": "2026-11-03",
+"image": "https://tidybot.cs.princeton.edu/images/og-image.jpg"
 },
 "timeline-studio": {
 "checked": "2026-11-02",
@@ -450,6 +485,16 @@
 "url": "https://trailhq.com/pricing"
 }
 },
+"transcriptapi": {
+"checked": "2026-11-03",
+"image": "https://transcriptapi.com/brand/youtube-transcript-api-og.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 4.5,
+"url": "https://transcriptapi.com/"
+}
+},
 "transformer-lab": {
 "checked": "2026-10-27",
 "image": "https://lab.cloud/img/primus-social-card.png"
@@ -472,6 +517,10 @@
 "checked": "2026-10-23",
 "image": "https://trendradar.sandev.cc/images/og-image.png"
 },
+"trentorch": {
+"checked": "2026-11-03",
+"image": "https://trentorch.com/og-image.png"
+},
 "tribuo": {
 "checked": "2026-10-31",
 "image": "https://tribuo.org/assets/img/tribuo-logo-color-1200.png"
@@ -485,6 +534,10 @@
 "from": 5.0,
 "url": "https://trigger.dev/pricing"
 }
+},
+"trinity": {
+"checked": "2026-11-03",
+"image": "https://www.ability.ai/og-image.png"
 },
 "trueforge": {
 "checked": "2026-10-26",
@@ -522,6 +575,10 @@
 "tuios": {
 "checked": "2026-10-26",
 "image": "https://tuios.dev/og/site/image.png"
+},
+"tura": {
+"checked": "2026-11-03",
+"image": "https://turaai.net/og/home.png"
 },
 "turboocr": {
 "checked": "2026-11-01"

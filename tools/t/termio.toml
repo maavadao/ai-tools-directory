@@ -1,0 +1,7 @@
+name = "termio"
+description = "Termio is the Terminal-first Agentic Development Environment — a native Mac app for your AI coding agents: Claude Code, Codex, OpenCode, Pi Agent and more. Run them side by side, each in a real terminal, switch between them instantly, and nothing ever leaves your machine."
+category = "coding"
+website = "https://www.termio.sh"
+open_source = true
+repository = "https://github.com/termio-sh/termio"
+added = 2026-11-03

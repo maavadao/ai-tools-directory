@@ -1,0 +1,7 @@
+name = "avibe.bot"
+description = "Avibe is a local-first Agent OS with Vibey, its built-in AI partner. Work on your machine with a Workbench, Harness, Model Hub, Show Pages, and Vaults. Bring Claude Code, Codex, and OpenCode too."
+category = "coding"
+website = "https://avibe.bot"
+open_source = true
+repository = "https://github.com/avibe-bot/avibe"
+added = 2026-11-03

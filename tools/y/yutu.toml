@@ -1,0 +1,7 @@
+name = "yutu"
+description = "Run YouTube publishing, metadata, packaging, community, and AI-assisted channel operations from your terminal."
+category = "agents"
+website = "https://yutu.ifor.dev"
+open_source = true
+repository = "https://github.com/eat-pray-ai/yutu"
+added = 2026-11-03

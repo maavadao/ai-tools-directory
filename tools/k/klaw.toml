@@ -1,0 +1,7 @@
+name = "klaw"
+description = "Enterprise AI agent orchestration. Manage, monitor, and scale your AI workforce."
+category = "agents"
+website = "https://klaw.sh"
+open_source = true
+repository = "https://github.com/klawsh/klaw.sh"
+added = 2026-11-03

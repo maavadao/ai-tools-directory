@@ -1,0 +1,7 @@
+name = "waggle"
+description = "Share names, not payloads. A ~30-byte attributed token replaces context-forwarding between agents and subagents."
+category = "agents"
+website = "https://waggle.sh"
+open_source = true
+repository = "https://github.com/modiqo/waggle"
+added = 2026-11-03

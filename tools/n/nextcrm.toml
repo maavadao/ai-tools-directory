@@ -1,0 +1,7 @@
+name = "NextCRM"
+description = "NextCRM is an open source CRM build on top of NextJS."
+category = "sales-marketing"
+website = "https://demo.nextcrm.io"
+open_source = true
+repository = "https://github.com/pdovhomilja/nextcrm-app"
+added = 2026-11-03

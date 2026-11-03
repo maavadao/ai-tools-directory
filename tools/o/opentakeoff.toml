@@ -1,0 +1,7 @@
+name = "OpenTakeoff"
+description = "A free, open-source PDF takeoff canvas. Trace plans and get quantities yourself, or point an AI agent at the same engine over MCP. Runs entirely in your browser, no account."
+category = "other"
+website = "https://opentakeoff.kentucky-ai.com"
+open_source = true
+repository = "https://github.com/Kentucky-ai/opentakeoff"
+added = 2026-11-03

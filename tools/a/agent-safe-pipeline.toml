@@ -1,0 +1,7 @@
+name = "agent-safe-pipeline"
+description = "Authorize the settlements, trades, price changes and sign-offs your AI agents and workflows make before they commit, with a single-use permit and signed record."
+category = "other"
+website = "https://decionis.com"
+open_source = true
+repository = "https://github.com/decionis/agent-safe-pipeline"
+added = 2026-11-03

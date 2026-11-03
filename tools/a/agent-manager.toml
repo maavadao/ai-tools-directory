@@ -1,0 +1,7 @@
+name = "agent-manager"
+description = "The fastest developer workflow for every AI coding agent. Spawn one in a sentence, answer a blocked one without attaching, review its diff without leaving the list."
+category = "coding"
+website = "https://agent-manager.dev"
+open_source = true
+repository = "https://github.com/YoanWai/agent-manager"
+added = 2026-11-03

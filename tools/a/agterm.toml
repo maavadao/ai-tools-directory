@@ -1,0 +1,7 @@
+name = "agterm"
+description = "Native macOS terminal with named workspaces and a local control API for scripts, AI coding agents, and multi-session workflows."
+category = "agents"
+website = "https://agterm.com"
+open_source = true
+repository = "https://github.com/umputun/agterm"
+added = 2026-11-03

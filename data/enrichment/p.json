@@ -54,6 +54,10 @@
 "pandasai": {
 "checked": "2026-10-24"
 },
+"pandrator": {
+"checked": "2026-11-03",
+"image": "https://pandrator.liniewicz.eu/og.png"
+},
 "pantheonsecurity-io": {
 "checked": "2026-11-01",
 "image": "https://pantheonsecurity.io/medusa-banner.png",
@@ -226,6 +230,9 @@
 "url": "https://polygres.com/pricing"
 }
 },
+"pgx": {
+"checked": "2026-11-03"
+},
 "photodemon": {
 "checked": "2026-10-29"
 },
@@ -248,6 +255,10 @@
 "checked": "2026-10-31",
 "image": "https://build-your-own-pi-cn.enochzhang.chatgpt.site/og.png"
 },
+"pi-bolt": {
+"checked": "2026-11-03",
+"image": "https://pi-bolt.opensec.in/video-poster.jpg"
+},
 "pi-desktop": {
 "checked": "2026-10-26"
 },
@@ -268,6 +279,10 @@
 "from": 35.0,
 "url": "https://pika.art/pricing"
 }
+},
+"pilot-docs": {
+"checked": "2026-11-03",
+"image": "https://docs.pilotcloud.dev/pilot-preview.png"
 },
 "pilotdeck": {
 "checked": "2026-10-27"
@@ -379,6 +394,9 @@
 "url": "https://polylane.com/pricing/"
 }
 },
+"polywise": {
+"checked": "2026-11-03"
+},
 "pomerado": {
 "checked": "2026-10-23",
 "image": "https://pomerado.ai/opengraph-image?b492d95fc1fd4e74",
@@ -391,6 +409,10 @@
 "ponytail": {
 "checked": "2026-10-23",
 "image": "https://ponytail.dev/assets/v5/social-card.png"
+},
+"pooled": {
+"checked": "2026-11-03",
+"image": "https://pooled.run/site/og.png?v=2"
 },
 "porcupine": {
 "checked": "2026-10-27",
@@ -473,6 +495,9 @@
 "pro-chat": {
 "checked": "2026-11-02"
 },
+"probe-labs": {
+"checked": "2026-11-03"
+},
 "project-plateau": {
 "checked": "2026-11-02"
 },
@@ -495,6 +520,13 @@
 "prompt-kit": {
 "checked": "2026-10-28",
 "image": "https://prompt-kit.com/opengraph-image.jpg?2e8effab5f3bf8ae"
+},
+"prompt-lens": {
+"checked": "2026-11-03"
+},
+"prompt-security": {
+"checked": "2026-11-03",
+"image": "https://cdn.prod.website-files.com/6a611a0f9b2f5a421e1295f8/6a9821b422982e793adb1437_OPEN%20GRAPH.png"
 },
 "promptbin": {
 "checked": "2026-10-29"
@@ -580,6 +612,10 @@
 "free": true,
 "url": "https://www.puppyone.ai/en/pricing"
 }
+},
+"purple": {
+"checked": "2026-11-03",
+"image": "https://raw.githubusercontent.com/erickochen/purple/master/assets/png/og-card.png"
 },
 "pwnagotchi": {
 "checked": "2026-10-25"

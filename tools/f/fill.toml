@@ -1,0 +1,7 @@
+name = "Fill"
+description = "Generative Fill in 3D."
+category = "other"
+website = "https://www.fill3d.ai"
+open_source = true
+repository = "https://github.com/fill3d/fill"
+added = 2026-11-03

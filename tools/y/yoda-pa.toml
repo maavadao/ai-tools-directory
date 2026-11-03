@@ -1,0 +1,7 @@
+name = "Yoda PA"
+description = "Wise and powerful personal assistant, available in your nearest terminal"
+category = "coding"
+website = "https://yoda.manparvesh.com"
+open_source = true
+repository = "https://github.com/manparvesh/yoda"
+added = 2026-11-03

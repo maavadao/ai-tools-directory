@@ -1,0 +1,7 @@
+name = "NetKet"
+description = "Machine learning algorithms for many-body quantum systems"
+category = "other"
+website = "https://www.netket.org"
+open_source = true
+repository = "https://github.com/netket/netket"
+added = 2026-11-03

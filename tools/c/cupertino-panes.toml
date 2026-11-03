@@ -1,0 +1,7 @@
+name = "Cupertino Panes"
+description = "Javascript library for dynamic modals, cards, panes. Create modal or css card for your javascript vue or angular pwa applications in few steps. Any framework."
+category = "chatbots"
+website = "https://panejs.com"
+open_source = true
+repository = "https://github.com/tech-systems/panes"
+added = 2026-11-03

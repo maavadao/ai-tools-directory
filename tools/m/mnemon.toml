@@ -1,0 +1,7 @@
+name = "mnemon"
+description = "Open-source local memory for Claude Code, Codex, Cursor and other AI agents. One binary, SQLite storage, no API keys: your agent's LLM decides what to keep."
+category = "other"
+website = "https://mnemon.dev"
+open_source = true
+repository = "https://github.com/mnemon-dev/mnemon"
+added = 2026-11-03

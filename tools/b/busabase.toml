@@ -1,0 +1,7 @@
+name = "busabase"
+description = "Busabase is an open-source (MIT) database and workspace for AI agents — data, docs, skills, and apps in one place. Run it locally, self-host it inside your network, or use Busabase Cloud, and turn agent output into things your team can reuse."
+category = "agents"
+website = "https://busabase.com"
+open_source = true
+repository = "https://github.com/busabase/busabase"
+added = 2026-11-03

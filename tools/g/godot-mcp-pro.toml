@@ -1,0 +1,7 @@
+name = "Godot MCP Pro"
+description = "187 tools connecting AI assistants to your Godot 4 editor. Scene, animation, 3D, physics, particles, audio, shader, input simulation, runtime analysis, testing, and more. $15 one-time."
+category = "other"
+website = "https://godot-mcp.abyo.net"
+open_source = true
+repository = "https://github.com/youichi-uda/godot-mcp-pro"
+added = 2026-11-03

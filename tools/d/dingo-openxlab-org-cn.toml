@@ -1,0 +1,7 @@
+name = "dingo"
+description = "Dingo is an open-source AI data quality evaluation platform for training data, fine-tuning datasets, RAG systems, and model outputs."
+category = "chatbots"
+website = "https://dingo.openxlab.org.cn"
+open_source = true
+repository = "https://github.com/MigoXLab/dingo"
+added = 2026-11-03

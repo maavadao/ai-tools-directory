@@ -47,6 +47,9 @@
 "checked": "2026-11-01",
 "image": "https://scienceclaw.science/img/overview.webp"
 },
+"scienceclaw-zidongtaichu-com": {
+"checked": "2026-11-03"
+},
 "scikit-image": {
 "checked": "2026-10-26"
 },
@@ -95,6 +98,9 @@
 "sd-ppp": {
 "checked": "2026-10-29",
 "image": "https://sdppp.zombee.tech/index_screenshot.png"
+},
+"sd-webui-qrcode-toolkit": {
+"checked": "2026-11-03"
 },
 "sdai": {
 "checked": "2026-10-31",
@@ -173,6 +179,14 @@
 "sentence-transformers": {
 "checked": "2026-10-24"
 },
+"sentient": {
+"checked": "2026-11-03",
+"image": "https://existence.technology/existencering.png"
+},
+"sentient-os": {
+"checked": "2026-11-03",
+"image": "https://sentient-os.ai/sentient-link-preview-20261008.jpg"
+},
 "sentrux": {
 "checked": "2026-10-28",
 "pricing": {
@@ -215,6 +229,10 @@
 "sie": {
 "checked": "2026-10-28",
 "image": "https://superlinked.com/og/home.png"
+},
+"sigmap": {
+"checked": "2026-11-03",
+"image": "https://sigmap.io/sigmap-banner.png"
 },
 "signals-forwardfuture-com": {
 "checked": "2026-10-28"
@@ -289,12 +307,18 @@
 "skills-universe": {
 "checked": "2026-10-30"
 },
+"skillspec": {
+"checked": "2026-11-03"
+},
 "skrub": {
 "checked": "2026-10-30"
 },
 "sktime": {
 "checked": "2026-10-25",
 "image": "https://www.sktime.net/sktime-thumbnail.png"
+},
+"sky-paint-singularity-ai-com": {
+"checked": "2026-11-03"
 },
 "skybridge": {
 "checked": "2026-10-29",
@@ -323,6 +347,13 @@
 "from": 10.0,
 "url": "https://www.skyvern.com/pricing"
 }
+},
+"sleap": {
+"checked": "2026-11-03"
+},
+"slide-maker-by-addsum": {
+"checked": "2026-11-03",
+"image": "https://slides.addsum.top/docs/assets/screenshots/preview_en_transformer-talk.png"
 },
 "smart-plugins-for-obsidian": {
 "checked": "2026-10-26"
@@ -582,6 +613,9 @@
 "checked": "2026-10-28",
 "image": "https://www.stemroller.com/img/og-image.png"
 },
+"stirrup": {
+"checked": "2026-11-03"
+},
 "storybloq": {
 "checked": "2026-11-02",
 "image": "https://www.storybloq.com/og-image.png"
@@ -614,8 +648,23 @@
 "url": "https://www.strix.ai/pricing"
 }
 },
+"structured3d-dataset": {
+"checked": "2026-11-03",
+"image": "https://structured3d-dataset.org/static/img/teaser.png"
+},
 "stylegan2-pytorch": {
 "checked": "2026-10-28"
+},
+"stylekit": {
+"checked": "2026-11-03",
+"image": "https://www.stylekit.top/brand/v3/social-preview.png"
+},
+"subham-sahoo": {
+"checked": "2026-11-03"
+},
+"sudohopex": {
+"checked": "2026-11-03",
+"image": "https://sudohopex.github.io/img/hope.jpg"
 },
 "sum4all-site": {
 "checked": "2026-10-31",
@@ -672,6 +721,10 @@
 "trial": true,
 "url": "https://supademo.com/pricing"
 }
+},
+"supamaus": {
+"checked": "2026-11-03",
+"image": "https://supamaus.com/og-image.png"
 },
 "supar-8212-supar": {
 "checked": "2026-11-02"
@@ -777,6 +830,10 @@
 "url": "https://surogate.ai/pricing/"
 }
 },
+"sveinbj-rn-r-arson": {
+"checked": "2026-11-03",
+"image": "https://sveinbjorn.org/images/quill-hq.jpg"
+},
 "svnscha-de": {
 "checked": "2026-10-30",
 "image": "https://svnscha.de/og/default.png"
@@ -788,9 +845,21 @@
 "checked": "2026-11-02",
 "image": "https://swapper.finance/og-image.png"
 },
+"swarm-tools": {
+"checked": "2026-11-03",
+"image": "https://swarmtools.ai/opengraph-image?6913203a983a699e"
+},
+"swarmclaw": {
+"checked": "2026-11-03",
+"image": "https://www.swarmclaw.ai/og-image.png"
+},
 "swarmpit": {
 "checked": "2026-10-28",
 "image": "https://swarmpit.io/img/background.jpg"
+},
+"swarmvault": {
+"checked": "2026-11-03",
+"image": "https://www.swarmvault.ai/og-image.png"
 },
 "swe-agent-com": {
 "checked": "2026-10-24"
@@ -800,6 +869,9 @@
 },
 "swe-list": {
 "checked": "2026-10-23"
+},
+"swe-rex-com": {
+"checked": "2026-11-03"
 },
 "swe-smith": {
 "checked": "2026-11-02"
@@ -815,9 +887,17 @@
 "checked": "2026-10-30",
 "image": "https://cdn.prod.website-files.com/6a26f9dd113918ff685f6913/6ad2a98f00bd10bfb0ae0b61_switch-og-home.png"
 },
+"symbiotic-ai": {
+"checked": "2026-11-03",
+"image": "https://symbiotic.makestudio.app/og-image.png"
+},
 "symforce": {
 "checked": "2026-10-30",
 "image": "https://symforce.org/docs/static/images/symforce_banner.png"
+},
+"sympozium": {
+"checked": "2026-11-03",
+"image": "https://sympozium.ai/og-image.png"
 },
 "synthesia": {
 "checked": "2026-10-23",

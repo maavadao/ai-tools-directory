@@ -1,0 +1,7 @@
+name = "AI Native Lang"
+description = "AINL: author with an LLM once, validate with a compiler, emit LangGraph, Temporal, FastAPI, React, and more — deterministic execution, MCP-ready (OpenClaw / ZeroClaw)."
+category = "other"
+website = "https://www.ainativelang.com"
+open_source = true
+repository = "https://github.com/sbhooley/ainativelang"
+added = 2026-11-03

@@ -1,4 +1,7 @@
 {
+"iago-su-rez-website": {
+"checked": "2026-11-03"
+},
 "iart-ai": {
 "checked": "2026-11-01",
 "image": "https://www.iart.ai/og-homepage.png",
@@ -27,6 +30,10 @@
 "iii": {
 "checked": "2026-10-24",
 "image": "https://iii.dev/opengraph-image.png"
+},
+"ilias-ism": {
+"checked": "2026-11-03",
+"image": "https://il.ly/og?path=%2F"
 },
 "im-codes": {
 "checked": "2026-11-01"
@@ -120,6 +127,10 @@
 "inkloom": {
 "checked": "2026-10-29",
 "image": "https://inkloom.art/og-default.png"
+},
+"innoshop": {
+"checked": "2026-11-03",
+"image": "https://www.innoshop.com/themes/innointl/images/og-cover.png?v=1793703181"
 },
 "insforge": {
 "checked": "2026-10-25",

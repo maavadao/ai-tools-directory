@@ -1,0 +1,7 @@
+name = "Emergence World"
+description = "Five parallel AI agent worlds. Five frontier models. Fifteen days. Watch Claude, Gemini, Grok, GPT and a mixed world build societies from scratch."
+category = "agents"
+website = "https://world.emergence.ai"
+open_source = true
+repository = "https://github.com/EmergenceAI/Emergence-World"
+added = 2026-11-03

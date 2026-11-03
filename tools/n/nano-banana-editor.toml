@@ -1,0 +1,7 @@
+name = "Nano Banana Editor"
+description = "Every Nano Banana model in one editor: text to image, conversational edits, masks, search grounding and 4K output."
+category = "image"
+website = "https://nanobananaeditor.dev"
+open_source = true
+repository = "https://github.com/markfulton/NanoBananaEditor"
+added = 2026-11-03

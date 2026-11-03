@@ -1,0 +1,7 @@
+name = "Pandrator"
+description = "Create audiobooks, subtitles and voiceovers on Windows or Linux. Use local speech models or optional APIs. Follow practical tutorials and compare audio examples."
+category = "audio"
+website = "https://pandrator.liniewicz.eu"
+open_source = true
+repository = "https://github.com/lukaszliniewicz/Pandrator"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "OpenML"
+description = "OpenML is an open platform for sharing datasets, algorithms, and experiments - to learn how to learn better, together."
+category = "research"
+website = "https://www.openml.org"
+open_source = true
+repository = "https://github.com/openml/OpenML"
+added = 2026-11-03

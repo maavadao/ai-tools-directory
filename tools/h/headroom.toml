@@ -1,0 +1,7 @@
+name = "Headroom"
+description = "Desktop app for Claude Code and ChatGPT Codex on macOS, Windows and Linux. Compresses context locally to cut token costs ~50%, so your plan lasts longer."
+category = "coding"
+website = "https://extraheadroom.com"
+open_source = true
+repository = "https://github.com/gglucass/headroom-desktop"
+added = 2026-11-03

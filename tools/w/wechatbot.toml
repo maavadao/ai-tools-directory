@@ -1,0 +1,7 @@
+name = "WeChatBot"
+description = "生产级微信机器人 SDK，支持中间件管道、富媒体收发、可插拔存储和会话自动恢复。零运行时依赖。"
+category = "agents"
+website = "https://www.wechatbot.dev"
+open_source = true
+repository = "https://github.com/corespeed-io/wechatbot"
+added = 2026-11-03

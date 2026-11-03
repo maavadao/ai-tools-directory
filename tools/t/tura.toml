@@ -1,0 +1,7 @@
+name = "Tura"
+description = "Cut LLM costs by 80% with verified agent outcomes and auditable evidence."
+category = "coding"
+website = "https://turaai.net"
+open_source = true
+repository = "https://github.com/Tura-AI/tura"
+added = 2026-11-03

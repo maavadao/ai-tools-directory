@@ -1,0 +1,7 @@
+name = "Tavotto"
+description = "AI drew your research figure. Tavotto makes it publication-ready: edit matplotlib figures on a canvas, lay out in mm, check journal rules. Free, open source."
+category = "other"
+website = "https://www.tavotto.com"
+open_source = true
+repository = "https://github.com/Tavotto/Tavotto"
+added = 2026-11-03

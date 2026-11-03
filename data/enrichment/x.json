@@ -15,6 +15,14 @@
 "x-reader": {
 "checked": "2026-11-01"
 },
+"xactions": {
+"checked": "2026-11-03",
+"image": "https://xactions.app/og-home.png",
+"pricing": {
+"free": true,
+"url": "https://xactions.app/pricing"
+}
+},
 "xai": {
 "checked": "2026-10-31",
 "image": "https://ethical.institute/images/banner.jpg"
@@ -56,6 +64,10 @@
 },
 "xpander-ai": {
 "checked": "2026-11-02"
+},
+"xsai": {
+"checked": "2026-11-03",
+"image": "https://xsai.js.org/og/index.png"
 },
 "xuance": {
 "checked": "2026-11-01"

@@ -1,0 +1,7 @@
+name = "BioMCP"
+description = "Single-binary CLI and MCP server for querying biomedical databases"
+category = "chatbots"
+website = "https://biomcp.org"
+open_source = true
+repository = "https://github.com/genomoncology/biomcp"
+added = 2026-11-03

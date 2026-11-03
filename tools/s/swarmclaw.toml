@@ -1,0 +1,7 @@
+name = "SwarmClaw"
+description = "Open-source, self-hosted AI agent runtime for multi-agent orchestration: agent memory, MCP tools, schedules, delegation, and 24+ LLM providers. MIT licensed."
+category = "agents"
+website = "https://www.swarmclaw.ai"
+open_source = true
+repository = "https://github.com/swarmclawai/swarmclaw"
+added = 2026-11-03

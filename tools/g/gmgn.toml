@@ -1,0 +1,7 @@
+name = "gmgn"
+description = "Trade at lightning speed across Solana, BNB Chain, Ethereum, Base, Monad, and TRON while discovering new launches and trending tokens. Available on GMGN Web, mobile app, Telegram bot, gmgn-cli, and AI agents, with support for 24/7 copy trading, limit, TP, and SL orders."
+category = "agents"
+website = "https://gmgn.ai"
+open_source = true
+repository = "https://github.com/GMGNAI/gmgn-skills"
+added = 2026-11-03

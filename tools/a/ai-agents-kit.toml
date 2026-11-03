@@ -1,0 +1,7 @@
+name = "AI Agents Kit"
+description = "AI agents, agentic AI, prompts, MCP, skills, and more. Tutorials, code snippets, and guides for the full AI stack. Updated weekly for developers."
+category = "chatbots"
+website = "https://aiagentskit.com"
+open_source = true
+repository = "https://github.com/aiagentskit/claude-agents-library"
+added = 2026-11-03

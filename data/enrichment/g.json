@@ -28,6 +28,10 @@
 "gen-jl": {
 "checked": "2026-10-30"
 },
+"genaiexamples": {
+"checked": "2026-11-03",
+"image": "https://opea.dev/wp-content/uploads/sites/9/2024/04/opea_social.png"
+},
 "generate-custom-ai-avatar": {
 "checked": "2026-10-28",
 "image": "https://photoshot-3z3z4n2jg-baptiste-adriens-projects.vercel.app/Generate%20AI%20avatars%20that%20perfectly%20capture%20your%20unique%20style.%20Write%20a%20prompt%20and%20let%20our%20Dreambooth%20and%20Stable%20diffusion%20technology%20do%20the%20rest."
@@ -145,6 +149,10 @@
 "gluonts-documentation": {
 "checked": "2026-10-27"
 },
+"gmgn": {
+"checked": "2026-11-03",
+"image": "https://gmgn.ai/static/GMGN.png"
+},
 "go-micro": {
 "checked": "2026-10-24"
 },
@@ -157,6 +165,10 @@
 },
 "gocv": {
 "checked": "2026-10-26"
+},
+"godot-mcp-pro": {
+"checked": "2026-11-03",
+"image": "https://godot-mcp.abyo.net/og-image.png"
 },
 "golem-documentation": {
 "checked": "2026-10-31"
@@ -270,6 +282,9 @@
 "gpustack": {
 "checked": "2026-10-26",
 "image": "https://gpustack.ai/opengraph-image?5dfcdf7b3fc6ea95"
+},
+"grace-browser": {
+"checked": "2026-11-03"
 },
 "gradient-science": {
 "checked": "2026-11-02"

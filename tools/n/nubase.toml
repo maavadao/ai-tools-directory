@@ -1,0 +1,7 @@
+name = "Nubase"
+description = "Turn AI-written code into real apps. Configure the plugin once and your coding agent ships the whole app online — frontend (Assets), backend (Functions), Database, Auth, Storage, AI Gateway, Memory and cron — on one free, self-hostable service, with MCP for Claude & Codex."
+category = "other"
+website = "https://nubase.ai"
+open_source = true
+repository = "https://github.com/OtterMind/Nubase"
+added = 2026-11-03

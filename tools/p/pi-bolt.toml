@@ -1,0 +1,7 @@
+name = "Pi-Bolt"
+description = "Same Pi, same extensions, same config. Up to 120 times faster large file writes, 8 times less CPU while streaming, 7 times less CPU per session than Pi on Node."
+category = "other"
+website = "https://pi-bolt.opensec.in"
+open_source = true
+repository = "https://github.com/opensec-git/Pi-Bolt"
+added = 2026-11-03

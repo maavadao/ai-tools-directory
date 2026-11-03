@@ -1,0 +1,7 @@
+name = "Ditto"
+description = "[CVPR'26 Highlight] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset"
+category = "video"
+website = "https://editto.net"
+open_source = true
+repository = "https://github.com/EzioBy/Ditto"
+added = 2026-11-03

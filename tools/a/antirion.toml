@@ -1,0 +1,7 @@
+name = "antirion"
+description = "One Rust binary, with the admin console built in, between your apps and every model provider. Routing, budgets, guardrails and observability for every LLM call, with half a millisecond of overhead."
+category = "chatbots"
+website = "https://antirion.ai"
+open_source = true
+repository = "https://github.com/eliasbiondo/antirion"
+added = 2026-11-03

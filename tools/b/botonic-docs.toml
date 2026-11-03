@@ -1,0 +1,7 @@
+name = "Botonic Docs"
+description = "Build chatbots and conversational experiences using React"
+category = "agents"
+website = "https://botonic.io"
+open_source = true
+repository = "https://github.com/hubtype/botonic"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "Deft"
+description = "Deft is an open-source workspace for chat, tasks, notes, knowledge and calendar, shared by people and AI agents, that expands with the apps your team builds. Same permissions, approvals and receipts throughout. Self-hosted."
+category = "chatbots"
+website = "https://deft.ing"
+open_source = true
+repository = "https://github.com/Maneek21/Deft"
+added = 2026-11-03

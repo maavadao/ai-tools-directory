@@ -117,9 +117,23 @@
 "checked": "2026-10-24",
 "image": "https://haystack.deepset.ai/images/haystack-ogimage.png"
 },
+"headroom": {
+"checked": "2026-11-03",
+"image": "https://extraheadroom.com/og-image.png?v=5",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"trial": true,
+"url": "https://extraheadroom.com/"
+}
+},
 "heal": {
 "checked": "2026-10-23",
 "image": "https://heal.dev/opengraph-image?e0625de47d2d2e2b"
+},
+"heeler": {
+"checked": "2026-11-03",
+"image": "https://heeler.bybee.dev/social-card.jpg"
 },
 "helicone-ai": {
 "checked": "2026-10-26",
@@ -138,6 +152,9 @@
 },
 "helix-foundry": {
 "checked": "2026-10-30"
+},
+"helix-world-preview-demo": {
+"checked": "2026-11-03"
 },
 "helixdb": {
 "checked": "2026-10-26",
@@ -425,6 +442,9 @@
 "trial": true,
 "url": "https://www.hyperbrowser.ai/pricing"
 }
+},
+"hyperfide": {
+"checked": "2026-11-03"
 },
 "hyperframes": {
 "checked": "2026-10-23",

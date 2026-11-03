@@ -1,0 +1,7 @@
+name = "sympozium"
+description = "Coordinate AI agents on Kubernetes with policy-governed handoffs, persistent harness sessions, and bounded native execution in Celln."
+category = "agents"
+website = "https://sympozium.ai"
+open_source = true
+repository = "https://github.com/sympozium-ai/sympozium"
+added = 2026-11-03

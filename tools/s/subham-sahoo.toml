@@ -1,0 +1,7 @@
+name = "Subham Sahoo"
+description = "[NeurIPS 2024] Simple and Effective Masked Diffusion Language Model"
+category = "image"
+website = "https://s-sahoo.com"
+open_source = true
+repository = "https://github.com/kuleshov-group/mdlm"
+added = 2026-11-03

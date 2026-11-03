@@ -1,0 +1,7 @@
+name = "AgentiLoop"
+description = "One app. Any AI. Total command over your Mac. 100% native Swift, 27 LLM providers, no subscription, no telemetry."
+category = "other"
+website = "https://agentiloop.ai"
+open_source = true
+repository = "https://github.com/AgentiLoop/Agent"
+added = 2026-11-03

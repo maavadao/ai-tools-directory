@@ -1,0 +1,7 @@
+name = "ctxport"
+description = "Copy AI conversations as structured Markdown Context Bundles. One-click copy from ChatGPT, Claude, Gemini, DeepSeek, Grok and more."
+category = "other"
+website = "https://ctxport.xiaominglab.com"
+open_source = true
+repository = "https://github.com/nicepkg/ctxport"
+added = 2026-11-03

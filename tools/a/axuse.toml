@@ -1,0 +1,7 @@
+name = "axuse"
+description = "Paste one sentence into your AI. Then it opens websites, clicks, fills in forms and brings back answers with sources, on your own computer. One-click install, no coding. Free for personal use."
+category = "other"
+website = "https://ax-use.com"
+open_source = true
+repository = "https://github.com/ctoldigital/axuse"
+added = 2026-11-03

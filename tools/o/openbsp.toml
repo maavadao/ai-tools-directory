@@ -1,0 +1,7 @@
+name = "OpenBSP"
+description = "Open-source WhatsApp Web and Instagram interface. Self-hostable, multi-tenant, and AI-agent ready."
+category = "agents"
+website = "https://web.openbsp.dev"
+open_source = true
+repository = "https://github.com/matiasbattocchia/open-bsp-api"
+added = 2026-11-03

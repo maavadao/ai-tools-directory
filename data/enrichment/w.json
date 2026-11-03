@@ -1,4 +1,7 @@
 {
+"waggle": {
+"checked": "2026-11-03"
+},
 "wan2-1": {
 "checked": "2026-10-24",
 "image": "https://img.alicdn.com/imgextra/i1/O1CN01WlNesT1EWvfm8mzKw_!!6000000000360-2-tps-600-315.png"
@@ -100,6 +103,10 @@
 "checked": "2026-11-01",
 "image": "https://www.webwhiz.ai/webwhiz.png"
 },
+"wechatbot": {
+"checked": "2026-11-03",
+"image": "https://opengraph.githubassets.com/1/corespeed-io/wechatbot"
+},
 "wechatrss": {
 "checked": "2026-11-01",
 "image": "https://wechatrss.waytomaster.com/favicon.svg"
@@ -178,6 +185,10 @@
 "winkjs": {
 "checked": "2026-10-31",
 "image": "https://winkjs.org/images/og.png"
+},
+"winston-koh": {
+"checked": "2026-11-03",
+"image": "https://winstonkoh87.com/assets/images/og-image.png"
 },
 "woebot-health": {
 "checked": "2026-10-23",

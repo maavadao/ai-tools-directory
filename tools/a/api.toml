@@ -1,0 +1,7 @@
+name = "API 中转站检测与推荐"
+description = "按模型分组看中转站真伪可信度。Claude 加密级验真，报告公开可复核，付费不改检测分与红黑榜。"
+category = "coding"
+website = "https://veridrop.app"
+open_source = true
+repository = "https://github.com/canarybyte/veridrop"
+added = 2026-11-03

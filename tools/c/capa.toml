@@ -1,0 +1,7 @@
+name = "CAPA"
+description = "CAPA installs skills, MCP servers, and tools from one YAML file into Cursor, Claude Code, Codex, and 35+ agents. Wrap a workspace so nothing lands in git."
+category = "other"
+website = "https://capa.sh"
+open_source = true
+repository = "https://github.com/infragate/capa"
+added = 2026-11-03

@@ -55,6 +55,9 @@
 "egoalpha": {
 "checked": "2026-10-29"
 },
+"egocentric-4d-perception-ego4d": {
+"checked": "2026-11-03"
+},
 "eidos-file": {
 "checked": "2026-10-28"
 },
@@ -142,9 +145,22 @@
 "checked": "2026-10-27",
 "image": "https://hub.embabel.com/og-image.png"
 },
+"emcp-tools": {
+"checked": "2026-11-03",
+"image": "https://emcptools.com/og-image.png?v=url-20261020",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://emcptools.com/pricing/"
+}
+},
 "emdash": {
 "checked": "2026-10-26",
 "image": "https://emdash.com/opengraph-image.png?opengraph-image.bea53f98.png"
+},
+"emergence-world": {
+"checked": "2026-11-03",
+"image": "https://world.emergence.ai/opengraph.jpg"
 },
 "emgu": {
 "checked": "2026-10-29"
@@ -253,5 +269,13 @@
 "executorch": {
 "checked": "2026-10-27",
 "image": "https://raw.githubusercontent.com/dbort/executorch-logos/main/img/executorch-chip-logo.svg"
+},
+"explainroo": {
+"checked": "2026-11-03",
+"image": "https://www.explainroo.com/videos/how-explainroo-makes-a-video.jpg?v=5510b21a",
+"pricing": {
+"free": true,
+"url": "https://www.explainroo.com/guides/pricing/"
+}
 }
 }

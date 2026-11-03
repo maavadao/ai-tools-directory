@@ -1,0 +1,7 @@
+name = "Muddy Terrain Games"
+description = "AI plugins for Unreal Engine. Integrate ChatGPT, Qwen, Meshy, Claude, Gemini, Llama, Mistral, Tripo, DeepSeek, and 30+ LLMs into your game with GenAI for Unreal."
+category = "chatbots"
+website = "https://muddyterrain.com"
+open_source = true
+repository = "https://github.com/prajwalshettydev/UnrealGenAISupport"
+added = 2026-11-03

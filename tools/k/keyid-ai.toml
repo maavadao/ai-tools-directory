@@ -1,0 +1,7 @@
+name = "KeyID.ai"
+description = "Agents provision their own email, phone, search, storage, hosting, 2FA, scheduling, and vault — on domains reserved exclusively for your project. Access by arrangement."
+category = "productivity"
+website = "https://keyid.ai"
+open_source = true
+repository = "https://github.com/KeyID-AI/agent-kit"
+added = 2026-11-03

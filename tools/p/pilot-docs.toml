@@ -1,0 +1,7 @@
+name = "Pilot Docs"
+description = "Autonomous AI development pipeline that turns tickets into pull requests"
+category = "other"
+website = "https://docs.pilotcloud.dev:443"
+open_source = true
+repository = "https://github.com/qf-studio/pilot"
+added = 2026-11-03

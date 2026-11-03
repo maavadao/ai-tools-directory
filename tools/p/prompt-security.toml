@@ -1,0 +1,7 @@
+name = "Prompt Security"
+description = "Comprehensive AI security resources for practitioners. Open-source tools, research, analysis, and guidance to understand and respond to AI threats."
+category = "chatbots"
+website = "https://prompt.security"
+open_source = true
+repository = "https://github.com/prompt-security/ps-fuzz"
+added = 2026-11-03

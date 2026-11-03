@@ -1,0 +1,7 @@
+name = "polywise"
+description = "Polywise is the open source agentic content system to make your contents alive."
+category = "chatbots"
+website = "https://polywise.io"
+open_source = true
+repository = "https://github.com/MatrixAges/polywise"
+added = 2026-11-03

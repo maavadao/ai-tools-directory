@@ -1,0 +1,7 @@
+name = "Randynamic Studio"
+description = "Discover innovative software products by Randynamic Studio: Browserfly AI browser extension, PandocX file converter, and Notepal WeChat reading notes sync tool."
+category = "other"
+website = "https://randynamic.org"
+open_source = true
+repository = "https://github.com/djyde/ccmate"
+added = 2026-11-03

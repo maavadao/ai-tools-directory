@@ -1,0 +1,7 @@
+name = "BoardUI"
+description = "Build agentic products and data-rich dashboards with 103 React components (19 chart cards), 10 Pro templates, Tailwind CSS, and editable source code."
+category = "agents"
+website = "https://www.boardui.com"
+open_source = true
+repository = "https://github.com/BoardUI/boardui"
+added = 2026-11-03

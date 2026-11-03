@@ -1,0 +1,7 @@
+name = "slide-maker by Addsum"
+description = "Preview 30 presentation styles, choose a palette and copy a prompt to use with your own material."
+category = "agents"
+website = "https://slides.addsum.top"
+open_source = true
+repository = "https://github.com/addsumtech/slides_maker"
+added = 2026-11-03

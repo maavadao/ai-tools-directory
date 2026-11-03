@@ -102,6 +102,10 @@
 "feature-engine-8212-1-9-4": {
 "checked": "2026-10-29"
 },
+"fenic": {
+"checked": "2026-11-03",
+"image": "https://fenic.ai/opengraph-image?bfb707afcc4efb8b"
+},
 "ferndesk": {
 "checked": "2026-10-23",
 "image": "https://ferndesk.com/assets/og-image-2026-10.png",
@@ -160,6 +164,10 @@
 "files-sdk": {
 "checked": "2026-10-31",
 "image": "https://files-sdk.dev/og/index.png"
+},
+"fill": {
+"checked": "2026-11-03",
+"image": "https://www.fill3d.ai/icon.png"
 },
 "fim-one": {
 "checked": "2026-10-31",
@@ -240,6 +248,10 @@
 },
 "fluidvoice": {
 "checked": "2026-10-25"
+},
+"flutter-edge-ai": {
+"checked": "2026-11-03",
+"image": "https://flutteredge.ai/images/og-image.png"
 },
 "flux": {
 "checked": "2026-10-27",
@@ -340,6 +352,14 @@
 "frontieragent": {
 "checked": "2026-10-27",
 "image": "https://www.apodex.ai/og/apodex-og-discovery.png"
+},
+"frontman": {
+"checked": "2026-11-03",
+"image": "https://frontman.sh/blog/frontman-wordpress-plugin-released-cover.png",
+"pricing": {
+"trial": true,
+"url": "https://frontman.sh/pricing/"
+}
 },
 "fuse": {
 "checked": "2026-10-23",

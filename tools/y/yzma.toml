@@ -1,0 +1,7 @@
+name = "yzma"
+description = "yzma lets you write Go applications that use llama.cpp for local inference with full hardware acceleration."
+category = "chatbots"
+website = "https://yzma.ai"
+open_source = true
+repository = "https://github.com/hybridgroup/yzma"
+added = 2026-11-03

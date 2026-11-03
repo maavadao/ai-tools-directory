@@ -1,0 +1,7 @@
+name = "mLLMCelltype"
+description = "Open-source cell type annotation platform using multi-model consensus from leading AI providers for scRNA-seq analysis."
+category = "chatbots"
+website = "https://www.mllmcelltype.com"
+open_source = true
+repository = "https://github.com/cafferychen777/mLLMCelltype"
+added = 2026-11-03

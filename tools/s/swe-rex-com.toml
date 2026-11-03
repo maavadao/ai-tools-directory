@@ -1,0 +1,7 @@
+name = "Redirecting"
+description = "Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more."
+category = "agents"
+website = "https://swe-rex.com"
+open_source = true
+repository = "https://github.com/SWE-agent/SWE-ReX"
+added = 2026-11-03

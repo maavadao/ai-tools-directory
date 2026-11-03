@@ -1,0 +1,7 @@
+name = "activegraph"
+description = "A persistent world for long-running agents. Event log as source of truth, graph as deterministic projection. Replay, fork, diff, explain. pip install activegraph."
+category = "agents"
+website = "https://activegraph.ai"
+open_source = true
+repository = "https://github.com/yoheinakajima/activegraph"
+added = 2026-11-03

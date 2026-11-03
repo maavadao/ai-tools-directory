@@ -66,6 +66,14 @@
 "magentic": {
 "checked": "2026-10-29"
 },
+"maggy": {
+"checked": "2026-11-03",
+"image": "https://www.palgu.ai/opengraph-image?2a0d87c89d2cb090",
+"pricing": {
+"trial": true,
+"url": "https://www.palgu.ai/pricing"
+}
+},
 "magi-1": {
 "checked": "2026-10-28",
 "image": "https://static.magi.world/build/website/225/_next/static/media/sand-ai-og.cc624676.jpg"
@@ -163,6 +171,10 @@
 "checked": "2026-10-28",
 "image": "https://www.maniskill.ai/imgs/home/OG.webp"
 },
+"manuscript-core": {
+"checked": "2026-11-03",
+"image": "https://net-static-dev.chainbasehq.com/public/resources/cover.png?t=1750827662725"
+},
 "mariadb-org": {
 "checked": "2026-10-25",
 "image": "https://mariadb.org/wp-content/uploads/2023/05/Default_socail-card.png"
@@ -198,6 +210,16 @@
 },
 "marktechpost": {
 "checked": "2026-10-28"
+},
+"marmot": {
+"checked": "2026-11-03",
+"image": "https://marmotdata.io/img/social-card-dark.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 595.0,
+"url": "https://marmotdata.io/pricing/"
+}
 },
 "marqo": {
 "checked": "2026-10-27",
@@ -268,6 +290,10 @@
 },
 "mcp-c-sdk-documentation": {
 "checked": "2026-10-27"
+},
+"mcp-can": {
+"checked": "2026-11-03",
+"image": "https://www.mcpcan.com/favicon.ico"
 },
 "mcp-for-blender": {
 "checked": "2026-10-23"
@@ -400,6 +426,10 @@
 "free": true,
 "url": "https://memanto.ai/pricing"
 }
+},
+"meme-search": {
+"checked": "2026-11-03",
+"image": "https://github.com/user-attachments/assets/0529764f-a009-4e17-8947-63c7c96075a5"
 },
 "memgraph": {
 "checked": "2026-10-27",
@@ -569,6 +599,10 @@
 "mindforger": {
 "checked": "2026-10-29"
 },
+"mindos": {
+"checked": "2026-11-03",
+"image": "https://mindos.you/img/social-card.png"
+},
 "mindshub-by-mindsdb": {
 "checked": "2026-10-23",
 "image": "https://mindshub.ai/og/og-home-control.png",
@@ -691,6 +725,9 @@
 "url": "https://mljar.com/pricing/"
 }
 },
+"mllmcelltype": {
+"checked": "2026-11-03"
+},
 "mlpack": {
 "checked": "2026-10-26"
 },
@@ -713,6 +750,10 @@
 "mmf": {
 "checked": "2026-10-26",
 "image": "https://mmf.sh/img/logo.png"
+},
+"mnemon": {
+"checked": "2026-11-03",
+"image": "https://mnemon.dev/og.png"
 },
 "mnemosyne": {
 "checked": "2026-10-28",
@@ -861,6 +902,9 @@
 "mrrss": {
 "checked": "2026-10-29",
 "image": "https://DevXDojo.github.io/MrRSS/assets/og.png"
+},
+"muddy-terrain-games": {
+"checked": "2026-11-03"
 },
 "muesli": {
 "checked": "2026-10-31",

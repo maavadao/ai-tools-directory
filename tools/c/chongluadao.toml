@@ -1,0 +1,7 @@
+name = "ChongLuaDao"
+description = "Bảo vệ người dùng khỏi các hình thức lừa đảo trực tuyến"
+category = "other"
+website = "https://chongluadao.vn"
+open_source = true
+repository = "https://github.com/7onez/cti-expert"
+added = 2026-11-03

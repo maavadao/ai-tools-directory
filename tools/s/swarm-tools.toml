@@ -1,0 +1,7 @@
+name = "Swarm Tools"
+description = "Event sourcing and coordination patterns for AI assistants"
+category = "coding"
+website = "https://www.swarmtools.ai"
+open_source = true
+repository = "https://github.com/joelhooks/swarm-tools"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "Claw is the Law"
+description = "Awesome OpenClaw: the curated directory of the OpenClaw ecosystem. Skills, memory, dashboards, security, runtimes and guides, with live GitHub stats."
+category = "chatbots"
+website = "https://clawisthelaw.com"
+open_source = true
+repository = "https://github.com/alvinreal/awesome-openclaw"
+added = 2026-11-03

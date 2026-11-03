@@ -1,0 +1,7 @@
+name = "TranscriptAPI"
+description = "100 free credits to start. YouTube transcripts, video search, channel browsing, and playlists. REST API, YouTube MCP for ChatGPT & Claude, and agent skills. 15M+ transcripts/month."
+category = "education"
+website = "https://transcriptapi.com"
+open_source = true
+repository = "https://github.com/ZeroPointRepo/awesome-hermes-skills"
+added = 2026-11-03

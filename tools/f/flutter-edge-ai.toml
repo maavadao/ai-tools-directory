@@ -1,0 +1,7 @@
+name = "Flutter Edge AI"
+description = "Run Gemma and other LLMs on-device in your Flutter app — Android, iOS, Web, macOS, Windows and Linux. Multimodal, function calling, agent skills, thinking mode, embeddings, RAG and speech."
+category = "chatbots"
+website = "https://flutteredge.ai"
+open_source = true
+repository = "https://github.com/DenisovAV/flutter_edge_ai"
+added = 2026-11-03

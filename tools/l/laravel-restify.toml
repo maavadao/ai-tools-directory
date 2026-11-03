@@ -1,0 +1,7 @@
+name = "Laravel Restify"
+description = "Transform your Laravel Eloquent models into JSON:API compliant endpoints and MCP servers automatically. No boilerplate, just results."
+category = "other"
+website = "https://laravel-restify.com"
+open_source = true
+repository = "https://github.com/BinarCode/laravel-restify"
+added = 2026-11-03

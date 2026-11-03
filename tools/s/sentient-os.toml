@@ -1,0 +1,7 @@
+name = "Sentient OS"
+description = "On-device AI that understands your entire life overnight. Sentient picks up tasks on your computer with its own cursor. And drafts replies in your voice in two taps."
+category = "chatbots"
+website = "https://sentient-os.ai"
+open_source = true
+repository = "https://github.com/Sentient-OS-Labs/sentient-os"
+added = 2026-11-03

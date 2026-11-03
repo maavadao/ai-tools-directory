@@ -1,0 +1,7 @@
+name = "nWave"
+description = "The Software Factory for critical infrastructure. Your people control the quality at every gate; the Factory enforces the method on every step."
+category = "other"
+website = "https://nwave.ai"
+open_source = true
+repository = "https://github.com/nWave-ai/nWave"
+added = 2026-11-03

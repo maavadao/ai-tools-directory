@@ -1,0 +1,7 @@
+name = "Lux.jl"
+description = "Elegant and Performant Deep Learning"
+category = "other"
+website = "https://lux.csail.mit.edu"
+open_source = true
+repository = "https://github.com/LuxDL/Lux.jl"
+added = 2026-11-03

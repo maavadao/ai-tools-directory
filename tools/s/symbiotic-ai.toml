@@ -1,0 +1,7 @@
+name = "symbiotic-ai"
+description = "Your AI's context as plain Markdown you own and version control: SOUL, USER, AGENTS, and NOW. Portable across any model, not locked inside one vendor's memory. Open source."
+category = "chatbots"
+website = "https://symbiotic.makestudio.app"
+open_source = true
+repository = "https://github.com/lout33/symbiotic-ai"
+added = 2026-11-03

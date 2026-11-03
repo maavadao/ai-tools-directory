@@ -1,0 +1,7 @@
+name = "Structured3D Dataset"
+description = "Website for the Structured3D Dataset"
+category = "data"
+website = "https://structured3d-dataset.org"
+open_source = true
+repository = "https://github.com/bertjiazheng/Structured3D"
+added = 2026-11-03

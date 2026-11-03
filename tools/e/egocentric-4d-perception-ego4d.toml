@@ -1,0 +1,7 @@
+name = "Egocentric 4D Perception (EGO4D)"
+description = "A large-scale first-person video dataset, supporting research in multi-modal machine perception for daily life activity"
+category = "video"
+website = "https://ego4d-data.org"
+open_source = true
+repository = "https://github.com/facebookresearch/Ego4d"
+added = 2026-11-03

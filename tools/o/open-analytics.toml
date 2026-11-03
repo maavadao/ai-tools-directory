@@ -1,0 +1,7 @@
+name = "Open Analytics"
+description = "Open Analytics is a privacy-first Google Analytics alternative: realtime visitors, funnels and revenue attribution from one lightweight, cookieless script. GDPR-friendly with no consent banner. Open source and self-hostable."
+category = "data"
+website = "https://getopen.so"
+open_source = true
+repository = "https://github.com/OpenLabs-so/openanalytics"
+added = 2026-11-03

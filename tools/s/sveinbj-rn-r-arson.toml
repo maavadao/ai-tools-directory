@@ -1,0 +1,7 @@
+name = "Sveinbjörn Þórðarson"
+description = "Sveinbjörn's personal website. Also some open source software stuff."
+category = "audio"
+website = "https://sveinbjorn.org"
+open_source = true
+repository = "https://github.com/sveinbjornt/hear"
+added = 2026-11-03

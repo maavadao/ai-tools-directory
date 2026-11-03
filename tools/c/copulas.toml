@@ -1,0 +1,7 @@
+name = "Copulas"
+description = "A library to model multivariate data using copulas."
+category = "data"
+website = "https://sdv.dev"
+open_source = true
+repository = "https://github.com/sdv-dev/Copulas"
+added = 2026-11-03

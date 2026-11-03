@@ -1,0 +1,7 @@
+name = "pooled"
+description = "Peer-to-peer LLM inference in the browser. Pool your devices to run big open models, for chat and coding agents. Open source, MIT."
+category = "chatbots"
+website = "https://pooled.run"
+open_source = true
+repository = "https://github.com/Nehanth/pooled"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "ANOLISA"
+description = "ANOLISA provides context management, Skills, workspace recovery, security, and observability for AI Agent workloads."
+category = "other"
+website = "https://agentic-os.sh"
+open_source = true
+repository = "https://github.com/agentic-os-org/ANOLISA"
+added = 2026-11-03

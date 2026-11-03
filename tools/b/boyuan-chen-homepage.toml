@@ -1,0 +1,7 @@
+name = "Boyuan Chen Homepage"
+description = "Boyuan Chen's homepage. Boyuan Chen is a research scientist at OpenAI and MIT EECS."
+category = "video"
+website = "https://www.boyuan.space"
+open_source = true
+repository = "https://github.com/kwsong0113/diffusion-forcing-transformer"
+added = 2026-11-03

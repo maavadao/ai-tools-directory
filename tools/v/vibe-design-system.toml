@@ -1,0 +1,7 @@
+name = "Vibe Design System"
+description = "Vibe design system by monday.com"
+category = "chatbots"
+website = "https://vibe.monday.com"
+open_source = true
+repository = "https://github.com/mondaycom/vibe"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "purple"
+description = "Open-source terminal SSH manager in Rust. Cloud sync across 18 providers, live tunnel monitoring and fleet-wide Docker and Podman container management."
+category = "other"
+website = "https://getpurple.sh"
+open_source = true
+repository = "https://github.com/erickochen/purple"
+added = 2026-11-03

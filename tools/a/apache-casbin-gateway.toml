@@ -1,0 +1,7 @@
+name = "Apache Casbin Gateway"
+description = "See what every AI coding agent on your machine is doing, and whether the API behind it is the one you paid for."
+category = "other"
+website = "https://gateway.casbin.org"
+open_source = true
+repository = "https://github.com/apache/casbin-gateway"
+added = 2026-11-03

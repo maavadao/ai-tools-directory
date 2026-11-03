@@ -1,0 +1,7 @@
+name = "LLM Hub"
+description = "Open-source AI app for Android, iOS and desktop with 15+ models running 100% on your device. Chat, generate images and videos, upscale images, translate, transcribe, detect scams — all offline. Try the web demo to experience an on-device chatbot in your browser."
+category = "coding"
+website = "https://www.llm-hub.app"
+open_source = true
+repository = "https://github.com/timmyy123/LLM-Hub"
+added = 2026-11-03

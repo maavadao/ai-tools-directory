@@ -1,0 +1,7 @@
+name = "TapQ"
+description = "Speak, interrupt, and steer the agents that work for you without living in a terminal."
+category = "other"
+website = "https://tapq.ai"
+open_source = true
+repository = "https://github.com/spaceamoeba-t/tapq"
+added = 2026-11-03

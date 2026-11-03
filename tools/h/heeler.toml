@@ -1,0 +1,7 @@
+name = "Heeler"
+description = "Heeler is an independent herdr mobile client for iPhone and iPad. Control Claude Code and Codex over SSH, with encrypted alerts and Usage widgets."
+category = "agents"
+website = "https://heeler.bybee.dev"
+open_source = true
+repository = "https://github.com/ZingerLittleBee/Heeler"
+added = 2026-11-03

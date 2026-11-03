@@ -1,0 +1,7 @@
+name = "Grace browser"
+description = "Live demo for the Fall-from-Grace functional programming language"
+category = "chatbots"
+website = "https://trygrace.dev"
+open_source = true
+repository = "https://github.com/Gabriella439/grace"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "TensorSharp"
+description = "Run GGUF models locally with TensorSharp: C#/.NET inference, text and multimodal chat, image and video generation, embeddings, agents, CLI, Web UI and compatible APIs."
+category = "chatbots"
+website = "https://tensorsharp.ai"
+open_source = true
+repository = "https://github.com/zhongkaifu/TensorSharp"
+added = 2026-11-03

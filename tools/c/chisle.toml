@@ -1,0 +1,7 @@
+name = "Chisle"
+description = "The Claude Code plugin that makes coding answers about half as long. Terse persona + tool-output compressor + context diet."
+category = "other"
+website = "https://chisle.jaypokale.me"
+open_source = true
+repository = "https://github.com/JayPokale/Chisle"
+added = 2026-11-03

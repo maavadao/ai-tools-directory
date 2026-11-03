@@ -1,0 +1,7 @@
+name = "viz-gpt"
+description = "vizGPT is an AI animation and graphics generator. Create Lottie animations, logo animations and motion graphics, and infographics from plain-language prompts — preview instantly, refine in conversation, and export production-ready files."
+category = "chatbots"
+website = "https://vizgpt.ai"
+open_source = true
+repository = "https://github.com/ObservedObserver/viz-gpt"
+added = 2026-11-03

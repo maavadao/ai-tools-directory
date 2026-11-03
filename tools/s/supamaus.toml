@@ -1,0 +1,7 @@
+name = "SupaMaus"
+description = "SupaMaus puts an AI cursor inside your product. It answers questions, walks users step-by-step, and does the clicking for them. One script tag, live in minutes."
+category = "other"
+website = "https://www.supamaus.com"
+open_source = true
+repository = "https://github.com/milind-soni/tiptour-macos"
+added = 2026-11-03

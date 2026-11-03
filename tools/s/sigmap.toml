@@ -1,0 +1,7 @@
+name = "SigMap"
+description = "A reproducible signature-and-evidence map agents and CI can audit. Proof — 80.4% hit@5, 44.4% fewer prompts, 95.2% overall token reduction."
+category = "chatbots"
+website = "https://sigmap.io"
+open_source = true
+repository = "https://github.com/manojmallick/sigmap"
+added = 2026-11-03

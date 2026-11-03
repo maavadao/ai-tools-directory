@@ -1,0 +1,7 @@
+name = "AnythingMCP"
+description = "Give Claude, ChatGPT and Copilot safe access to your company's software: ready-made connectors for SAP, DATEV, weclapp and more, or any API without code."
+category = "agents"
+website = "https://anythingmcp.com"
+open_source = true
+repository = "https://github.com/HelpCode-ai/anythingmcp"
+added = 2026-11-03

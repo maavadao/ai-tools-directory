@@ -1,0 +1,7 @@
+name = "orb"
+description = "All your AI providers, machines, and agent harnesses in one place. Formerly sandboxed.sh (now the backend to the Orb clients)."
+category = "coding"
+website = "https://orb.thomas.md"
+open_source = true
+repository = "https://github.com/Th0rgal/orb"
+added = 2026-11-03

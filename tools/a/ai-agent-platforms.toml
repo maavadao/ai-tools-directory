@@ -1,0 +1,7 @@
+name = "AI Agent Platforms"
+description = "A maintained directory of 51 AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with license and hosting details for each."
+category = "agents"
+website = "https://aiagentplatforms.dev"
+open_source = true
+repository = "https://github.com/Agenta-AI/awesome-ai-agent-platforms"
+added = 2026-11-03

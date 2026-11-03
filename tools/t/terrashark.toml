@@ -1,0 +1,7 @@
+name = "TerraShark"
+description = "TerraShark is the #1 Terraform skill for Claude Code & AI assistants. Prevents hallucinations in Terraform and OpenTofu code through failure-mode diagnostics. Identity churn, secret exposure, blast radius, CI drift, and compliance gaps — all covered. Open source, MIT licensed."
+category = "other"
+website = "https://terraformskill.com"
+open_source = true
+repository = "https://github.com/LukasNiessen/terrashark"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "MCP CAN"
+description = "面向 MCP 的 Agent AI 托管与管理平台：托管、部署、网关转发、运行环境与可观测能力。"
+category = "other"
+website = "https://www.mcpcan.com"
+open_source = true
+repository = "https://github.com/Kymo-MCP/mcpcan"
+added = 2026-11-03

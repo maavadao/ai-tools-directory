@@ -1,0 +1,7 @@
+name = "reinforcement-learning-an-introduction-chinese"
+description = "《Reinforcement Learning: An Introduction》（第二版）中文翻译"
+category = "other"
+website = "https://rl.qiwihui.com"
+open_source = true
+repository = "https://github.com/qiwihui/reinforcement-learning-an-introduction-chinese"
+added = 2026-11-03

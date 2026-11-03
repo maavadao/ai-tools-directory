@@ -1,0 +1,7 @@
+name = "ROBOTIS"
+description = "The official e-Manual for ROBOTIS, the open source platform for Physical AI. Includes documentation, open source resources, and the latest updates for AI Sapiens, AI Worker, AI Manipulator, and ROBOTIS Hands."
+category = "other"
+website = "https://ai.robotis.com"
+open_source = true
+repository = "https://github.com/ROBOTIS-GIT/open_manipulator"
+added = 2026-11-03

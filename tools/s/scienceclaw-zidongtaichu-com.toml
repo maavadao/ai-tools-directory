@@ -1,0 +1,7 @@
+name = "ScienceClaw"
+description = "ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, better transparency, and a more user-friendly experience."
+category = "agents"
+website = "https://scienceclaw.zidongtaichu.com"
+open_source = true
+repository = "https://github.com/AgentTeam-TaichuAI/ScienceClaw"
+added = 2026-11-03

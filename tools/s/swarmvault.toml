@@ -1,0 +1,7 @@
+name = "SwarmVault"
+description = "Open-source, local-first LLM Wiki built on Andrej Karpathy's pattern. Compile docs, code, and notes into a markdown wiki, knowledge graph, and RAG knowledge base."
+category = "other"
+website = "https://www.swarmvault.ai"
+open_source = true
+repository = "https://github.com/swarmclawai/swarmvault"
+added = 2026-11-03

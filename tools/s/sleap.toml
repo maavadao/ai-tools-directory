@@ -1,0 +1,7 @@
+name = "SLEAP"
+description = "SLEAP: Advanced video tracking software for animal pose estimation. Fast, accurate, and user-friendly tool for behavioral research."
+category = "other"
+website = "https://sleap.ai"
+open_source = true
+repository = "https://github.com/talmolab/sleap"
+added = 2026-11-03

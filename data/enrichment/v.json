@@ -12,6 +12,10 @@
 "checked": "2026-10-25",
 "image": "https://vaex.io/img/logos/spiral-small.png"
 },
+"valaxy": {
+"checked": "2026-11-03",
+"image": "https://valaxy.site/valaxy-logo.png"
+},
 "valuecell-ai": {
 "checked": "2026-10-25",
 "image": "https://valuecell.ai/og-image.png"
@@ -68,6 +72,15 @@
 "url": "https://veltrix.com/pricing"
 }
 },
+"vendo": {
+"checked": "2026-11-03",
+"image": "https://vendo.run/og.png",
+"pricing": {
+"currency": "USD",
+"from": 41.0,
+"url": "https://vendo.run/pricing"
+}
+},
 "venues": {
 "checked": "2026-10-30"
 },
@@ -114,6 +127,10 @@
 "url": "https://vibeworkflow.app/pricing"
 }
 },
+"vibe-design-system": {
+"checked": "2026-11-03",
+"image": "https://irp.cdn-website.com/33477119/dms3rep/multi/og-banner.jpeg"
+},
 "vibe-kanban": {
 "checked": "2026-10-24",
 "image": "https://vibekanban.com/images/cta-product-desktop.webp",
@@ -153,6 +170,15 @@
 "view-form-create-com": {
 "checked": "2026-10-29"
 },
+"viewcomfy": {
+"checked": "2026-11-03",
+"image": "https://www.viewcomfy.com/ViewComfy_logo.webp",
+"pricing": {
+"currency": "USD",
+"from": 30.0,
+"url": "https://www.viewcomfy.com/pricing"
+}
+},
 "vikesh-tiwari": {
 "checked": "2026-10-27",
 "image": "https://substackcdn.com/image/fetch/$s_!6sRz!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c0a2541-4349-4f91-b4b5-9e0411358bb2_400x400.png"
@@ -160,6 +186,9 @@
 "vip788": {
 "checked": "2026-10-27",
 "image": "https://vip788net.com/vip788.png?optimize=low&bg-color=255,255,255&fit=bounds&height=270&width=270&canvas=270:270"
+},
+"vip788-game": {
+"checked": "2026-11-03"
 },
 "viper": {
 "checked": "2026-10-27",
@@ -171,6 +200,15 @@
 },
 "visp": {
 "checked": "2026-11-02"
+},
+"viz-gpt": {
+"checked": "2026-11-03",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 10.0,
+"url": "https://vizgpt.ai/pricing"
+}
 },
 "vizdoom-documentation": {
 "checked": "2026-10-30",
@@ -190,6 +228,16 @@
 "vocalinux": {
 "checked": "2026-11-01",
 "image": "https://vocalinux.com/og-image.png"
+},
+"voice-ai": {
+"checked": "2026-11-03",
+"image": "https://raw.githubusercontent.com/rapidaai/voice-ai/main/.github/banner-02.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 500.0,
+"url": "https://rapida.ai/pricing"
+}
 },
 "voicebox": {
 "checked": "2026-10-23",
@@ -257,6 +305,9 @@
 },
 "vt-code": {
 "checked": "2026-11-02"
+},
+"vuetify-lux": {
+"checked": "2026-11-03"
 },
 "vuls": {
 "checked": "2026-10-25"

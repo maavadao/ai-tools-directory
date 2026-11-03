@@ -1,0 +1,7 @@
+name = "BabelDuck"
+description = "A beginner-friendly AI-powered conversation practice application for language learners of all proficiency levels."
+category = "audio"
+website = "https://duck.orenoid.com"
+open_source = true
+repository = "https://github.com/Orenoid/BabelDuck"
+added = 2026-11-03

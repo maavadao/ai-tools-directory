@@ -1,0 +1,7 @@
+name = "kanwas"
+description = "Kanwas gives product teams one workspace where strategy docs, market signals, and agent workflows stay connected so AI can execute with your real context."
+category = "agents"
+website = "https://kanwas.ai"
+open_source = true
+repository = "https://github.com/kanwas-ai/kanwas"
+added = 2026-11-03

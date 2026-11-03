@@ -1,0 +1,7 @@
+name = "QVAC"
+description = "QVAC is Tether’s answer to centralized AI, an entirely new paradigm where intelligence runs privately, locally, and without permission on any device. The era of Stable Intelligence has begun."
+category = "audio"
+website = "https://qvac.tether.io"
+open_source = true
+repository = "https://github.com/tetherto/qvac"
+added = 2026-11-03

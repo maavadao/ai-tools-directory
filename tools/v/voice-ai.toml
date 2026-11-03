@@ -1,0 +1,7 @@
+name = "voice-ai"
+description = "Rapida AI is an open-source voice AI platform for contact centers, enterprise teams building voice AI, CPaaS and CCaaS companies, and agencies selling white-label voice AI. Build, deploy, and observe real-time voice agents across phone, web, WhatsApp, and SIP with zero markup fees, full-stack obser…"
+category = "audio"
+website = "https://rapida.ai"
+open_source = true
+repository = "https://github.com/rapidaai/voice-ai"
+added = 2026-11-03

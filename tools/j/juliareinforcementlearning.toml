@@ -1,0 +1,7 @@
+name = "JuliaReinforcementLearning"
+description = "A reinforcement learning package for Julia"
+category = "other"
+website = "https://juliareinforcementlearning.org"
+open_source = true
+repository = "https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl"
+added = 2026-11-03

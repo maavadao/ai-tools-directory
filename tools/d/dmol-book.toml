@@ -1,0 +1,7 @@
+name = "dmol-book"
+description = "Deep Learning for Molecules & Materials Book"
+category = "other"
+website = "https://dmol.pub"
+open_source = true
+repository = "https://github.com/whitead/dmol-book"
+added = 2026-11-03

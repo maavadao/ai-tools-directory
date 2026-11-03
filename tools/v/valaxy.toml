@@ -1,0 +1,7 @@
+name = "VALAXY"
+description = "A static blog framework for your voice, powered by Vue, Vite, and TypeScript."
+category = "other"
+website = "https://valaxy.site"
+open_source = true
+repository = "https://github.com/YunYouJun/valaxy"
+added = 2026-11-03

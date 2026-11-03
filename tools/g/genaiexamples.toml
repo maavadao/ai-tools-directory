@@ -1,0 +1,7 @@
+name = "GenAIExamples"
+description = "Efficiently integrate secure, performant, and cost-effective Generative AI workflows into business value."
+category = "coding"
+website = "https://opea.dev"
+open_source = true
+repository = "https://github.com/opea-project/GenAIExamples"
+added = 2026-11-03

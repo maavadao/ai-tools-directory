@@ -1,0 +1,7 @@
+name = "onWatch"
+description = "Quota monitoring for AI coding tools across 16 providers. History, reset-cycle detection, burn-rate projections, live countdowns. Single binary, zero telemetry, all data stays on your machine."
+category = "coding"
+website = "https://onwatch.onllm.dev"
+open_source = true
+repository = "https://github.com/onllm-dev/onWatch"
+added = 2026-11-03

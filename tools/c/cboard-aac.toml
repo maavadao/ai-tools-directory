@@ -1,0 +1,7 @@
+name = "Cboard AAC"
+description = "Cboard is an open-source app for children and adults with speech and language impairments, aiding communication with symbols and text-to-speech."
+category = "audio"
+website = "https://www.cboard.io"
+open_source = true
+repository = "https://github.com/cboard-org/cboard"
+added = 2026-11-03

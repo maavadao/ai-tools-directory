@@ -1,0 +1,7 @@
+name = "CocoPlus Documentation"
+description = "CocoPlus is an Agentic Operating System for Snowflake Coco. It brings structured, multi-agent workflows to data engineering projects — covering everything from project initialization through spec, plan, build, test, review, and ship phases."
+category = "chatbots"
+website = "https://cocoplus.dev"
+open_source = true
+repository = "https://github.com/Snowflake-Labs/cocoplus"
+added = 2026-11-03

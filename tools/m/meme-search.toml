@@ -1,0 +1,7 @@
+name = "Meme Search"
+description = "Open source meme search engine that uses local AI to index images by content and text for semantic search. Self-host with Docker."
+category = "other"
+website = "https://meme-search.neonwatty.com"
+open_source = true
+repository = "https://github.com/meme-search/meme-search"
+added = 2026-11-03

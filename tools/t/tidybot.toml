@@ -1,0 +1,7 @@
+name = "tidybot"
+description = "TidyBot: Personalized Robot Assistance with Large Language Models"
+category = "other"
+website = "https://tidybot.cs.princeton.edu"
+open_source = true
+repository = "https://github.com/jimmyyhwu/tidybot"
+added = 2026-11-03

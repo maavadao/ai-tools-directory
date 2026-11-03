@@ -1,0 +1,7 @@
+name = "keypaste"
+description = "A local KeePass-compatible password manager with project environments and approved AI access. The CLI and MCP bridge are in beta; the desktop app is being built."
+category = "other"
+website = "https://keypaste.com"
+open_source = true
+repository = "https://github.com/notinferred/keypaste"
+added = 2026-11-03

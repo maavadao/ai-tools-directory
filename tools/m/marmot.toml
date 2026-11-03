@@ -1,0 +1,7 @@
+name = "marmot"
+description = "Marmot is a data catalog, query gateway and MCP server in one. Your team and your agents look up what a table means and who owns it, then query it through Marmot, which checks each query against your access rules and keeps a record of every query. Open source, or hosted on Marmot Cloud."
+category = "other"
+website = "https://marmotdata.io"
+open_source = true
+repository = "https://github.com/marmotdata/marmot"
+added = 2026-11-03

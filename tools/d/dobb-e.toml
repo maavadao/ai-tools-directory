@@ -1,0 +1,7 @@
+name = "dobb-e"
+description = "Dobb·E is an open-source framework for teaching robots new household tasks in 20 minutes via imitation learning."
+category = "other"
+website = "https://dobb-e.com"
+open_source = true
+repository = "https://github.com/notmahi/dobb-e"
+added = 2026-11-03

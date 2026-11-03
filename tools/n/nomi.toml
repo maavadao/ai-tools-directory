@@ -1,0 +1,7 @@
+name = "Nomi"
+description = "开源、本地优先的 AI 视频工作台。Agent 替你拆镜头、出关键帧、做视频、排进时间轴；用的是你自己接的模型，按供应商原价付钱，连 Agent 也不订阅、不加价。"
+category = "other"
+website = "https://nomiaqm.com"
+open_source = true
+repository = "https://github.com/aqm857886159/Nomi"
+added = 2026-11-03

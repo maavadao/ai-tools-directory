@@ -1,0 +1,7 @@
+name = "Ko-fi"
+description = "Accept tips with 0-5% fees! Ko-fi also lets you sell Memberships, Commissions and Shop items"
+category = "other"
+website = "https://ko-fi.com"
+open_source = true
+repository = "https://github.com/therealoliver/Deepdive-llama3-from-scratch"
+added = 2026-11-03

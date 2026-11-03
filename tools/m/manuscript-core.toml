@@ -1,0 +1,7 @@
+name = "manuscript-core"
+description = "Manuscript is a revolutionary blockchain data streaming framework. With Manuscript, you can seamlessly integrate on-chain and off-chain data into target data storage for unrestricted querying and analysis"
+category = "data"
+website = "https://chainbase.com"
+open_source = true
+repository = "https://github.com/chainbase-labs/manuscript-core"
+added = 2026-11-03

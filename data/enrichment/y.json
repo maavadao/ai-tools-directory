@@ -20,6 +20,9 @@
 "yn": {
 "checked": "2026-10-26"
 },
+"yoda-pa": {
+"checked": "2026-11-03"
+},
 "yomo": {
 "checked": "2026-10-30",
 "image": "https://yomo.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=Introduction&description=Open+source+Serverless+LLM+Function+Calling+framework+for+AI+agents&theme=abe54cc401bf1fc18e9d191e&signature=71093c08607f6126dcdf63d8272f3f4bf408f5e27e8f3d46a96c96dd161b2066"
@@ -53,7 +56,15 @@
 "yusuke-sugomori": {
 "checked": "2026-10-28"
 },
+"yutu": {
+"checked": "2026-11-03",
+"image": "https://yutu.ifor.dev/assets/yutu-ico-BAvh1P10.png"
+},
 "yuzhi-tech": {
 "checked": "2026-10-31"
+},
+"yzma": {
+"checked": "2026-11-03",
+"image": "https://yzma.ai/images/yzma-social-card.png"
 }
 }

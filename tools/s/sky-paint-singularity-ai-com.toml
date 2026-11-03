@@ -1,0 +1,7 @@
+name = "天工"
+description = "基于Stable Diffusion优化的AI绘画模型。支持输入中英文文本，可生成多种现代艺术风格的高质量图像。| An optimized text-to-image model based on Stable Diffusion. Both Chinese and English text inputs are available to generate images. The model can generate high-quality images in several modern art styles."
+category = "image"
+website = "https://sky-paint.singularity-ai.com"
+open_source = true
+repository = "https://github.com/SkyWorkAIGC/SkyPaint-AI-Diffusion"
+added = 2026-11-03

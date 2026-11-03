@@ -1,0 +1,7 @@
+name = "OpenHarness"
+description = "Lightweight, composable building blocks for creating capable AI agents. Built on Vercel AI SDK."
+category = "agents"
+website = "https://open-harness.dev"
+open_source = true
+repository = "https://github.com/MaxGfeller/open-harness"
+added = 2026-11-03

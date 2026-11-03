@@ -1,0 +1,7 @@
+name = "dexto"
+description = "The multi-agent harness for AI-native companies."
+category = "chatbots"
+website = "https://dexto.ai"
+open_source = true
+repository = "https://github.com/truffle-ai/dexto"
+added = 2026-11-03

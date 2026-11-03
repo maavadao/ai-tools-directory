@@ -1,0 +1,7 @@
+name = "Introduction"
+description = "UTCP is available in multiple languages - see Python, TypeScript, Go, and other implementations in the UTCP GitHub organization."
+category = "coding"
+website = "https://www.utcp.io"
+open_source = true
+repository = "https://github.com/universal-tool-calling-protocol/python-utcp"
+added = 2026-11-03

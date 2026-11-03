@@ -1,0 +1,7 @@
+name = "rustunnel"
+description = "Open-source secure tunnel that exposes localhost to the internet. Pay-as-you-go from $3/month, free self-hosting under AGPL, and an MCP server for any agent harness — Claude Code, Codex, Cursor, Windsurf, Cline, and more."
+category = "other"
+website = "https://www.rustunnel.com"
+open_source = true
+repository = "https://github.com/joaoh82/rustunnel"
+added = 2026-11-03

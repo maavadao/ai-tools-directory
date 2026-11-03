@@ -1,0 +1,7 @@
+name = "CoiPond"
+description = "Isolated Incus machines for AI coding agents, and the orchestration to run them unattended. Open source, MIT."
+category = "other"
+website = "https://coipond.ai"
+open_source = true
+repository = "https://github.com/coipond/coi"
+added = 2026-11-03

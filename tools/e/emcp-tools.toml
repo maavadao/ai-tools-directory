@@ -1,0 +1,7 @@
+name = "EMCP Tools"
+description = "Connect AI to WordPress with EMCP. Build editable pages, manage your site and control tool access. Start free."
+category = "other"
+website = "https://emcptools.com"
+open_source = true
+repository = "https://github.com/msrbuilds/elementor-mcp"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "cavemem"
+description = "Keep your coding agent. Add recoverable context compression, measure token usage, and find practical guides for reducing AI agent costs."
+category = "coding"
+website = "https://caveman.so"
+open_source = true
+repository = "https://github.com/JuliusBrussee/cavemem"
+added = 2026-11-03

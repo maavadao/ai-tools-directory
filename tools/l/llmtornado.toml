@@ -1,0 +1,7 @@
+name = "LlmTornado"
+description = "LlmTornado Documentation"
+category = "agents"
+website = "https://llmtornado.ai"
+open_source = true
+repository = "https://github.com/lofcz/LLMTornado"
+added = 2026-11-03

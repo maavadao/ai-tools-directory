@@ -1,0 +1,7 @@
+name = "ClassifAI"
+description = "Open, enterprise-ready AI features for WordPress"
+category = "other"
+website = "https://classifaiplugin.com"
+open_source = true
+repository = "https://github.com/10up/classifai"
+added = 2026-11-03

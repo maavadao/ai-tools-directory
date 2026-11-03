@@ -1,0 +1,7 @@
+name = "Aether"
+description = "A localized Android AI agent powered by the Pi kernel, with Skills, MCP, Extensions, and Agent Mode."
+category = "chatbots"
+website = "https://aether.baimoqilin.com"
+open_source = true
+repository = "https://github.com/Zhou-Shilin/Aether"
+added = 2026-11-03

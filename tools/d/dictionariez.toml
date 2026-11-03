@@ -1,0 +1,7 @@
+name = "dictionariez"
+description = "The ultimate browser extension for instant word lookup, sentence translation, text-to-speech, and vocabulary building."
+category = "audio"
+website = "https://dictionariez.pnl.dev"
+open_source = true
+repository = "https://github.com/pnlpal/dictionariez"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "首页"
+description = "开源 AI 智能体客服平台"
+category = "chatbots"
+website = "https://tgo.ai"
+open_source = true
+repository = "https://github.com/tgoai/tgo"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "buoy"
+description = "Dev tools for your app. See web calls, logs and state. React Native and Expo work now. Flutter, Swift, .NET MAUI, web, TV, Capacitor / Ionic and three.js are in Beta. Free plan, no card."
+category = "coding"
+website = "https://buoy.gg"
+open_source = true
+repository = "https://github.com/Buoy-gg/buoy"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "awesome-ios-design-md"
+description = "Install Spectr in one command. MCP server, CLI, or Claude skill. Runs on your Claude subscription."
+category = "education"
+website = "https://www.spectr.to"
+open_source = true
+repository = "https://github.com/Meliwat/awesome-ios-design-md"
+added = 2026-11-03

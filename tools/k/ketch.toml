@@ -1,0 +1,7 @@
+name = "ketch"
+description = "A stateless command-line tool for web search, OSS code search, library docs, and scraping — one binary, no daemon, nothing to keep running."
+category = "research"
+website = "https://ketch.run"
+open_source = true
+repository = "https://github.com/1broseidon/ketch"
+added = 2026-11-03

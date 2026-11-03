@@ -1,0 +1,7 @@
+name = "SkillSpec"
+description = "Know what an agent skill does before you install it. Paste a public GitHub URL and SkillSpec reports where the skill drifts from its plan and what it could reach if it runs — credentials, network, your files — ranked by risk. Free, in your browser, nothing executed."
+category = "agents"
+website = "https://skillspec.sh"
+open_source = true
+repository = "https://github.com/modiqo/skillspec"
+added = 2026-11-03

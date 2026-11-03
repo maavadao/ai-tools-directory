@@ -1,0 +1,7 @@
+name = "Choose a language"
+description = "ROS-based framework and RPi image to control PX4-powered drones"
+category = "education"
+website = "https://clovercoex.tech"
+open_source = true
+repository = "https://github.com/CopterExpress/clover"
+added = 2026-11-03

@@ -1,0 +1,7 @@
+name = "Leo Labs"
+description = "一个人 + AI 的公开实验系统：PMQuant、PM Intelligence、Leo Insider、AI 工作流、开源工具、内容分发和失败复盘，都沉淀到 leolabs.me。"
+category = "coding"
+website = "https://leolabs.me"
+open_source = true
+repository = "https://github.com/runesleo/claude-code-workflow"
+added = 2026-11-03

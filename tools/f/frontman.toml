@@ -1,0 +1,7 @@
+name = "frontman"
+description = "Edit your existing WordPress site with Frontman AI. Update Gutenberg blocks, Elementor pages, and navigation with WordPress-native tools beside live preview."
+category = "coding"
+website = "https://frontman.sh"
+open_source = true
+repository = "https://github.com/frontman-ai/frontman"
+added = 2026-11-03

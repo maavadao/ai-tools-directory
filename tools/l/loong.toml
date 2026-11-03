@@ -1,0 +1,7 @@
+name = "Loong"
+description = "Loong is a Rust base for vertical AI agents with fast first value, governed runtime capabilities, explicit delivery contracts, and rollout playbooks."
+category = "chatbots"
+website = "https://loongclaw.ai"
+open_source = true
+repository = "https://github.com/eastreams/loong"
+added = 2026-11-03

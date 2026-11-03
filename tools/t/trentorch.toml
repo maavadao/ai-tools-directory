@@ -1,0 +1,7 @@
+name = "TrenTorch"
+description = "1647 free machine learning practice problems. Build PyTorch from scratch in Python and run the tests in your browser: classical ML, deep learning, transformers, inference, and more."
+category = "education"
+website = "https://trentorch.com"
+open_source = true
+repository = "https://github.com/TrenTorch/TrenTorch"
+added = 2026-11-03

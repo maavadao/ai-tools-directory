@@ -1,0 +1,7 @@
+name = "Overmind"
+description = "Turn your agents’ production data into specialized models you own. Prepare data, train, evaluate, and deploy from one platform."
+category = "chatbots"
+website = "https://www.overmindlab.ai"
+open_source = true
+repository = "https://github.com/overmind-core/overmind"
+added = 2026-11-03

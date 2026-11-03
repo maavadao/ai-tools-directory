@@ -1,0 +1,7 @@
+name = "MindOS"
+description = "A local-first, open-source knowledge workspace for human–agent co-evolution. Share context across AI agents, review their work, and turn experience into reusable knowledge."
+category = "agents"
+website = "https://mindos.you"
+open_source = true
+repository = "https://github.com/GeminiLight/MindOS"
+added = 2026-11-03
