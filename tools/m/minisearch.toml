@@ -1,0 +1,7 @@
+name = "MiniSearch"
+description = "Minimalist web-searching app with an AI assistant that is always available and runs directly from your browser."
+category = "chatbots"
+website = "https://felladrin-minisearch.hf.space"
+open_source = true
+repository = "https://github.com/felladrin/MiniSearch"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "Redirecting"
+description = "Python + Inference - Model Deployment library in Python. Simplest model inference server ever."
+category = "other"
+website = "https://pinferencia.underneathall.app"
+open_source = true
+repository = "https://github.com/underneathall/pinferencia"
+added = 2026-11-04

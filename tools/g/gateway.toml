@@ -1,0 +1,7 @@
+name = "gateway"
+description = "Adaline is an observability and evals platform for self-improving AI agents. It turns production traces into behaviors, evals, synthetic data, and verified improvements your team can approve and ship."
+category = "chatbots"
+website = "https://www.adaline.ai"
+open_source = true
+repository = "https://github.com/adaline/gateway"
+added = 2026-11-04

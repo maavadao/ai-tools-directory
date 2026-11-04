@@ -1,0 +1,7 @@
+name = "joinly.ai"
+description = "Make your meetings accessible to AI Agents with joinly.ai"
+category = "chatbots"
+website = "https://joinly.ai"
+open_source = true
+repository = "https://github.com/joinly-ai/joinly"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "talk2arxiv"
+description = "Change arxiv.org to talk2arxiv.org in any paper link to read the paper and ask an AI that has read all of it."
+category = "chatbots"
+website = "https://www.talk2arxiv.org"
+open_source = true
+repository = "https://github.com/evanhu1/talk2arxiv"
+added = 2026-11-04

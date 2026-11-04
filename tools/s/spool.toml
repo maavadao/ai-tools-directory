@@ -1,0 +1,7 @@
+name = "spool"
+description = "Agents work on every machine; their Sessions die in local files. Spool streams them into one shared space — readable, searchable, and resumable — so agent work becomes team knowledge."
+category = "coding"
+website = "https://spool.new"
+open_source = true
+repository = "https://github.com/paperboytm/spool"
+added = 2026-11-04

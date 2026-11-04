@@ -1,0 +1,7 @@
+name = "AI智能写作平台"
+description = "论启写作平台：开题报告、毕业设计任务书、文献综述与论文正文一站生成，支持知网文献检索与引用辅助。覆盖开题模板、任务书规范字段、降重排版与答辩PPT，适合本科/硕士毕业论文快速起稿。"
+category = "chatbots"
+website = "https://www.openlun.com"
+open_source = true
+repository = "https://github.com/FoShmily/ai-paper-system"
+added = 2026-11-04

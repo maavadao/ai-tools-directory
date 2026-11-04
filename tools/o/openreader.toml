@@ -1,0 +1,7 @@
+name = "OpenReader"
+description = "Open-source, self-hostable document reader that turns EPUB, PDF, TXT, Markdown, and DOCX into multilingual read-along audio with word-by-word highlighting and audiobook export."
+category = "audio"
+website = "https://openreader.richardr.dev"
+open_source = true
+repository = "https://github.com/richardr1126/openreader"
+added = 2026-11-04

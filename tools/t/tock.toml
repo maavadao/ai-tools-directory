@@ -1,0 +1,7 @@
+name = "tock"
+description = "Tock, the open source conversational AI toolkit."
+category = "chatbots"
+website = "https://doc.tock.ai"
+open_source = true
+repository = "https://github.com/theopenconversationkit/tock"
+added = 2026-11-04

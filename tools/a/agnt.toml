@@ -1,0 +1,7 @@
+name = "AGNT"
+description = "Bring your AI subscriptions, models, and coding agents into one workspace. Annie coordinates research, code, content, and operations with memory, automation, and cost visibility built in."
+category = "agents"
+website = "https://agnt.gg"
+open_source = true
+repository = "https://github.com/agnt-gg/agnt"
+added = 2026-11-04

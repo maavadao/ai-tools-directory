@@ -1,0 +1,7 @@
+name = "HermesPet"
+description = "点一下就聊，按住就说，拖进文件让它自己读。macOS 与 Windows 双平台 · 多引擎并行 · 对话永久保存。"
+category = "chatbots"
+website = "https://hermespet.cc"
+open_source = true
+repository = "https://github.com/basionwang-bot/HermesPet"
+added = 2026-11-04

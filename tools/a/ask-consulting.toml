@@ -1,0 +1,7 @@
+name = "ASK Consulting"
+description = "Your automation says every lead got handled. I find the ones that never reached a person and rebuild the step that dropped them."
+category = "other"
+website = "https://askconsulting.io"
+open_source = true
+repository = "https://github.com/assafkip/claudemy"
+added = 2026-11-04

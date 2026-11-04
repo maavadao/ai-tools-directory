@@ -1,0 +1,7 @@
+name = "reader"
+description = "Production-grade web scraping engine. Two primitives. Clean markdown. Ready for your agents."
+category = "chatbots"
+website = "https://reader.dev"
+open_source = true
+repository = "https://github.com/vakra-dev/reader"
+added = 2026-11-04

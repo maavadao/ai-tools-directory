@@ -1,0 +1,7 @@
+name = "shipfast"
+description = "The best free SaaS base for GenAI, LLM, and other AI Services. Ship your next Generative AI startups in days."
+category = "chatbots"
+website = "https://www.shipfast.dev"
+open_source = true
+repository = "https://github.com/vietanhdev/shipfast"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "mu"
+description = "Most of what a coding agent decides isn't code. mu hands those yes/no calls to a small model. Built on pi."
+category = "coding"
+website = "https://usemu.dev"
+open_source = true
+repository = "https://github.com/qybaihe/mu"
+added = 2026-11-04

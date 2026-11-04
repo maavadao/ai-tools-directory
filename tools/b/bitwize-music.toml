@@ -1,0 +1,7 @@
+name = "bitwize music"
+description = "AI + human music project exploring genres"
+category = "other"
+website = "https://www.bitwizemusic.com"
+open_source = true
+repository = "https://github.com/bitwize-music-studio/claude-ai-music-skills"
+added = 2026-11-04

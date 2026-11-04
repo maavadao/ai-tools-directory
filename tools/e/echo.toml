@@ -1,0 +1,7 @@
+name = "echo"
+description = "User Pays AI SDK"
+category = "chatbots"
+website = "https://echo.merit.systems"
+open_source = true
+repository = "https://github.com/Merit-Systems/echo"
+added = 2026-11-04

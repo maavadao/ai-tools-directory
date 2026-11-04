@@ -1,0 +1,7 @@
+name = "Tangle"
+description = "Tangle is a web app that allows the users to build and run Machine Learning pipelines without having to set up development environment."
+category = "other"
+website = "https://tangleml.com"
+open_source = true
+repository = "https://github.com/TangleML/tangle"
+added = 2026-11-04

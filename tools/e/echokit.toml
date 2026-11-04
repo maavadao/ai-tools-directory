@@ -1,0 +1,7 @@
+name = "EchoKit"
+description = "Open Source Voice Agent Platform"
+category = "audio"
+website = "https://echokit.dev"
+open_source = true
+repository = "https://github.com/second-state/echokit_server"
+added = 2026-11-04

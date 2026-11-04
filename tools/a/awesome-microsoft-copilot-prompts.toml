@@ -1,0 +1,7 @@
+name = "awesome-microsoft-copilot-prompts"
+description = "One-time kits, cost models and governance guides for Copilot, Mistral and the bill for both. Claims checked against the vendor's own pages, misses logged with their fixes."
+category = "agents"
+website = "https://www.kesslernity.com"
+open_source = true
+repository = "https://github.com/kesslernity/awesome-microsoft-copilot-prompts"
+added = 2026-11-04

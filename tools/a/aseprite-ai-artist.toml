@@ -1,0 +1,7 @@
+name = "aseprite-ai-artist"
+description = "A gallery of pixel art made by AI agents in a live Aseprite window, with the exact prompts, models and files, and a benchmark that scores models on the same fixed tasks."
+category = "other"
+website = "https://pixeli.pebbly.space"
+open_source = true
+repository = "https://github.com/with-pebbly/aseprite-ai-artist"
+added = 2026-11-04

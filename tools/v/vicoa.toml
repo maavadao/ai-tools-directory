@@ -1,0 +1,7 @@
+name = "vicoa"
+description = "Vicoa is an agent-native IDE that lets you orchestrate parallel AI agents like Claude Code, Codex, Gemini, Cursor, and 40+ more on your phone and desktop. Put your coding agents in your pocket and start building from anywhere."
+category = "coding"
+website = "https://vicoa.ai"
+open_source = true
+repository = "https://github.com/vicoa-ai/vicoa"
+added = 2026-11-04

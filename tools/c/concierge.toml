@@ -1,0 +1,7 @@
+name = "Concierge"
+description = "Universal SDK for building next-gen MCP servers"
+category = "chatbots"
+website = "https://platform.getconcierge.app"
+open_source = true
+repository = "https://github.com/concierge-hq/concierge"
+added = 2026-11-04

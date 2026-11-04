@@ -1,0 +1,7 @@
+name = "ethora"
+description = "Build chat apps, AI agents, and interactive workflows using a unified SDK compatible with web, iOS, and Android."
+category = "other"
+website = "https://ethora.com"
+open_source = true
+repository = "https://github.com/dappros/ethora"
+added = 2026-11-04

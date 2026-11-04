@@ -1,0 +1,7 @@
+name = "KoalaQA"
+description = "KoalaQA 是一款 AI 大模型驱动的开源售后服务社区，提供 AI 回答、AI 搜索、AI 运营等能力，帮助你快速落地售后客服、社区问答、自助服务等场景"
+category = "customer-support"
+website = "https://koalaqa.docs.baizhi.cloud"
+open_source = true
+repository = "https://github.com/chaitin/KoalaQA"
+added = 2026-11-04

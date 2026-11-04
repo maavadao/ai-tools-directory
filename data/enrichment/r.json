@@ -46,6 +46,10 @@
 "checked": "2026-10-27",
 "image": "https://rapidmlx.com/og.png"
 },
+"ratel": {
+"checked": "2026-11-04",
+"image": "https://ratel.sh/og.png?v=2"
+},
 "rath": {
 "checked": "2026-10-27",
 "image": "https://kanaries.net/assets/kanaries-slice.svg"
@@ -96,6 +100,10 @@
 "from": 2.5,
 "url": "https://www.readfrog.app/en/pricing"
 }
+},
+"reader": {
+"checked": "2026-11-04",
+"image": "https://reader.dev/og-image.png"
 },
 "readywhen": {
 "checked": "2026-10-23",
@@ -177,6 +185,9 @@
 "reme-documentation": {
 "checked": "2026-10-28"
 },
+"remind-ai": {
+"checked": "2026-11-04"
+},
 "remove-bg": {
 "checked": "2026-10-23",
 "image": "https://sb.kaleidousercontent.com/67418/600x315/48eb30a742/emilia-og-image.jpg"
@@ -225,6 +236,10 @@
 "free": true,
 "url": "https://www.resollm.ai/pricing/"
 }
+},
+"restai": {
+"checked": "2026-11-04",
+"image": "https://raw.githubusercontent.com/apocas/restai/master/readme/assets/templates.png"
 },
 "restheart": {
 "checked": "2026-11-02",
@@ -336,6 +351,16 @@
 "checked": "2026-10-29",
 "image": "https://rmux.io/social-preview-v3.jpg"
 },
+"roam": {
+"checked": "2026-11-04",
+"image": "https://roam-code.com/og-code-analysis.png",
+"pricing": {
+"currency": "USD",
+"from": 99.0,
+"trial": true,
+"url": "https://roam-code.com/pricing"
+}
+},
 "robocasa": {
 "checked": "2026-10-30",
 "image": "https://robocasa.ai/assets/images/og-image.png"
@@ -442,9 +467,16 @@
 "rulego": {
 "checked": "2026-10-31"
 },
+"rultor": {
+"checked": "2026-11-04"
+},
 "runanywhere": {
 "checked": "2026-10-25",
 "image": "https://runanywhere.ai/share/runanywhere.png"
+},
+"runpane-by-dcouple": {
+"checked": "2026-11-04",
+"image": "https://runpane.com/en/opengraph-image?34b6fe48dbf5047b"
 },
 "runway": {
 "checked": "2026-10-23",
@@ -476,6 +508,10 @@
 "ruview": {
 "checked": "2026-10-23",
 "image": "https://cognitum.one/cognitum-share-logo-v2.png"
+},
+"rwilinski-ai": {
+"checked": "2026-11-04",
+"image": "https://rwilinski.ai/og-image/index.png"
 },
 "rwkv-language-model": {
 "checked": "2026-10-26"

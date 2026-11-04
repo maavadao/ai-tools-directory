@@ -1,0 +1,7 @@
+name = "电影感 AI 视频提示词库"
+description = "5 段式电影感视频提示词方法论 + 可复制模板库 + Claude Code Skill,适用 Seedance 2.0 / 即梦 / 可灵 / Sora / Veo。点开即看、一键复制。"
+category = "other"
+website = "https://prompts.aiolaola.com"
+open_source = true
+repository = "https://github.com/jnMetaCode/ai-shortfilm-prompts"
+added = 2026-11-04

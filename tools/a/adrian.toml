@@ -1,0 +1,7 @@
+name = "Adrian"
+description = "Secure Agentics builds Adrian, the open-source runtime security tool for AI agents. It detects and blocks prompt injection and malicious tool use before it happens."
+category = "agents"
+website = "https://www.secureagentics.ai"
+open_source = true
+repository = "https://github.com/secureagentics/Adrian"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "Browser Operator"
+description = "Your open-source, privacy-friendly AI browser that transforms how you work on the web. Your intelligent partner for research, analysis, and automation."
+category = "chatbots"
+website = "https://browseroperator.io"
+open_source = true
+repository = "https://github.com/BrowserOperator/browser-operator-core"
+added = 2026-11-04

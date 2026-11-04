@@ -1,0 +1,7 @@
+name = "Fabric"
+description = "Fabric is a node-based visual programming environment and rendering engine for creative coding on Apple platforms."
+category = "video"
+website = "https://fabric.graphics"
+open_source = true
+repository = "https://github.com/Fabric-Project/Fabric"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "Wayland"
+description = "An AI agent that runs your desktop and directs every other agent, model, and CLI you use. It perceives, reasons, acts, and evolves. Free and open source."
+category = "chatbots"
+website = "https://getwayland.com"
+open_source = true
+repository = "https://github.com/FerroxLabs/wayland"
+added = 2026-11-04

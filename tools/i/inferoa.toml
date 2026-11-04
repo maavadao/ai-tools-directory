@@ -1,0 +1,7 @@
+name = "inferoa"
+description = "Run recursive long-horizon loops while tokenmaxxing prefix cache, context optimization, vLLM Semantic Router, vLLM serving, Omni, RTK, and CodeGraph."
+category = "chatbots"
+website = "https://inferoa.agentic-in.ai"
+open_source = true
+repository = "https://github.com/agentic-in/inferoa"
+added = 2026-11-04

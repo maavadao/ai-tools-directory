@@ -1,0 +1,7 @@
+name = "Clips AI"
+description = "Clips AI is a python library that allows developers to automatically convert long videos into clips."
+category = "other"
+website = "https://www.clipsai.com"
+open_source = true
+repository = "https://github.com/ClipsAI/clipsai"
+added = 2026-11-04

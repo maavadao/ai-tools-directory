@@ -11,6 +11,10 @@
 "checked": "2026-10-31",
 "image": "https://n8nascode.dev/img/og-image.png"
 },
+"n8n-claw": {
+"checked": "2026-11-04",
+"image": "https://n8n-claw.com/logo-with-text-white.png"
+},
 "n8n-mcp": {
 "checked": "2026-10-24",
 "image": "https://www.n8n-mcp.com/opengraph-image.png?opengraph-image.37_02n-ygxj6_.png",
@@ -108,6 +112,10 @@
 "checked": "2026-10-30",
 "image": "https://navop.dev/screenshots/app.png"
 },
+"nct": {
+"checked": "2026-11-04",
+"image": "https://neuroconscious.link/opengraph-image?632ad9663bdf9f53"
+},
 "needle": {
 "checked": "2026-10-23",
 "image": "https://needle.app/images/og/landing-hero-og.png",
@@ -174,6 +182,10 @@
 "neuralprophet": {
 "checked": "2026-10-27"
 },
+"neuraxle-documentation": {
+"checked": "2026-11-04",
+"image": "https://www.neuraxle.org/neuraxle-banner.png"
+},
 "neuroapi-host": {
 "checked": "2026-10-31",
 "image": "https://neuroapi.host/og/home"
@@ -207,6 +219,10 @@
 "nextcrm": {
 "checked": "2026-11-03",
 "image": "https://demo.nextcrm.io/images/opengraph-image.png"
+},
+"nextjs-admin-dashboard": {
+"checked": "2026-11-04",
+"image": "https://nextadmin.co/opengraph-image.png?opengraph-image.3_rx9-r1_k7a5.png"
 },
 "nexu": {
 "checked": "2026-10-28",
@@ -301,6 +317,16 @@
 "nodeterm": {
 "checked": "2026-10-30",
 "image": "https://nodeterm.dev/og.png"
+},
+"nodetool": {
+"checked": "2026-11-04",
+"image": "https://nodetool.ai/opengraph-image?a4f75a3fa98ffbbe",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 24.0,
+"url": "https://nodetool.ai/pricing"
+}
 },
 "nof0": {
 "checked": "2026-10-29"
@@ -424,6 +450,14 @@
 "nucleoid": {
 "checked": "2026-11-02",
 "image": "https://cdn.nucleoid.com/media/og.png"
+},
+"nudgebee": {
+"checked": "2026-11-04",
+"image": "https://nudgebee.com/og-image.png",
+"pricing": {
+"trial": true,
+"url": "https://nudgebee.com/pricing"
+}
 },
 "nullclaw": {
 "checked": "2026-10-26"

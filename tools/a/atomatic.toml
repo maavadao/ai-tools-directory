@@ -1,0 +1,7 @@
+name = "Atomatic"
+description = "Auto reply for Messaging apps"
+category = "other"
+website = "https://watomatic.app"
+open_source = true
+repository = "https://github.com/adeekshith/watomatic"
+added = 2026-11-04

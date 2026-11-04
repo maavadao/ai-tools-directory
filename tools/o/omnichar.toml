@@ -1,0 +1,7 @@
+name = "OmniChar"
+description = "One open .char file keeps a character consistent across FLUX.2, MiniMax H3 and Krea 2. Generate in your browser or on your own GPU. Free and open source."
+category = "image"
+website = "https://www.omnichar.org"
+open_source = true
+repository = "https://github.com/omnichar/OmniChar"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "Movie Data Crawler"
+description = "Organize local movie and series libraries, with AI parsing for media details on web pages."
+category = "chatbots"
+website = "https://www.mvdc.top"
+open_source = true
+repository = "https://github.com/mvdctop/Movie_Data_Capture"
+added = 2026-11-04

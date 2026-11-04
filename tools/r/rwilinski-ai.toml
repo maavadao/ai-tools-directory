@@ -1,0 +1,7 @@
+name = "rwilinski.ai"
+description = "My musings about Applied AI, LLMs, RAGs and agents"
+category = "chatbots"
+website = "https://rwilinski.ai"
+open_source = true
+repository = "https://github.com/RafalWilinski/cloudflare-rag"
+added = 2026-11-04

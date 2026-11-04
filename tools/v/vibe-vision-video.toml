@@ -1,0 +1,7 @@
+name = "Vibe Vision Video"
+description = "Open-source video templates and an agent skill. Build a template once, reuse it in Claude Code, Codex and WorkBuddy, or recreate a reference video."
+category = "video"
+website = "https://vibevision.video"
+open_source = true
+repository = "https://github.com/actionow-ai/vvv"
+added = 2026-11-04

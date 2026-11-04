@@ -1,0 +1,7 @@
+name = "Solo Agent"
+description = "Solo is an open-source, local-first workspace where people and AI agents collaborate through channels, tasks, teams, and reviewable work."
+category = "coding"
+website = "https://soloagent.team"
+open_source = true
+repository = "https://github.com/solo-agent/solo"
+added = 2026-11-04

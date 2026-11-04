@@ -1,0 +1,7 @@
+name = "nextjs-admin-dashboard"
+description = "Free, open-source Next.js admin dashboard with 200+ UI components, pages, and pre-built dashboards, plus built-in AI rules and context files that let Claude Code, Cursor, and any AI agent extend it consistently."
+category = "agents"
+website = "https://nextadmin.co"
+open_source = true
+repository = "https://github.com/NextAdminHQ/nextjs-admin-dashboard"
+added = 2026-11-04

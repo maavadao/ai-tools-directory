@@ -1,0 +1,7 @@
+name = "OpenPaper"
+description = "18 specialized AI agents research and write academic papers, with every printed DOI resolved at Crossref or DataCite. Autonomous research from your prompt to a cited paper."
+category = "chatbots"
+website = "https://openpaper.dev"
+open_source = true
+repository = "https://github.com/federicodeponte/opendraft"
+added = 2026-11-04

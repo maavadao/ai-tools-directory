@@ -1,0 +1,7 @@
+name = "Don't Be Michael"
+description = "Pick your kind of business, get a ready team of AI agents, and Michael hands out the work. Privacy first: one team member, Pete, does the team's web research, behind a trust layer. The team learns your business as it works, and asks you only when work needs an answer. Free and open source, for Mac…"
+category = "agents"
+website = "https://dontbemichael.com"
+open_source = true
+repository = "https://github.com/agentvivekkumar/dontbemichael"
+added = 2026-11-04

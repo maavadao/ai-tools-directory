@@ -1,0 +1,7 @@
+name = "Lunar.dev"
+description = "The only Enterprise AI Control Plane for MCP, LLM, and API governance. Full observability and runtime governance across every AI interaction, in a single audit trail. Self-hosted in your VPC."
+category = "other"
+website = "https://www.lunar.dev"
+open_source = true
+repository = "https://github.com/TheLunarCompany/lunar"
+added = 2026-11-04

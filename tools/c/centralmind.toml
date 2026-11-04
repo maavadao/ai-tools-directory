@@ -1,0 +1,7 @@
+name = "CentralMind"
+description = "Main project documentation"
+category = "chatbots"
+website = "https://docs.centralmind.ai"
+open_source = true
+repository = "https://github.com/centralmind/gateway"
+added = 2026-11-04

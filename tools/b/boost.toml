@@ -1,0 +1,7 @@
+name = "boost"
+description = "Boost is a free CLI that compresses noisy tool output before it reaches Cursor, Claude Code, Codex, GitHub Copilot, or OpenCode. Save tokens without changing workflows."
+category = "coding"
+website = "https://boost.jfrog.com"
+open_source = true
+repository = "https://github.com/jfrog/boost"
+added = 2026-11-04

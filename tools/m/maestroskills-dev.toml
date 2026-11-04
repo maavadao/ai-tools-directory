@@ -1,0 +1,7 @@
+name = "Maestro"
+description = "1 skill, 25 commands, and curated anti-patterns — a complete reference for building reliable, production-grade AI agent workflows."
+category = "coding"
+website = "https://maestroskills.dev"
+open_source = true
+repository = "https://github.com/sharpdeveye/maestro"
+added = 2026-11-04

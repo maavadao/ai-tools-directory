@@ -1,0 +1,7 @@
+name = "AgentBox"
+description = "AgentBox teleports your project into an isolated VM — local or in the cloud — and runs Claude Code, Codex, OpenCode, or Pi inside it. Checkpointed, parallel, on hardware you control."
+category = "coding"
+website = "https://agent-box.sh"
+open_source = true
+repository = "https://github.com/madarco/agentbox"
+added = 2026-11-04

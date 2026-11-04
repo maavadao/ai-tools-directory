@@ -1,0 +1,7 @@
+name = "OpenPackage"
+description = "Package your AI coding setup once and reuse it across every project and platform."
+category = "coding"
+website = "https://openpackage.dev"
+open_source = true
+repository = "https://github.com/enulus/OpenPackage"
+added = 2026-11-04

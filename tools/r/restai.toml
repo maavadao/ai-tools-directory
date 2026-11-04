@@ -1,0 +1,7 @@
+name = "RESTai"
+description = "The open-source, self-hosted AIaaS platform. RAG, Agents, MCP, visual logic, app builder — REST API + Web UI. Apache 2.0."
+category = "image"
+website = "https://restai.cloud"
+open_source = true
+repository = "https://github.com/apocas/restai"
+added = 2026-11-04

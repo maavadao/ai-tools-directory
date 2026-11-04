@@ -1,0 +1,7 @@
+name = "太卜"
+description = "AI驱动的个性化命理分析，多人格AI命理师，记忆式对话体验"
+category = "agents"
+website = "https://mingai.fun"
+open_source = true
+repository = "https://github.com/hhszzzz/taibu"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "rultor"
+description = "DevOps team assistant that helps to automate merge, deploy and release operations, mostly for GitHub projects"
+category = "chatbots"
+website = "https://www.rultor.com"
+open_source = true
+repository = "https://github.com/yegor256/rultor"
+added = 2026-11-04

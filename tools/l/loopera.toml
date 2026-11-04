@@ -1,0 +1,7 @@
+name = "loopera"
+description = "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory."
+category = "other"
+website = "https://loopera.cn"
+open_source = true
+repository = "https://github.com/Loopera-ai/loopera"
+added = 2026-11-04

@@ -32,6 +32,9 @@
 "checked": "2026-10-31",
 "image": "https://haft.tools/og-image.png?v=haft"
 },
+"halfrost-s-field": {
+"checked": "2026-11-04"
+},
 "hallucination-leaderboard": {
 "checked": "2026-10-28",
 "image": "https://www.vectara.com/images/social-previews/index.jpg",
@@ -224,9 +227,17 @@
 "checked": "2026-10-24",
 "image": "https://hermesone.org/thumb.png"
 },
+"hermespet": {
+"checked": "2026-11-04",
+"image": "https://hermespet.cc/manus-storage/banner_bff01e21.png"
+},
 "hermex": {
 "checked": "2026-10-31",
 "image": "https://hermexapp.com/og/og-home.png"
+},
+"hevy-mcp": {
+"checked": "2026-11-04",
+"image": "https://hevy-mcp.dev/og-card.png"
 },
 "hexdocs-pm": {
 "checked": "2026-11-01"
@@ -291,6 +302,13 @@
 "hister": {
 "checked": "2026-10-26",
 "image": "https://hister.org/logo.png"
+},
+"hive": {
+"checked": "2026-11-04",
+"image": "https://hivehq.dev/og.jpg?v=2"
+},
+"hof": {
+"checked": "2026-11-04"
 },
 "hol": {
 "checked": "2026-10-31",
@@ -395,6 +413,10 @@
 "humanize-text": {
 "checked": "2026-10-28",
 "image": "https://strapi.lynote.ai/uploads/lynote_ai_learning_platform_f44370a9db.jpg"
+},
+"humanizer-ru": {
+"checked": "2026-11-04",
+"image": "https://humanizer-ru.aifrontier.tech/assets/social-preview.jpg"
 },
 "humanlayer": {
 "checked": "2026-10-25",

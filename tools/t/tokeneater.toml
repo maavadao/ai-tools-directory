@@ -1,0 +1,7 @@
+name = "TokenEater"
+description = "Track your Claude and OpenAI Codex usage limits from your macOS desktop."
+category = "other"
+website = "https://tokeneater.athevon.dev"
+open_source = true
+repository = "https://github.com/AThevon/TokenEater"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "千帆大模型平台-企业级一站式大模型开发及应用开发平台-百度智能云"
+description = "百度智能云千帆大模型平台是百度智能云推出的一站式企业级大模型平台，是支持客户做好真实AI应用的“企业级”平台，提供全面易用的模型开发、应用开发全流程工具链，同时融合千帆数据智能平台"
+category = "chatbots"
+website = "https://cloud.baidu.com"
+open_source = true
+repository = "https://github.com/baidubce/app-builder"
+added = 2026-11-04

@@ -17,6 +17,10 @@
 "sandboxd": {
 "checked": "2026-11-01"
 },
+"sandlock": {
+"checked": "2026-11-04",
+"image": "https://sandlock.io/assets/images/og-image.png"
+},
 "santifer-io": {
 "checked": "2026-11-02",
 "image": "https://santifer.io/og-image.jpg"
@@ -200,6 +204,16 @@
 "checked": "2026-11-01",
 "image": "https://mcp.sentry.dev/flow.jpg"
 },
+"seo-skill": {
+"checked": "2026-11-04",
+"image": "https://seoskill.dev/index.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 50.0,
+"url": "https://seoskill.dev/pricing"
+}
+},
 "seth-hobson": {
 "checked": "2026-10-23",
 "image": "https://sethhobson.com/og-image.png"
@@ -219,12 +233,29 @@
 "shell": {
 "checked": "2026-10-30"
 },
+"ship-safe": {
+"checked": "2026-11-04",
+"image": "https://shipsafe.sh/api/og?title=Ship+Safe+%E2%80%94+AI+Agent+Security+Scanner+for+Developers&description=29+AI+security+agents+detect+LLM+vulnerabilities%2C+MCP+misconfigurations%2C+RAG+poisoning%2C+secrets%2C+and+CVEs.+One+command.+Free+and+open+source.&label=Product&badge=29+agents",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 9.0,
+"url": "https://shipsafe.sh/pricing"
+}
+},
+"shipfast": {
+"checked": "2026-11-04",
+"image": "https://shipfast.dev/images/social-banner.png"
+},
 "shippie": {
 "checked": "2026-10-29"
 },
 "shipswift": {
 "checked": "2026-10-28",
 "image": "https://shipswift.app/og-image.jpg"
+},
+"shob-ai-agent": {
+"checked": "2026-11-04"
 },
 "sie": {
 "checked": "2026-10-28",
@@ -259,6 +290,9 @@
 "from": 25.0,
 "url": "https://www.sim.ai/pricing"
 }
+},
+"simlock": {
+"checked": "2026-11-04"
 },
 "simone-vellei-blog": {
 "checked": "2026-11-02",
@@ -406,6 +440,10 @@
 "checked": "2026-10-30",
 "image": "https://kit.sendai.fun/og.png"
 },
+"solo-agent": {
+"checked": "2026-11-04",
+"image": "https://soloagent.team/og.png"
+},
 "solomd": {
 "checked": "2026-10-31",
 "image": "https://solomd.app/og-image.png"
@@ -510,6 +548,10 @@
 "checked": "2026-11-01",
 "image": "https://framerusercontent.com/images/I7lb48gk3lKgxwKnhomkErdvymI.png"
 },
+"spool": {
+"checked": "2026-11-04",
+"image": "https://spool.new/assets/site-og-C2t-h2rC.png"
+},
 "spotlight": {
 "checked": "2026-10-31"
 },
@@ -595,6 +637,10 @@
 "url": "https://statable.com/pricing"
 }
 },
+"stealth": {
+"checked": "2026-11-04",
+"image": "https://hellostealth.github.io/images/meta.jpg"
+},
 "steedos-platform": {
 "checked": "2026-10-31",
 "image": "https://objectstack.ai/hero-cover-dark.webp"
@@ -612,6 +658,10 @@
 "stemroller": {
 "checked": "2026-10-28",
 "image": "https://www.stemroller.com/img/og-image.png"
+},
+"stereos": {
+"checked": "2026-11-04",
+"image": "https://stereos.ai/stereos-social.png"
 },
 "stirrup": {
 "checked": "2026-11-03"
@@ -803,6 +853,17 @@
 "url": "https://superset.sh/pricing"
 }
 },
+"supervisely": {
+"checked": "2026-11-04",
+"image": "https://supervisely.com/social-card.jpg",
+"pricing": {
+"currency": "EUR",
+"free": true,
+"from": 85.0,
+"trial": true,
+"url": "https://supervisely.com/pricing/"
+}
+},
 "supervision-documentation": {
 "checked": "2026-10-23"
 },
@@ -898,6 +959,17 @@
 "sympozium": {
 "checked": "2026-11-03",
 "image": "https://sympozium.ai/og-image.png"
+},
+"synaplan": {
+"checked": "2026-11-04",
+"image": "https://www.synaplan.com/og/homepage.png",
+"pricing": {
+"currency": "EUR",
+"free": true,
+"from": 19.95,
+"trial": true,
+"url": "https://www.synaplan.com/pricing"
+}
 },
 "synthesia": {
 "checked": "2026-10-23",

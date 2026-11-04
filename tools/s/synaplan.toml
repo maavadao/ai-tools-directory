@@ -1,0 +1,7 @@
+name = "synaplan"
+description = "Open-source AI platform for companies: self-hosted AI agents, GDPR-compliant chatbot widget, RAG knowledge base, WhatsApp and Outlook AI, MCP, multi-model routing. Docker, Kubernetes or hosted in Germany. Apache-2.0 ChatGPT alternative."
+category = "chatbots"
+website = "https://www.synaplan.com"
+open_source = true
+repository = "https://github.com/metadist/synaplan"
+added = 2026-11-04

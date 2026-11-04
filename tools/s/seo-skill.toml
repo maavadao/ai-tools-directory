@@ -1,0 +1,7 @@
+name = "SEO Skill"
+description = "Give your AI agent your real Search Console, Google Analytics, Bing and Clicky data, Google update dates and a site crawl. Free hosted MCP and open source CLI."
+category = "writing"
+website = "https://seoskill.dev"
+open_source = true
+repository = "https://github.com/iannuttall/seo"
+added = 2026-11-04

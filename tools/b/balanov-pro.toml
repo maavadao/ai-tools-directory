@@ -1,0 +1,7 @@
+name = "Создание ИТ продуктов"
+description = "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts."
+category = "chatbots"
+website = "https://balanov.pro"
+open_source = true
+repository = "https://github.com/Balanov/uncut"
+added = 2026-11-04

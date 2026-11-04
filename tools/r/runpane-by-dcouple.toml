@@ -1,0 +1,7 @@
+name = "RunPane by Dcouple"
+description = "Run Claude Code, Codex, Aider, or any CLI coding agent in parallel. Pane is an open-source agent manager for Windows, macOS, and Linux."
+category = "coding"
+website = "https://runpane.com"
+open_source = true
+repository = "https://github.com/greenfield-inc/Pane"
+added = 2026-11-04

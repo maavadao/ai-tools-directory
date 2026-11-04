@@ -1,0 +1,7 @@
+name = "deepsnap"
+description = "Python library assists deep learning on graphs"
+category = "other"
+website = "https://snap.stanford.edu"
+open_source = true
+repository = "https://github.com/snap-stanford/deepsnap"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "Hive"
+description = "把 Claude Code、Codex、Gemini 等 CLI Agent 组成一支团队：Orchestrator 派活、自动组队、多阶段 Workflow，任务图就是仓库里的一份 markdown。真实终端跑在浏览器里，数据全在本机，手机可加密远程接入。"
+category = "coding"
+website = "https://hivehq.dev"
+open_source = true
+repository = "https://github.com/tt-a1i/hive"
+added = 2026-11-04

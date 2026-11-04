@@ -116,6 +116,10 @@
 "checked": "2026-11-01",
 "image": "https://datadreamer.dev/docs/latest/_static/images/cover.png"
 },
+"datadrivenconstruction": {
+"checked": "2026-11-04",
+"image": "https://datadrivenconstruction.io/img/og/home.png"
+},
 "datalevin-docs": {
 "checked": "2026-10-31",
 "image": "https://datalevin.org/images/diagrams/unified-data-model.svg?v=cf3b765a3237"
@@ -161,6 +165,9 @@
 "deeix-ai": {
 "checked": "2026-10-31",
 "image": "https://deeix.com/og/deeix-ai.png"
+},
+"deemwar": {
+"checked": "2026-11-04"
 },
 "deep-chat": {
 "checked": "2026-10-28",
@@ -213,6 +220,10 @@
 "checked": "2026-10-24",
 "image": "https://deepeval.com/img/social_card.png"
 },
+"deepfates": {
+"checked": "2026-11-04",
+"image": "https://deepfates.com/images/welcome-og.jpg"
+},
 "deepflow-insight": {
 "checked": "2026-10-27",
 "image": "https://deepflow.io/deepflow-overview.jpg"
@@ -264,6 +275,9 @@
 "deepseek-harness-dsh": {
 "checked": "2026-10-31",
 "image": "https://deepseekdocs.com/img/logo-1024.png"
+},
+"deepsnap": {
+"checked": "2026-11-04"
 },
 "deepspeed": {
 "checked": "2026-10-23"
@@ -333,6 +347,9 @@
 "detoxify": {
 "checked": "2026-10-31"
 },
+"deuz-sdk": {
+"checked": "2026-11-04"
+},
 "developers-digest": {
 "checked": "2026-10-27",
 "image": "https://www.developersdigest.tech/opengraph-image",
@@ -352,6 +369,16 @@
 "free": true,
 "from": 20.0,
 "url": "https://devin.ai/pricing"
+}
+},
+"devopness": {
+"checked": "2026-11-04",
+"image": "https://assets.devopness.com/images/logo.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 20.0,
+"url": "https://devopness.com/pricing/"
 }
 },
 "devoxxgenie": {
@@ -456,6 +483,10 @@
 "domain-details-page": {
 "checked": "2026-11-02"
 },
+"don-t-be-michael": {
+"checked": "2026-11-04",
+"image": "https://dontbemichael.com/assets/og-card-v3.png"
+},
 "doop": {
 "checked": "2026-11-01",
 "image": "https://doop.design/og.png"
@@ -516,6 +547,14 @@
 "duckle": {
 "checked": "2026-10-31",
 "image": "https://duckle.org/assets/img/og-card.png"
+},
+"dulus": {
+"checked": "2026-11-04",
+"image": "https://dulus.ai/assets/img/og.png",
+"pricing": {
+"free": true,
+"url": "https://dulus.ai/pricing/"
+}
 },
 "duolingo": {
 "checked": "2026-10-23",

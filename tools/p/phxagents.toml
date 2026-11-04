@@ -1,0 +1,7 @@
+name = "phxagents"
+description = "phxagents v3: one Elixir and Phoenix skill set for Claude Code, Amp, Codex, Pi, OpenCode, and DeepSeek Harness, with 10 workflows adapted to each."
+category = "agents"
+website = "https://phxagents.dev"
+open_source = true
+repository = "https://github.com/oliver-kriska/claude-elixir-phoenix"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "Open Reality"
+description = "Real-time spatial intelligence from a phone camera."
+category = "other"
+website = "https://www.open-reality.io"
+open_source = true
+repository = "https://github.com/reality-opened/openreality"
+added = 2026-11-04

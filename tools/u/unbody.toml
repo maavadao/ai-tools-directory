@@ -1,0 +1,7 @@
+name = "unbody"
+description = "Unbody Lab builds adaptive thinking tools and explores AI's role in augmenting human cognition."
+category = "coding"
+website = "https://unbody.io"
+open_source = true
+repository = "https://github.com/unbody-io/unbody"
+added = 2026-11-04

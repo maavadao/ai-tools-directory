@@ -1,0 +1,7 @@
+name = "amux"
+description = "Run an AI engineering team from one dashboard. Control plane for parallel Claude Code, Codex and Gemini CLI agents. Launch, coordinate and monitor dozens of sessions."
+category = "coding"
+website = "https://amux.io"
+open_source = true
+repository = "https://github.com/mixpeek/amux"
+added = 2026-11-04

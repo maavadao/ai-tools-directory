@@ -1,0 +1,7 @@
+name = "awesome-second-brain"
+description = "Make every AI understand you. Membase automatically brings your personal context from your daily agents and apps."
+category = "education"
+website = "https://membase.so"
+open_source = true
+repository = "https://github.com/aristoapp/awesome-second-brain"
+added = 2026-11-04

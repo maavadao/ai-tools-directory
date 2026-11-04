@@ -24,12 +24,23 @@
 "checked": "2026-10-28",
 "image": "https://takumi.kane.tw/images/twitter-images/og-image.png"
 },
+"talk2arxiv": {
+"checked": "2026-11-04",
+"image": "https://www.talk2arxiv.org/og.png"
+},
 "tambo-website": {
 "checked": "2026-10-25",
 "image": "https://tambo.co/opengraph-image.jpg?11260a68d402786d"
 },
+"tangle": {
+"checked": "2026-11-04"
+},
 "taoran-yi": {
 "checked": "2026-11-02"
+},
+"taos": {
+"checked": "2026-11-04",
+"image": "https://taos.my/assets/desktop-home.jpg"
 },
 "tapq": {
 "checked": "2026-11-03",
@@ -167,6 +178,10 @@
 "checked": "2026-11-03",
 "image": "https://www.termio.sh/og.webp"
 },
+"termish": {
+"checked": "2026-11-04",
+"image": "https://termish.dev/media/share-en.png"
+},
 "terrashark": {
 "checked": "2026-11-03"
 },
@@ -230,11 +245,19 @@
 "checked": "2026-10-27",
 "image": "https://substackcdn.com/image/fetch/$s_!draq!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05cfa09d-6c44-40bb-8a54-1973247fc43c_500x500.png"
 },
+"the-architect": {
+"checked": "2026-11-04",
+"image": "https://www.tododeia.com/opengraph-image?edbe8f8c72212f19"
+},
 "the-constructor": {
 "checked": "2026-11-01"
 },
 "the-crm-for-agents": {
 "checked": "2026-10-25"
+},
+"the-harness-lab": {
+"checked": "2026-11-04",
+"image": "https://the-harness.com/images/editorial/site.png"
 },
 "the-julia-programming-language": {
 "checked": "2026-10-23",
@@ -295,6 +318,10 @@
 "thunderbolt": {
 "checked": "2026-10-27",
 "image": "https://thunderbolt.io/social.png"
+},
+"thunderid": {
+"checked": "2026-11-04",
+"image": "https://thunderid.dev/assets/images/og-image.png"
 },
 "tickdb": {
 "checked": "2026-11-02",
@@ -380,6 +407,9 @@
 "checked": "2026-10-28",
 "image": "https://batrachian.ai/images/toad-social.jpeg"
 },
+"tock": {
+"checked": "2026-11-04"
+},
 "tofu": {
 "checked": "2026-10-31",
 "image": "https://trytofu.ai/opengraph-image.png?v=dc3f3ab6a766",
@@ -394,6 +424,10 @@
 "together-ai": {
 "checked": "2026-10-23",
 "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a49f86fc70648ca04854f6_OG-image-home.png"
+},
+"tokeneater": {
+"checked": "2026-11-04",
+"image": "https://tokeneater.athevon.dev/og-icon.png"
 },
 "tokscale": {
 "checked": "2026-10-26",
@@ -538,6 +572,9 @@
 "trinity": {
 "checked": "2026-11-03",
 "image": "https://www.ability.ai/og-image.png"
+},
+"truecourse": {
+"checked": "2026-11-04"
 },
 "trueforge": {
 "checked": "2026-10-26",

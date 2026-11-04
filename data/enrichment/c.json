@@ -44,6 +44,9 @@
 "carefree-creator": {
 "checked": "2026-10-30"
 },
+"carinastudio-net": {
+"checked": "2026-11-04"
+},
 "cartesiancs": {
 "checked": "2026-11-02",
 "image": "https://cartesiancs.com/logo192.jpg"
@@ -72,6 +75,16 @@
 "catboost": {
 "checked": "2026-10-25",
 "image": "https://catboost-opensource.s3.yandex.net/logo_white_for_dark_theme.svg"
+},
+"caura": {
+"checked": "2026-11-04",
+"image": "https://caura.ai/opengraph-image?8df06bdf75a563a6",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 41.0,
+"url": "https://caura.ai/pricing"
+}
 },
 "cavemem": {
 "checked": "2026-11-03",
@@ -122,6 +135,9 @@
 "cekura-bench": {
 "checked": "2026-10-23",
 "image": "https://benchmarks.cekura.ai/opengraph-image?d63bd4d18ec698db"
+},
+"centralmind": {
+"checked": "2026-11-04"
 },
 "certgames": {
 "checked": "2026-10-25",
@@ -230,6 +246,9 @@
 "chatgpt-telegram-workers": {
 "checked": "2026-10-28"
 },
+"chatgpt-vue3-light-mvp": {
+"checked": "2026-11-04"
+},
 "chatlab": {
 "checked": "2026-10-26"
 },
@@ -335,6 +354,13 @@
 "url": "https://claude.com/pricing"
 }
 },
+"claude-code-hooks": {
+"checked": "2026-11-04"
+},
+"claude-code-plugins": {
+"checked": "2026-11-04",
+"image": "https://claude-plugins.dev/og-image.png"
+},
 "claude-code-router": {
 "checked": "2026-10-23",
 "image": "https://ccrdesk.top/logo.png"
@@ -382,6 +408,10 @@
 "url": "https://cmem.ai/pricing"
 }
 },
+"claude-of-tanks": {
+"checked": "2026-11-04",
+"image": "https://cot.kevinliu.studio/brand/og-r2/game.jpg"
+},
 "claude-scientific-writer": {
 "checked": "2026-10-29",
 "image": "https://www.k-dense.ai/opengraph-image?1f851b2802e7d565",
@@ -418,6 +448,10 @@
 "checked": "2026-10-30",
 "image": "https://claude-prism-landing.delibae.workers.dev/og.png"
 },
+"claudexor": {
+"checked": "2026-11-04",
+"image": "https://claudexor.ai/assets/social-preview-v2.png"
+},
 "claudish": {
 "checked": "2026-11-01",
 "image": "https://claudish.com/og-image.png"
@@ -443,6 +477,9 @@
 },
 "clawith": {
 "checked": "2026-10-27"
+},
+"clawless": {
+"checked": "2026-11-04"
 },
 "clawpanel": {
 "checked": "2026-10-28",
@@ -525,6 +562,9 @@
 "trial": true,
 "url": "https://clipdrop.co/pricing"
 }
+},
+"clips-ai": {
+"checked": "2026-11-04"
 },
 "cloakbrowser": {
 "checked": "2026-10-23",
@@ -650,6 +690,16 @@
 "pricing": {
 "trial": true,
 "url": "https://coder.com/pricing"
+}
+},
+"coderabbit": {
+"checked": "2026-11-04",
+"image": "https://www.coderabbit.ai/images/open-graph/default.bfe4f92351a3.png",
+"pricing": {
+"currency": "USD",
+"from": 24.0,
+"trial": true,
+"url": "https://www.coderabbit.ai/pricing"
 }
 },
 "codewhale": {
@@ -786,6 +836,9 @@
 "checked": "2026-10-25",
 "image": "https://concat.standalones.org/og.png"
 },
+"concierge": {
+"checked": "2026-11-04"
+},
 "concord-ai": {
 "checked": "2026-11-02",
 "image": "https://getconcord.ai/brand/og.png",
@@ -841,6 +894,9 @@
 "continue-acquired-by-cursor": {
 "checked": "2026-10-23"
 },
+"continuous-eval": {
+"checked": "2026-11-04"
+},
 "controltheory": {
 "checked": "2026-10-29",
 "image": "https://www.controltheory.com/wp-content/uploads/2026/06/dstl8_carousel-1.gif",
@@ -853,6 +909,10 @@
 },
 "cookiecutter-data-science": {
 "checked": "2026-10-25"
+},
+"coolify-mcp": {
+"checked": "2026-11-04",
+"image": "https://coolify-mcp.stumason.dev/og.png"
 },
 "copilot-for-obsidian": {
 "checked": "2026-10-26",
@@ -953,6 +1013,10 @@
 "cowagent": {
 "checked": "2026-10-23",
 "image": "https://cowagent.ai/logo/cow-logo.png"
+},
+"cowork-os": {
+"checked": "2026-11-04",
+"image": "https://coworkosapp.com/images/social/cowork-os-og.jpg"
 },
 "cox-automotive-inc": {
 "checked": "2026-10-30",

@@ -1,0 +1,7 @@
+name = "NCT"
+description = "用 Transformer 重构意识神经科学"
+category = "other"
+website = "https://neuroconscious.link"
+open_source = true
+repository = "https://github.com/wyg5208/nct"
+added = 2026-11-04

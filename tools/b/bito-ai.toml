@@ -1,0 +1,7 @@
+name = "CLI"
+description = "Governor understands your code and routes each request to the best model, two levers that cut coding agent costs in half without touching quality."
+category = "coding"
+website = "https://bito.ai"
+open_source = true
+repository = "https://github.com/gitbito/CLI"
+added = 2026-11-04

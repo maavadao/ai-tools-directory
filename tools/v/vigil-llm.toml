@@ -1,0 +1,7 @@
+name = "vigil-llm"
+description = "⚡ Security scanner for Large Language Model (LLM) prompts ⚡"
+category = "other"
+website = "https://vigil.deadbits.ai"
+open_source = true
+repository = "https://github.com/deadbits/vigil-llm"
+added = 2026-11-04

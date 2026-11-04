@@ -1,0 +1,7 @@
+name = "bunqueue"
+description = "Free, MIT-licensed job queue for Node.js, Deno, Python, PHP, Go, Rust, Elixir and Bun. Self-host the Bun-powered server or embed it. No Redis required."
+category = "agents"
+website = "https://bunqueue.dev"
+open_source = true
+repository = "https://github.com/egeominotti/bunqueue"
+added = 2026-11-04

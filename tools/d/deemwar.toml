@@ -1,0 +1,7 @@
+name = "deemwar"
+description = "Worked, runnable examples of messaging and browser automation that fails silently, and how to catch it -- pulled from real production problems in WhatsApp, Telegram, and the workflow plumbing that connects real systems to each other. Copy the code, run the demo, ship the fix."
+category = "other"
+website = "https://examples.deemwar.com"
+open_source = true
+repository = "https://github.com/muthuishere/mcp-server-bash-sdk"
+added = 2026-11-04

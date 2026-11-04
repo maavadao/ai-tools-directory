@@ -1,0 +1,7 @@
+name = "humanizer-ru"
+description = "Балл и подсказки по шаблонным оборотам прямо в браузере, бесплатно. Для правки есть скилл для AI-агентов."
+category = "other"
+website = "https://humanizer-ru.aifrontier.tech"
+open_source = true
+repository = "https://github.com/ilyautov/humanizer-ru"
+added = 2026-11-04

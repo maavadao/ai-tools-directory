@@ -1,0 +1,7 @@
+name = "emilia-protocol"
+description = "EMILIA gives AI the rules every new hire gets, and checks them at a gate the AI can’t go around. Every payment it allows gets a signed receipt your accountant can check offline, without asking the AI company."
+category = "other"
+website = "https://www.emiliaprotocol.ai"
+open_source = true
+repository = "https://github.com/emiliaprotocol/emilia-protocol"
+added = 2026-11-04

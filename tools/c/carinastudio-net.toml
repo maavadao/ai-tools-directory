@@ -1,0 +1,7 @@
+name = "Home"
+description = "Cross-Platform, Agent-Native Universal Log Viewer."
+category = "other"
+website = "https://carinastudio.net"
+open_source = true
+repository = "https://github.com/carina-studio/ULogViewer"
+added = 2026-11-04

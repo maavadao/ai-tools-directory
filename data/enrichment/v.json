@@ -144,12 +144,24 @@
 "checked": "2026-10-26",
 "image": "https://www.vibevibe.cn/logo.png"
 },
+"vibe-vision-video": {
+"checked": "2026-11-04",
+"image": "https://vibevision.video/og-en.jpg"
+},
 "vibesdk": {
 "checked": "2026-10-27"
 },
 "vibeue": {
 "checked": "2026-11-02",
 "image": "https://www.vibeue.com/og-card.png"
+},
+"vicoa": {
+"checked": "2026-11-04",
+"image": "https://vicoa.ai/images/vicoa-banner-v2.png",
+"pricing": {
+"free": true,
+"url": "https://vicoa.ai/pricing"
+}
 },
 "video-use": {
 "checked": "2026-10-24",
@@ -179,6 +191,10 @@
 "url": "https://www.viewcomfy.com/pricing"
 }
 },
+"vigil-llm": {
+"checked": "2026-11-04",
+"image": "https://vigil.deadbits.ai/~gitbook/ogimage/NhU0Ik5IlII0LbDkBF4y"
+},
 "vikesh-tiwari": {
 "checked": "2026-10-27",
 "image": "https://substackcdn.com/image/fetch/$s_!6sRz!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c0a2541-4349-4f91-b4b5-9e0411358bb2_400x400.png"
@@ -194,9 +210,21 @@
 "checked": "2026-10-27",
 "image": "https://www.viperrtp.com/viper-og.png"
 },
+"viralwave-studio": {
+"checked": "2026-11-04",
+"image": "https://viralwavestudio.com/marketing/homepage-social-preview.png",
+"pricing": {
+"currency": "USD",
+"from": 15.0,
+"url": "https://viralwavestudio.com/"
+}
+},
 "vision-agents": {
 "checked": "2026-10-26",
 "image": "https://stream-52f5fdce.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=Vision+Agents&description=Build+low-latency+voice+and+video+AI+agents+with+any+model&theme=e154a42ebdd48682b2d75d0f&signature=ba7aade1bc640cd63ffb0a8a4ee54061b6a5fbced69b1d90377bdf3b4aeaf31a"
+},
+"visionary": {
+"checked": "2026-11-04"
 },
 "visp": {
 "checked": "2026-11-02"

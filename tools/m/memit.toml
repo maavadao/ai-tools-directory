@@ -1,0 +1,7 @@
+name = "memit"
+description = "Updating thousands of memories in GPT by directly calculating parameter changes."
+category = "other"
+website = "https://memit.baulab.info"
+open_source = true
+repository = "https://github.com/kmeng01/memit"
+added = 2026-11-04

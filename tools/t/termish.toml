@@ -1,0 +1,7 @@
+name = "termish"
+description = "An open-source SSH and Mosh terminal with AI conversations, file management and remote screen control. MIT licensed. Available for Android; iOS is not publicly available yet."
+category = "other"
+website = "https://termish.dev"
+open_source = true
+repository = "https://github.com/farlume/termish"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "AEGIS"
+description = "Open-source control point for AI agents: every tool call is allowed, blocked or held for a person before it runs, by which turn of the conversation authorised it. Signed receipts, hash-chained audit. MIT licensed."
+category = "other"
+website = "https://aegistraces.com"
+open_source = true
+repository = "https://github.com/Justin0504/Aegis"
+added = 2026-11-04

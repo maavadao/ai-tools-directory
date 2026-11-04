@@ -46,6 +46,10 @@
 "maestro-roboflow-com": {
 "checked": "2026-10-29"
 },
+"maestroskills-dev": {
+"checked": "2026-11-04",
+"image": "https://maestroskills.dev/og-image.png"
+},
 "mage": {
 "checked": "2026-10-29"
 },
@@ -122,6 +126,9 @@
 "checked": "2026-10-31",
 "image": "https://www.maiachess.com/assets/og-maia.png"
 },
+"maila-assistant": {
+"checked": "2026-11-04"
+},
 "mailcheap": {
 "checked": "2026-10-31",
 "image": "https://mailcheap.ai/opengraph-image-1uq35j?f7d309b698249c82",
@@ -170,6 +177,9 @@
 "maniskill": {
 "checked": "2026-10-28",
 "image": "https://www.maniskill.ai/imgs/home/OG.webp"
+},
+"mantis": {
+"checked": "2026-11-04"
 },
 "manuscript-core": {
 "checked": "2026-11-03",
@@ -358,9 +368,17 @@
 "checked": "2026-10-28",
 "image": "https://www.md2wechat.cn/og-image.jpg"
 },
+"mda-markdown-for-agent": {
+"checked": "2026-11-04",
+"image": "https://snoai.mintlify.app/_mintlify/api/og/v2?division=Get+Started&title=Introduction&description=MDA+Open+Spec+%E2%80%94+a+Markdown+superset+for+agent-facing+documents%2C+with+one+source+compiling+into+the+.md+files+every+major+agent+runtime+already+loads.&theme=d1283ea9940d28ecce652b80&signature=51b480a53402bb1f6080f78eea91598120cbc0ffa1d021e85aaf1721724776a9"
+},
 "mdp-sec": {
 "checked": "2026-11-02",
 "image": "https://mdpsec.com/og-image.jpg"
+},
+"medipixel-inc": {
+"checked": "2026-11-04",
+"image": "https://medipixel.io/images/og-image.png"
 },
 "medusa": {
 "checked": "2026-10-23",
@@ -440,6 +458,10 @@
 "url": "https://memgraph.com/pricing"
 }
 },
+"memit": {
+"checked": "2026-11-04",
+"image": "https://memit.baulab.info/images/memit-thumb.png"
+},
 "memmachine": {
 "checked": "2026-10-28",
 "image": "https://memmachine.ai/img/MemMachine_logo-horizintal-blue.png"
@@ -462,6 +484,15 @@
 "memorix": {
 "checked": "2026-11-02",
 "image": "https://mem.rglens.com/brand/memorix-dashboard.png"
+},
+"memtrace-public": {
+"checked": "2026-11-04",
+"image": "https://www.memtrace.io/brand-mark.svg",
+"pricing": {
+"currency": "USD",
+"from": 9.0,
+"url": "https://www.memtrace.io/plans"
+}
 },
 "memu": {
 "checked": "2026-10-24",
@@ -488,6 +519,10 @@
 },
 "mercury-agent": {
 "checked": "2026-10-28"
+},
+"mergoo": {
+"checked": "2026-11-04",
+"image": "https://leeroo.com/og/leeroo-og.png"
 },
 "meta-ads-mcp": {
 "checked": "2026-10-31",
@@ -615,6 +650,9 @@
 "checked": "2026-10-23",
 "image": "https://webpub.shlab.tech/MinerU/static/image/mineru-logo.svg"
 },
+"mingai-fun": {
+"checked": "2026-11-04"
+},
 "mini-swe-agent-com": {
 "checked": "2026-10-25"
 },
@@ -625,6 +663,13 @@
 "minimi-2-0": {
 "checked": "2026-10-23",
 "image": "https://framerusercontent.com/assets/IRAj5ULLLszD1Dx3XZQDb8373ww.png"
+},
+"minisearch": {
+"checked": "2026-11-04"
+},
+"mintplex-labs": {
+"checked": "2026-11-04",
+"image": "https://mintplexlabs.com/share.png"
 },
 "minutes": {
 "checked": "2026-10-31"
@@ -644,6 +689,10 @@
 "mirobody": {
 "checked": "2026-10-31",
 "image": "https://mirobody.ai/assets/og-image.png"
+},
+"misaka-network": {
+"checked": "2026-11-04",
+"image": "https://raw.githubusercontent.com/Ikalus1988/MisakaNet/main/promotional/og-card.png"
 },
 "miso-com": {
 "checked": "2026-10-23",
@@ -891,6 +940,14 @@
 "moveit-motion-planning-framework": {
 "checked": "2026-10-30"
 },
+"movie-data-crawler": {
+"checked": "2026-11-04",
+"image": "https://www.mvdc.top/images/mvdc/intro-bg.jpg"
+},
+"movo": {
+"checked": "2026-11-04",
+"image": "https://www.himovo.com/image.png"
+},
 "movo-ai": {
 "checked": "2026-10-23",
 "image": "https://movoai.pro/assets/brand/movo-ai-social-preview.png"
@@ -902,6 +959,10 @@
 "mrrss": {
 "checked": "2026-10-29",
 "image": "https://DevXDojo.github.io/MrRSS/assets/og.png"
+},
+"mu": {
+"checked": "2026-11-04",
+"image": "https://usemu.dev/assets/og.jpg"
 },
 "muddy-terrain-games": {
 "checked": "2026-11-03"
@@ -928,6 +989,9 @@
 "checked": "2026-10-23",
 "image": "https://gadgets.muse.ai/gadgets/og/social.png"
 },
+"mycoder-ai": {
+"checked": "2026-11-04"
+},
 "mylens": {
 "checked": "2026-10-23",
 "image": "https://mylens.ai/opengraph-image"
@@ -939,5 +1003,9 @@
 "myscale": {
 "checked": "2026-11-01",
 "image": "https://d3lhz231q7ogjd.cloudfront.net/website/myscale-thumbnail.jpg"
+},
+"myvision": {
+"checked": "2026-11-04",
+"image": "https://raw.githubusercontent.com/OvidijusParsiunas/myvision/gh-pages/assets/images/social%20preview%20screenshot%20-%206.PNG"
 }
 }

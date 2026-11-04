@@ -1,0 +1,7 @@
+name = "sandlock"
+description = "Sandlock confines untrusted code on Linux using Landlock, seccomp-bpf, and seccomp user notification. No root, no containers, no hypervisor. 5 ms startup."
+category = "agents"
+website = "https://sandlock.io"
+open_source = true
+repository = "https://github.com/multikernel/sandlock"
+added = 2026-11-04

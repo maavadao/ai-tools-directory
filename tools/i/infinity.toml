@@ -1,0 +1,7 @@
+name = "infinity"
+description = "A Rust framework for building massively concurrent agentic systems, light enough to fit 75k agents in the memory of a Raspberry Pi."
+category = "agents"
+website = "https://infinity.hydro.run"
+open_source = true
+repository = "https://github.com/hydro-project/infinity"
+added = 2026-11-04

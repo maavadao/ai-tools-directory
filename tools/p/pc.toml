@@ -1,0 +1,7 @@
+name = "PC频控页 -京东商城"
+description = "Introductory examples for building LLM-based AI agents. 异步图书：《大模型应用开发 动手做AI Agent》 - 这是一些非常简单的入门示例，重在引导新手入门，目前LLM开发领域发展很快，本书只是一个提纲挈领。更多的示例和代码大家可以去OpenAI Cookbook, LangChain Example中去挖掘。"
+category = "chatbots"
+website = "https://pc-frequent-pro.pf.jd.com"
+open_source = true
+repository = "https://github.com/huangjia2019/ai-agents"
+added = 2026-11-04

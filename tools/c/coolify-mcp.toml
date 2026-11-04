@@ -1,0 +1,7 @@
+name = "coolify-mcp"
+description = "An open-source MCP server that gives Claude, Cursor and any AI client a deliberate, safe way to operate a live Coolify platform: deploy, diagnose, restart and roll back. Free and MIT."
+category = "developer-platforms"
+website = "https://coolify-mcp.stumason.dev"
+open_source = true
+repository = "https://github.com/StuMason/coolify-mcp"
+added = 2026-11-04

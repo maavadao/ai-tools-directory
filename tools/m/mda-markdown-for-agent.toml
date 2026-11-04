@@ -1,0 +1,7 @@
+name = "MDA (Markdown for Agent)"
+description = "MDA Open Spec — a Markdown superset for agent-facing documents, with one source compiling into the .md files every major agent runtime already loads."
+category = "chatbots"
+website = "https://mda.sno.dev"
+open_source = true
+repository = "https://github.com/sno-ai/mda"
+added = 2026-11-04

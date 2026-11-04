@@ -1,0 +1,7 @@
+name = "DataDrivenConstruction"
+description = "Construction data integration and AI for building companies: CAD/BIM converters, AI agents, n8n automation, OpenConstructionERP, consulting and workshops."
+category = "coding"
+website = "https://datadrivenconstruction.io"
+open_source = true
+repository = "https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG"
+added = 2026-11-04

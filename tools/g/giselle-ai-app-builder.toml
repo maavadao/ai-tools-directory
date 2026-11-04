@@ -1,0 +1,7 @@
+name = "Giselle: AI App Builder"
+description = "Supercharge your productivity with Giselle. Build custom AI applications visually, no coding required. Automate research, reports, creative tasks, and more by integrating top AI models and your data. Try Giselle now!"
+category = "agents"
+website = "https://giselles.ai"
+open_source = true
+repository = "https://github.com/giselles-ai/giselle"
+added = 2026-11-04

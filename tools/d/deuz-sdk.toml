@@ -1,0 +1,7 @@
+name = "Deuz SDK"
+description = "A pure, web-first, multi-provider TypeScript AI SDK with zero runtime dependencies and one canonical streaming wire."
+category = "chatbots"
+website = "https://deuz-sdk.tech"
+open_source = true
+repository = "https://github.com/Deuz-AI/Deuz-SDK"
+added = 2026-11-04

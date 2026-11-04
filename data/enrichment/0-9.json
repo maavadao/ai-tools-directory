@@ -1,4 +1,13 @@
 {
+"0-security": {
+"checked": "2026-11-04",
+"image": "https://0.security/og-site-20261020.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://0.security/pricing/"
+}
+},
 "01-ai": {
 "checked": "2026-10-26"
 },

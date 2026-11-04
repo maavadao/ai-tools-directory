@@ -1,0 +1,7 @@
+name = "claudexor"
+description = "Connect the coding agents you already use, route around subscription limits, and keep the work in one auditable thread."
+category = "coding"
+website = "https://claudexor.ai"
+open_source = true
+repository = "https://github.com/razzant/claudexor"
+added = 2026-11-04

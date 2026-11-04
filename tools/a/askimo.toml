@@ -1,0 +1,7 @@
+name = "askimo"
+description = "Askimo is a free, open source AI desktop app for ChatGPT, Claude, Gemini, and Ollama. Run AI agents like Claude Code, Gemini CLI, and Codex. Search your files with AI, connect MCP tools, and automate multi-step workflows. Privacy-first, local storage."
+category = "other"
+website = "https://askimo.chat"
+open_source = true
+repository = "https://github.com/askimo-ai/askimo"
+added = 2026-11-04

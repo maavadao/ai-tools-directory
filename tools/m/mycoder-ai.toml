@@ -1,0 +1,7 @@
+name = "MyCoder.ai"
+description = "Your AI-powered coding companion that understands, codes, and evolves with your projects. Built with modern AI technology to streamline your development workflow."
+category = "coding"
+website = "https://mycoder.ai"
+open_source = true
+repository = "https://github.com/bhouston/mycoder"
+added = 2026-11-04

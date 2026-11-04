@@ -1,0 +1,7 @@
+name = "Ship Safe"
+description = "29 AI security agents detect LLM vulnerabilities, MCP misconfigurations, RAG poisoning, secrets, and CVEs. One command. Free and open source."
+category = "other"
+website = "https://shipsafe.sh"
+open_source = true
+repository = "https://github.com/asamassekou10/ship-safe"
+added = 2026-11-04

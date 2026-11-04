@@ -1,0 +1,7 @@
+name = "Maila Assistant"
+description = "Instruction-based prompts for generating and classifying text."
+category = "other"
+website = "https://prompts.maila.ai"
+open_source = true
+repository = "https://github.com/kevinamiri/Instructgpt-prompts"
+added = 2026-11-04

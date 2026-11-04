@@ -1,0 +1,7 @@
+name = "web-agent-protocol"
+description = "Web Agent Protocol (WAP) - Record and replay user interactions in the browser with MCP support"
+category = "chatbots"
+website = "https://otatech.ai"
+open_source = true
+repository = "https://github.com/OTA-Tech-AI/web-agent-protocol"
+added = 2026-11-04

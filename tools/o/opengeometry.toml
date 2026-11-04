@@ -1,0 +1,7 @@
+name = "OpenGeometry"
+description = "OpenGeometry is an open-source CAD kernel and toolkit for the web and AI. Build powerful architectural tools, design floorplans, and create 3D experiences directly in the browser."
+category = "agents"
+website = "https://opengeometry.io"
+open_source = true
+repository = "https://github.com/OpenGeometry-io/OpenGeometry"
+added = 2026-11-04

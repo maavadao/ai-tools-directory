@@ -1,0 +1,7 @@
+name = "ArduPilot.org"
+description = "ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more. The source code is developed by a large community of professionals and enthusiasts. New developers are…"
+category = "other"
+website = "https://ardupilot.org"
+open_source = true
+repository = "https://github.com/ArduPilot/apm_planner"
+added = 2026-11-04

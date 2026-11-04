@@ -1,0 +1,7 @@
+name = "k8e"
+description = "K8E is an open-source Agentic AI Sandbox Matrix — a CNCF-conformant Kubernetes distribution in a single binary under 100MB, built to run untrusted AI agent code in isolated gVisor, Kata or Firecracker sandboxes with persistent PVC workspaces."
+category = "agents"
+website = "https://k8e.sh"
+open_source = true
+repository = "https://github.com/xiaods/k8e"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "memtrace-public"
+description = "Memtrace gives coding agents shared structural memory: one graph for code, time, and fleet coordination across Claude Code, Cursor, and more."
+category = "other"
+website = "https://www.memtrace.io"
+open_source = true
+repository = "https://github.com/syncable-dev/memtrace-public"
+added = 2026-11-04

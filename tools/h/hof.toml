@@ -1,0 +1,7 @@
+name = "hof"
+description = "Hofstadter Documentation"
+category = "agents"
+website = "https://hofstadter.io"
+open_source = true
+repository = "https://github.com/hofstadter-io/hof"
+added = 2026-11-04

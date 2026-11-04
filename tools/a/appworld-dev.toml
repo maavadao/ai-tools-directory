@@ -1,0 +1,7 @@
+name = "Redirecting…"
+description = "AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper."
+category = "agents"
+website = "https://appworld.dev"
+open_source = true
+repository = "https://github.com/StonyBrookNLP/appworld"
+added = 2026-11-04

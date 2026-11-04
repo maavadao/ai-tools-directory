@@ -1,0 +1,7 @@
+name = "whirl"
+description = "An AI chat app with memory that actually cares about you. Chat across the best models, create living documents and visualizations, and pick up right where you left off."
+category = "chatbots"
+website = "https://www.whirl.chat"
+open_source = true
+repository = "https://github.com/whirlchat/whirl"
+added = 2026-11-04

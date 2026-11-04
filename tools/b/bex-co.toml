@@ -1,0 +1,7 @@
+name = "bex.co"
+description = "Bex is an open-source PaaS for developers and AI agents, with Git deployments, a dashboard, and REST, GraphQL and MCP interfaces. Public alpha; not ready for production workloads."
+category = "other"
+website = "https://bex.co"
+open_source = true
+repository = "https://github.com/bex-co/bex"
+added = 2026-11-04

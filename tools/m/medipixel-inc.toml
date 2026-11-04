@@ -1,0 +1,7 @@
+name = "Medipixel, Inc."
+description = "혁신적인 AI 솔루션으로 심혈관을 탐구합니다."
+category = "other"
+website = "https://www.medipixel.io"
+open_source = true
+repository = "https://github.com/medipixel/rl_algorithms"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "n8n-claw"
+description = "A fully self-hosted AI agent built on n8n. Talks via Telegram, builds its own tools, manages tasks and memory — all on your infrastructure."
+category = "agents"
+website = "https://n8n-claw.com"
+open_source = true
+repository = "https://github.com/freddy-schuetz/n8n-claw"
+added = 2026-11-04

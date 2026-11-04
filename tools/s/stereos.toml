@@ -1,0 +1,7 @@
+name = "stereOS"
+description = "Purpose built Linux OS for agents—isolating agent execution in secure sandboxes with cryptographic attestation and compliance-ready audit trails for enterprise deployment."
+category = "agents"
+website = "https://stereos.ai"
+open_source = true
+repository = "https://github.com/papercomputeco/stereOS"
+added = 2026-11-04

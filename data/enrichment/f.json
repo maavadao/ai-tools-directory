@@ -1,4 +1,7 @@
 {
+"fabric": {
+"checked": "2026-11-04"
+},
 "facefusion": {
 "checked": "2026-10-24",
 "image": "https://facefusion.io/images/facefusion.png"
@@ -291,6 +294,10 @@
 "foolbox": {
 "checked": "2026-10-28"
 },
+"foremerge": {
+"checked": "2026-11-04",
+"image": "https://foremerge.com/og-1200x630.png"
+},
 "forgecode": {
 "checked": "2026-10-26",
 "image": "https://forgecode.dev/shared/og/home.png?v=2"
@@ -318,6 +325,12 @@
 "foundry": {
 "checked": "2026-11-02",
 "image": "https://www.promptise.com/opengraph-image?bcef1b3f7f06f4e9"
+},
+"fpf-tools": {
+"checked": "2026-11-04"
+},
+"frad-x27-s-claude-code-plugins": {
+"checked": "2026-11-04"
 },
 "fragments-by-e2b": {
 "checked": "2026-10-26"

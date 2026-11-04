@@ -1,0 +1,7 @@
+name = "pinloop-cli"
+description = "Pinloop searches millions of postings and applies to every job that fits you."
+category = "other"
+website = "https://pinloop.ai"
+open_source = true
+repository = "https://github.com/pinloop-ai/pinloop-cli"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "only-cli"
+description = "oc distills web pages into a compact text view with numbered actions, so agents like Claude Code browse in tokens, not pages. 45× fewer tokens than raw HTML."
+category = "chatbots"
+website = "https://only-cli.com"
+open_source = true
+repository = "https://github.com/only-cli/oc"
+added = 2026-11-04

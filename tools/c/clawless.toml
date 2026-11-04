@@ -1,0 +1,7 @@
+name = "ClawLess"
+description = "ClawLess — A serverless browser-based runtime for Claw AI Agents powered by WebContainers"
+category = "coding"
+website = "https://play.clawless.io"
+open_source = true
+repository = "https://github.com/open-gitagent/clawless"
+added = 2026-11-04

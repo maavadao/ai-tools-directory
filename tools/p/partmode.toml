@@ -1,0 +1,7 @@
+name = "PartMode"
+description = "Browse every product in the BOMwiki library, then create parametric multi-body parts and structured assemblies in your browser with lofts, sweeps, mates, section views, and STEP, STL, AMF, and 3MF export. No account required."
+category = "other"
+website = "https://partmode.com"
+open_source = true
+repository = "https://github.com/BOMWiki/partmode"
+added = 2026-11-04

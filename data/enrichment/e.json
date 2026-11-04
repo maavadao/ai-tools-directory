@@ -13,6 +13,10 @@
 "url": "https://ecc.tools/pricing"
 }
 },
+"echo": {
+"checked": "2026-11-04",
+"image": "https://echo.merit.systems/opengraph-image?46558957a8c6c5b5"
+},
 "echo-loop": {
 "checked": "2026-10-27",
 "image": "https://www.echo-loop.top/og.png"
@@ -20,6 +24,9 @@
 "echobird": {
 "checked": "2026-10-31",
 "image": "https://echobird.ai/icon.png"
+},
+"echokit": {
+"checked": "2026-11-04"
 },
 "eclatira": {
 "checked": "2026-10-23",
@@ -111,6 +118,10 @@
 "url": "https://electric.ax/pricing"
 }
 },
+"elephant-agent": {
+"checked": "2026-11-04",
+"image": "https://elephant.agentic-in.ai/assets/brand/social-share-card.png"
+},
 "elephant-goldfish-model": {
 "checked": "2026-10-29",
 "image": "https://egm.dev/og.png"
@@ -141,6 +152,15 @@
 "checked": "2026-10-24",
 "image": "https://elizaresearch.ai/assets/og.png"
 },
+"elmo": {
+"checked": "2026-11-04",
+"image": "https://www.elmohq.com/og.png?title=Open+Source+AEO+%26+AI+Visibility+Tracker&description=Elmo+is+open-source+answer+engine+optimization+%28AEO%29%3A+track+your+brand%27s+AI+visibility+in+ChatGPT%2C+Perplexity%2C+and+Gemini.+Cloud+from+%2429%2Fmo+or+self-host+free.",
+"pricing": {
+"currency": "USD",
+"from": 5.0,
+"url": "https://www.elmohq.com/pricing"
+}
+},
 "embabel": {
 "checked": "2026-10-27",
 "image": "https://hub.embabel.com/og-image.png"
@@ -165,6 +185,10 @@
 "emgu": {
 "checked": "2026-10-29"
 },
+"emilia-protocol": {
+"checked": "2026-11-04",
+"image": "https://www.emiliaprotocol.ai/opengraph-image"
+},
 "emoca": {
 "checked": "2026-11-02"
 },
@@ -179,6 +203,10 @@
 "envd": {
 "checked": "2026-10-29",
 "image": "https://og.tensorchord.ai/api/og?title=envd"
+},
+"envkit": {
+"checked": "2026-11-04",
+"image": "https://envkit.net/og.jpg"
 },
 "enzyme-ad": {
 "checked": "2026-10-30"
@@ -195,6 +223,17 @@
 },
 "es617-s-blog": {
 "checked": "2026-11-02"
+},
+"ethora": {
+"checked": "2026-11-04",
+"image": "https://ethora.com/wp-content/themes/ethora-theme/ethora-theme/images/og/home.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 149.0,
+"trial": true,
+"url": "https://ethora.com/pricing/"
+}
 },
 "eurekamoments": {
 "checked": "2026-10-30",
@@ -235,6 +274,10 @@
 "evomap": {
 "checked": "2026-10-25",
 "image": "https://evomap.ai/og-image.png"
+},
+"evonexus": {
+"checked": "2026-11-04",
+"image": "https://openclaude.evolutionfoundation.com.br/assets/og-image.png"
 },
 "evotorch": {
 "checked": "2026-11-01",

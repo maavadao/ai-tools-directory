@@ -1,0 +1,7 @@
+name = "Dulus"
+description = "An AI agent for your desktop and terminal, on any model you choose. Hosted models run on Fuel, paid in $DULUS."
+category = "chatbots"
+website = "https://dulus.ai"
+open_source = true
+repository = "https://github.com/KevRojo/Dulus"
+added = 2026-11-04

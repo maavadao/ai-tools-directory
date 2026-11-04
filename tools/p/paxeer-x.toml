@@ -1,0 +1,7 @@
+name = "Paxeer X"
+description = "Paxeer X is one EVM network (chain ID 125) where agents and apps hold money, pay per request and settle with a signed receipt, inside limits a person sets."
+category = "agents"
+website = "https://www.paxeer.network"
+open_source = true
+repository = "https://github.com/Sidiora-Labs/paxeer-monorepo"
+added = 2026-11-04

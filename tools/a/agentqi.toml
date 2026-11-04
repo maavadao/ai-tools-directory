@@ -1,0 +1,7 @@
+name = "AgentQi"
+description = "AgentQi is the developer infrastructure direction behind OpenClaw.NET, a NativeAOT-friendly AI agent runtime and gateway for building practical, observable, deployable agents in .NET."
+category = "chatbots"
+website = "https://agentqi.dev"
+open_source = true
+repository = "https://github.com/clawdotnet/openclaw.net"
+added = 2026-11-04

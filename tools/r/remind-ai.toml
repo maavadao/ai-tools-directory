@@ -1,0 +1,7 @@
+name = "Remind AI"
+description = "The local Artificial memory for your device."
+category = "other"
+website = "https://www.recallmemory.io"
+open_source = true
+repository = "https://github.com/DonTizi/ReMind"
+added = 2026-11-04

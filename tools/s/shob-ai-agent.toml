@@ -1,0 +1,7 @@
+name = "Shob AI Agent"
+description = "An open-source AI agent workspace that orchestrates parallel coding agents, automates code review, and eliminates context switching for developers."
+category = "other"
+website = "https://shob.olova.dev"
+open_source = true
+repository = "https://github.com/shobcoder/shob"
+added = 2026-11-04

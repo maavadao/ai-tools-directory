@@ -315,6 +315,10 @@
 "checked": "2026-11-02",
 "image": "https://lix.dev/og.png"
 },
+"llama-assistant": {
+"checked": "2026-11-04",
+"image": "https://llama-assistant.nrl.ai/screenshot.png"
+},
 "llama-cpp": {
 "checked": "2026-10-23",
 "image": "https://llama.app/og-image.png"
@@ -490,6 +494,12 @@
 "loong": {
 "checked": "2026-11-03"
 },
+"loopera": {
+"checked": "2026-11-04"
+},
+"lost": {
+"checked": "2026-11-04"
+},
 "lovable": {
 "checked": "2026-10-23",
 "image": "https://lovable.dev/img/opengraph-image.png",
@@ -523,6 +533,14 @@
 "luminoth": {
 "checked": "2026-10-29",
 "image": "https://tryolabs.com/_next/static/media/generic-social-image.dc10a1df.png"
+},
+"lunar-dev": {
+"checked": "2026-11-04",
+"image": "https://cdn.prod.website-files.com/64953aa597d13b0acee8291d/65a51d5f918fe736d8d9bdae_lunar%20platform%20as%20a%20middleman%20between%20your%20servers%20and%20API%20Providers.png",
+"pricing": {
+"free": true,
+"url": "https://www.lunar.dev/pricing"
+}
 },
 "luong-nguyen-portfolio": {
 "checked": "2026-11-01",

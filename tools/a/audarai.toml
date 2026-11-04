@@ -1,0 +1,7 @@
+name = "AudarAI"
+description = "Arabic-first multilingual voice AI for speech-to-text, text-to-speech, voice translation, and real-time voice agents."
+category = "audio"
+website = "https://www.audarai.com"
+open_source = true
+repository = "https://github.com/AudarAI/Audar-ASR-V1"
+added = 2026-11-04

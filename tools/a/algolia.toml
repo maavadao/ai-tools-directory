@@ -1,0 +1,7 @@
+name = "Algolia"
+description = "18,000+ organizations trust Algolia to build intuitive, adaptive, high-performing experiences with a unified AI search & retrieval platform spanning agentic, generative, and search."
+category = "audio"
+website = "https://www.algolia.com"
+open_source = true
+repository = "https://github.com/algolia/voice-overlay-ios"
+added = 2026-11-04

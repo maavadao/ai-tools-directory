@@ -1,0 +1,7 @@
+name = "ratel"
+description = "Ratel is the self-improvement layer for AI agents: it finds patterns in users’ sessions, then suggests and tests improvements before you ship them."
+category = "chatbots"
+website = "https://www.ratel.sh"
+open_source = true
+repository = "https://github.com/ratel-ai/ratel"
+added = 2026-11-04

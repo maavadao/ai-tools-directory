@@ -1,0 +1,7 @@
+name = "命语"
+description = "免费使用八字、紫微斗数、星盘、六爻、塔罗、合婚、看运势、黄历择日和 AI 解读提示词。"
+category = "other"
+website = "https://aov.cc"
+open_source = true
+repository = "https://github.com/Brhiza/mingyu"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "promptulate"
+description = "🚀Lightweight Large language model automation and Autonomous Language Agents development framework. Build your LLM Agent Application in a pythonic way."
+category = "chatbots"
+website = "https://promptulate.cn"
+open_source = true
+repository = "https://github.com/Undertone0809/promptulate"
+added = 2026-11-04

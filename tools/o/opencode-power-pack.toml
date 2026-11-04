@@ -1,0 +1,7 @@
+name = "OpenCode Power Pack"
+description = "Portable code review, security, feature development, frontend, MCP, and ML workflows for Claude Code, Codex, OpenCode, and Pi."
+category = "coding"
+website = "https://skills.waybarrios.com"
+open_source = true
+repository = "https://github.com/waybarrios/opencode-power-pack"
+added = 2026-11-04

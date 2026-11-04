@@ -1,0 +1,7 @@
+name = "visionary"
+description = "Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform"
+category = "image"
+website = "https://visionary.openxlab.org.cn"
+open_source = true
+repository = "https://github.com/Visionary-Laboratory/visionary"
+added = 2026-11-04

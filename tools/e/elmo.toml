@@ -1,0 +1,7 @@
+name = "Elmo"
+description = "Elmo is open-source answer engine optimization (AEO): track your brand's AI visibility in ChatGPT, Perplexity, and Gemini. Cloud from $29/mo or self-host free."
+category = "coding"
+website = "https://www.elmohq.com"
+open_source = true
+repository = "https://github.com/elmohq/elmo"
+added = 2026-11-04

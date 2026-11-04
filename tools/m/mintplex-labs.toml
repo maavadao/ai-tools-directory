@@ -1,0 +1,7 @@
+name = "Mintplex Labs"
+description = "Mintplex Labs | AI Tools for everyone"
+category = "agents"
+website = "https://mintplexlabs.com"
+open_source = true
+repository = "https://github.com/Mintplex-Labs/openai-assistant-swarm"
+added = 2026-11-04

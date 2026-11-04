@@ -1,0 +1,7 @@
+name = "lost"
+description = "Label Objects and Save Time (LOST) - Design your own smart Image Annotation process in a web-based environment."
+category = "other"
+website = "https://lost.training"
+open_source = true
+repository = "https://github.com/l3p-cv/lost"
+added = 2026-11-04

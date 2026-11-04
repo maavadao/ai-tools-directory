@@ -1,0 +1,7 @@
+name = "EnvKit"
+description = "A free, modern local development environment for Windows and macOS. Run nginx or Apache, multiple PHP versions, databases, Mailpit and Node dev servers behind trusted .test HTTPS — the Laragon / XAMPP / Herd alternative with AI/MCP control."
+category = "other"
+website = "https://envkit.net"
+open_source = true
+repository = "https://github.com/Env-Kit/envkit-releases"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "taOS"
+description = "Your agents, your hardware, your data. A full AI desktop that runs on anything from a Raspberry Pi to a gaming PC."
+category = "chatbots"
+website = "https://taOS.my"
+open_source = true
+repository = "https://github.com/jaylfc/taOS"
+added = 2026-11-04

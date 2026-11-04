@@ -1,0 +1,7 @@
+name = "OpenTeams"
+description = "Run coding agents as one team with shared chat context, parallel execution, built-in members, team presets, and local workspace control."
+category = "coding"
+website = "https://openteams-lab.com"
+open_source = true
+repository = "https://github.com/openteams-lab/openteams"
+added = 2026-11-04

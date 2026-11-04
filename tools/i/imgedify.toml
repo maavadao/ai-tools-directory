@@ -1,0 +1,7 @@
+name = "ImgEdify"
+description = "Use ImgEdify’s free online AI photo editor and AI image generator to edit photos or create images from text. Compare models and check credit costs first."
+category = "education"
+website = "https://imgedify.com"
+open_source = true
+repository = "https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts"
+added = 2026-11-04

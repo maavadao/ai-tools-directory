@@ -1,0 +1,7 @@
+name = "Llama Assistant"
+description = "Local AI Assistant That Respects Your Privacy! 🔒"
+category = "other"
+website = "https://llama-assistant.nrl.ai"
+open_source = true
+repository = "https://github.com/nrl-ai/llama-assistant"
+added = 2026-11-04

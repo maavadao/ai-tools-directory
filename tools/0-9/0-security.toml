@@ -1,0 +1,7 @@
+name = "0.security"
+description = "The autonomous cybersecurity team that uses frontier intelligence to continuously discover, fix, and prevent security risks."
+category = "other"
+website = "https://0.security"
+open_source = true
+repository = "https://github.com/0sec-labs/0"
+added = 2026-11-04

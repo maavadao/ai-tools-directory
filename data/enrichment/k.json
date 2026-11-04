@@ -1,4 +1,8 @@
 {
+"k8e": {
+"checked": "2026-11-04",
+"image": "https://k8e.sh/images/k8e-banner.svg"
+},
 "kag": {
 "checked": "2026-10-25"
 },
@@ -63,6 +67,10 @@
 "kelivo": {
 "checked": "2026-10-27",
 "image": "https://kelivo.psycheas.top/og.jpg"
+},
+"kenneth-allen": {
+"checked": "2026-11-04",
+"image": "https://www.kennethallenmath.com/og.png"
 },
 "keras-tuner": {
 "checked": "2026-10-28"
@@ -162,6 +170,9 @@
 "url": "https://ko-fi.com/pricing"
 }
 },
+"koalaqa": {
+"checked": "2026-11-04"
+},
 "kodlo": {
 "checked": "2026-10-23",
 "image": "https://kodlo.ai/wp-content/themes/kodlo_landing/assets/images/titlelogo.png",
@@ -197,6 +208,9 @@
 },
 "koishi": {
 "checked": "2026-10-26"
+},
+"kolo": {
+"checked": "2026-11-04"
 },
 "kong-inc": {
 "checked": "2026-10-23",

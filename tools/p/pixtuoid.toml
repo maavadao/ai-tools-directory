@@ -1,0 +1,7 @@
+name = "pixtuoid"
+description = "A terminal-native pixel-art office that visualizes your AI coding agents (Claude Code, Codex, and more) as little animated coworkers — day/night lighting, weather, themes, and pets included."
+category = "coding"
+website = "https://pixtuoid.dev"
+open_source = true
+repository = "https://github.com/pixtuoid/pixtuoid"
+added = 2026-11-04

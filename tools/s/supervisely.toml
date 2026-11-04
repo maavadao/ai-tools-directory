@@ -1,0 +1,7 @@
+name = "supervisely"
+description = "Annotate images, video, LiDAR point clouds and DICOM with AI assistance, curate datasets and train models. Used by 120,000+ engineers, cloud or on-premise."
+category = "other"
+website = "https://supervisely.com"
+open_source = true
+repository = "https://github.com/supervisely/supervisely"
+added = 2026-11-04

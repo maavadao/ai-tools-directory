@@ -1,0 +1,7 @@
+name = "CodeRabbit"
+description = "Ship more software, faster, with code you trust. Independent AI code review, PR triage, change explanations, and continuous security monitoring."
+category = "coding"
+website = "https://www.coderabbit.ai"
+open_source = true
+repository = "https://github.com/coderabbitai/awesome-coderabbit"
+added = 2026-11-04

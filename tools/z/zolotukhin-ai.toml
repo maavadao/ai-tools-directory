@@ -1,0 +1,7 @@
+name = "zolotukhin.ai"
+description = "I build ZINC, a local LLM inference engine for consumer GPUs, and publish reproducible benchmarks and engineering notes about the work."
+category = "other"
+website = "https://zolotukhin.ai"
+open_source = true
+repository = "https://github.com/zolotukhin/zinc"
+added = 2026-11-04

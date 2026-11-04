@@ -1,0 +1,7 @@
+name = "OmniClaw"
+description = "OmniClaw gives AI agents the ability to autonomously spend money—safely, instantly, and across any blockchain."
+category = "other"
+website = "https://www.omniclaw.ai"
+open_source = true
+repository = "https://github.com/omnuron/omniclaw"
+added = 2026-11-04

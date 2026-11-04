@@ -1,0 +1,7 @@
+name = "Neuraxle Documentation"
+description = "The world's cleanest AutoML framework ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and…"
+category = "other"
+website = "https://www.neuraxle.org"
+open_source = true
+repository = "https://github.com/Neuraxio/Neuraxle"
+added = 2026-11-04

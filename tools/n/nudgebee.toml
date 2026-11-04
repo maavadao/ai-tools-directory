@@ -1,0 +1,7 @@
+name = "NudgeBee"
+description = "Agents you can safely run in production, across all of operations: Task-Scoped Micro-Agents (Task Bees) for incidents, cost, Kubernetes, cloud and databases. Gated, guardrailed, approved once. Runs in your VPC, on-prem or air-gapped."
+category = "agents"
+website = "https://nudgebee.com"
+open_source = true
+repository = "https://github.com/nudgebee/nudgebee"
+added = 2026-11-04

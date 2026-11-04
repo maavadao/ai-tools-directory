@@ -1,0 +1,7 @@
+name = "MOVO"
+description = "MOVO 是基于 DeepSeek Harness 构建的开源企业级 Agent 平台，支持企业内部免费部署、二次开发和商业项目交付，提供知识库、Plugin、Skill、MCP、权限治理、浏览器 Agent、代码 Agent 与私有化部署能力。"
+category = "agents"
+website = "https://www.himovo.com"
+open_source = true
+repository = "https://github.com/himovo/movo"
+added = 2026-11-04

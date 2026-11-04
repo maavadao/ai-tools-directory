@@ -1,0 +1,7 @@
+name = "Home"
+description = "A versatile workflow automation platform to create, organize, and execute AI workflows, from a single LLM to complex AI-driven workflows."
+category = "coding"
+website = "https://agentpilot.ai"
+open_source = true
+repository = "https://github.com/jbexta/AgentPilot"
+added = 2026-11-04

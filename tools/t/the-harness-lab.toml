@@ -1,0 +1,7 @@
+name = "The Harness Lab"
+description = "L Harness（LINE Harness）の機能・料金・使い方・更新情報を開発元が解説。LINE公式アカウントの配信・CRM・予約を自社環境で運用できる無料OSSの公式メディアです。"
+category = "sales-marketing"
+website = "https://the-harness.com"
+open_source = true
+repository = "https://github.com/Shudesu/line-harness-oss"
+added = 2026-11-04

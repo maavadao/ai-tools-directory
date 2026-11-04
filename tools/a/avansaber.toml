@@ -1,0 +1,7 @@
+name = "AvanSaber"
+description = "Connect your AI assistant to Search Console, GA4 and technical SEO checks with SEOmonster, AvanSaber's open-source MCP server."
+category = "other"
+website = "https://www.avansaber.com"
+open_source = true
+repository = "https://github.com/avansaber/seo-monster"
+added = 2026-11-04

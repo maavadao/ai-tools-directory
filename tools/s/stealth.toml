@@ -1,0 +1,7 @@
+name = "Stealth"
+description = "Stealth is an open source Ruby framework for voice and text chatbots."
+category = "audio"
+website = "https://hellostealth.org"
+open_source = true
+repository = "https://github.com/hellostealth/stealth"
+added = 2026-11-04

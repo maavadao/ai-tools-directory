@@ -1,0 +1,7 @@
+name = "Continuous Eval"
+description = "Making LLM development a science rather than an art."
+category = "other"
+website = "https://continuous-eval.docs.relari.ai"
+open_source = true
+repository = "https://github.com/relari-ai/continuous-eval"
+added = 2026-11-04

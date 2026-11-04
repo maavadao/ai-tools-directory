@@ -1,0 +1,7 @@
+name = "AlbumentationsX"
+description = "Build fast computer vision augmentation pipelines for images, masks, bounding boxes, keypoints, and 3D data with AlbumentationsX."
+category = "other"
+website = "https://albumentations.ai"
+open_source = true
+repository = "https://github.com/albumentations-team/AlbumentationsX"
+added = 2026-11-04

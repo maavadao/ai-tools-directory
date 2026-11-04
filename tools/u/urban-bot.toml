@@ -1,0 +1,7 @@
+name = "Urban Bot"
+description = "The universal chatbot library based on React."
+category = "chatbots"
+website = "https://urban-bot.vercel.app"
+open_source = true
+repository = "https://github.com/urban-bot/urban-bot"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "OpenBrowserClaw"
+description = "Browser-native personal AI assistant. Zero infrastructure — the browser is the server."
+category = "chatbots"
+website = "https://www.openbrowserclaw.com"
+open_source = true
+repository = "https://github.com/wexare-ai/openbrowserclaw"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "WordPress Studio"
+description = "An AI website builder for real WordPress sites, on your own computer. A free, open source local WordPress environment for Mac, Windows and Linux."
+category = "agents"
+website = "https://wordpress.studio"
+open_source = true
+repository = "https://github.com/Automattic/studio"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "TrueCourse"
+description = "TrueCourse is the IDE for product owners. It reads the requirements you own, proves each one against the running product, and shows you section by section what holds, what is broken and what is not yet covered, kept current as the product changes."
+category = "coding"
+website = "https://truecourse.dev"
+open_source = true
+repository = "https://github.com/truecourse-ai/truecourse"
+added = 2026-11-04

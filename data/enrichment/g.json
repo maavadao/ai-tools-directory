@@ -2,6 +2,10 @@
 "gaianet-node": {
 "checked": "2026-10-27"
 },
+"gateway": {
+"checked": "2026-11-04",
+"image": "https://www.adaline.ai/metadata/og-image.png"
+},
 "gauth": {
 "checked": "2026-10-23",
 "image": "https://sf16-ehi-tos.gauthstatic.com/obj/ehi-apk-sg/share-link-preview.png"
@@ -82,6 +86,10 @@
 "get-it": {
 "checked": "2026-11-01"
 },
+"getcito": {
+"checked": "2026-11-04",
+"image": "https://demo.getcito.com/api/og?description=Track+and+optimize+your+brand%27s+visibility+across+AI+models."
+},
 "getdesign-md": {
 "checked": "2026-10-23",
 "image": "https://getdesign.md/api/og/default?v=2"
@@ -100,6 +108,10 @@
 "gibberlink": {
 "checked": "2026-10-27",
 "image": "https://gbrl.ai/social_sharing.png"
+},
+"giselle-ai-app-builder": {
+"checked": "2026-11-04",
+"image": "https://giselles.ai/og.jpg"
 },
 "git-ai": {
 "checked": "2026-10-29",
@@ -152,6 +164,16 @@
 "gmgn": {
 "checked": "2026-11-03",
 "image": "https://gmgn.ai/static/GMGN.png"
+},
+"go-alphasec-io": {
+"checked": "2026-11-04",
+"image": "https://assets.dub.co/thumbnail.jpg",
+"pricing": {
+"currency": "USD",
+"from": 81.0,
+"trial": true,
+"url": "https://dub.co/pricing?utm_source=Custom+Domain&amp;utm_medium=Navbar&amp;utm_campaign=go.alphasec.io&amp;utm_content=Pricing"
+}
 },
 "go-micro": {
 "checked": "2026-10-24"
@@ -304,6 +326,9 @@
 "trial": true,
 "url": "https://graperoot.dev/pricing"
 }
+},
+"graphbit": {
+"checked": "2026-11-04"
 },
 "graphify": {
 "checked": "2026-10-23",

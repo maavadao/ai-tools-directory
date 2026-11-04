@@ -1,0 +1,7 @@
+name = "graphbit"
+description = "GraphBit is the world’s first enterprise-grade Agentic AI framework, built on a Rust core with a Python wrapper for unmatched speed, security, and scalability. It enables reliable multi-agent workflows with minimal CPU and memory usage, making it production-ready for…"
+category = "chatbots"
+website = "https://www.graphbit.ai:443"
+open_source = true
+repository = "https://github.com/InfinitiBit/graphbit"
+added = 2026-11-04

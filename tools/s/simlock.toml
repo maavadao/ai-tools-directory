@@ -1,0 +1,7 @@
+name = "simlock"
+description = "A control plane so parallel coding agents stop fighting over the same simulator."
+category = "agents"
+website = "https://incubator.callstack.com"
+open_source = true
+repository = "https://github.com/callstackincubator/simlock"
+added = 2026-11-04

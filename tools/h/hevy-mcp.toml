@@ -1,0 +1,7 @@
+name = "Hevy MCP"
+description = "Connect Claude, Codex, or another AI assistant to Hevy. Review workouts, create routines, and update your log. Includes hosted and local setup instructions."
+category = "healthcare"
+website = "https://hevy-mcp.dev"
+open_source = true
+repository = "https://github.com/chrisdoc/hevy-mcp"
+added = 2026-11-04

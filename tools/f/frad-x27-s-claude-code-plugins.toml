@@ -1,0 +1,7 @@
+name = "Frad&#x27;s Claude Code Plugins"
+description = "A collection of 15 Claude Code plugins for git, development, UI, and system operations."
+category = "other"
+website = "https://dotclaude.frad.me"
+open_source = true
+repository = "https://github.com/FradSer/dotclaude"
+added = 2026-11-04

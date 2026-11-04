@@ -1,0 +1,7 @@
+name = "Home"
+description = "Python-Prolog Interface"
+category = "other"
+website = "https://pyswip.org"
+open_source = true
+repository = "https://github.com/yuce/pyswip"
+added = 2026-11-04

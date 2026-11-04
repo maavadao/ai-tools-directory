@@ -1,0 +1,7 @@
+name = "MyVision"
+description = "Computer vision based ML training data generation tool"
+category = "other"
+website = "https://myvision.ai"
+open_source = true
+repository = "https://github.com/OvidijusParsiunas/myvision"
+added = 2026-11-04

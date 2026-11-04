@@ -1,0 +1,7 @@
+name = "devopness"
+description = "Deploy apps and manage servers on your own cloud: AWS, Azure, GCP, DigitalOcean, Hetzner. No Terraform, no DevOps team. A self-hosted PaaS alternative that keeps you in control. Free to start."
+category = "other"
+website = "https://devopness.com"
+open_source = true
+repository = "https://github.com/devopness/devopness"
+added = 2026-11-04

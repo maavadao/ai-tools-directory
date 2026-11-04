@@ -1,0 +1,7 @@
+name = "Boosty.to"
+description = "AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI"
+category = "coding"
+website = "https://boosty.to"
+open_source = true
+repository = "https://github.com/Nikita-Filonov/ai-review"
+added = 2026-11-04

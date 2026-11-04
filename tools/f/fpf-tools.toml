@@ -1,0 +1,7 @@
+name = "fpf.tools"
+description = "FPF Library — First Principles Framework — read and search the project's FPF Library publications, with exact source editions."
+category = "agents"
+website = "https://fpf.tools"
+open_source = true
+repository = "https://github.com/ailev/FPF"
+added = 2026-11-04

@@ -1,0 +1,7 @@
+name = "Agentic QE Framework"
+description = "Evolution from testing-as-activity to agents-as-orchestrators. Learn the PACTS principles (Proactive, Autonomous, Collaborative, Targeted, Structured) for building explainable, autonomous quality systems."
+category = "agents"
+website = "https://agentic-qe.dev"
+open_source = true
+repository = "https://github.com/proffesor-for-testing/agentic-qe"
+added = 2026-11-04

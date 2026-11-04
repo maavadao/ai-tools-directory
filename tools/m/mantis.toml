@@ -1,0 +1,7 @@
+name = "Mantis"
+description = "Scope-locked security review for teams that own or are authorized to test their assets."
+category = "other"
+website = "https://mantishack.com"
+open_source = true
+repository = "https://github.com/deonmenezes/mantishack"
+added = 2026-11-04

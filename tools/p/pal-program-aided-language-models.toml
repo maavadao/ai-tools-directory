@@ -1,0 +1,7 @@
+name = "PAL: Program-aided Language Models"
+description = "PAL generates a Python program to solve a task from its natural language description."
+category = "other"
+website = "https://reasonwithpal.com"
+open_source = true
+repository = "https://github.com/reasoning-machines/pal"
+added = 2026-11-04

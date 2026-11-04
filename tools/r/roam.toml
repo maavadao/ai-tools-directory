@@ -1,0 +1,7 @@
+name = "Roam"
+description = "Free local code analysis and static checks for coding agents. Query connections, inspect code patterns with catalog alternatives, and check changes."
+category = "other"
+website = "https://roam-code.com"
+open_source = true
+repository = "https://github.com/Cranot/roam-code"
+added = 2026-11-04

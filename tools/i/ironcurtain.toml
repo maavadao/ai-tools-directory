@@ -1,0 +1,7 @@
+name = "IronCurtain"
+description = "IronCurtain is a secure runtime for AI agents. Policy-driven sandboxing for MCP tool calls."
+category = "agents"
+website = "https://ironcurtain.dev"
+open_source = true
+repository = "https://github.com/provos/ironcurtain"
+added = 2026-11-04

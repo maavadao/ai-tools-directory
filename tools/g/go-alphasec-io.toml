@@ -1,0 +1,7 @@
+name = "GO.ALPHASEC.IO"
+description = "GO.ALPHASEC.IO is a custom domain on Dub - the modern link attribution platform for short links, conversion tracking, and affiliate programs."
+category = "chatbots"
+website = "https://go.alphasec.io"
+open_source = true
+repository = "https://github.com/alphasecio/langchain-examples"
+added = 2026-11-04

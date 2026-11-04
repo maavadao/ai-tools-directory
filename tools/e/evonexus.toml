@@ -1,0 +1,7 @@
+name = "EvoNexus"
+description = "38 specialized agents that manage your business and your code. Automated routines, ready-made integrations, dashboard included. MIT License."
+category = "coding"
+website = "https://openclaude.evolutionfoundation.com.br"
+open_source = true
+repository = "https://github.com/evolution-foundation/evo-nexus"
+added = 2026-11-04

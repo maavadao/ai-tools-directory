@@ -1,0 +1,7 @@
+name = "Misaka Network"
+description = "Git-backed, stdlib-only failure lesson network. 800 indexed failure-recovery lessons from real AI agent debugging sessions."
+category = "agents"
+website = "https://misakanet.org"
+open_source = true
+repository = "https://github.com/Ikalus1988/MisakaNet"
+added = 2026-11-04

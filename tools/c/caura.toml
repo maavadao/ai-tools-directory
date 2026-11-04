@@ -1,0 +1,7 @@
+name = "caura"
+description = "Caura (formerly MemClaw): governed memory for AI agent fleets. One persistent memory agents learn from; scopes, policy, audit and isolation built in."
+category = "other"
+website = "https://caura.ai"
+open_source = true
+repository = "https://github.com/caura-ai/caura"
+added = 2026-11-04

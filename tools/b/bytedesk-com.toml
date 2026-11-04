@@ -1,0 +1,7 @@
+name = "微语"
+description = "开源办公软件，提供企业IM、即时通讯、在线客服系统、大模型AI助手等开源智能客服系统解决方案"
+category = "chatbots"
+website = "https://www.bytedesk.com"
+open_source = true
+repository = "https://github.com/Bytedesk/bytedesk"
+added = 2026-11-04

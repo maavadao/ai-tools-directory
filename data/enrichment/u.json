@@ -33,6 +33,10 @@
 "url": "https://www.ultravox.ai/pricing"
 }
 },
+"unbody": {
+"checked": "2026-11-04",
+"image": "https://unbody.io/index.png"
+},
 "unbrowse": {
 "checked": "2026-11-02",
 "image": "https://unbrowse.ai/og.jpg"
@@ -86,6 +90,10 @@
 },
 "uptrain": {
 "checked": "2026-10-29"
+},
+"urban-bot": {
+"checked": "2026-11-04",
+"image": "https://urban-bot.now.sh/img/undraw_online.svg"
 },
 "use-scroll-bottom-demo": {
 "checked": "2026-11-02"

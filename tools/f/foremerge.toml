@@ -1,0 +1,7 @@
+name = "foremerge"
+description = "Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git."
+category = "coding"
+website = "https://foremerge.com"
+open_source = true
+repository = "https://github.com/naw103/foremerge"
+added = 2026-11-04

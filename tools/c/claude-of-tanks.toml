@@ -1,0 +1,7 @@
+name = "Claude of Tanks"
+description = "Free-roam armored warfare in the browser, with 279 production vehicles, 33 battlefields, bot and multiplayer battles, killcam X-rays. Pure Three.js, no install."
+category = "agents"
+website = "https://cot.kevinliu.studio"
+open_source = true
+repository = "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
+added = 2026-11-04

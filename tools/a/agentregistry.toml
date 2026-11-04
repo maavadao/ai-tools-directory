@@ -1,0 +1,7 @@
+name = "agentregistry"
+description = "One registry for MCP servers, agents, skills, and prompts. Curate trusted AI building blocks, deploy with one command, and integrate with Claude Desktop, Cursor, and VS Code."
+category = "agents"
+website = "https://aregistry.ai"
+open_source = true
+repository = "https://github.com/agentregistry-dev/agentregistry"
+added = 2026-11-04

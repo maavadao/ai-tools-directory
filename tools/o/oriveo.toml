@@ -1,0 +1,7 @@
+name = "Oriveo"
+description = "Use models from 15 official AI providers in one multi-model chat app. Bring your own API keys, pay provider list prices, track costs in real time, and start free without a key."
+category = "other"
+website = "https://oriveoai.com"
+open_source = true
+repository = "https://github.com/oriveo/oriveo"
+added = 2026-11-04

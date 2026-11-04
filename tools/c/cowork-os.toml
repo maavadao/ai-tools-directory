@@ -1,0 +1,7 @@
+name = "CoWork OS"
+description = "Create documents, spreadsheets and presentations, research the web and automate tasks with CoWork OS. Choose your AI provider or run local models."
+category = "other"
+website = "https://coworkosapp.com"
+open_source = true
+repository = "https://github.com/CoWork-OS/CoWork-OS"
+added = 2026-11-04

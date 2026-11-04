@@ -1,0 +1,7 @@
+name = "Prodigy"
+description = "A downloadable annotation tool for LLMs, NLP and computer vision tasks such as named entity recognition, text classification, object detection, image segmentation, evaluation and more."
+category = "data"
+website = "https://prodi.gy"
+open_source = true
+repository = "https://github.com/explosion/prodigy-recipes"
+added = 2026-11-04
