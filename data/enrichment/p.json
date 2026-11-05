@@ -247,6 +247,15 @@
 "pgx": {
 "checked": "2026-11-03"
 },
+"phone-harness": {
+"checked": "2026-11-05",
+"image": "https://phone-harness.com/brand/og-home-ivory-v3.png",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://phone-harness.com/"
+}
+},
 "photodemon": {
 "checked": "2026-10-29"
 },
@@ -502,6 +511,10 @@
 "checked": "2026-10-25",
 "image": "https://praison.ai/app/uploads/2026/06/praison-ai-customer-service.png"
 },
+"presenta-data-driven-documents-generation": {
+"checked": "2026-11-05",
+"image": "https://www.presenta.cc/social.png"
+},
 "priceai": {
 "checked": "2026-10-27",
 "image": "https://priceai.cc/opengraph-image?b6218033b3623ef1"
@@ -648,6 +661,10 @@
 },
 "pufferlib": {
 "checked": "2026-10-26"
+},
+"pullboard": {
+"checked": "2026-11-05",
+"image": "https://pullboard.dev/og.png"
 },
 "pulse": {
 "checked": "2026-10-26",

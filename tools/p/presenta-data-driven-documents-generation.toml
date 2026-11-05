@@ -1,0 +1,7 @@
+name = "Presenta, data-driven documents generation"
+description = "Build documents the modern way."
+category = "design"
+website = "https://www.presenta.cc"
+open_source = true
+repository = "https://github.com/presenta-software/presenta-lib"
+added = 2026-11-05

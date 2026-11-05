@@ -1,0 +1,7 @@
+name = "问问黑哥"
+description = "好用的 AI 工具、看得懂的教程，还有用得上的创作灵感。"
+category = "chatbots"
+website = "https://www.heigeai.com"
+open_source = true
+repository = "https://github.com/HeiGeAi/heige-codex-skin-studio"
+added = 2026-11-05

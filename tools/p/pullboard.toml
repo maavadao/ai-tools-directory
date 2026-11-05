@@ -1,0 +1,7 @@
+name = "pullboard"
+description = "A work board that lives in your git repo. Agents pick up the next task, another agent checks it, and you barely explain a thing. Local, open source, no account."
+category = "other"
+website = "https://pullboard.dev"
+open_source = true
+repository = "https://github.com/pullboard-dev/pullboard"
+added = 2026-11-05

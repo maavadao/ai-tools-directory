@@ -1,0 +1,7 @@
+name = "genex-desktop"
+description = "The best game dev tools in one place: 3D models, animations, textures, sound, music, multiplayer and publishing. Use them with any AI agent or in the browser."
+category = "other"
+website = "https://genex.games"
+open_source = true
+repository = "https://github.com/genex-games/genex-desktop"
+added = 2026-11-05

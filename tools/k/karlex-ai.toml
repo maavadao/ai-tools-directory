@@ -1,0 +1,7 @@
+name = "KarLex AI"
+description = "KarLex AI builds Graphicle, open-source code graph and memory for coding agents; JLA, open-source linear-attention kernels for JAX; and CIEL, research on long-term memory for language models."
+category = "other"
+website = "https://www.karlex.ai"
+open_source = true
+repository = "https://github.com/Graphicle-AI/graphicle"
+added = 2026-11-05

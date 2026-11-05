@@ -788,6 +788,10 @@
 "checked": "2026-10-30",
 "image": "https://www.mlrun.org/wp-content/uploads/2021/04/mlrun_social.png"
 },
+"mlx-audio": {
+"checked": "2026-11-05",
+"image": "https://www.neywalabs.ai/opengraph-image.png?97703703f2560f72"
+},
 "mlx-serve": {
 "checked": "2026-10-30",
 "image": "https://mlxserve.com/mlxcore-screenshot-1.png"

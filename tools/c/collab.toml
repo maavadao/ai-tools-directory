@@ -1,0 +1,7 @@
+name = "Collab"
+description = "Not your uncle’s Slack. Build cool shit with cool people. Fork buddies."
+category = "coding"
+website = "https://collab.hot"
+open_source = true
+repository = "https://github.com/collabs-inc/collab-public"
+added = 2026-11-05

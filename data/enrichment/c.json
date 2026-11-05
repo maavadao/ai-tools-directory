@@ -744,6 +744,9 @@
 "checked": "2026-11-03",
 "image": "https://coipond.ai/og.png"
 },
+"collab": {
+"checked": "2026-11-05"
+},
 "collaborative-kubernetes-ai-assistant": {
 "checked": "2026-10-29",
 "image": "https://cdn.prod.website-files.com/633705de6adaa38599d8e258/659586d07cd8a996f387ffcd_BK_scene-OG.webp"
@@ -790,6 +793,9 @@
 "from": 5.99,
 "url": "https://comic-translate.com/pricing/"
 }
+},
+"coming-soon": {
+"checked": "2026-11-05"
 },
 "comma-ai": {
 "checked": "2026-10-23",

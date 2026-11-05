@@ -1,0 +1,7 @@
+name = "BetterWispr"
+description = "Hold a shortcut, speak, and BetterWispr types clean text into any Mac app. Local speech models, a style for each app, meeting notes and insights. Free and open source, with no account required."
+category = "audio"
+website = "https://betterwispr.com"
+open_source = true
+repository = "https://github.com/opennookorg/betterwispr"
+added = 2026-11-05

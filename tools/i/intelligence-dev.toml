@@ -1,0 +1,7 @@
+name = "intelligence.dev"
+description = "Experiments with code, computer graphics, and machine learning."
+category = "chatbots"
+website = "https://intelligence.dev"
+open_source = true
+repository = "https://github.com/intelligencedev/manifold"
+added = 2026-11-05

@@ -1,0 +1,7 @@
+name = "mlx-audio"
+description = "Neywa Labs is a local AI company. We build open-source, on-device AI for Apple devices: Engine (mlx-vlm and mlx-audio) and Nativ, the Mac app."
+category = "audio"
+website = "https://www.neywalabs.ai"
+open_source = true
+repository = "https://github.com/Neywa-Labs/mlx-audio"
+added = 2026-11-05

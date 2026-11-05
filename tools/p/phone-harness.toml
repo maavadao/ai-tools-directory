@@ -1,0 +1,7 @@
+name = "Phone Harness"
+description = "Let your AI agent tap, type, and scroll through the apps on your iPhone or Android. Open source. No jailbreak, no API."
+category = "other"
+website = "https://phone-harness.com"
+open_source = true
+repository = "https://github.com/phone-harness/mcp"
+added = 2026-11-05

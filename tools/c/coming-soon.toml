@@ -1,0 +1,7 @@
+name = "Coming soon"
+description = "Mashups, mods and browser games, and making your own. Coming soon."
+category = "video"
+website = "https://patch.gg"
+open_source = true
+repository = "https://github.com/patch-gg/anymove"
+added = 2026-11-05

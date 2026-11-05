@@ -1,0 +1,7 @@
+name = "dotnet-skills"
+description = "One of the largest .NET-focused skill collections: 201 skills and 54 NuGet packages for Claude Code, GitHub Copilot, Gemini, Codex, and Junie."
+category = "other"
+website = "https://skills.managed-code.com"
+open_source = true
+repository = "https://github.com/managedcode/dotnet-skills"
+added = 2026-11-05

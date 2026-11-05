@@ -1,0 +1,7 @@
+name = "flock"
+description = "Roost запускает автономных рабочих ботов на выделенных VPS: ставьте задачи из Telegram или VK, подключайте свой Claude/Codex, а инфраструктуру и workflow берёт на себя Roost."
+category = "coding"
+website = "https://roost.duckbug.io"
+open_source = true
+repository = "https://github.com/duckbugio/flock"
+added = 2026-11-05

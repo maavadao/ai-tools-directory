@@ -1,0 +1,7 @@
+name = "Rentry.co"
+description = "Markdown paste service with preview, custom urls and editing."
+category = "image"
+website = "https://rentry.org"
+open_source = true
+repository = "https://github.com/questianon/sdupdates"
+added = 2026-11-05
