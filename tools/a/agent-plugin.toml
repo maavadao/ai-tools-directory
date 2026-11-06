@@ -1,0 +1,7 @@
+name = "agent-plugin"
+description = "ChatCut is an AI video editor and generator for desktop and browser. Edit existing footage, generate new media, and refine everything on a multi-track timeline."
+category = "other"
+website = "https://chatcut.io"
+open_source = true
+repository = "https://github.com/ChatCut-Inc/agent-plugin"
+added = 2026-11-06

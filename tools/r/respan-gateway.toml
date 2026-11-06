@@ -1,0 +1,7 @@
+name = "respan-gateway"
+description = "Respan is an open-source AI gateway with built-in observability and evals."
+category = "chatbots"
+website = "https://www.respan.ai"
+open_source = true
+repository = "https://github.com/respanai/respan-gateway"
+added = 2026-11-06

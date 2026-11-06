@@ -1,0 +1,7 @@
+name = "octomind"
+description = "same model as opencode, same endpoint, same prices — octomind solved 24/25 to its 19/25, at half the cost. open-source ai coding agent & runtime: one binary, any model, runs unattended in ci. Apache 2.0."
+category = "other"
+website = "https://octomind.run"
+open_source = true
+repository = "https://github.com/Muvon/octomind"
+added = 2026-11-06

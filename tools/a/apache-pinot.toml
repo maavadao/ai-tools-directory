@@ -1,0 +1,7 @@
+name = "Apache Pinot™"
+description = "Open-source distributed OLAP database for user-facing apps and AI agents. Query fresh streaming data with sub-second latency, high concurrency, and petabyte-scale performance."
+category = "data"
+website = "https://pinot.apache.org"
+open_source = true
+repository = "https://github.com/apache/pinot"
+added = 2026-11-06

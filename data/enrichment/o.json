@@ -25,6 +25,15 @@
 "checked": "2026-11-01",
 "image": "https://octocode.ai/og-image-1200x630.jpg"
 },
+"octomind": {
+"checked": "2026-11-06",
+"image": "https://octomind.run/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 50.0,
+"url": "https://octomind.run/pricing"
+}
+},
 "octop": {
 "checked": "2026-10-25"
 },

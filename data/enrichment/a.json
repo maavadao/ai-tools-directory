@@ -214,6 +214,10 @@
 "checked": "2026-10-29",
 "image": "https://agent-orchestrators.com/og.png"
 },
+"agent-plugin": {
+"checked": "2026-11-06",
+"image": "https://chatcut.io/chatcut-og-image.png"
+},
 "agent-plugins": {
 "checked": "2026-10-31",
 "image": "https://agent-plugins.org/og/image.png"
@@ -988,6 +992,10 @@
 "checked": "2026-10-26",
 "image": "https://hertzbeat.apache.org/img/hertzbeat-logo.svg"
 },
+"apache-pinot": {
+"checked": "2026-11-06",
+"image": "https://pinot.apache.org/static/images/twitter-card.png"
+},
 "apache-seatunnel": {
 "checked": "2026-10-25"
 },
@@ -1451,6 +1459,9 @@
 "awesome-weekly-robotics": {
 "checked": "2026-11-01",
 "image": "https://weeklyrobotics.com/img/logos/logo_black.svg"
+},
+"axiomcode": {
+"checked": "2026-11-06"
 },
 "axonhub": {
 "checked": "2026-10-27"

@@ -1,0 +1,7 @@
+name = "AxiomCode"
+description = "Using formal methods and verification to validate code structure, intent, and behavior - reducing rework, engineering effort, and token usage while making task-to-code generation more complete and correct."
+category = "other"
+website = "https://axiomcode.ai"
+open_source = true
+repository = "https://github.com/AxiomCodeAI/axiomcodegraph"
+added = 2026-11-06

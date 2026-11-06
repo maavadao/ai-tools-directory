@@ -1,0 +1,7 @@
+name = "Generated Computers"
+description = "A research lab solving the computational complexity of super intelligence. Locals, Enterprise Inference and The Horizon."
+category = "agents"
+website = "https://generatedcomputers.com"
+open_source = true
+repository = "https://github.com/Generated-Computers/Locals"
+added = 2026-11-06
