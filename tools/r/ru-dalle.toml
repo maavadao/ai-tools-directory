@@ -1,0 +1,7 @@
+name = "ru-dalle"
+description = "Искусственный интеллект создаст для вас красочные изображения за пару минут. Всё что нужно — текстовое описание на русском или другом языке."
+category = "image"
+website = "https://rudalle.ru"
+open_source = true
+repository = "https://github.com/ai-forever/ru-dalle"
+added = 2026-11-07

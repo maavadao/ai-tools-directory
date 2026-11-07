@@ -95,6 +95,10 @@
 "checked": "2026-11-04",
 "image": "https://urban-bot.now.sh/img/undraw_online.svg"
 },
+"urdf-studio": {
+"checked": "2026-11-07",
+"image": "https://urdf.enkeebot.com/logos/logo.png"
+},
 "use-scroll-bottom-demo": {
 "checked": "2026-11-02"
 },

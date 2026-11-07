@@ -1,0 +1,7 @@
+name = "sand3d"
+description = "Sandflow is building frontier foundation models for 3D. From gaming to manufacturing, the 3D of the next decade will come from models."
+category = "chatbots"
+website = "https://sandflow.ai"
+open_source = true
+repository = "https://github.com/Sandflow-ai/sand3d"
+added = 2026-11-07

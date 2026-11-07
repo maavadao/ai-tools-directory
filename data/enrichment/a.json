@@ -2,6 +2,9 @@
 "a2a-protocol": {
 "checked": "2026-10-24"
 },
+"a2ui": {
+"checked": "2026-11-07"
+},
 "a5c-ai": {
 "checked": "2026-10-30",
 "image": "https://a5c.ai/opengraph-image?18a055e3604d6f4f"
@@ -293,6 +296,10 @@
 "agentbox": {
 "checked": "2026-11-04",
 "image": "https://agent-box.sh/home-og"
+},
+"agentcn": {
+"checked": "2026-11-07",
+"image": "https://www.agentcn.run/og.png"
 },
 "agentdesk": {
 "checked": "2026-10-26"
@@ -1334,6 +1341,9 @@
 "autoware": {
 "checked": "2026-10-25",
 "image": "https://autoware.org/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-01-at-19.01.16.jpeg"
+},
+"ava": {
+"checked": "2026-11-07"
 },
 "avansaber": {
 "checked": "2026-11-04",

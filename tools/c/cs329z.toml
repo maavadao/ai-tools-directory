@@ -1,0 +1,7 @@
+name = "CS329Z 中文教程"
+description = "斯坦福 Stanford CS329Z（Engineering AI Agents）中文学习教程，面向 Python 开发者讲解 AI 智能体：19 讲、4 项实践与代码导读，涵盖大语言模型、RAG、工具调用、记忆、多 Agent 协作、评测和安全。支持在线阅读与离线下载。"
+category = "agents"
+website = "https://cs329z-course-review-20261029.wanghao162263.chatgpt.site"
+open_source = true
+repository = "https://github.com/wanghao-SunSky/cs329z-chinese"
+added = 2026-11-07

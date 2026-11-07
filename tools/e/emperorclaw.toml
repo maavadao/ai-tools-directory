@@ -1,0 +1,7 @@
+name = "EmperorClaw"
+description = "Manage AI agent teams on your server with Hermes, OpenClaw and MCP. Automate work, build dashboards, approve actions and track costs by client and project."
+category = "agents"
+website = "https://emperorclaw.com"
+open_source = true
+repository = "https://github.com/emperorclaw/emperorclaw"
+added = 2026-11-07

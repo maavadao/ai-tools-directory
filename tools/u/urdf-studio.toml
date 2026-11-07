@@ -1,0 +1,7 @@
+name = "URDF Studio"
+description = "专业机器人设计与编辑工具，支持 URDF、USD、USDA、MJCF、SDF、MuJoCo 机器人模型编辑、碰撞体编辑、机器人资产管理、机器人广场和并联机器人。"
+category = "other"
+website = "https://urdf.enkeebot.com"
+open_source = true
+repository = "https://github.com/OpenLegged/URDF-Studio"
+added = 2026-11-07

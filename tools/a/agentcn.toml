@@ -1,0 +1,7 @@
+name = "agentcn"
+description = "A shadcn-style registry of complete AI agent recipes built on Eve, Flue, and Mastra. Copy, paste, ship production-ready agent patterns."
+category = "agents"
+website = "https://www.agentcn.run"
+open_source = true
+repository = "https://github.com/shadcn-labs/agentcn"
+added = 2026-11-07

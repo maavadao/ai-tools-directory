@@ -1,0 +1,7 @@
+name = "AVA"
+description = "AVA is a technology framework designed for more convenient visual analytics. AI-native, automated visual analytics with natural language queries, LLM-powered analysis, and smart data handling."
+category = "agents"
+website = "https://ava.antv.vision"
+open_source = true
+repository = "https://github.com/antvis/AVA"
+added = 2026-11-07

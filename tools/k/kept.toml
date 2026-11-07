@@ -1,0 +1,7 @@
+name = "Kept"
+description = "Open-source, self-hosted home inventory for your homelab: where things are, what they are, what's due. 3D map, QR labels, warranties, offline phone app."
+category = "other"
+website = "https://keptinventory.info"
+open_source = true
+repository = "https://github.com/keptinventory/kept"
+added = 2026-11-07
