@@ -1,0 +1,7 @@
+name = "hob"
+description = "Free, private AI that runs on your computer. Hob handles the setup for you."
+category = "other"
+website = "https://www.hob.chat"
+open_source = true
+repository = "https://github.com/FrigadeHQ/hob"
+added = 2026-11-08

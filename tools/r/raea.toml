@@ -1,0 +1,7 @@
+name = "raea"
+description = "raea is the Render Anything Engine: make videos, motion graphics, 3D and games by describing them in code your AI already writes, rendered on your own GPU."
+category = "other"
+website = "https://raea.io"
+open_source = true
+repository = "https://github.com/shinyobjectz/raea"
+added = 2026-11-08

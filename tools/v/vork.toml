@@ -1,0 +1,7 @@
+name = "vork"
+description = "The open harness for creative work. Keep your creative vision at the center. Use Voyager’s skills, or build your own with memory that learns how you work."
+category = "agents"
+website = "https://voyager.so"
+open_source = true
+repository = "https://github.com/voyager-so/vork"
+added = 2026-11-08

@@ -1,0 +1,7 @@
+name = "wu"
+description = "Wu is the fast, native code editor, written in Rust. Batteries included, with coding agents built in. No account, no telemetry."
+category = "coding"
+website = "https://wu.dstrml.org"
+open_source = true
+repository = "https://github.com/dstrml/wu"
+added = 2026-11-08

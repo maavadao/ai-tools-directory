@@ -296,6 +296,15 @@
 "checked": "2026-11-04",
 "image": "https://static.boosty.to/static/sharingImage2.jpg?mh=630"
 },
+"bops": {
+"checked": "2026-11-08",
+"image": "https://bops.bot/og.png?v=2",
+"pricing": {
+"currency": "USD",
+"from": 3.0,
+"url": "https://bops.bot"
+}
+},
 "boss-console": {
 "checked": "2026-11-02",
 "image": "https://bossconsole.ai/og-workspace-20260929.png"

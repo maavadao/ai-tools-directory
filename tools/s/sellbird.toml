@@ -1,0 +1,7 @@
+name = "sellbird"
+description = "Connect Claude, ChatGPT or Codex and run outbound from research to replies. Sellbird runs domains, inboxes, warmup and sending. Draft approval is on by default."
+category = "other"
+website = "https://sellbird.ai"
+open_source = true
+repository = "https://github.com/ethanplusai/sellbird"
+added = 2026-11-08

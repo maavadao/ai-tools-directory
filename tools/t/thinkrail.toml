@@ -1,0 +1,7 @@
+name = "ThinkRail"
+description = "Git-worktree workspaces, a real editor, terminals, concurrent agent chats, and a spec graph the agent reads. Open source, Apache-2.0."
+category = "coding"
+website = "https://thinkrail.ai"
+open_source = true
+repository = "https://github.com/JetBrains/thinkrail"
+added = 2026-11-08

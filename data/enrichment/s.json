@@ -158,6 +158,10 @@
 "selefra-io": {
 "checked": "2026-11-05"
 },
+"seleniumbase": {
+"checked": "2026-11-08",
+"image": "https://seleniumbase.github.io/cdn/img/mac_sb_logo_5b.png"
+},
 "self-contained-agents-that-self-organize": {
 "checked": "2026-10-30"
 },
@@ -167,6 +171,10 @@
 },
 "self-refine": {
 "checked": "2026-11-02"
+},
+"sellbird": {
+"checked": "2026-11-08",
+"image": "https://sellbird.ai/og/default.png"
 },
 "semantic-kernel": {
 "checked": "2026-10-24",

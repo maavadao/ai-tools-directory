@@ -149,6 +149,14 @@
 "kite": {
 "checked": "2026-10-28"
 },
+"kition": {
+"checked": "2026-11-08",
+"image": "https://kition.ai/og/default.png",
+"pricing": {
+"free": true,
+"url": "https://kition.ai/pricing"
+}
+},
 "klavis-ai": {
 "checked": "2026-10-26"
 },

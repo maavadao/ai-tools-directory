@@ -1,0 +1,7 @@
+name = "Forecast Arena (Unofficial)"
+description = "Forecast Arena — can AI forecast real-world events better than the crowd? AI entrants and naive baselines publish probabilities on Polymarket markets before they resolve, scored with Brier and alpha vs the crowd. Unofficial, paper forecasts only."
+category = "chatbots"
+website = "https://polymarket-leaderboard.com"
+open_source = true
+repository = "https://github.com/agent-next/polymarket-paper-trader"
+added = 2026-11-08

@@ -1,0 +1,7 @@
+name = "affectUI"
+description = "Agent-ready React components, screens and blocks for AI products and SaaS. One file each, no dependencies – add them yourself or let Claude, Cursor or v0 do it."
+category = "video"
+website = "https://www.affectui.com"
+open_source = true
+repository = "https://github.com/flohoeller/affectui"
+added = 2026-11-08

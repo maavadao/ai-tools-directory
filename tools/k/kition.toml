@@ -1,0 +1,7 @@
+name = "kition"
+description = "Kition brings AI Docs, AI Table, and AI Design into one desktop AI office workspace. Write, translate, organize records, and create editable brand assets."
+category = "agents"
+website = "https://kition.ai"
+open_source = true
+repository = "https://github.com/KitionAI/kition"
+added = 2026-11-08

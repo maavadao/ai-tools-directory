@@ -1,0 +1,7 @@
+name = "bops"
+description = "A team of AI bots that runs your business ops: inbox, pipeline, invoices, reports. Each one has its own computer, email and phone number, and remembers everything."
+category = "agents"
+website = "https://bops.bot"
+open_source = true
+repository = "https://github.com/OrgoAI/bops"
+added = 2026-11-08

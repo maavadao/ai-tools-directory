@@ -1,0 +1,7 @@
+name = "SeleniumBase"
+description = "Fast, easy, and reliable Web/UI testing with Python. Includes stealth options!"
+category = "other"
+website = "https://seleniumbase.io"
+open_source = true
+repository = "https://github.com/seleniumbase/SeleniumBase"
+added = 2026-11-08

@@ -124,6 +124,14 @@
 "aether": {
 "checked": "2026-11-03"
 },
+"affectui": {
+"checked": "2026-11-08",
+"image": "https://www.affectui.com/og.jpg?v=3",
+"pricing": {
+"free": true,
+"url": "https://www.affectui.com/pricing"
+}
+},
 "affiliate-skills": {
 "checked": "2026-11-03",
 "image": "https://affitor.com/api/og?title=Affitor&description=AI-Native%20Affiliate%20Network%20for%20SaaS&path=/",

@@ -1,0 +1,7 @@
+name = "Duty1g"
+description = "Duty1g (0x80) — Security Researcher, Bug Bounty Hunter, Red Team Expert. OSCE³ certified. Critical-severity disclosures across Synack. Author of Zelly C2, jspacket, SubCat."
+category = "other"
+website = "https://duty1g.online"
+open_source = true
+repository = "https://github.com/duty1g/x64dbg-mcp-server"
+added = 2026-11-08
