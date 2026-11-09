@@ -1,0 +1,7 @@
+name = "Cygnux Labs"
+description = "A frontier research lab making autonomous AI systems verifiable and accountable. We publish our research openly and ship it as tools teams can run, including Tracekit and Causeway."
+category = "other"
+website = "https://cygnuxlabs.com"
+open_source = true
+repository = "https://github.com/Cygnux-Labs/Tracekit"
+added = 2026-11-09

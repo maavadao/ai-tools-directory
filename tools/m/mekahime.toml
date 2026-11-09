@@ -1,0 +1,7 @@
+name = "MekaHime"
+description = "MekaHime builds the world's most emotionally realistic AI companions. Meet Amika & Crescentine and join the waitlist for the AI Companion Game."
+category = "audio"
+website = "https://mekahime.com"
+open_source = true
+repository = "https://github.com/zeekk0/OpenAmika"
+added = 2026-11-09

@@ -1,0 +1,7 @@
+name = "poki"
+description = "Poki MCP and Poki Agent are open source (AGPL-3.0), letting AI agents control an iPhone via the iOS accessibility tree and native touch synthesis. Free, runs on macOS with Xcode."
+category = "agents"
+website = "https://poki.bot"
+open_source = true
+repository = "https://github.com/JosssphZhou/poki"
+added = 2026-11-09

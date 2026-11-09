@@ -414,6 +414,10 @@
 "point-cloud-library": {
 "checked": "2026-10-25"
 },
+"poki": {
+"checked": "2026-11-09",
+"image": "https://poki.bot/assets/og.jpg?v=2"
+},
 "polyaxon": {
 "checked": "2026-10-28",
 "image": "https://polyaxon.com/images/og/site.png",

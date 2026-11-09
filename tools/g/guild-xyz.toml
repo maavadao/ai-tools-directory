@@ -1,0 +1,7 @@
+name = "guild.xyz"
+description = "Token-gate and reward your community across Discord, Telegram and 50 EVM chains. Set it up from any MCP agent (beta). Free to start."
+category = "other"
+website = "https://guild.xyz"
+open_source = true
+repository = "https://github.com/guildxyz/guild.xyz"
+added = 2026-11-09

@@ -1,0 +1,7 @@
+name = "SolonGate"
+description = "Enterprise-grade security gateway for AI agents and assistants. Enforce policies, surface shadow AI, and audit every action in real-time."
+category = "other"
+website = "https://solongate.com"
+open_source = true
+repository = "https://github.com/solongate/agent-security"
+added = 2026-11-09

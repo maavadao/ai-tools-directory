@@ -419,6 +419,10 @@
 "url": "https://www.meilisearch.com/pricing"
 }
 },
+"mekahime": {
+"checked": "2026-11-09",
+"image": "https://www.mekahime.com/og-home.jpg"
+},
 "mellea": {
 "checked": "2026-10-30",
 "image": "https://mellea.ai/images/mellea-logo.svg"
@@ -619,6 +623,9 @@
 "midscene-js": {
 "checked": "2026-10-24",
 "image": "https://midscenejs.com/og-image.png"
+},
+"miguel-fierro": {
+"checked": "2026-11-09"
 },
 "mimiclaw": {
 "checked": "2026-10-26",
