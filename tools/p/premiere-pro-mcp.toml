@@ -1,0 +1,7 @@
+name = "premiere-pro-mcp"
+description = "Connect Claude, Cursor and Codex to supported Adobe Premiere Pro workflows with the free, independent premiere-pro-mcp server and local connector."
+category = "other"
+website = "https://premiere-pro-mcp.com"
+open_source = true
+repository = "https://github.com/leancoderkavy/premiere-pro-mcp"
+added = 2026-11-10

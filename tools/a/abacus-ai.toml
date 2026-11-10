@@ -1,0 +1,7 @@
+name = "Abacus.AI"
+description = "Code for free, forever. Abacus AI Bot is a free, open-source coding agent that runs on your machine, with free credits included and no Claude, OpenAI or Cursor subscription needed. It writes, runs and debugs code in your repo, reviews diffs and opens PRs, remembers your codebase across sessions, an…"
+category = "coding"
+website = "https://bot.abacus.ai"
+open_source = true
+repository = "https://github.com/abacusai/abacusai-bot"
+added = 2026-11-10

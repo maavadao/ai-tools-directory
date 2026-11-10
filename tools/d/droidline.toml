@@ -1,0 +1,7 @@
+name = "Droidline"
+description = "Automate real Android phones from code: test your apps, script the tasks you repeat, run a shelf of phones, or let an AI agent use one. Open source. No ADB, no USB cable, no root."
+category = "agents"
+website = "https://droidline.dev"
+open_source = true
+repository = "https://github.com/KnifeLemon/Droidline"
+added = 2026-11-10

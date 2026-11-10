@@ -1,0 +1,7 @@
+name = "ram-altman"
+description = "A bash script that emails Sam Altman once a day to report the RAM he missed."
+category = "productivity"
+website = "https://ram-altman.lol"
+open_source = true
+repository = "https://github.com/IainKay/ram-altman"
+added = 2026-11-10
