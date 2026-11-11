@@ -229,6 +229,10 @@
 "url": "https://seoskill.dev/pricing"
 }
 },
+"server": {
+"checked": "2026-11-11",
+"image": "https://buggregator.dev/buggregator.png"
+},
 "seth-hobson": {
 "checked": "2026-10-23",
 "image": "https://sethhobson.com/og-image.png"
@@ -800,6 +804,10 @@
 },
 "supar-8212-supar": {
 "checked": "2026-11-02"
+},
+"suparagent": {
+"checked": "2026-11-11",
+"image": "https://suparagent.ai/social-card.png"
 },
 "supavec": {
 "checked": "2026-11-01",

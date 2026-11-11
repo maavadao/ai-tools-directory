@@ -1,0 +1,7 @@
+name = "server"
+description = "Exceptions, dumps, emails, profiling, logs — all in one real-time UI. One command. No cloud account. Free forever."
+category = "coding"
+website = "https://buggregator.dev"
+open_source = true
+repository = "https://github.com/buggregator/server"
+added = 2026-11-11

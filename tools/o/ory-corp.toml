@@ -1,0 +1,7 @@
+name = "Ory Corp"
+description = "Ory delivers identity and access management (IAM) for applications, enterprises, and AI agents. Cloud-native, API-first, and self-hostable."
+category = "other"
+website = "https://www.ory.com"
+open_source = true
+repository = "https://github.com/ory/hydra"
+added = 2026-11-11

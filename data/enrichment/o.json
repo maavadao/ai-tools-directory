@@ -930,6 +930,14 @@
 "checked": "2026-10-29",
 "image": "https://ort.pyke.io/og/il7asoJjJEMhngUeSt4tHVu8Zxx4EFG_FDeJfL3-oPE.png"
 },
+"ory-corp": {
+"checked": "2026-11-11",
+"image": "https://www.ory.com/api/og?title=Identity%20%26%20Access%20Management%20(IAM)%20Solutions%20%7C%20Ory&image=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F33xluxe1%2Fproduction%2F785044f57db27895a5d0c5709690c1f678326621-2400x1260.png%3Fw%3D1200%26h%3D630&kind=default",
+"pricing": {
+"free": true,
+"url": "https://www.ory.com/pricing"
+}
+},
 "osaurus": {
 "checked": "2026-10-26",
 "image": "https://osaurus.ai/osaurus-og-image-1.png",

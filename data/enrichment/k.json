@@ -256,6 +256,10 @@
 "kuafuai": {
 "checked": "2026-10-26"
 },
+"kubai-design": {
+"checked": "2026-11-11",
+"image": "https://www.kubai.design/og-20261016.png"
+},
 "kubeflow": {
 "checked": "2026-10-24",
 "image": "https://www.kubeflow.org/social/social_home.b4b276a78751053b254216bb34638f95.png"

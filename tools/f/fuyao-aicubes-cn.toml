@@ -1,0 +1,7 @@
+name = "同花顺金融数据｜灵活接入，金融数据能力已内置"
+description = "同花顺金融数据：通过 Skill、MCP、API、SDK 接入同花顺数据；同花顺AI客户端已内置金融数据能力。"
+category = "other"
+website = "https://fuyao.aicubes.cn"
+open_source = true
+repository = "https://github.com/HiThink-Tech/Financial-API"
+added = 2026-11-11

@@ -1,0 +1,7 @@
+name = "RecBole"
+description = "A unified, comprehensive and efficient recommendation library"
+category = "other"
+website = "https://recbole.io"
+open_source = true
+repository = "https://github.com/RUCAIBox/RecBole"
+added = 2026-11-11

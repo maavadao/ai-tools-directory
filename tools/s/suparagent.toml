@@ -1,0 +1,7 @@
+name = "suparagent"
+description = "Suparagent is a free, Apache-2.0 desktop and self-hosted AI workspace—an open-source alternative to xAI's Grok Bot. AI provider fees may apply."
+category = "agents"
+website = "https://suparagent.ai"
+open_source = true
+repository = "https://github.com/Anil-matcha/suparagent"
+added = 2026-11-11

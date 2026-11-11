@@ -1,0 +1,7 @@
+name = "nanocode"
+description = "SDK for frontier embedded agents. Codex and Claude behind one durable runtime."
+category = "other"
+website = "https://nanocode.xyz"
+open_source = true
+repository = "https://github.com/nanocodexyz/nanocode"
+added = 2026-11-11
