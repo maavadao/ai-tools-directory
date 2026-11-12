@@ -1,0 +1,7 @@
+name = "kraken-cli"
+description = "Own the power of your money with Kraken. Trade crypto, stocks, futures, staking and more. Trusted by millions worldwide since 2011. Get started today."
+category = "other"
+website = "https://www.kraken.com"
+open_source = true
+repository = "https://github.com/krakenfx/kraken-cli"
+added = 2026-11-12

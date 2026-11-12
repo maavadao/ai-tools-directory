@@ -1,0 +1,7 @@
+name = "Agent Kanban"
+description = "Agent-first task coordination through Realmroot Toolbox, with Enbor-owned Agent identity and runtime Sessions."
+category = "coding"
+website = "https://agent-kanban.dev"
+open_source = true
+repository = "https://github.com/saltbo/agent-kanban"
+added = 2026-11-12

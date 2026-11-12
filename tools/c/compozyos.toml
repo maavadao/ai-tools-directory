@@ -1,0 +1,7 @@
+name = "CompozyOS"
+description = "The autonomous control plane for your agents. See and steer every Claude Code, Codex, and Cursor session. Always-on agents check in on their own, and you step in only when one needs you."
+category = "agents"
+website = "https://compozy.com"
+open_source = true
+repository = "https://github.com/compozy/compozy"
+added = 2026-11-12

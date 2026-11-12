@@ -1,0 +1,7 @@
+name = "AlphaDojo"
+description = "Explore AlphaDojo: AI-native market overview, deep investment research, strategy backtesting, and paper trading in one financial decision workspace."
+category = "agents"
+website = "https://alphadojo.ai"
+open_source = true
+repository = "https://github.com/Alpha-Dojo/DojoAgents"
+added = 2026-11-12

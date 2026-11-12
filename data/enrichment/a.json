@@ -202,6 +202,10 @@
 "checked": "2026-10-30",
 "image": "https://jido.run/og/render/home"
 },
+"agent-kanban": {
+"checked": "2026-11-12",
+"image": "https://agent-kanban.dev/og.svg"
+},
 "agent-manager": {
 "checked": "2026-11-03",
 "image": "https://agent-manager.dev/assets/og.png?v=1e93e54e25"
@@ -874,6 +878,10 @@
 "alpaca-mcp-server": {
 "checked": "2026-11-01",
 "image": "https://alpaca.markets/static/images/meta-image-homepage.png"
+},
+"alphadojo": {
+"checked": "2026-11-12",
+"image": "https://alphadojo.ai/share.png"
 },
 "amazon-com": {
 "checked": "2026-10-31"

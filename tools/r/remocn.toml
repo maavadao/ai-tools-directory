@@ -1,0 +1,7 @@
+name = "remocn"
+description = "Remocn is shadcn/ui for video: a shadcn registry of 932 MIT-licensed Remotion components. Your AI agent turns them into a product demo video."
+category = "other"
+website = "https://remocn.dev"
+open_source = true
+repository = "https://github.com/Remocn/remocn"
+added = 2026-11-12

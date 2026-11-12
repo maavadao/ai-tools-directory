@@ -1,0 +1,7 @@
+name = "Passenger"
+description = "A free, open-source C# and .NET IDE for Windows, macOS and Linux, with its own debugger, Hot Reload, a profiler, XAML previews and an MCP server for agents."
+category = "other"
+website = "https://passenger-ide.net"
+open_source = true
+repository = "https://github.com/Zaneris/passenger"
+added = 2026-11-12
