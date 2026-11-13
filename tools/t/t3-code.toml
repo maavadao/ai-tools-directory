@@ -1,0 +1,7 @@
+name = "T3 Code"
+description = "T3 Code. The open-source control plane for coding agents."
+category = "coding"
+website = "https://t3.codes"
+open_source = true
+repository = "https://github.com/pingdotgg/t3code"
+added = 2026-11-13

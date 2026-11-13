@@ -1,0 +1,7 @@
+name = "EpicStaff"
+description = "Self-hosted, source-available agent infrastructure for regulated and sovereign environments."
+category = "agents"
+website = "https://www.epicstaff.com"
+open_source = true
+repository = "https://github.com/EpicStaff/EpicStaff"
+added = 2026-11-13

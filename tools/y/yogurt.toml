@@ -1,0 +1,7 @@
+name = "yogurt"
+description = "Yogurt takes meeting notes with AI that runs locally on Mac, Windows and Linux. No bot joins the call. Free and open source."
+category = "other"
+website = "https://www.yogurt.so"
+open_source = true
+repository = "https://github.com/FrigadeHQ/yogurt"
+added = 2026-11-13

@@ -1,0 +1,7 @@
+name = "kwant"
+description = "Open-source, self-hosted AI agents that share chats, hand off work and run on a schedule. One Rust binary (kwnt) for your laptop or a VPS."
+category = "chatbots"
+website = "https://kwant.si"
+open_source = true
+repository = "https://github.com/alexsergivan/kwant"
+added = 2026-11-13

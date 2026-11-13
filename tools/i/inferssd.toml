@@ -1,0 +1,7 @@
+name = "inferssd"
+description = "WiCi is a systems research lab focused on wireless GPU computing and local AI infrastructure. We develop systems that let people run advanced AI locally, with control over their compute and data."
+category = "chatbots"
+website = "https://wici.ai"
+open_source = true
+repository = "https://github.com/wici-ai/inferssd"
+added = 2026-11-13

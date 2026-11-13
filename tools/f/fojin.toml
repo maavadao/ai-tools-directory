@@ -1,0 +1,7 @@
+name = "佛津 FoJin"
+description = "向大藏经提问，小津用原文回答——每条引用标注经名与卷号，可点开比对原典。汉传·南传·藏传三系跨语对读，聚合全球公开佛教典籍与辞典，完全免费。"
+category = "chatbots"
+website = "https://fojin.app"
+open_source = true
+repository = "https://github.com/xr843/Master-skill"
+added = 2026-11-13

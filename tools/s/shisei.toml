@@ -1,0 +1,7 @@
+name = "shisei"
+description = "280 套无脸素体姿势、1,212 张线稿，正面、斜侧、侧面、俯视、仰视最多五个机位。CC0 免费可商用，给 Nano Banana、ChatGPT、ComfyUI、Midjourney 等 AI 绘图当姿势参考。大部分机位另有白模、深度图和法线图，深度和法线可直接接 ControlNet。"
+category = "image"
+website = "https://shisei.indaloop.app"
+open_source = true
+repository = "https://github.com/wquguru/shisei"
+added = 2026-11-13

@@ -1,0 +1,7 @@
+name = "n8n Labs"
+description = "Nod is a personal agent that gets real-world jobs done. Open source, runs on Mac, Windows, Linux or your own server, with the model provider you choose."
+category = "agents"
+website = "https://nod.n8n.io"
+open_source = true
+repository = "https://github.com/n8n-io/nod"
+added = 2026-11-13

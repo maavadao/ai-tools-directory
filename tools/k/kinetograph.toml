@@ -1,0 +1,7 @@
+name = "kinetograph"
+description = "Kinetograph is a video engine made for agents. Write a video in TypeScript with Remotion's API, or as an HTML page (HyperFrames projects render as they are). A Rust compositor draws every frame on the GPU, with no browser."
+category = "agents"
+website = "https://kinetograph.dev"
+open_source = true
+repository = "https://github.com/0xS4N4TG/kinetograph"
+added = 2026-11-13

@@ -336,6 +336,15 @@
 "checked": "2026-11-01",
 "image": "https://agentero.app/og.png"
 },
+"agentes-chat": {
+"checked": "2026-11-13",
+"image": "https://agentes.chat/og-en.png",
+"pricing": {
+"currency": "USD",
+"from": 40.0,
+"url": "https://agentes.chat"
+}
+},
 "agentfield": {
 "checked": "2026-11-01",
 "image": "https://agentfield.ai/opengraph-image?62634ef0c2842cd4"
@@ -675,6 +684,10 @@
 "ai-roadmap": {
 "checked": "2026-10-23",
 "image": "https://i.am.ai/img/banner/i-am-ai-banner-roadmap.png"
+},
+"ai-safety-hot": {
+"checked": "2026-11-13",
+"image": "https://aisafetyhot.com/og/site.png?lang=zh"
 },
 "ai-sdk": {
 "checked": "2026-10-24",

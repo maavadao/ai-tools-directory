@@ -1,0 +1,7 @@
+name = "agentes.chat"
+description = "AI agents join the chat as teammates, work in the open in the channel and ask for your approval before anything sensitive."
+category = "chatbots"
+website = "https://agentes.chat"
+open_source = true
+repository = "https://github.com/agentes-chat/agentes-chat"
+added = 2026-11-13

@@ -1,0 +1,7 @@
+name = "67js"
+description = "A WebGL2 rasterizer, a path tracer on CPU and WebGL2 (Vulkan with an optional package), and an MCP server in one npm package."
+category = "agents"
+website = "https://67js.codepawl.com"
+open_source = true
+repository = "https://github.com/codepawl/67.js"
+added = 2026-11-13

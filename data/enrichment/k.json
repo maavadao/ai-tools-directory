@@ -128,6 +128,9 @@
 "url": "https://kilo.ai/pricing"
 }
 },
+"kinetograph": {
+"checked": "2026-11-13"
+},
 "kirara-ai": {
 "checked": "2026-10-24"
 },
@@ -287,5 +290,9 @@
 },
 "kusion": {
 "checked": "2026-10-31"
+},
+"kwant": {
+"checked": "2026-11-13",
+"image": "https://kwant.si/assets/og/home.png?v=77495a5e49"
 }
 }

@@ -1,0 +1,7 @@
+name = "AI Safety HOT"
+description = "AISafetyHot（AI Safety HOT）是中文 AI 安全动态站，汇集攻击、防御、对齐、评测、漏洞与治理的研究和报道，提供每日精选、热点榜和原文链接；每天 08:00（北京时间）发布 AI 安全日报。"
+category = "other"
+website = "https://aisafetyhot.com"
+open_source = true
+repository = "https://github.com/wuyoscar/AISafetyHot"
+added = 2026-11-13

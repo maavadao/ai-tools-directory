@@ -1,0 +1,7 @@
+name = "纳米AI"
+description = "把大模型拆开，一格一格算清楚：大模型学习路线图、图解大模型、从零手写大模型、从零手写 Agent、大模型论文研读。"
+category = "chatbots"
+website = "https://namiai.tech"
+open_source = true
+repository = "https://github.com/aa1143/NamiAgent"
+added = 2026-11-13
