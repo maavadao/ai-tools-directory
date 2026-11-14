@@ -346,6 +346,15 @@
 "fragments-by-e2b": {
 "checked": "2026-10-26"
 },
+"frametell": {
+"checked": "2026-11-14",
+"image": "https://frametell.ai/og/home-en.jpg",
+"pricing": {
+"currency": "USD",
+"from": 20.0,
+"url": "https://frametell.ai/pricing"
+}
+},
 "frantic-board": {
 "checked": "2026-11-02",
 "image": "https://gofrantic.com/og.png"

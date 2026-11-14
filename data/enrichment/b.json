@@ -420,6 +420,10 @@
 "browserai": {
 "checked": "2026-10-31"
 },
+"browserbox": {
+"checked": "2026-11-14",
+"image": "https://browserbox.io/social-card-v2.png"
+},
 "browsernode": {
 "checked": "2026-11-01",
 "image": "https://www.browsernode.com/BrowserNode-OG.png"

@@ -1,0 +1,7 @@
+name = "OmniGet"
+description = "Free, open-source yt-dlp GUI for Windows, macOS and Linux. Paste a link to save video, audio and files from 1,000+ sites, or run AI coding agents."
+category = "other"
+website = "https://getomniget.com"
+open_source = true
+repository = "https://github.com/tonhowtf/omniget"
+added = 2026-11-14

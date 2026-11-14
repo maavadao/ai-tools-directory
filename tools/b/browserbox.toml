@@ -1,0 +1,7 @@
+name = "BrowserBox"
+description = "Bring the web to any system...safely. BrowserBox remote browser isolation delivers 60 FPS streaming with zero client install."
+category = "agents"
+website = "https://browserbox.io"
+open_source = true
+repository = "https://github.com/BrowserBox/BrowserBox"
+added = 2026-11-14

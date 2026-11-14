@@ -1,0 +1,7 @@
+name = "UI SDK"
+description = "A library of behaviors for agents to build the next generation of user interfaces."
+category = "agents"
+website = "https://ui-sdk.dev"
+open_source = true
+repository = "https://github.com/vercel-labs/ui"
+added = 2026-11-14

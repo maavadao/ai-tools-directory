@@ -1,0 +1,7 @@
+name = "frametell"
+description = "Turn a lesson, a PDF or a topic into a narrated, hand-drawn explainer film. For students, teachers, trainers and faceless YouTube channels. 300 free credits, about 2–3 one-minute films."
+category = "video"
+website = "https://frametell.ai"
+open_source = true
+repository = "https://github.com/sitor-ai/frametell"
+added = 2026-11-14

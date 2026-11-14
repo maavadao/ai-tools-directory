@@ -1,0 +1,7 @@
+name = "nuphos"
+description = "Bring your agent subscriptions and computers into one workspace. Hand your bots the work today and the ideas ahead."
+category = "other"
+website = "https://nuphos.ai"
+open_source = true
+repository = "https://github.com/nuphos/nuphos"
+added = 2026-11-14

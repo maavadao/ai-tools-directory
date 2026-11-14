@@ -1,0 +1,7 @@
+name = "AgentSkillsHub"
+description = "Agent Skills Hub: a security-graded Claude skills marketplace — Claude skills, MCP servers & agent tools — vet any skill before you install. Quality-scored, refreshed every 8 hours."
+category = "other"
+website = "https://agentskillshub.top"
+open_source = true
+repository = "https://github.com/zhuyansen/agent-skills-hub"
+added = 2026-11-14

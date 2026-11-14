@@ -477,6 +477,10 @@
 "nullhub": {
 "checked": "2026-10-30"
 },
+"nuphos": {
+"checked": "2026-11-14",
+"image": "https://nuphos.ai/social/home-v1.jpg"
+},
 "nuplan-devkit": {
 "checked": "2026-11-01"
 },

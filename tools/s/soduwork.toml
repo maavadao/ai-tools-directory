@@ -1,0 +1,7 @@
+name = "SoduWork"
+description = "SoduWork，开源的企业级 AI 原生协同平台。连接人、AI 与企业系统，让 AI 的能力成为企业的生产力。"
+category = "other"
+website = "https://www.soduwork.ai"
+open_source = true
+repository = "https://github.com/mdiri-ai/SoduWork"
+added = 2026-11-14
