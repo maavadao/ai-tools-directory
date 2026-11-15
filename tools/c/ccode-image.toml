@@ -1,0 +1,7 @@
+name = "Ccode Image"
+description = "Ccode Image 批量 API 图像生成器"
+category = "image"
+website = "https://image.ccode.vip"
+open_source = true
+repository = "https://github.com/tianjiangqiji/nova-image-studio"
+added = 2026-11-15

@@ -1,0 +1,7 @@
+name = "ZigZag"
+description = "Turn SVG artwork into stitches on Mac, Windows and Linux. Preview your design and export it to your embroidery machine."
+category = "other"
+website = "https://zigzag.diy"
+open_source = true
+repository = "https://github.com/simpsoka/zigzag"
+added = 2026-11-15

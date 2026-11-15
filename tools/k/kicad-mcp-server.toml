@@ -1,0 +1,7 @@
+name = "KiCAD MCP Server"
+description = "An open-source MCP server for KiCad 9.0 and newer. 253 tools, MIT-licensed."
+category = "chatbots"
+website = "https://kicad.orchis.ai"
+open_source = true
+repository = "https://github.com/mixelpixx/KiCAD-MCP-Server"
+added = 2026-11-15
