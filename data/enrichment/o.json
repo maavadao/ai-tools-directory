@@ -303,6 +303,10 @@
 "open-minis": {
 "checked": "2026-10-27"
 },
+"open-net-worth": {
+"checked": "2026-11-16",
+"image": "https://opennetworth.ai/og.png?v=2"
+},
 "open-policy-agent": {
 "checked": "2026-10-25"
 },

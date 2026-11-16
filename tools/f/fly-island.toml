@@ -1,0 +1,7 @@
+name = "fly-island"
+description = "fly-island is a small island at the top of your Windows screen: AI agent status and quota, music with lyrics, tasks, clipboard, a file shelf, QQ / WeChat / mail alerts and quick translation."
+category = "other"
+website = "https://island.flyliu.org"
+open_source = true
+repository = "https://github.com/flyl1u/fly-island"
+added = 2026-11-16

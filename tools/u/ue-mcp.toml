@@ -1,0 +1,7 @@
+name = "UE-MCP"
+description = "MCP server that connects AI assistants directly to the Unreal Editor. 1510+ actions of its own across 31 tool categories, plus all 2185 native Unreal 5.8 tools wrapped in-process, 3695 in total. A YAML flow engine and an npm plugin ecosystem on top."
+category = "other"
+website = "https://ue-mcp.com"
+open_source = true
+repository = "https://github.com/db-lyon/ue-mcp"
+added = 2026-11-16

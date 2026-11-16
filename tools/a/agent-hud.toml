@@ -1,0 +1,7 @@
+name = "Agent HUD"
+description = "Know your quotas, tokens and sessions at a glance, answer requests and jump back in one click. At the edge of your screen, on iPhone and Apple Watch."
+category = "coding"
+website = "https://agenthud.app"
+open_source = true
+repository = "https://github.com/jazzenchen/agent-hud-open"
+added = 2026-11-16

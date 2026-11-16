@@ -1,0 +1,7 @@
+name = "Flide"
+description = "One state, many questions, one forward pass. Up to 9.5x faster than widely used serving engines, and closest to a float32 reference."
+category = "agents"
+website = "https://flide.org"
+open_source = true
+repository = "https://github.com/OmniJev/Flide"
+added = 2026-11-16

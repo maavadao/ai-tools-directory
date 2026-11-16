@@ -627,6 +627,10 @@
 "miguel-fierro": {
 "checked": "2026-11-09"
 },
+"milvus": {
+"checked": "2026-11-16",
+"image": "https://assets.zilliz.com/meta_image_milvus_d6510e10e0.png"
+},
 "mimiclaw": {
 "checked": "2026-10-26",
 "image": "https://mimiclaw.io/bannerclaw.png"

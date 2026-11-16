@@ -1,0 +1,7 @@
+name = "ampixa labs"
+description = "We bring human interaction to computers: speech, reading and language tools for Nepali and the languages of Nepal."
+category = "audio"
+website = "https://ampixa.com"
+open_source = true
+repository = "https://github.com/Ampixa/sanoTTS"
+added = 2026-11-16

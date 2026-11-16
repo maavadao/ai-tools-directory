@@ -1,0 +1,7 @@
+name = "BunkerAI"
+description = "BunkerAI deploys private, on-premise AI infrastructure inside your company. Modern open models connected to your internal documents and systems, running where your data lives. No public AI cloud required."
+category = "agents"
+website = "https://www.bunkerai.dev"
+open_source = true
+repository = "https://github.com/bunkeriot/BunkerM"
+added = 2026-11-16

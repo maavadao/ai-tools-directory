@@ -1,0 +1,7 @@
+name = "Open Net Worth"
+description = "Open-source Personal Wealth Agent you run yourself: one ledger for your whole financial life, and Lucius, an AI agent that works it."
+category = "other"
+website = "https://opennetworth.ai"
+open_source = true
+repository = "https://github.com/open-net-worth-ai/open-net-worth"
+added = 2026-11-16

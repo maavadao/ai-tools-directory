@@ -6,6 +6,14 @@
 "checked": "2026-10-23",
 "image": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/1647e9a2-47d6-4d95-5ae0-02bae7a44000/public"
 },
+"ue-mcp": {
+"checked": "2026-11-16",
+"pricing": {
+"currency": "USD",
+"from": 5.0,
+"url": "https://ue-mcp.com/pricing"
+}
+},
 "ui-sdk": {
 "checked": "2026-11-14",
 "image": "https://ui-sdk.dev/opengraph-image?f64246496196fdb7"

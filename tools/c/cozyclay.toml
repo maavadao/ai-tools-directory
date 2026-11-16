@@ -1,0 +1,7 @@
+name = "CozyClay"
+description = "Block a scene, pose characters, author camera moves and cuts, and preview generated motion. Open source, runs in your browser."
+category = "video"
+website = "https://cozyclay.org"
+open_source = true
+repository = "https://github.com/HaD0Yun/CozyClay"
+added = 2026-11-16

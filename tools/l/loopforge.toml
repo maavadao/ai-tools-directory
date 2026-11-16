@@ -1,0 +1,7 @@
+name = "LoopForge"
+description = "把团队的交付方法，变成 Agent 可执行的 SOP。"
+category = "other"
+website = "https://loopforge.cn"
+open_source = true
+repository = "https://github.com/Tencent/LoopForge"
+added = 2026-11-16

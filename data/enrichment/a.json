@@ -194,6 +194,15 @@
 "checked": "2026-10-28",
 "image": "https://lpwcreate.space/images/og-image.jpg"
 },
+"agent-hud": {
+"checked": "2026-11-16",
+"image": "https://agenthud.app/assets/og-cover.png",
+"pricing": {
+"currency": "USD",
+"from": 2.99,
+"url": "https://agenthud.app/"
+}
+},
 "agent-hunt": {
 "checked": "2026-10-23",
 "image": "https://monid.ai/share-card.png"
@@ -918,6 +927,10 @@
 "from": 7.0,
 "url": "https://amical.ai/pricing"
 }
+},
+"ampixa-labs": {
+"checked": "2026-11-16",
+"image": "https://ampixa.com/assets/og-card.png?v=20260924"
 },
 "amux": {
 "checked": "2026-11-04",
