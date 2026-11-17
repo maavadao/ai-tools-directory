@@ -1,0 +1,7 @@
+name = "agentic-ai-landscape"
+description = "Explore Agent Infra, Model Infra, Large Models, reusable agent assets, and ecosystem signals."
+category = "chatbots"
+website = "https://insights.inclusion-ai.org"
+open_source = true
+repository = "https://github.com/antgroup/agentic-ai-landscape"
+added = 2026-11-17

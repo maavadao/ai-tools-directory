@@ -1,0 +1,7 @@
+name = "tiny-voca"
+description = "tiny-voca is a 4.5M-parameter English text-to-speech model. This page runs it in your browser."
+category = "audio"
+website = "https://tiny-voca.n4ze3m.com"
+open_source = true
+repository = "https://github.com/n4ze3m/tiny-voca"
+added = 2026-11-17
