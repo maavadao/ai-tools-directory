@@ -257,6 +257,9 @@
 "checked": "2026-10-26",
 "image": "https://vllm-sr.ai/img/vllm-sr-logo.social.png"
 },
+"vllora": {
+"checked": "2026-11-18"
+},
 "voca": {
 "checked": "2026-10-31"
 },

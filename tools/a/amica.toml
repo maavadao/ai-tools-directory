@@ -1,0 +1,7 @@
+name = "amica"
+description = "Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition."
+category = "audio"
+website = "https://heyamica.com"
+open_source = true
+repository = "https://github.com/semperai/amica"
+added = 2026-11-18

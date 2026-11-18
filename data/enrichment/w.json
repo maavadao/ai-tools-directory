@@ -110,6 +110,10 @@
 "webplotdigitizer": {
 "checked": "2026-10-28"
 },
+"websitebench": {
+"checked": "2026-11-18",
+"image": "https://website-bench.com/assets/og.png?v=44baaf7e"
+},
 "webwhiz": {
 "checked": "2026-11-01",
 "image": "https://www.webwhiz.ai/webwhiz.png"

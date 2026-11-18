@@ -1,0 +1,7 @@
+name = "WebsiteBench"
+description = "WebsiteBench is a benchmark of AI agents rebuilding 70 production-level websites through browser exploration: 46,916 hidden tests, eight models, best score 26.2%."
+category = "other"
+website = "https://website-bench.com"
+open_source = true
+repository = "https://github.com/TIGER-AI-Lab/WebsiteBench"
+added = 2026-11-18

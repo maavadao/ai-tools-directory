@@ -1,0 +1,7 @@
+name = "bencium-marketplace"
+description = "London-based AI consultant and engineer. Agentic AI training and advisory for teams shipping production AI — strategy through deployment."
+category = "other"
+website = "https://www.bencium.io"
+open_source = true
+repository = "https://github.com/bencium/bencium-marketplace"
+added = 2026-11-18

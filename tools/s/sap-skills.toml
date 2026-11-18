@@ -1,0 +1,7 @@
+name = "SAP Skills"
+description = "40 production-ready SAP development skills for Claude Code, Cursor, GitHub Copilot, and Windsurf workflows. Covers BTP, ABAP, Fiori, CAP, HANA, and more."
+category = "coding"
+website = "https://sap-ai-skills.com"
+open_source = true
+repository = "https://github.com/secondsky/sap-skills"
+added = 2026-11-18

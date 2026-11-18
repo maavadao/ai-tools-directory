@@ -1,0 +1,7 @@
+name = "heard"
+description = "Models that listen while they speak and see what you see. Meet Kea and Parrot."
+category = "coding"
+website = "https://heard.dev"
+open_source = true
+repository = "https://github.com/heardlabs/heard"
+added = 2026-11-18

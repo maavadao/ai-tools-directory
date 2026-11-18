@@ -1,0 +1,7 @@
+name = "Spanish Top Tech Companies"
+description = "Cuánto cobra un programador en España y qué empresas tecnológicas pagan más: sueldo base mediano por empresa, rol, experiencia y comunidad, con salarios reales."
+category = "other"
+website = "https://spanishtoptechcompanies.com"
+open_source = true
+repository = "https://github.com/pugarte7/spanish-top-tech-companies"
+added = 2026-11-18

@@ -1,0 +1,7 @@
+name = "pireel"
+description = "Pireel is an AI video editor for talking-head creators: edit by transcript, add animated captions and B-roll, refine with an agent, and export in the browser."
+category = "other"
+website = "https://pireel.com"
+open_source = true
+repository = "https://github.com/pireel/pireel"
+added = 2026-11-18

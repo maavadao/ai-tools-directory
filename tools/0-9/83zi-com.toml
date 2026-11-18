@@ -1,0 +1,7 @@
+name = "本地短剧助手"
+description = "LocalMiniDrama是一款基于AI的短剧创作工具，支持角色、场景、道具智能生成，分镜编辑，一键视频合成。免费开源，立即下载！"
+category = "video"
+website = "https://83zi.com"
+open_source = true
+repository = "https://github.com/xuanyustudio/LocalMiniDrama"
+added = 2026-11-18

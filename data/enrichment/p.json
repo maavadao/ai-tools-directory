@@ -372,6 +372,15 @@
 "checked": "2026-10-28",
 "image": "https://framerusercontent.com/images/87N6FTaGQx1IeB0Klbo9hPHAOus.png"
 },
+"pireel": {
+"checked": "2026-11-18",
+"image": "https://pireel.com/landing/demos/creator-studio.jpg",
+"pricing": {
+"currency": "USD",
+"from": 17.0,
+"url": "https://pireel.com/en/pricing"
+}
+},
 "pixie": {
 "checked": "2026-10-26",
 "image": "https://px.dev/logo.svg"

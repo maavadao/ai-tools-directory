@@ -1,0 +1,7 @@
+name = "vllora"
+description = "Debug your AI agents"
+category = "chatbots"
+website = "https://vllora.dev"
+open_source = true
+repository = "https://github.com/vllora/vllora"
+added = 2026-11-18

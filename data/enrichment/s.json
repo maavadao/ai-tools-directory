@@ -29,6 +29,10 @@
 "checked": "2026-11-02",
 "image": "https://santifer.io/og-image.jpg"
 },
+"sap-skills": {
+"checked": "2026-11-18",
+"image": "https://sap-ai-skills.com/og/sap-skills.webp"
+},
 "sapient-intelligence": {
 "checked": "2026-10-25",
 "image": "https://sapient.inc/og.png"
@@ -508,6 +512,16 @@
 "url": "https://sourcegraph.com/pricing"
 }
 },
+"sourceweft": {
+"checked": "2026-11-18",
+"image": "https://sourceweft.com/og",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 9.9,
+"url": "https://SourceWeft.com/"
+}
+},
 "sourcey": {
 "checked": "2026-10-31",
 "image": "https://sourcey.com/brand/sourcey-mark.png"
@@ -524,6 +538,10 @@
 "spacy": {
 "checked": "2026-10-23",
 "image": "https://spacy.io/_next/static/media/social_default.96b04585.jpg"
+},
+"spanish-top-tech-companies": {
+"checked": "2026-11-18",
+"image": "https://spanishtoptechcompanies.com/og-es.png"
 },
 "spark-nlp": {
 "checked": "2026-10-27"

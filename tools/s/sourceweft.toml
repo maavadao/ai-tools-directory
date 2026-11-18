@@ -1,0 +1,7 @@
+name = "SourceWeft"
+description = "Bring your knowledge, files, and tools together in SourceWeft. Let AI agents research, plan, and create, then review and refine the results in one workspace."
+category = "chatbots"
+website = "https://SourceWeft.com"
+open_source = true
+repository = "https://github.com/SourceWeft/SourceWeft"
+added = 2026-11-18
