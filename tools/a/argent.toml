@@ -1,0 +1,7 @@
+name = "argent"
+description = "Debug and profile React Native & Swift apps faster with Argent: a toolkit for AI agents, helping you control the simulator, inspect issues, and automate testing."
+category = "other"
+website = "https://argent.swmansion.com"
+open_source = true
+repository = "https://github.com/software-mansion/argent"
+added = 2026-11-19

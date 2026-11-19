@@ -1,0 +1,7 @@
+name = "design.how"
+description = "Free design systems for AI coding agents like Claude Code and Cursor. The components install from a shadcn registry, and every docs page has a Markdown version agents can read."
+category = "other"
+website = "https://design.how"
+open_source = true
+repository = "https://github.com/arla6ka/design.how"
+added = 2026-11-19

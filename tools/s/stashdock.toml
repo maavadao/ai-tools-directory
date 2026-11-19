@@ -1,0 +1,7 @@
+name = "StashDock"
+description = "StashDock keeps the pages, files, notes and prompts you reuse in one visual library on your computer, and hands them to any AI in one move."
+category = "productivity"
+website = "https://stashdock.app"
+open_source = true
+repository = "https://github.com/StashDock/StashDock"
+added = 2026-11-19

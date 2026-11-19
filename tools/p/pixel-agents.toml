@@ -1,0 +1,7 @@
+name = "Pixel Agents"
+description = "Every agent session becomes a character at a desk in a pixel office. Free, open source and runs on your computer."
+category = "coding"
+website = "https://pixel-agents.com"
+open_source = true
+repository = "https://github.com/pixel-agents-hq/pixel-agents"
+added = 2026-11-19

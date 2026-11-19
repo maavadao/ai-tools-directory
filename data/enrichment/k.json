@@ -83,6 +83,10 @@
 "keras-tuner": {
 "checked": "2026-10-28"
 },
+"keryx": {
+"checked": "2026-11-19",
+"image": "https://www.keryxjs.com/images/og-image.png"
+},
 "kestra": {
 "checked": "2026-10-24",
 "image": "https://kestra.io/og-image.png"

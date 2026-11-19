@@ -1,0 +1,7 @@
+name = "Home"
+description = "Official implementation of AsymFlow, pi-Flow, GMFlow"
+category = "image"
+website = "https://hanshengchen.com"
+open_source = true
+repository = "https://github.com/Lakonik/LakonLab"
+added = 2026-11-19

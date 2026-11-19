@@ -1,0 +1,7 @@
+name = "Keryx"
+description = "The fullstack TypeScript framework for MCP and APIs — transport-agnostic actions for HTTP, WebSocket, CLI, background tasks, and MCP, built on Bun."
+category = "developer-platforms"
+website = "https://www.keryxjs.com"
+open_source = true
+repository = "https://github.com/actionhero/keryx"
+added = 2026-11-19

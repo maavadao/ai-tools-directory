@@ -1,0 +1,7 @@
+name = "MEMORILLA"
+description = "Query-dependent latent memory over document collections, with a configurable memory-token budget for a frozen LLM."
+category = "chatbots"
+website = "https://memory.stanford.edu"
+open_source = true
+repository = "https://github.com/snap-stanford/memorilla"
+added = 2026-11-19

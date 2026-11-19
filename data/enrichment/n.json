@@ -153,6 +153,9 @@
 "neo4j-graph-builder": {
 "checked": "2026-10-27"
 },
+"nervecenter": {
+"checked": "2026-11-19"
+},
 "nesa": {
 "checked": "2026-10-28",
 "image": "https://nesa.ai/opengraph-image.png?6de89eab50d10f6e",

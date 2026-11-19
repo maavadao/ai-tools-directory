@@ -1,0 +1,7 @@
+name = "Theia IDE"
+description = "Theia IDE is an AI-native, open-source development environment for desktop and cloud. Bring your own API key and connect any LLM — cloud, self-hosted, or fully local — with no vendor lock-in and no telemetry on your code. Not a VS Code fork, and fully compatible with VS Code extensions."
+category = "agents"
+website = "https://theia-ide.org"
+open_source = true
+repository = "https://github.com/eclipse-theia/theia"
+added = 2026-11-19
