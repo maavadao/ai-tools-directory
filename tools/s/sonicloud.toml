@@ -1,0 +1,7 @@
+name = "SoniCloud"
+description = "声云 SoniCloud 以智能语音连接硬件、软件与行业应用，提供 AI 鼠标、录音卡、语音转写和声纹识别能力，支持产品开发、技术接入与产业合作。"
+category = "other"
+website = "https://sinicloud.com"
+open_source = true
+repository = "https://github.com/SonicloudTech/mouse-mcp"
+added = 2026-11-20

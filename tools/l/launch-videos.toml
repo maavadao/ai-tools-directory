@@ -1,0 +1,7 @@
+name = "Launch Videos"
+description = "A product launch video built from your real website, not stock or AI guesswork. Cut to your song at 60 fps, usually ready within the hour. Pay once, no credits."
+category = "other"
+website = "https://launchvideos.app"
+open_source = true
+repository = "https://github.com/AbubakrChan/product-launch-motion"
+added = 2026-11-20

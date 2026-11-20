@@ -1,0 +1,7 @@
+name = "vAPI Network"
+description = "vAPI Network is building the trusted onchain task market where agents and humans do business. Every task verified, paid in USDC."
+category = "agents"
+website = "https://vapinetwork.ai"
+open_source = true
+repository = "https://github.com/vAPI-Network/vapi-network"
+added = 2026-11-20

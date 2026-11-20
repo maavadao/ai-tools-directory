@@ -1,0 +1,7 @@
+name = "prismor"
+description = "Prismor intercepts every tool call your AI agents make, enforces security policies, and logs a full audit trail. Works with all enterprise AI agents."
+category = "agents"
+website = "https://www.prismor.dev"
+open_source = true
+repository = "https://github.com/PrismorSec/prismor"
+added = 2026-11-20

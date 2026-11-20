@@ -494,6 +494,9 @@
 "sonar": {
 "checked": "2026-10-30"
 },
+"sonicloud": {
+"checked": "2026-11-20"
+},
 "sorawebui": {
 "checked": "2026-10-29"
 },

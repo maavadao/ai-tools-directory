@@ -1,0 +1,7 @@
+name = "CodeMachine-CLI"
+description = "CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows."
+category = "coding"
+website = "https://codemachine.co"
+open_source = true
+repository = "https://github.com/moazbuilds/CodeMachine-CLI"
+added = 2026-11-20
