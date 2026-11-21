@@ -1,0 +1,7 @@
+name = "dusk bot"
+description = "Your own team of AI bots, in a chat app, on the AI accounts you already have. Free on your computer, and on dusk cloud they keep working with your laptop off."
+category = "other"
+website = "https://dusk.bot"
+open_source = true
+repository = "https://github.com/DuskBotAI/duskbot"
+added = 2026-11-21

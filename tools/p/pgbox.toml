@@ -1,0 +1,7 @@
+name = "PGBOX"
+description = "PGBoxDB — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime 🐘"
+category = "agents"
+website = "https://pgboxdb.com"
+open_source = true
+repository = "https://github.com/pgrundev/pgboxdb"
+added = 2026-11-21

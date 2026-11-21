@@ -1,0 +1,7 @@
+name = "OpenAccountants"
+description = "The free accounting and tax plugin for your AI, built with accountants around the world. Explore AI skills, their authors and sources. Open source."
+category = "legal-finance"
+website = "https://www.openaccountants.com"
+open_source = true
+repository = "https://github.com/openaccountants/openaccountants"
+added = 2026-11-21

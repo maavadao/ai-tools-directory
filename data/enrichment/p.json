@@ -239,6 +239,9 @@
 "pgbot-dev": {
 "checked": "2026-10-31"
 },
+"pgbox": {
+"checked": "2026-11-21"
+},
 "pggraph": {
 "checked": "2026-11-01",
 "image": "https://polygres.com/social/og-image.jpg",

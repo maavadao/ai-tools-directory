@@ -1,0 +1,7 @@
+name = "neverclick"
+description = "Control your mouse with your keyboard. Neverclick uses on-device computer vision to label everything clickable with keyboard hints, so you can navigate any app without touching a mouse."
+category = "other"
+website = "https://www.neverclick.com"
+open_source = true
+repository = "https://github.com/LazoVelko/neverclick"
+added = 2026-11-21

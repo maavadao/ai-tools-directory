@@ -1,0 +1,7 @@
+name = "Timon"
+description = "Out-ship a whole team. Bring your subscriptions, dump your backlog, go to bed. Wake up to merged code."
+category = "other"
+website = "https://timon-ai.com"
+open_source = true
+repository = "https://github.com/ai-timon/timon"
+added = 2026-11-21

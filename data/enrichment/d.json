@@ -576,6 +576,16 @@
 "checked": "2026-10-30",
 "image": "https://durablestreams.com/.netlify/images?url=https%3A%2F%2Fdurablestreams.com%2Fimg%2Fmeta.png&w=1200&h=630&fit=cover&fm=jpg&q=80"
 },
+"dusk-bot": {
+"checked": "2026-11-21",
+"image": "https://dusk.bot/art/og6/home.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 12.0,
+"url": "https://dusk.bot/pricing"
+}
+},
 "duty1g": {
 "checked": "2026-11-08"
 },
