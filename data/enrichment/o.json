@@ -38,7 +38,7 @@
 "checked": "2026-10-25"
 },
 "odyssey-3": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://framerusercontent.com/images/Ztmb5fzsBj2oaVgWRUqBnP4yRU.jpg"
 },
 "off-grid-ai": {
@@ -49,15 +49,15 @@
 "checked": "2026-10-27"
 },
 "officialskills-sh": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://officialskills.sh/api/og/default"
 },
 "oh-my-claudecode": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://yeachan-heo.github.io/oh-my-claudecode-website/social-preview.jpg"
 },
 "oh-my-codex": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://yeachan-heo.github.io/oh-my-codex-website/social-preview.png"
 },
 "ok-automation": {
@@ -65,11 +65,11 @@
 "image": "https://ok-script.com/assets/social/ok-script-zh-cn.png"
 },
 "okara": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://okara.ai/images/og-cmo.png",
 "pricing": {
 "currency": "USD",
-"from": 108.0,
+"from": 65.0,
 "url": "https://okara.ai/pricing"
 }
 },
@@ -82,11 +82,10 @@
 "image": "https://www.olares.com/olares-og.jpg"
 },
 "ollama": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://ollama.com/public/og.png",
 "pricing": {
 "currency": "USD",
-"free": true,
 "from": 500.0,
 "url": "https://ollama.com/pricing"
 }
@@ -109,8 +108,8 @@
 "image": "https://omlx.ai/images/omlx_dashboard_light.png"
 },
 "omnia": {
-"checked": "2026-10-23",
-"image": "https://www.useomnia.com/_astro/og-image.DnVXl_jx_Z1xqwm9.jpg",
+"checked": "2026-11-22",
+"image": "https://www.useomnia.com/social/omnia-ai-visibility-social-card-en.jpg",
 "pricing": {
 "currency": "EUR",
 "free": true,
@@ -147,19 +146,18 @@
 "checked": "2026-10-30"
 },
 "omniroute-by-cheaper-inference": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://omniroute.online/opengraph-image"
 },
 "omo": {
-"checked": "2026-10-23",
-"image": "https://omo.dev/opengraph-image?c3399fe3514baa06"
+"checked": "2026-11-22"
 },
 "omp": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://omp.sh/og-image.png"
 },
 "one-api": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "one-hub": {
 "checked": "2026-10-29"
@@ -179,7 +177,7 @@
 }
 },
 "onepin": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://onepin.ai/onepin-og-image.jpg",
 "pricing": {
 "free": true,
@@ -218,7 +216,7 @@
 "image": "https://raw.githubusercontent.com/onllm-dev/onwatch/main/docs/screenshots/anthropic-dark.png"
 },
 "onyx-ai": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://onyx.app/onyx-thumbnail.png",
 "pricing": {
 "trial": true,
@@ -246,12 +244,8 @@
 "image": "https://opacus.ai/img/opacus_logo.svg"
 },
 "opaline": {
-"checked": "2026-10-23",
-"image": "https://opaline.so/images/opaline-social.png",
-"pricing": {
-"free": true,
-"url": "https://opaline.so/pricing"
-}
+"checked": "2026-11-22",
+"image": "https://opaline.evren.so/images/opaline-social.png"
 },
 "opcode": {
 "checked": "2026-10-24",
@@ -279,14 +273,14 @@
 "image": "https://openclaudeui.com/og/site/home.png"
 },
 "open-code-review": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "open-executive": {
 "checked": "2026-10-26",
 "image": "https://openexecutive.ai/opengraph-image?7da2ad0476344b3b"
 },
 "open-generative-ai": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://muapi.ai/og-default.png"
 },
 "open-graph-benchmark": {
@@ -352,7 +346,7 @@
 "image": "https://openterminal.sh/og-image.svg"
 },
 "open-webui-community": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://openwebui.com/og-image.png"
 },
 "openaccountants": {
@@ -382,11 +376,11 @@
 "image": "https://openagi.aiplanet.com/~gitbook/ogimage/aQHrjed7uKhSzxtCsjOn"
 },
 "openai-api": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://images.ctfassets.net/kftzwdyauwt9/2QkEfHzYEJhFvNWAkNolg5/264f9db2d3020b1ff65c12aa9c6632e0/API_Refresh_Art_Card_1920x108.png?w=1600&h=900&fit=fill"
 },
 "openai-developers": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://developers.openai.com/open-graph.png"
 },
 "openai-unity": {
@@ -407,12 +401,12 @@
 "image": "https://openarm.dev/images/ogp.webp"
 },
 "openbb": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://openbb.co/assets/images/ogimages/Homepage.png"
 },
 "openbot": {
-"checked": "2026-10-23",
-"image": "https://openbot.run/openbot-social.png"
+"checked": "2026-11-22",
+"image": "https://openbot.run/social/home.jpg"
 },
 "openbot-org": {
 "checked": "2026-10-28",
@@ -445,11 +439,11 @@
 "image": "https://openchoreo.dev/img/openchoreo-opengraph.png"
 },
 "openclaude": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://openclaude.twigpine.com/og/default.png"
 },
 "openclaw": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://openclaw.ai/og-image.png"
 },
 "openclaw-nerve": {
@@ -464,8 +458,8 @@
 "checked": "2026-10-24"
 },
 "opencode": {
-"checked": "2026-10-23",
-"image": "https://opencode.ai/social-share.png"
+"checked": "2026-11-22",
+"image": "https://opencode.ai/files/site/og/home-98637499f6.png"
 },
 "opencode-power-pack": {
 "checked": "2026-11-04",
@@ -506,7 +500,7 @@
 "image": "https://cdn.vsassets.io/v/M281_20261021.12/_content/Header/access-marketplace.png"
 },
 "opencv": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://opencv.org/wp-content/uploads/2025/06/opencv-featured.jpg"
 },
 "opendan": {
@@ -521,10 +515,11 @@
 "image": "https://opendataloader.org/og-image.png"
 },
 "opendesign": {
-"checked": "2026-10-23",
-"image": "https://open-design.ai/og-homepage-20261009.png",
+"checked": "2026-11-22",
+"image": "https://r.open-design.ai/files/90e1e5090a2e660ee2d5017745a8d4437a2a235e1825caefa6a4cb6f1016047e",
 "pricing": {
 "currency": "USD",
+"free": true,
 "from": 20.0,
 "url": "https://open-design.ai/pricing/"
 }
@@ -544,11 +539,10 @@
 "image": "https://openflowkit.com/social.png"
 },
 "opengeni": {
-"checked": "2026-10-23",
-"image": "https://storage.googleapis.com/gpt-engineer-file-uploads/Hf4ZStO6mQfrguXHbUR4xW6KcOj1/social-images/social-1778687621456-Screenshot_2026-05-13_at_17.53.25.webp",
+"checked": "2026-11-22",
+"image": "https://opengeni.ai/og-image.png",
 "pricing": {
 "currency": "USD",
-"free": true,
 "from": 20.0,
 "url": "https://opengeni.ai/pricing"
 }
@@ -565,7 +559,7 @@
 "image": "https://open-gpt-app.vercel.app/og-image.png"
 },
 "openhands": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.openhands.dev/assets/webflow/og/69161b32abf448a2df921a73_openhands_opengraph_01.png",
 "pricing": {
 "currency": "USD",
@@ -643,7 +637,7 @@
 "checked": "2026-11-03"
 },
 "openmontage": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://openmontage.video/og-card.png?v=creative-studio"
 },
 "openmoss": {
@@ -724,8 +718,8 @@
 "image": "https://openreader.richardr.dev/opengraph-image-1c1a04?298e657621c79b99"
 },
 "openrouter": {
-"checked": "2026-10-23",
-"image": "https://openrouter.ai/dynamic-og?pathname=default&title=OpenRouter&description=The+unified+interface+for+every+model.+Find+the+best+models+%26+prices+for+your+prompts&v=2",
+"checked": "2026-11-22",
+"image": "https://openrouter.ai/images/home/og-home.png",
 "pricing": {
 "free": true,
 "url": "https://openrouter.ai/pricing"
@@ -772,7 +766,7 @@
 "image": "https://www.opensparx.ai/assets/social-cover.png"
 },
 "openspec": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://openspec.dev/og-card.jpg"
 },
 "opensquilla": {
@@ -788,7 +782,7 @@
 "image": "https://img.alicdn.com/imgextra/i1/O1CN01XTErpN24JVlOVVK2I_!!6000000007370-2-tps-300-300.png"
 },
 "openswarm": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.openswarm.com/media/og.jpg"
 },
 "opentabs": {
@@ -811,11 +805,11 @@
 }
 },
 "openviking": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://res.gcloudcache.com/volc-fe/openviking/playground/og-openviking-site-43e09c42.jpg"
 },
 "openvoice": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "openwhispr": {
 "checked": "2026-10-25",
@@ -872,7 +866,7 @@
 "image": "https://optuna.org/assets/img/optuna-logo.png"
 },
 "opus": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/6893fad68d6058a917d7f3c6_mainpage_thumbnail.jpg",
 "pricing": {
 "currency": "USD",
@@ -899,8 +893,8 @@
 "image": "https://orbital.top/assets/shots/hero-handoff.jpg"
 },
 "orca": {
-"checked": "2026-10-23",
-"image": "https://www.onorca.dev/og-image.png"
+"checked": "2026-11-22",
+"image": "https://orca.dev/og-image.png"
 },
 "orca-dev": {
 "checked": "2026-11-12",
@@ -974,7 +968,7 @@
 "image": "https://ossinsight.io/seo-widgets-homepage.jpeg"
 },
 "otter-meeting-agent": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.prod.website-files.com/618e9316785b3582a5178502/67dd5a945aeed07e329d4e10_fb6d82f0792801a1a0d814599859e23e_og-image-otter-optim.jpg",
 "pricing": {
 "currency": "USD",
@@ -1017,7 +1011,7 @@
 }
 },
 "overview": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://hindsight.vectorize.io/img/social-card.png"
 },
 "ovis": {
@@ -1025,8 +1019,12 @@
 "image": "https://ovis.sh/assets/og-icon.png"
 },
 "ovren-live-preview": {
-"checked": "2026-10-23",
-"image": "https://www.ovren.ai/opengraph-image"
+"checked": "2026-11-22",
+"image": "https://www.ovren.ai/opengraph-image",
+"pricing": {
+"free": true,
+"url": "https://www.ovren.ai/"
+}
 },
 "oxideterm": {
 "checked": "2026-10-30",

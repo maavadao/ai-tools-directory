@@ -1,0 +1,7 @@
+name = "Remote Pi Cockpit"
+description = "Run Claude Code, Codex, Pi or anything else in real terminals, local or on any machine over SSH, with the viewer, diagnostics, git, worktrees and databases they need to work."
+category = "agents"
+website = "https://cockpit.jacobmoura.work"
+open_source = true
+repository = "https://github.com/jacobaraujo7/remote_pi"
+added = 2026-11-22

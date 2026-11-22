@@ -22,8 +22,8 @@
 "image": "https://abinthomas.in/images/og-abin-thomas.jpg"
 },
 "abridge": {
-"checked": "2026-10-23",
-"image": "https://cdn.prod.website-files.com/6279c9d10eb860662e5ec006/665f41408181f8fdda5f1e7e_abridge-opengraph-home.webp"
+"checked": "2026-11-22",
+"image": "https://cdn.sanity.io/images/7te2quqk/production/09fa9bb657620adfa41426373eba00a196e2441c-2400x1260.jpg?auto=format&q=80&w=2400&fit=max"
 },
 "academic-commercialization-assessment": {
 "checked": "2026-11-02",
@@ -66,12 +66,11 @@
 }
 },
 "adant": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://adant.ai/og-image-2026-10-11.jpg",
 "pricing": {
 "currency": "USD",
 "from": 15.0,
-"trial": true,
 "url": "https://adant.ai/pricing"
 }
 },
@@ -79,8 +78,8 @@
 "checked": "2026-11-04"
 },
 "adobe-firefly": {
-"checked": "2026-10-23",
-"image": "https://www.adobe.com/products/media_1912d2dfb102c668252eb9dda176f925d677fc5e2.png?width=1200&format=pjpg&optimize=medium"
+"checked": "2026-11-22",
+"image": "https://www.adobe.com/homepage/assets/product-icons/jpg/media_1e1d6ce6caa68dfd49689c46528c152d9fdeaad6f.jpg"
 },
 "adrenaline": {
 "checked": "2026-10-28"
@@ -163,8 +162,8 @@
 }
 },
 "agent-browser": {
-"checked": "2026-10-23",
-"image": "https://agent-browser.dev/og",
+"checked": "2026-11-22",
+"image": "https://agent-browser.dev/landing/home-og.png",
 "pricing": {
 "currency": "USD",
 "free": true,
@@ -204,7 +203,7 @@
 }
 },
 "agent-hunt": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://monid.ai/share-card.png"
 },
 "agent-jido": {
@@ -288,7 +287,7 @@
 "image": "https://agent-sandbox.sigs.k8s.io/featured-background.webp"
 },
 "agent-skills": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://skills.addy.ie/og.png"
 },
 "agent-skills-techleads-club": {
@@ -377,7 +376,7 @@
 "checked": "2026-11-17"
 },
 "agentic-awesome-skills": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://aaskills.tech/social-card.png"
 },
 "agentic-context-engine": {
@@ -525,7 +524,7 @@
 "checked": "2026-11-02"
 },
 "agno": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.agno.com/og/home.png",
 "pricing": {
 "currency": "USD",
@@ -634,8 +633,8 @@
 "checked": "2026-10-29"
 },
 "ai-engineering-from-scratch": {
-"checked": "2026-10-23",
-"image": "https://aiengineeringfromscratch.com/og/page/home.png?v=2a478f3e4210"
+"checked": "2026-11-22",
+"image": "https://aiengineeringfromscratch.com/og/page/home.png?v=9a33e7cbec05"
 },
 "ai-factory": {
 "checked": "2026-11-01"
@@ -698,7 +697,7 @@
 "image": "https://airenamer.app/open-graph.png"
 },
 "ai-roadmap": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://i.am.ai/img/banner/i-am-ai-banner-roadmap.png"
 },
 "ai-safety-hot": {
@@ -767,7 +766,7 @@
 "checked": "2026-11-02"
 },
 "aider": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "aieng-zh-cn": {
 "checked": "2026-10-31",
@@ -805,7 +804,7 @@
 "image": "https://rspress.rs/og-image.png"
 },
 "aionui": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "aipex": {
 "checked": "2026-10-31",
@@ -956,7 +955,7 @@
 "checked": "2026-11-01"
 },
 "annotated-deep-learning-paper-implementations": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://avatars1.githubusercontent.com/u/64068543?s=400&v=4"
 },
 "annyang": {
@@ -1026,7 +1025,7 @@
 "image": "https://anysearch.com/og.png?v=20260511"
 },
 "anythingllm": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://anythingllm.com/share-card.png"
 },
 "anythingmcp": {
@@ -1041,7 +1040,7 @@
 "checked": "2026-11-04"
 },
 "apache-airflow": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://airflow.apache.org/images/feature-image.png"
 },
 "apache-burr-incubating": {
@@ -1079,7 +1078,7 @@
 "checked": "2026-10-30"
 },
 "apollo": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.apollo.io/og-images/home.jpg",
 "pricing": {
 "free": true,
@@ -1099,7 +1098,7 @@
 "image": "https://appllama.io/og.png"
 },
 "applyingml": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://applyingml.com/default-og-image.png"
 },
 "apps-extensions-modelcontextprotocol-io": {
@@ -1131,7 +1130,7 @@
 "image": "https://archestra.ai/logo.png"
 },
 "archify": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://archify.si/assets/archify-social-preview.png"
 },
 "archon": {
@@ -1190,15 +1189,15 @@
 "checked": "2026-10-25"
 },
 "artcraft": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://getartcraft.com/images/og-image.png"
 },
 "articos-mcp": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.articos.com/articos-og-image.jpg",
 "pricing": {
 "currency": "USD",
-"from": 79.0,
+"from": 29.0,
 "trial": true,
 "url": "https://www.articos.com/pricing"
 }
@@ -1260,7 +1259,7 @@
 }
 },
 "assemblyai": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.assemblyai.com/_aai/images/meta/og-default.jpg",
 "pricing": {
 "free": true,
@@ -1282,7 +1281,7 @@
 }
 },
 "astrbot": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "asyml": {
 "checked": "2026-10-29"
@@ -1360,7 +1359,7 @@
 "checked": "2026-10-25"
 },
 "autogpt": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://agpt.co/images/og/experts-v1.png",
 "pricing": {
 "currency": "USD",
@@ -1387,12 +1386,12 @@
 "checked": "2026-10-31"
 },
 "autonomyware": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://autonomyware.ai/assets/og-card.png",
 "pricing": {
 "currency": "EUR",
 "from": 19.99,
-"url": "https://www.autonomyware.ai/pricing"
+"url": "https://autonomyware.ai/pricing"
 }
 },
 "autoscientists": {
@@ -1541,7 +1540,7 @@
 "image": "https://ax-use.com/og-image.png"
 },
 "ayven": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.ayven.ai/res/images/og-image.png",
 "pricing": {
 "currency": "USD",

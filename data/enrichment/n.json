@@ -1,6 +1,6 @@
 {
 "n8n": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/og_image_website_3_afd66761a9.png",
 "pricing": {
 "trial": true,
@@ -68,7 +68,7 @@
 "image": "https://nanobrowser.ai/og.jpg"
 },
 "nanoclaw": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://nanoclaw.dev/social-preview.jpg"
 },
 "nanocode": {
@@ -110,15 +110,14 @@
 "checked": "2026-11-01"
 },
 "nautilustrader": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://nautilustrader.io/blog/preview.jpg"
 },
 "nav2-navigation-system": {
 "checked": "2026-10-27"
 },
 "navige": {
-"checked": "2026-10-23",
-"image": "https://framerusercontent.com/images/ksJspuSmGbfuts4VWMX3qQqUpSk.png"
+"checked": "2026-11-22"
 },
 "navop": {
 "checked": "2026-10-30",
@@ -129,7 +128,7 @@
 "image": "https://neuroconscious.link/opengraph-image?632ad9663bdf9f53"
 },
 "needle": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://needle.app/images/og/landing-hero-og.png",
 "pricing": {
 "currency": "USD",
@@ -181,14 +180,14 @@
 "image": "https://media.netcall.com/uploads/2023/10/28124058/KeepInnovating_Bulb_1920x900-jpg.webp"
 },
 "netdata": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.netdata.cloud/img/og-image.png"
 },
 "netket": {
 "checked": "2026-11-03"
 },
 "netron": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "neuralnote": {
 "checked": "2026-10-28",
@@ -217,7 +216,7 @@
 "image": "https://www.neverclick.com/opengraph-image?59c71774e1151649"
 },
 "new-api": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.newapi.ai/social-image"
 },
 "newsjack-sh": {
@@ -225,7 +224,7 @@
 "image": "https://newsjack.sh/newsjack-og-image.png"
 },
 "next-ai-draw-io": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://next-ai-drawio.jiang.jp/architecture.png"
 },
 "next-js-gemini-chatbot": {
@@ -233,7 +232,7 @@
 "image": "https://gemini.vercel.ai/opengraph-image-12cog0.png?8190afebf6a79ae8"
 },
 "nextchat": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "nextcrm": {
 "checked": "2026-11-03",
@@ -262,8 +261,8 @@
 "checked": "2026-10-30"
 },
 "ngram": {
-"checked": "2026-10-23",
-"image": "https://www.ngram.com/opengraph-image?16e0eec4c567a8a4",
+"checked": "2026-11-22",
+"image": "https://www.ngram.com/opengraph-image?c897a3e3961dea68",
 "pricing": {
 "free": true,
 "url": "https://www.ngram.com/pricing"
@@ -278,7 +277,7 @@
 "image": "https://nitric.io/images/og/og_image.png"
 },
 "nitrostack": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://nitrostack.ai/og-image.png",
 "pricing": {
 "free": true,
@@ -311,7 +310,7 @@
 "checked": "2026-10-24"
 },
 "noan": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.getnoan.com/assets/og-default.png",
 "pricing": {
 "currency": "USD",
@@ -359,8 +358,8 @@
 "image": "https://nomiaqm.com/assets/social-preview-zh.jpg"
 },
 "nomic": {
-"checked": "2026-10-23",
-"image": "https://www.nomic.ai/og/index.png?title=Accelerating+the+design+and+construction+of+the+built+world.&eyebrow=Domain-specific+AI+for+AEC&description=The+AI+agent+platform+for+AEC+firms%2C+grounded+in+your+drawings%2C+specs%2C+and+project+data.&v=1",
+"checked": "2026-11-22",
+"image": "https://www.nomic.ai/og/index.png?title=Nomic+does+the+design+and+engineering+work%2C+and+checks+it.&eyebrow=Nomic+does+it&description=Drawings%2C+DWG+files%2C+schedules%2C+reports%2C+and+reviews%2C+produced+from+your+project+files.&v=1",
 "pricing": {
 "currency": "USD",
 "free": true,
@@ -416,7 +415,7 @@
 }
 },
 "notion": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.notion.com/front-static/meta/teams-and-agents.jpg",
 "pricing": {
 "currency": "USD",
@@ -447,7 +446,7 @@
 "image": "https://novel.sh/opengraph-image.png?73cb1c6d8589016e"
 },
 "novu": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.novu.co/social-previews/index.jpg",
 "pricing": {
 "currency": "USD",

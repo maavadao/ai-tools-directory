@@ -1,0 +1,7 @@
+name = "DeepORG"
+description = "DeepORG is one AI agent for your whole organization. It answers questions and makes changes across your databases, APIs, files and code, is graded on its own public benchmark, and turns your organization into a training environment."
+category = "chatbots"
+website = "https://deeporg.io"
+open_source = true
+repository = "https://github.com/dosco/deeporg"
+added = 2026-11-22

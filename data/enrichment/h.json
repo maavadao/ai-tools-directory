@@ -84,7 +84,7 @@
 "image": "https://happyclaw.cc/og-image.png"
 },
 "harness-by-autonomous": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.autonomous.ai/production/ecm/260805/metadata.webp"
 },
 "harnessrouter": {
@@ -98,7 +98,7 @@
 }
 },
 "harvey": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.sanity.io/images/07s0r5r6/production/9a4b2e0eec438fb56057db128a11ade2c04c01cf-2400x1260.png?w=1200&h=630&fm=jpg&q=95&fit=crop"
 },
 "hash-for-developers": {
@@ -134,7 +134,7 @@
 }
 },
 "heal": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://heal.dev/opengraph-image?e0625de47d2d2e2b"
 },
 "heard": {
@@ -195,40 +195,40 @@
 "image": "https://hello-ai.anzz.site/assets/img/social-card.png"
 },
 "hello-python": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "help-wwkejishe-top": {
 "checked": "2026-10-28",
 "image": "https://help.wwkejishe.top/~gitbook/ogimage/I6clPtlLO9NyxODDcXcu"
 },
 "hemory": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.hemory.com/assets/og-image.png",
 "pricing": {
 "currency": "USD",
 "from": 10.0,
 "trial": true,
-"url": "https://www.hemory.com/pricing/?hmgeo=1"
+"url": "https://www.hemory.com/pricing/"
 }
 },
 "herdr": {
-"checked": "2026-10-23",
-"image": "https://herdr.dev/assets/og-card-v9.png"
+"checked": "2026-11-22",
+"image": "https://herdr.dev/assets/og-herdr.png"
 },
 "herdr-ui": {
 "checked": "2026-10-30",
 "image": "https://herdrui.dev/assets/social-preview-dark.png?v=2"
 },
 "heretic": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "hermes": {
 "checked": "2026-10-24",
 "image": "https://nesquena.github.io/hermes-webui/images/ui-hero.png"
 },
 "hermes-agent": {
-"checked": "2026-10-23",
-"image": "https://web-assets.nousresearch.com/marketing/706fb678b93ec8750030067c0778e57d9203985f/assets/hermes-agent/og-image.png"
+"checked": "2026-11-22",
+"image": "https://web-assets.nousresearch.com/marketing/cdaf3fce3d4878346a2c13ea03056aef20355843/assets/hermes-agent/og-image.png"
 },
 "hermes-atlas": {
 "checked": "2026-10-31",
@@ -254,13 +254,13 @@
 "checked": "2026-11-01"
 },
 "heygen": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.sanity.io/images/pdhqcmb1/production/e6fbae484791e59b8d30413bb33dda951fb1027c-1200x630.png?fit=max&fm=png",
 "pricing": {
 "currency": "USD",
 "free": true,
 "from": 24.0,
-"url": "https://www.heygen.com/en-in/pricing"
+"url": "https://www.heygen.com/pricing"
 }
 },
 "heym": {
@@ -297,17 +297,17 @@
 "image": "https://hippo-memory.com/og/home.png"
 },
 "hireez": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://hireez.com/wp-content/uploads/2026/08/hireez-agent-native.jpg"
 },
 "hirekey": {
-"checked": "2026-10-23",
-"image": "https://hirekey.io/wp-content/plugins/hirekey-social-metadata/assets/home.png",
+"checked": "2026-11-22",
+"image": "https://hirekey.io/wp-content/plugins/hirekey-brand-media/assets/home-20261029.png",
 "pricing": {
 "currency": "USD",
 "free": true,
 "from": 39.0,
-"url": "https://hirekey.io"
+"url": "https://hirekey.io/pricing"
 }
 },
 "hister": {
@@ -354,7 +354,7 @@
 "image": "https://holyclaude.coderluii.dev/og.png"
 },
 "home": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://madewithml.com/static/images/mlops.png"
 },
 "homeclaw": {
@@ -373,12 +373,12 @@
 "image": "https://honcho.dev/opengraph-image.png?bdb2d68407bc6230"
 },
 "hookest": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://hookest.com/og-image.png",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 19.99,
+"from": 7.0,
 "url": "https://hookest.com/pricing"
 }
 },
@@ -389,11 +389,11 @@
 "checked": "2026-11-01"
 },
 "https-dsc-gg": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://dsc.gg/static/img/banner.png"
 },
 "hubspot": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.hubspot.com/hubfs/assets/hubspot.com/homepage/hero-backgrounds-2025/HS_Full_Bleed_1.jpg"
 },
 "hue": {
@@ -405,7 +405,7 @@
 "image": "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png"
 },
 "hugging-face": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://huggingface.co/front/thumbnails/v2-2.png",
 "pricing": {
 "currency": "USD",
@@ -422,7 +422,7 @@
 }
 },
 "humalike": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://humalike.ai/humalike-og.jpg?v=2"
 },
 "humanize-text": {
@@ -484,8 +484,14 @@
 "checked": "2026-11-03"
 },
 "hyperframes": {
-"checked": "2026-10-23",
-"image": "https://www.hyperframes.dev/og-studio-redesign-2026-10.png"
+"checked": "2026-11-22",
+"image": "https://hyperframes.studio/og-studio-redesign-2026-10.png",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 25.0,
+"url": "https://hyperframes.studio/pricing"
+}
 },
 "hyperresearch": {
 "checked": "2026-10-27",

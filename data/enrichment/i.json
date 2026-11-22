@@ -23,8 +23,8 @@
 "checked": "2026-10-30"
 },
 "ifixai": {
-"checked": "2026-10-23",
-"image": "https://www.ifixai.ai/opengraph-image.png?opengraph-image.0aywu0gqsuo9-.png",
+"checked": "2026-11-22",
+"image": "https://www.ifixai.ai/opengraph-image.png?opengraph-image.03v.yxaw-xbz1.png",
 "pricing": {
 "free": true,
 "url": "https://www.ifixai.ai/"
@@ -74,18 +74,17 @@
 "image": "https://impeccable.style/og-image-v6.png"
 },
 "inbox-zero": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.getinboxzero.com/opengraph-image.jpg?opengraph-image.2_3tl_gj8wvk_.jpg",
 "pricing": {
 "currency": "USD",
-"free": true,
-"from": 18.0,
+"from": 25.0,
 "trial": true,
 "url": "https://www.getinboxzero.com/pricing"
 }
 },
 "incredible": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.incredible.one/og",
 "pricing": {
 "currency": "USD",
@@ -106,8 +105,7 @@
 "image": "https://inferoa.agentic-in.ai/img/inferoa-line-hero.png"
 },
 "inferock": {
-"checked": "2026-10-23",
-"image": "https://inferock.ai/assets/og-card-ec1e4a4a.png"
+"checked": "2026-11-22"
 },
 "inferssd": {
 "checked": "2026-11-13",
@@ -213,7 +211,7 @@
 "checked": "2026-10-26"
 },
 "intercom": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/9d9c4802c510e9279b7525a4dd289dd793725b83-2400x1260.jpg",
 "pricing": {
 "currency": "USD",
@@ -264,11 +262,11 @@
 }
 },
 "invideo": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://pro-static-assets.invideo.io/images/large/Pasted_16_10_2026_at_19_54_50_8d5fd22857.png"
 },
 "invofox-self-serve": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.invofox.com/_astro/OG.OIBLQ91F_1dJNSc.jpg",
 "pricing": {
 "free": true,
@@ -291,7 +289,7 @@
 "image": "https://ipollo.ai/images/webclip.png"
 },
 "irisgo": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://irisgo.ai/og-cover.png"
 },
 "ironclaw": {

@@ -4,7 +4,7 @@
 "image": "https://paca-ai.org/assets/paca-logo-512.png"
 },
 "paddleocr": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "paddlepaddle": {
 "checked": "2026-10-26"
@@ -13,20 +13,16 @@
 "checked": "2026-10-28"
 },
 "pageindex": {
-"checked": "2026-10-23",
-"image": "https://pageindex.ai/static/images/twitter-card.jpg",
-"pricing": {
-"free": true,
-"url": "https://pageindex.ai/developer"
-}
+"checked": "2026-11-22",
+"image": "https://pageindex.ai/opengraph-image-12gd74?cf6c66bf412920d9"
 },
 "pagelines": {
 "checked": "2026-10-31",
 "image": "https://www.pagelines.com/og/index.png"
 },
 "pake": {
-"checked": "2026-10-23",
-"image": "https://pake.run/img/og.png?v=9edc4d3d8acb"
+"checked": "2026-11-22",
+"image": "https://pake.run/img/og.png?v=8bd005e6d311"
 },
 "pal-program-aided-language-models": {
 "checked": "2026-11-04"
@@ -36,8 +32,8 @@
 "image": "https://www.palmier.io/palmier.png"
 },
 "pancake": {
-"checked": "2026-10-23",
-"image": "https://pancake.ai/og-image-2026-10.png",
+"checked": "2026-11-22",
+"image": "https://pancake.ai/og-image-2026-11-12.png",
 "pricing": {
 "currency": "USD",
 "from": 39.0,
@@ -73,7 +69,7 @@
 "checked": "2026-11-01"
 },
 "paperclip": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://paperclip.ing/og-v4.jpg"
 },
 "paperdebugger": {
@@ -97,10 +93,11 @@
 }
 },
 "parakeetai": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.parakeet-ai.com/og-image.png",
 "pricing": {
-"free": true,
+"currency": "USD",
+"from": 49.99,
 "url": "https://www.parakeet-ai.com"
 }
 },
@@ -136,10 +133,9 @@
 "image": "https://passenger-ide.net/images/social-77a92101.png"
 },
 "paste": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://pasteapp.io/opengraph-image.png?opengraph-image.25xi3iyy1tz8p.png",
 "pricing": {
-"free": true,
 "trial": true,
 "url": "https://pasteapp.io/pricing"
 }
@@ -153,7 +149,7 @@
 "image": "https://pastemd.richqaq.cn/logo.png"
 },
 "pathway": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://pathway.com/_og/s/o_qhizs2.png"
 },
 "patter": {
@@ -172,7 +168,7 @@
 "image": "https://oxide.fyi/og.png"
 },
 "pdfmathtranslate": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "pearai": {
 "checked": "2026-11-02",
@@ -187,7 +183,7 @@
 "image": "https://penguin.ooo/og-cover.png"
 },
 "pentagi": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://pentagi.com/opengraph-image"
 },
 "pentest-ai": {
@@ -211,8 +207,7 @@
 }
 },
 "perplexity-ai": {
-"checked": "2026-10-23",
-"image": "https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png"
+"checked": "2026-11-22"
 },
 "pest": {
 "checked": "2026-10-25",
@@ -229,7 +224,7 @@
 "checked": "2026-10-28"
 },
 "pexo": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://pexo.ai/og-image.png",
 "pricing": {
 "free": true,
@@ -271,7 +266,7 @@
 "image": "https://photonix.org/static/images/devices.jpg"
 },
 "photoprism": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://i.photoprism.app/prism?cover=64&style=centered+dark"
 },
 "photoshop-mcp": {
@@ -305,12 +300,12 @@
 "image": "https://pii-tools.com/wp-content/uploads/2021/05/PII-Tools_og-image.png"
 },
 "pika": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://pika.art/brand/opengraph.png",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 35.0,
+"from": 10.0,
 "url": "https://pika.art/pricing"
 }
 },
@@ -322,7 +317,7 @@
 "checked": "2026-10-27"
 },
 "pinecone": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.pinecone.io/api/og/?title=Trusted+knowledge+for&highlight=AI+in+production&alignment=center",
 "pricing": {
 "currency": "USD",
@@ -397,7 +392,7 @@
 "image": "https://pixtuoid.dev/demos/hero-poster.png"
 },
 "pixverse-r2": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://world-media.pixverse.ai/realtime/r2-tab.png?x-oss-process=style/cover-webp"
 },
 "planning-with-files": {
@@ -451,7 +446,7 @@
 "checked": "2026-10-29"
 },
 "polylane": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://polylane.com/og.png",
 "pricing": {
 "currency": "USD",
@@ -464,8 +459,8 @@
 "checked": "2026-11-03"
 },
 "pomerado": {
-"checked": "2026-10-23",
-"image": "https://pomerado.ai/opengraph-image?b492d95fc1fd4e74",
+"checked": "2026-11-22",
+"image": "https://pomerado.ai/opengraph-image.png?opengraph-image.44k_sk6asunuu.png",
 "pricing": {
 "currency": "USD",
 "from": 50.0,
@@ -473,7 +468,7 @@
 }
 },
 "ponytail": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://ponytail.dev/assets/v5/social-card.png"
 },
 "pooled": {
@@ -502,16 +497,15 @@
 "image": "https://postgresml.org/assets/postgresml.org/static/images/homepage-social-share.webp"
 },
 "posthog": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://posthog.com/images/og/default.png",
 "pricing": {
 "free": true,
-"trial": true,
 "url": "https://posthog.com/pricing"
 }
 },
 "postiz-app": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cms.postiz.com/wp-content/uploads/2024/06/OG-1-1024x538.png",
 "pricing": {
 "currency": "USD",
@@ -567,7 +561,7 @@
 "image": "https://www.prismor.dev/og-optimized.png?v=3"
 },
 "private-gpt": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://framerusercontent.com/assets/krxtn3RfwXQLTWNHwaYuWFI.png"
 },
 "pro-chat": {
@@ -594,10 +588,10 @@
 "checked": "2026-10-29"
 },
 "prompt-always200-com": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "prompt-engineering-guide": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "prompt-kit": {
 "checked": "2026-10-28",
@@ -642,7 +636,7 @@
 "image": "https://prompts.aiolaola.com/assets/og-cover.png"
 },
 "prompts-chat": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://prompts.chat/opengraph-image.png?opengraph-image.57ebefa7.png"
 },
 "promptulate": {

@@ -98,14 +98,14 @@
 "image": "https://magicv.art/web-shot.png"
 },
 "magiclearn": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "magicrew": {
 "checked": "2026-10-27",
 "image": "https://www.magicrew.ai/web/og-image.png"
 },
 "magicschool": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.prod.website-files.com/645187265d5e5e386be40629/69ceae79868b0ed8e9c46587_Open_Graph_HOME_APR2.jpg",
 "pricing": {
 "currency": "USD",
@@ -146,7 +146,7 @@
 "checked": "2026-10-28"
 },
 "make": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.prod.website-files.com/6a294495bc84130c6dd0c4fd/6a706624f7fdfc3470419256_og-img.png",
 "pricing": {
 "free": true,
@@ -165,12 +165,12 @@
 "checked": "2026-10-25"
 },
 "manifold": {
-"checked": "2026-10-23",
-"image": "https://www.manifoldmcp.com/og.png?v=2",
+"checked": "2026-11-22",
+"image": "https://www.manifoldmcp.com/og.png?v=3",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 20.0,
+"from": 29.0,
 "url": "https://www.manifoldmcp.com/pricing"
 }
 },
@@ -197,18 +197,18 @@
 "checked": "2026-10-25"
 },
 "marker": {
-"checked": "2026-10-23",
-"image": "https://www.datalab.to/images/og-default.png",
+"checked": "2026-11-22",
+"image": "https://www.datalab.to/og-default.png",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 20.0,
+"from": 25.0,
 "url": "https://www.datalab.to/pricing"
 }
 },
 "marketingskills": {
-"checked": "2026-10-23",
-"image": "https://marketing-skills.com/opengraph-image?93f898d7f9bb3d56"
+"checked": "2026-11-22",
+"image": "https://marketing-skills.com/opengraph-image?6e4253b89031208a"
 },
 "markflowy": {
 "checked": "2026-10-29",
@@ -266,7 +266,7 @@
 "image": "https://mau.bot/favicon.png"
 },
 "mausbot": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://mausbot.com/opengraph-image?78aec392592697f3",
 "pricing": {
 "currency": "USD",
@@ -306,7 +306,8 @@
 "image": "https://www.mcpcan.com/favicon.ico"
 },
 "mcp-for-blender": {
-"checked": "2026-10-23"
+"checked": "2026-11-22",
+"image": "https://www.mcp-for-blender.com/favicons/android-chrome-512x512.png"
 },
 "mcp-framework": {
 "checked": "2026-11-02"
@@ -381,8 +382,8 @@
 "image": "https://medipixel.io/images/og-image.png"
 },
 "medusa": {
-"checked": "2026-10-23",
-"image": "https://assets.medusajs.com/cdn-cgi/image/width=1200,quality=82,format=auto,fit=contain/uploads/2024/08/social-media-graphics-2024-meta-image-nps9tuy6.webp",
+"checked": "2026-11-22",
+"image": "https://assets.medusajs.com/cdn-cgi/image/width=1200,quality=90,format=auto,fit=contain/uploads/2024/08/social-media-graphics-2024-meta-image-nps9tuy6.webp",
 "pricing": {
 "currency": "USD",
 "free": true,
@@ -391,7 +392,7 @@
 }
 },
 "meetily": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://meetily.ai/og-image.png",
 "pricing": {
 "currency": "USD",
@@ -409,12 +410,11 @@
 "image": "https://www.meigen.ai/og.jpg"
 },
 "meilisearch": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.meilisearch.com/og-image.png",
 "pricing": {
 "currency": "USD",
-"free": true,
-"from": 5.0,
+"from": 5.28,
 "trial": true,
 "url": "https://www.meilisearch.com/pricing"
 }
@@ -428,18 +428,12 @@
 "image": "https://mellea.ai/images/mellea-logo.svg"
 },
 "mem": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://mem.ai/assets/seo/mem-open-graph-card.png"
 },
 "mem0": {
-"checked": "2026-10-23",
-"image": "https://framerusercontent.com/assets/m2fO4objP393CDqaWh7P97R9S5w.png",
-"pricing": {
-"currency": "USD",
-"free": true,
-"from": 19.0,
-"url": "https://mem0.ai/pricing"
-}
+"checked": "2026-11-22",
+"image": "https://framerusercontent.com/assets/m2fO4objP393CDqaWh7P97R9S5w.png"
 },
 "memanto-by-moorcheh": {
 "checked": "2026-10-29",
@@ -514,12 +508,12 @@
 "image": "https://menlo.ai/images/brand/og-image.png"
 },
 "mentionbird": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.prod.website-files.com/6a112cb0b0f19744b4d4cdc7/6a6c6a565781839765a931fd_MentionBird-OG%20Image.png",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 19.0,
+"from": 49.0,
 "trial": true,
 "url": "https://www.mentionbird.ai/pricing"
 }
@@ -543,7 +537,7 @@
 }
 },
 "meta-ai-research": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp"
 },
 "meta-model-api": {
@@ -555,7 +549,7 @@
 "image": "https://tuulos.github.io/mf-site/images/og-metaflow.png"
 },
 "metagpt": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://atoms-cos.metadl.com/cms_medias/logo_only_blue_d7ad9c419a.png",
 "pricing": {
 "currency": "USD",
@@ -576,12 +570,12 @@
 "checked": "2026-10-31"
 },
 "metaview": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.metaview.ai/_next/static/immutable/media/og-image-social-1200x630.3-id2nmakfwf4.jpg",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 100.0,
+"from": 300.0,
 "url": "https://www.metaview.ai/pricing"
 }
 },
@@ -607,18 +601,20 @@
 "checked": "2026-10-30"
 },
 "microsoft-copilot": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://res.cdn.office.net/officehub/images/content/images/unauth-copilotcom/og-image-4986dc5dbb.png",
 "pricing": {
+"currency": "USD",
+"from": 18.0,
 "trial": true,
-"url": "https://www.microsoft.com/en-in/copilot/pricing/business?ocid=cmm2nvxwm2c?ocid=cmm2nvxwm2c"
+"url": "https://www.microsoft.com/en-us/copilot/pricing/business?ocid=cmm2nvxwm2c?ocid=cmm2nvxwm2c"
 }
 },
 "microsoft-responsible-ai": {
 "checked": "2026-10-30"
 },
 "midjourney": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "midjourney-proxy-admin": {
 "checked": "2026-11-02"
@@ -653,15 +649,15 @@
 "image": "https://mindos.you/img/social-card.png"
 },
 "mindshub-by-mindsdb": {
-"checked": "2026-10-23",
-"image": "https://mindshub.ai/og/og-home-control.png",
+"checked": "2026-11-22",
+"image": "https://mindshub.ai/og/og-home-products.png",
 "pricing": {
 "free": true,
 "url": "https://mindshub.ai/pricing"
 }
 },
 "mineru": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://webpub.shlab.tech/MinerU/static/image/mineru-logo.svg"
 },
 "mingai-fun": {
@@ -675,8 +671,8 @@
 "image": "https://filecdn.minimax.chat/public/58eca777-e31f-448a-9823-e2220e49b426.png"
 },
 "minimi-2-0": {
-"checked": "2026-10-23",
-"image": "https://framerusercontent.com/assets/IRAj5ULLLszD1Dx3XZQDb8373ww.png"
+"checked": "2026-11-22",
+"image": "https://framerusercontent.com/assets/esuQQkgTJNGnc178g5za47ioDsA.png"
 },
 "minisearch": {
 "checked": "2026-11-04"
@@ -709,7 +705,7 @@
 "image": "https://raw.githubusercontent.com/Ikalus1988/MisakaNet/main/promotional/og-card.png"
 },
 "miso-com": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://miso.com/assets/link-card-v4.jpg"
 },
 "mission-control": {
@@ -717,7 +713,7 @@
 "image": "https://mc.builderz.dev/og.png"
 },
 "mistral": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
 "pricing": {
 "currency": "USD",
@@ -967,8 +963,8 @@
 "image": "https://www.himovo.com/image.png"
 },
 "movo-ai": {
-"checked": "2026-10-23",
-"image": "https://movoai.pro/assets/brand/movo-ai-social-preview.png"
+"checked": "2026-11-22",
+"image": "https://movoai.pro/media/images/brand/movo-ai-social-preview.png"
 },
 "mpocash": {
 "checked": "2026-10-30",
@@ -993,25 +989,26 @@
 "checked": "2026-10-24"
 },
 "multica": {
-"checked": "2026-10-23"
+"checked": "2026-11-22",
+"image": "https://www.multica.ai/opengraph-image.png"
 },
 "munder-difflin": {
 "checked": "2026-10-25",
 "image": "https://munderdiffl.in/media/og.png"
 },
 "murf": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.prod.website-files.com/66b3765153a8a0c399c70981/670584e2dab709883eed3793_Home.webp"
 },
 "muse-gadgets": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://gadgets.muse.ai/gadgets/og/social.png"
 },
 "mycoder-ai": {
 "checked": "2026-11-04"
 },
 "mylens": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://mylens.ai/opengraph-image"
 },
 "myosuite": {

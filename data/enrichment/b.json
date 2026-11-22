@@ -1,6 +1,6 @@
 {
 "b3log": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://b3log.org/images/brand/b3log-128.png"
 },
 "babelduck": {
@@ -31,7 +31,7 @@
 "image": "https://bananaslides.online/social/cover.png"
 },
 "band": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://a.storyblok.com/f/291236425241163/1200x630/898e037b86/og-image.png",
 "pricing": {
 "currency": "USD",
@@ -72,7 +72,7 @@
 "image": "https://beads.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=Introduction&description=Dependency-aware%2C+Dolt-backed+issue+tracker+built+for+AI+coding+agents+that+survive+context+loss&theme=8bc693752845bc102a4baded&signature=fc3d4f8a842c7a1ec57cad5c8af25d4514625a22ec30a072d9055de665fb9a9b"
 },
 "beam-win": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://beam.win/img/og.jpg",
 "pricing": {
 "currency": "USD",
@@ -88,7 +88,7 @@
 "checked": "2026-10-27"
 },
 "beautiful": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.prod.website-files.com/59deb588800ae30001ec19c9/679345319c7f2f3d2301228b_Open%20Graph_final.jpg",
 "pricing": {
 "free": true,
@@ -208,7 +208,7 @@
 }
 },
 "bitrise-build-hub": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.prod.website-files.com/5db35de024bb983af1b4e151/6a99726558e939e123e9b1a6_OG1200x630.png",
 "pricing": {
 "currency": "USD",
@@ -242,7 +242,7 @@
 }
 },
 "bleetz-network": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_2h6zcs1ppc9w5vw8fj72vn763s/0da7660965d2d10218896de3e7216398_1792196505044.png"
 },
 "blender-plugin": {
@@ -259,7 +259,7 @@
 }
 },
 "blog-google": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-1440x810.jpg"
 },
 "boardui": {
@@ -282,10 +282,12 @@
 }
 },
 "bolt-new": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://bolt.new/static/social_preview_index-v2.png",
 "pricing": {
+"currency": "USD",
 "free": true,
+"from": 25.0,
 "url": "https://bolt.new/pricing"
 }
 },
@@ -369,7 +371,7 @@
 }
 },
 "browser": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.lightpanda.io/website/assets/images/opengraph/og.png",
 "pricing": {
 "currency": "USD",
@@ -390,8 +392,8 @@
 "image": "https://browseroperator.io/assets/social-card.png"
 },
 "browser-use": {
-"checked": "2026-10-23",
-"image": "https://browser-use.com/og/home-og.png",
+"checked": "2026-11-22",
+"image": "https://browser-use.com/og/card?title=Browser+agents+and+cloud+browsers.&p=agents%2Cbrowsers%2Charness&v=s3",
 "pricing": {
 "free": true,
 "url": "https://browser-use.com/pricing"
@@ -465,7 +467,7 @@
 }
 },
 "buffer": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://buffer.com/ogImages/homepage-og.png",
 "pricing": {
 "free": true,

@@ -25,7 +25,7 @@
 "image": "https://fairlearn.org/images/fairlearn-meta-image.jpg"
 },
 "faiss": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "falkordb": {
 "checked": "2026-10-25",
@@ -87,7 +87,7 @@
 "checked": "2026-10-29"
 },
 "fastrouter-ai": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://fastrouter.ai/opengraph-image",
 "pricing": {
 "currency": "USD",
@@ -113,11 +113,11 @@
 "image": "https://fenic.ai/opengraph-image?bfb707afcc4efb8b"
 },
 "ferndesk": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://ferndesk.com/assets/og-image-2026-10.png",
 "pricing": {
 "currency": "USD",
-"from": 75.0,
+"from": 10.0,
 "trial": true,
 "url": "https://ferndesk.com/pricing"
 }
@@ -151,7 +151,7 @@
 }
 },
 "figma": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.sanity.io/images/599r6htc/regionalized/b08d37520f7d5ad8d6562975b5932dd2d9a862bb-1200x630.gif?w=1200&q=70&fit=max&auto=format",
 "pricing": {
 "currency": "USD",
@@ -184,7 +184,7 @@
 }
 },
 "finceptterminal": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://fincept.in/capture.png"
 },
 "fingpt": {
@@ -200,7 +200,7 @@
 }
 },
 "firecrawl": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.firecrawl.dev/og.png",
 "pricing": {
 "free": true,
@@ -208,7 +208,7 @@
 }
 },
 "fireflies-ai": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://fireflies.ai/thumbnail.png",
 "pricing": {
 "free": true,
@@ -240,8 +240,8 @@
 "image": "https://roost.duckbug.io/og-image.png"
 },
 "floot-mcp": {
-"checked": "2026-10-23",
-"image": "https://floot.com/opengraph-image?73d44ab152b4e4a6",
+"checked": "2026-11-22",
+"image": "https://floot.com/_og/en?v=bad41be45c69fbbe",
 "pricing": {
 "currency": "USD",
 "free": true,
@@ -305,7 +305,7 @@
 "image": "https://folkbench.com/brand/folkbench-og-launch-20260925.png"
 },
 "folo": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://app.folo.is/og-image.png"
 },
 "foolbox": {
@@ -376,7 +376,7 @@
 "checked": "2026-11-01"
 },
 "freellmapi": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://freellmapi.co/assets/og/home.png",
 "pricing": {
 "free": true,
@@ -384,11 +384,11 @@
 }
 },
 "frigate-nvr": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://frigate.video/images/ui.jpg"
 },
 "front-end-checklist": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://frontendchecklist.io/og-image.png"
 },
 "frontieragent": {
@@ -404,7 +404,7 @@
 }
 },
 "fuse": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "pricing": {
 "currency": "USD",
 "free": true,

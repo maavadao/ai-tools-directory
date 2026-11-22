@@ -23,7 +23,7 @@
 }
 },
 "jan": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://jan.ai/assets/images/general/og-image.png"
 },
 "jaredrhod-com": {
@@ -34,7 +34,7 @@
 "checked": "2026-10-28"
 },
 "jasper": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.prod.website-files.com/6807ee8d73c233fb82842313/6846454bda26628fcf51d54c_9650916b48ce089735bcc21cc8e43f2f_OpenGraph%20-%20Home.png",
 "pricing": {
 "currency": "USD",
@@ -115,14 +115,8 @@
 "image": "https://jobsync.ca/images/jobsync-dashboard-screenshot.png"
 },
 "jockey-by-twelvelabs": {
-"checked": "2026-10-23",
-"image": "https://framerusercontent.com/images/HCQkFF3Rw3hgP3u68YqGAP4s.webp",
-"pricing": {
-"currency": "USD",
-"free": true,
-"from": 29.0,
-"url": "https://www.twelvelabs.io/pricing"
-}
+"checked": "2026-11-22",
+"image": "https://framerusercontent.com/images/HCQkFF3Rw3hgP3u68YqGAP4s.webp"
 },
 "joinly-ai": {
 "checked": "2026-11-04",
@@ -172,7 +166,7 @@
 "checked": "2026-11-03"
 },
 "julius-ai": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://julius.ai/opengraph-image.png",
 "pricing": {
 "currency": "USD",

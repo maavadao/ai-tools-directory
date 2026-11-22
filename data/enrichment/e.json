@@ -6,7 +6,7 @@
 "checked": "2026-11-01"
 },
 "ecc": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://ecc.tools/og.png?v=3f55054986bd",
 "pricing": {
 "free": true,
@@ -29,10 +29,11 @@
 "checked": "2026-11-04"
 },
 "eclatira": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "pricing": {
 "currency": "USD",
-"from": 35.0,
+"from": 79.0,
+"trial": true,
 "url": "https://eclatira.com/pricing"
 }
 },
@@ -135,7 +136,7 @@
 "image": "https://eleven.chizi.app/og.png"
 },
 "elevenlabs": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://elevenlabs.io/cover.png",
 "pricing": {
 "currency": "USD",
@@ -145,7 +146,7 @@
 }
 },
 "elicit": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://framerusercontent.com/images/s7irwYwOOfdSFu6EPduaB8EDsIg.png"
 },
 "eliza-research": {
@@ -296,7 +297,7 @@
 "image": "https://evotorch.ai/social_white.png"
 },
 "exa-3-0": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://exa.imgix.net/og-image-v4.png/",
 "pricing": {
 "free": true,

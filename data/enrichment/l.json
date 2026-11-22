@@ -20,7 +20,7 @@
 "image": "https://labml.ai/images/seo-cover.jpg"
 },
 "labs": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "lakesail": {
 "checked": "2026-10-28",
@@ -52,7 +52,7 @@
 "image": "https://space.langbot.app/social/space-v3.png"
 },
 "langchain": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/6a907b277587adb77be09e34_Website%20preview%20.png",
 "pricing": {
 "currency": "USD",
@@ -65,11 +65,11 @@
 "checked": "2026-10-31"
 },
 "langflow": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.langflow.org/images/og-image.png"
 },
 "langfuse": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://langfuse.com/api/og?title=Langfuse+%E2%80%93+Open+Source+Agent+Evals+%26+Observability&description=Trace%2C+evaluate%2C+and+improve+AI+agents+with+one+open+platform.+Use+production+data+to+understand+behavior%2C+collaborate+on+fixes%2C+and+ship+better+quality+at+lower+cost+and+latency.",
 "pricing": {
 "currency": "USD",
@@ -156,7 +156,7 @@
 }
 },
 "learn-claude-code": {
-"checked": "2026-10-23"
+"checked": "2026-11-22"
 },
 "learn-prompting": {
 "checked": "2026-10-27"
@@ -184,7 +184,7 @@
 "checked": "2026-10-28"
 },
 "lemlist": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://web-assets.lemlist.com/lemlist/revamp/lemlist-og.png",
 "pricing": {
 "currency": "USD",
@@ -244,7 +244,7 @@
 "image": "https://uselexora.app/landing/share-zh.png"
 },
 "librechat": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.librechat.ai/api/og?v=a40e77512dc1"
 },
 "libreyolo": {
@@ -260,13 +260,13 @@
 "image": "https://ourlifeos.ai/og/home.jpg"
 },
 "lightning-ai": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://lightning.ai/media/social-preview-2026.png",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 140.0,
-"url": "https://lightning.ai/pricing/"
+"from": 20.0,
+"url": "https://lightning.ai/pricing"
 }
 },
 "lightseek-foundation": {
@@ -288,11 +288,11 @@
 "checked": "2026-10-27"
 },
 "lindy": {
-"checked": "2026-10-23",
-"image": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/69a20da89a23a65ce1b211c3_3ca1c8cedd19958a4fa76e3387d064a2_Lindy%20OG.jpg",
+"checked": "2026-11-22",
+"image": "https://www.lindy.ai/_sherpa/images/lindy-share.jpg",
 "pricing": {
 "currency": "USD",
-"from": 29.99,
+"from": 49.99,
 "trial": true,
 "url": "https://www.lindy.ai/pricing"
 }
@@ -302,7 +302,7 @@
 "image": "https://cccrafts.ai/images/ccc-logo.png"
 },
 "litellm": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.prod.website-files.com/69eb241da3f923869c226875/6abea2df3acf85b946e5ab7d_litellm-og-2026.png"
 },
 "liveblocks": {
@@ -324,7 +324,7 @@
 "image": "https://llama-assistant.nrl.ai/screenshot.png"
 },
 "llama-cpp": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://llama.app/og-image.png"
 },
 "llamachat": {
@@ -336,12 +336,10 @@
 "image": "https://llamafarm.dev/images/31a0aa40-dbad-4436-a078-075840de90e5.png"
 },
 "llamaindex": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.llamaindex.ai/og-image.png",
 "pricing": {
-"currency": "USD",
 "free": true,
-"from": 50.0,
 "url": "https://www.llamaindex.ai/pricing"
 }
 },
@@ -459,12 +457,12 @@
 "image": "https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/og-vidol-480x270.png"
 },
 "lobehub": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://lobehub.com/assets/cao-og.webp",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 9.9,
+"from": 10.0,
 "trial": true,
 "url": "https://lobehub.com/pricing"
 }
@@ -474,8 +472,8 @@
 "image": "https://ydhardwarecommon.nosdn.127.net/85ca628b73b3d3ddab9394f9f85e9ced.jpg"
 },
 "localai": {
-"checked": "2026-10-23",
-"image": "https://localai.io/img/logo-full.png"
+"checked": "2026-11-22",
+"image": "https://localai.io/img/brand/og-card-1200x630.jpg"
 },
 "locally-uncensored": {
 "checked": "2026-10-29",
@@ -508,19 +506,14 @@
 "checked": "2026-11-04"
 },
 "lovable": {
-"checked": "2026-10-23",
-"image": "https://lovable.dev/img/opengraph-image.png",
-"pricing": {
-"free": true,
-"url": "https://lovable.dev/pricing"
-}
+"checked": "2026-11-22"
 },
 "ltx": {
 "checked": "2026-10-25",
 "image": "https://cdn.prod.website-files.com/68872d15af29880764eac4aa/6a7ae83a622dd251afa00129_ltx-hp-og.webp"
 },
 "luci": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://luci.memories.ai/og-luci-agents.png",
 "pricing": {
 "currency": "USD",
@@ -530,7 +523,7 @@
 }
 },
 "luma": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cdn.sanity.io/images/2ylxvaa2/production/ff7469d468f6f7e447ccb4a50276f1cb03c6664d-1200x630.jpg?w=1200&h=630&fm=jpg"
 },
 "lumibot": {

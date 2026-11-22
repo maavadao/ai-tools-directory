@@ -7,8 +7,8 @@
 "image": "https://www.adaline.ai/metadata/og-image.png"
 },
 "gauth": {
-"checked": "2026-10-23",
-"image": "https://sf16-ehi-tos.gauthstatic.com/obj/ehi-apk-sg/share-link-preview.png"
+"checked": "2026-11-22",
+"image": "https://sf16-ehi-tos.gauthstatic-us.com/obj/ehi-apk-tx/share-link-preview.png"
 },
 "gawkbot": {
 "checked": "2026-10-31",
@@ -18,11 +18,11 @@
 "checked": "2026-10-31"
 },
 "gemini": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://www.gstatic.com/lamda/images/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718.png"
 },
 "gemini-cli": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://geminicli.com/assets/social-poster.png",
 "pricing": {
 "free": true,
@@ -98,15 +98,15 @@
 "image": "https://demo.getcito.com/api/og?description=Track+and+optimize+your+brand%27s+visibility+across+AI+models."
 },
 "getdesign-md": {
-"checked": "2026-10-23",
-"image": "https://getdesign.md/api/og/default?v=2"
+"checked": "2026-11-22",
+"image": "https://getdesign.md/api/og/default?v=3"
 },
 "getting-started": {
 "checked": "2026-10-25"
 },
 "ghost-ai": {
-"checked": "2026-10-23",
-"image": "https://ghost.ai/opengraph-image.jpg?opengraph-image.13anp_69f8ba9.jpg"
+"checked": "2026-11-22",
+"image": "https://ghost.ai/opengraph-image.jpg?opengraph-image.03kbcstif5zt5.jpg"
 },
 "ghost-os": {
 "checked": "2026-10-30",
@@ -133,8 +133,8 @@
 "image": "https://gitdiagram.com/opengraph-image.png?opengraph-image.174h-oeczhgif.png"
 },
 "github-copilot": {
-"checked": "2026-10-23",
-"image": "https://images.ctfassets.net/8aevphvgewt8/4KxWJH8PVVXdqBLs1V3UJ8/8926c7d150a8b8f3bf33c1c8a133724b/github-copilot-social-img.png",
+"checked": "2026-11-22",
+"image": "https://images.ctfassets.net/8aevphvgewt8/4KxWJH8PVVXdqBLs1V3UJ8/7b7f6e8405daa24565374f993c0fca68/github-copilot-open-graph-img.jpg",
 "pricing": {
 "currency": "USD",
 "free": true,
@@ -229,15 +229,15 @@
 }
 },
 "google-cloud": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png"
 },
 "google-for-developers": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://developers.google.com/static/site-assets/images/home/developers-landing-social-media.png"
 },
 "google-research": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
 },
 "goose-skills": {
@@ -319,7 +319,7 @@
 "checked": "2026-11-02"
 },
 "grammarly": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://static-web.grammarly.com/1e6ajr2k4140/1kGiUxfxoLhCPH7wGcvknN/c218a7bbcdfc24301fbbfb6ae9892ec6/default_social_share.png"
 },
 "grandet": {
@@ -338,10 +338,12 @@
 "checked": "2026-11-04"
 },
 "graphify": {
-"checked": "2026-10-23",
-"image": "https://graphify.com/opengraph-image.png?opengraph-image.3ssypa_91yyrh.png",
+"checked": "2026-11-22",
+"image": "https://graphify.com/opengraph-image.png",
 "pricing": {
+"currency": "USD",
 "free": true,
+"from": 12.0,
 "url": "https://graphify.com/pricing"
 }
 },
@@ -364,7 +366,7 @@
 "image": "https://cdn.prod.website-files.com/65d658559223871198e78bca/69a6e732e154609786d9e9cc_feb9d9ee07bfd00b321c90c53f7cfe3d_Open-Graph.png"
 },
 "groq": {
-"checked": "2026-10-23",
+"checked": "2026-11-22",
 "image": "https://groq.com/images/og.png"
 },
 "guandao-yang": {
