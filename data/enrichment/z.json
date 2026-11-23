@@ -1,9 +1,9 @@
 {
 "z-ai": {
-"checked": "2026-10-23"
+"checked": "2026-11-23"
 },
 "zapier": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/f_auto/v1776210705/Governance/og-image-homepage_mskeaq.png",
 "pricing": {
 "currency": "USD",
@@ -14,15 +14,14 @@
 }
 },
 "zed": {
-"checked": "2026-10-23",
-"image": "https://zed.dev/img/home/og.webp"
+"checked": "2026-11-23"
 },
 "zed-sdk": {
 "checked": "2026-11-01",
 "image": "https://cdn.sanity.io/images/s18ewfw4/staging/a4ac75f23573f083f715b6ee6cfdc595e8308380-60x60.svg?rect=0,14,60,32&w=1200&h=630"
 },
 "zenabm": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://zenabm.com/opengraph-image",
 "pricing": {
 "currency": "USD",
@@ -33,11 +32,11 @@
 }
 },
 "zendesk": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://d1eipm3vz40hy0.cloudfront.net/images/logos/favicons/zendesk-image.png",
 "pricing": {
 "currency": "GBP",
-"from": 19.0,
+"from": 15.0,
 "trial": true,
 "url": "https://www.zendesk.com/in/pricing/"
 }
@@ -66,7 +65,7 @@
 "image": "https://zenstory.ai/brand/og-zenstory-ai.png"
 },
 "zep": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://files.buildwithfern.com/zep.docs.buildwithfern.com/02c641ada228c93ddc35eb6c1bc7e334fc8b00cbce6788440d20f2d5097a0ef3/images/docs-social-card.png"
 },
 "zephium": {
@@ -84,7 +83,7 @@
 "checked": "2026-10-28"
 },
 "zeroclaw": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://www.zeroclaw.com/images/og-card.jpg"
 },
 "zeron": {
@@ -120,11 +119,11 @@
 "image": "https://zolotukhin.ai/og-image-v2.png"
 },
 "zoowork": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://zoowork.ai/zoowork-home/assets/hero/supply-chain-agent-interface-v3.png"
 },
 "zvec": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://zvec.org/img/header.png"
 }
 }

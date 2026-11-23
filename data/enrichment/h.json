@@ -4,7 +4,7 @@
 "image": "https://assets.h2o.ai/f/295428656829522/eb61b15d43/og-image-home-d6f277bb90.png"
 },
 "h4cker": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "hackerai": {
 "checked": "2026-11-02",
@@ -47,7 +47,7 @@
 "checked": "2026-10-29"
 },
 "hamster": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://tryhamster.com/images/og-image.png",
 "pricing": {
 "free": true,
@@ -59,7 +59,7 @@
 "image": "https://handbook.academy/static/og/site.png"
 },
 "hands-on-large-language-models": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "handsy-ai": {
 "checked": "2026-10-27",
@@ -120,7 +120,7 @@
 "image": "https://usehax.dev/demo-card.png"
 },
 "haystack": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://haystack.deepset.ai/images/haystack-ogimage.png"
 },
 "headroom": {
@@ -223,8 +223,8 @@
 "checked": "2026-11-22"
 },
 "hermes": {
-"checked": "2026-10-24",
-"image": "https://nesquena.github.io/hermes-webui/images/ui-hero.png"
+"checked": "2026-11-23",
+"image": "https://get-hermes.ai/images/hermes-social.png"
 },
 "hermes-agent": {
 "checked": "2026-11-22",
@@ -235,8 +235,7 @@
 "image": "https://hermesatlas.com/api/og?title=Hermes+Atlas&subtitle=Get+the+most+out+of+Hermes+Agent+-+install%2C+modes%2C+skills%2C+ecosystem&v=20260829"
 },
 "hermes-one": {
-"checked": "2026-10-24",
-"image": "https://hermesone.org/thumb.png"
+"checked": "2026-11-23"
 },
 "hermespet": {
 "checked": "2026-11-04",
@@ -346,6 +345,9 @@
 "url": "https://www.holaboss.ai/pricing"
 }
 },
+"holaos": {
+"checked": "2026-11-23"
+},
 "holmesgpt-dev": {
 "checked": "2026-10-28"
 },
@@ -365,7 +367,7 @@
 "image": "https://paddler.intentee.com/assets/og-image_4B4SFH3H.png"
 },
 "homl-books": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://homl.info/og.jpg"
 },
 "honcho": {
@@ -444,7 +446,7 @@
 }
 },
 "hummingbot": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://hummingbot.org/assets/images/social/index.png"
 },
 "hunk": {

@@ -46,14 +46,8 @@
 "image": "https://scanpy.scverse.org/en/stable/_static/Scanpy_Logo_BrightFG.svg"
 },
 "schole": {
-"checked": "2026-10-23",
-"image": "https://schole.ai/og.png",
-"pricing": {
-"currency": "USD",
-"free": true,
-"from": 75.0,
-"url": "https://schole.ai/pricing"
-}
+"checked": "2026-11-23",
+"image": "https://schole.ai/og.png"
 },
 "scienceclaw": {
 "checked": "2026-11-01",
@@ -66,7 +60,7 @@
 "checked": "2026-10-26"
 },
 "scikit-learn": {
-"checked": "2026-10-23"
+"checked": "2026-11-23"
 },
 "scikit-learn-tips": {
 "checked": "2026-10-30",
@@ -82,7 +76,7 @@
 }
 },
 "scrapegraphai": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://pub-308fdc8a1858487d9ab275774108077b.r2.dev/images/og.png",
 "pricing": {
 "currency": "USD",
@@ -96,7 +90,7 @@
 "image": "https://scrawl.kitlangton.com/og.png"
 },
 "screenpipe": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://screenpipe.com/og?v=memory-brand-20260929",
 "pricing": {
 "currency": "USD",
@@ -122,8 +116,8 @@
 "checked": "2026-10-30"
 },
 "sealos": {
-"checked": "2026-10-24",
-"image": "https://sealos.io/api/og",
+"checked": "2026-11-23",
+"image": "https://sealos.io/images/og/homepage.png",
 "pricing": {
 "currency": "USD",
 "free": true,
@@ -181,11 +175,11 @@
 "image": "https://sellbird.ai/og/default.png"
 },
 "semantic-kernel": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://learn.microsoft.com/en-us/media/open-graph-image.png"
 },
 "semantica": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://getsemantica.ai/opengraph-image?93aaba22b20a4584",
 "pricing": {
 "free": true,
@@ -200,7 +194,7 @@
 "image": "https://semiotic.nteract.io/assets/img/semiotic-social.png"
 },
 "sentence-transformers": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "sentient": {
 "checked": "2026-11-03",
@@ -238,15 +232,15 @@
 "image": "https://buggregator.dev/buggregator.png"
 },
 "seth-hobson": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://sethhobson.com/og-image.png"
 },
 "sglang": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://www.sglang.io/images/hero-illustrate.png?v=2"
 },
 "shannon": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://keygraph.io/public/og-image.png"
 },
 "shannon-run": {
@@ -296,7 +290,7 @@
 "checked": "2026-10-28"
 },
 "signoz": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://signoz.io/img/signoz-meta-image.webp",
 "pricing": {
 "currency": "USD",
@@ -306,10 +300,10 @@
 }
 },
 "sillytavern": {
-"checked": "2026-10-23"
+"checked": "2026-11-23"
 },
 "sim": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.sim.ai/logo/426-240/reverse/small.png",
 "pricing": {
 "currency": "USD",
@@ -354,7 +348,7 @@
 "checked": "2026-11-01"
 },
 "skills": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://res.cloudinary.com/total-typescript/image/upload/v1777557385/og-image-root_2x.jpg"
 },
 "skills-manager": {
@@ -362,7 +356,7 @@
 "image": "https://skillsmanager.dev/og-v2.png"
 },
 "skills-sh": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://www.skills.sh/og.jpeg"
 },
 "skills-universe": {
@@ -401,11 +395,12 @@
 "image": "https://cdn.sanity.io/images/9qcljuzt/production/1d7efde891b608b79232e7cb65725cdae2b8666c-1200x630.png?rect=0,2,1200,627&w=1200&h=627&fit=crop&auto=format"
 },
 "skyvern": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.skyvern.com/og-image.png",
 "pricing": {
 "currency": "USD",
 "from": 10.0,
+"trial": true,
 "url": "https://www.skyvern.com/pricing"
 }
 },
@@ -508,8 +503,8 @@
 "checked": "2026-10-28"
 },
 "sourcegraph": {
-"checked": "2026-10-23",
-"image": "https://storage.googleapis.com/marketing-site-static-assets-prod/og-image-homepage.webp",
+"checked": "2026-11-23",
+"image": "https://sourcegraph.com/_docssvc-assets/marketing/og-image-homepage.webp",
 "pricing": {
 "trial": true,
 "url": "https://sourcegraph.com/pricing"
@@ -539,7 +534,7 @@
 }
 },
 "spacy": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://spacy.io/_next/static/media/social_default.96b04585.jpg"
 },
 "spanish-top-tech-companies": {
@@ -553,7 +548,7 @@
 "checked": "2026-10-27"
 },
 "speak": {
-"checked": "2026-10-23"
+"checked": "2026-11-23"
 },
 "spec-kitty": {
 "checked": "2026-10-30",
@@ -592,7 +587,7 @@
 "image": "https://unicity-website-uploads-prod-654654299933-eu-central-1.s3.eu-central-1.amazonaws.com/Homepage_OG_09f198be27.png"
 },
 "spira-ai": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://spira.ai/opengraph-image",
 "pricing": {
 "currency": "USD",
@@ -634,7 +629,7 @@
 "checked": "2026-10-27"
 },
 "srs-simple-realtime-server": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "stability-ai-platform": {
 "checked": "2026-10-29"
@@ -655,7 +650,7 @@
 "image": "https://stackql.io/img/stackql-featured-image.png"
 },
 "stagehand": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://stagehand.dev/opengraph-image.png?opengraph-image.0tcx71yo14ho0.png"
 },
 "starlight-search": {
@@ -685,10 +680,10 @@
 "image": "https://stashdock.app/assets/social/hero-20261105.png"
 },
 "stasosphere-base": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "statable-analytics": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://statable.com/thumbnail.png",
 "pricing": {
 "currency": "USD",
@@ -747,11 +742,11 @@
 }
 },
 "streamlit": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://streamlit.io/images/uploads/sharing-image-facebook.jpg"
 },
 "strix": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://www.strix.ai/og.png",
 "pricing": {
 "free": true,
@@ -792,7 +787,7 @@
 "image": "https://summarize.sh/social-card.png"
 },
 "suna": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://kortix.com/banner.png",
 "pricing": {
 "currency": "USD",
@@ -802,18 +797,20 @@
 }
 },
 "suno": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://cdn-o.suno.com/meta-preview.jpg",
 "pricing": {
+"currency": "USD",
 "free": true,
-"url": "https://suno.com"
+"from": 8.0,
+"url": "https://suno.com/pricing"
 }
 },
 "suno-api": {
 "checked": "2026-10-28"
 },
 "supabase": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://supabase.com/images/og/supabase-og.png",
 "pricing": {
 "currency": "USD",
@@ -823,7 +820,7 @@
 }
 },
 "supademo": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://supademo.com/api/og/page",
 "pricing": {
 "currency": "USD",
@@ -861,7 +858,7 @@
 }
 },
 "superagi": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "superdoc": {
 "checked": "2026-11-01",
@@ -884,7 +881,7 @@
 }
 },
 "superhuman": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://superhumanstatic.com/vwfkeyj6n9ac/70d5WBekIRRrA200BtyOob/7ecef93df6ed744b4e7df600140732e1/HP-Meta-Image-8-12-2026__1_.gif",
 "pricing": {
 "trial": true,
@@ -896,10 +893,11 @@
 "image": "https://superlog.sh/superlog-og.png"
 },
 "supermemory": {
-"checked": "2026-10-23",
-"image": "https://supermemory.ai/og-image.png",
+"checked": "2026-11-23",
+"image": "https://supermemory.ai/og/index.png",
 "pricing": {
 "currency": "USD",
+"free": true,
 "from": 19.0,
 "url": "https://supermemory.ai/pricing/"
 }
@@ -909,13 +907,13 @@
 "image": "https://sp.aiolaola.com/assets/og-image.jpg?v=6afc4b56a5"
 },
 "superset": {
-"checked": "2026-10-24",
-"image": "https://superset.sh/og-image.png",
+"checked": "2026-11-23",
+"image": "https://paradev.com/og-image.png",
 "pricing": {
 "currency": "USD",
 "free": true,
 "from": 16.0,
-"url": "https://superset.sh/pricing"
+"url": "https://paradev.com/pricing"
 }
 },
 "supervisely": {
@@ -930,13 +928,13 @@
 }
 },
 "supervision-documentation": {
-"checked": "2026-10-23"
+"checked": "2026-11-23"
 },
 "surf": {
 "checked": "2026-11-02"
 },
 "surfer": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://surfer.ai/images/og/basic.jpg",
 "pricing": {
 "free": true,
@@ -944,8 +942,13 @@
 }
 },
 "surfsense": {
-"checked": "2026-10-24",
-"image": "https://www.surfsense.com/og-image.png"
+"checked": "2026-11-23",
+"image": "https://www.surfsense.com/og-image.png",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://www.surfsense.com/pricing"
+}
 },
 "surogate": {
 "checked": "2026-11-02",
@@ -988,13 +991,13 @@
 "image": "https://www.swarmvault.ai/og-image.png"
 },
 "swe-agent-com": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "swe-bench-leaderboards": {
 "checked": "2026-10-26"
 },
 "swe-list": {
-"checked": "2026-10-23"
+"checked": "2026-11-23"
 },
 "swe-rex-com": {
 "checked": "2026-11-03"
@@ -1037,12 +1040,12 @@
 }
 },
 "synthesia": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6a69f92081e7150b43394a9f_OG-Image-EN.jpg",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 29.0,
+"from": 99.0,
 "url": "https://www.synthesia.io/pricing"
 }
 },

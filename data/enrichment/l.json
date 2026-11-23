@@ -1,6 +1,6 @@
 {
 "label-studio": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://cdn.sanity.io/images/k7elabj6/production/91e23a79f08972e22abe23b7f70866fddecbb17b-1200x630.png",
 "pricing": {
 "trial": true,
@@ -8,12 +8,8 @@
 }
 },
 "labelme": {
-"checked": "2026-10-24",
-"image": "https://cdn.labelme.io/og5.webp",
-"pricing": {
-"trial": true,
-"url": "https://labelme.io/pricing"
-}
+"checked": "2026-11-23",
+"image": "https://cdn.labelme.io/og5.webp"
 },
 "labml-ai": {
 "checked": "2026-10-29",
@@ -48,7 +44,7 @@
 }
 },
 "langbot-space": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://space.langbot.app/social/space-v3.png"
 },
 "langchain": {
@@ -173,7 +169,7 @@
 }
 },
 "learnopencv": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://cdn.learnopencv.com/wp-content/uploads/2017/12/04104052/favicon.png"
 },
 "learnprompt": {
@@ -217,7 +213,7 @@
 "image": "https://leoaido.com/og/default.jpg"
 },
 "leon": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://getleon.ai/img/facebook-preview.png"
 },
 "let-s-code": {
@@ -228,11 +224,11 @@
 "checked": "2026-10-29"
 },
 "letta": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.letta.com/assets/images/meta-card.png"
 },
 "lexmount-browser": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://browser.lexmount.com/brand/lexmount-og.png",
 "pricing": {
 "free": true,
@@ -256,7 +252,7 @@
 "image": "https://lichtfeld.io/static/social-preview.png"
 },
 "lifeos": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://ourlifeos.ai/og/home.jpg"
 },
 "lightning-ai": {
@@ -402,7 +398,7 @@
 "checked": "2026-11-03"
 },
 "llmware": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://framerusercontent.com/assets/23wYSDFvfVgijx9jM1Roq3r1qHQ.png"
 },
 "llplayer": {

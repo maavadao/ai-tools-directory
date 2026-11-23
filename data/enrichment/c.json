@@ -1,6 +1,6 @@
 {
 "cactus-compute": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2"
 },
 "cadam": {
@@ -12,7 +12,7 @@
 "image": "https://www.camb.ai/opengraph-image"
 },
 "camel-ai": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://cdn.camel-ai.org/image/thumbnail.png"
 },
 "canopy-labs": {
@@ -55,10 +55,10 @@
 "image": "https://cdn.ploy.ai/85867475-b06b-4544-912d-701fb42e8c02/user/a567e070-ai-generated-1783581868108.png"
 },
 "casdoor": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "pricing": {
 "currency": "USD",
-"from": 24.0,
+"from": 6.67,
 "trial": true,
 "url": "https://www.casdoor.com/pricing?utm_source=casdoor.ai&utm_medium=announcement"
 }
@@ -101,7 +101,7 @@
 "image": "https://www.cboard.io/images/serbia01.jpg"
 },
 "cc-haha": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://cchaha.ai/images/banner.png"
 },
 "cc-safety-net": {
@@ -191,7 +191,7 @@
 }
 },
 "chat2db": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://cdn.chat2db-ai.com/website/img/social.png",
 "pricing": {
 "free": true,
@@ -312,7 +312,7 @@
 "image": "https://ctsheehan.com/og.jpg"
 },
 "chroma": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.trychroma.com/card.png",
 "pricing": {
 "currency": "USD",
@@ -606,12 +606,12 @@
 }
 },
 "cmux": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://cmux.com/opengraph-image",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 40.0,
+"from": 15.0,
 "url": "https://cmux.com/pricing"
 }
 },
@@ -689,7 +689,7 @@
 "image": "https://www.codepilot.sh/screenshots/en/chat-window.webp"
 },
 "coder": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://coder.com/_next/static/media/OpenGraph.f7fb2003.jpg",
 "pricing": {
 "trial": true,
@@ -718,8 +718,8 @@
 "image": "https://www.codexmonitor.app/assets/main.png"
 },
 "codexbar": {
-"checked": "2026-10-24",
-"image": "https://codexbar.app/social.png?v=1436859e75bb3a24"
+"checked": "2026-11-23",
+"image": "https://codexbar.app/social.png?v=b34db92095031795"
 },
 "codync": {
 "checked": "2026-11-01",
@@ -1064,7 +1064,7 @@
 }
 },
 "crawlee": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "createmvp": {
 "checked": "2026-11-01"
@@ -1152,7 +1152,7 @@
 }
 },
 "cube-dev": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://static.cube.dev/website-v2/og/og-cube-default.png",
 "pricing": {
 "currency": "USD",
@@ -1207,7 +1207,7 @@
 "checked": "2026-10-30"
 },
 "cvat-ai": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://cdn.prod.website-files.com/62bebfb83044de7f13ae257e/697b0dd523e73c838362875d_CVAT.webp",
 "pricing": {
 "free": true,

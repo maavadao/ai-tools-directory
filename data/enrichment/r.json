@@ -19,7 +19,7 @@
 "checked": "2026-10-30"
 },
 "ragflow": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://ragflow.io/img/ragflow-social-card.png",
 "pricing": {
 "currency": "USD",
@@ -70,18 +70,18 @@
 "checked": "2026-10-26"
 },
 "ray": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://ray.io/images/og.png"
 },
 "rea": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://rea.tools/assets/social-card.png"
 },
 "react-app": {
 "checked": "2026-10-30"
 },
 "react-doctor": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.react.doctor/opengraph-image"
 },
 "react-grab": {
@@ -114,7 +114,7 @@
 "image": "https://reader.dev/og-image.png"
 },
 "readywhen": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://app.readywhen.ai/opengraph-image.jpg?opengraph-image.0j4iyf128lxuz.jpg"
 },
 "realsense": {
@@ -129,7 +129,7 @@
 "checked": "2026-11-11"
 },
 "reclaim": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://cdn.prod.website-files.com/5ec848ec2b50b6cfae06f6cc/65e2563b7c0658aed71828ac_open_graph_final.png",
 "pricing": {
 "currency": "USD",
@@ -148,7 +148,8 @@
 "image": "https://img.redink.top/redgen/history/showcase/brand/logo/icon-256.png"
 },
 "redirecting": {
-"checked": "2026-10-23"
+"checked": "2026-11-23",
+"image": "https://dspy.ai/current/assets/images/social-zensical/8a5edab282632443.png"
 },
 "redirecting-to-https-sonnet-readthedocs-io": {
 "checked": "2026-10-25"
@@ -190,7 +191,7 @@
 }
 },
 "relevance-ai": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://cdn.relevanceai.com/images/og-image.webp"
 },
 "reme-documentation": {
@@ -208,7 +209,7 @@
 "image": "https://remote-pi.jacobmoura.work/opengraph-image?affd0b6fa7b04497"
 },
 "remove-bg": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://sb.kaleidousercontent.com/67418/600x315/48eb30a742/emilia-og-image.jpg"
 },
 "rentry-co": {
@@ -220,14 +221,14 @@
 "image": "https://opusjake.ai/OpusJake-Cover.png"
 },
 "replicate": {
-"checked": "2026-10-23"
+"checked": "2026-11-23"
 },
 "replit": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://replit.com/public/images/opengraph_rebrand.jpg"
 },
 "repomix": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://repomix.com/images/og-image-large.png"
 },
 "repoprompt": {
@@ -253,8 +254,8 @@
 }
 },
 "reso": {
-"checked": "2026-10-23",
-"image": "https://resollm.ai/white_reso.png",
+"checked": "2026-11-23",
+"image": "https://resollm.ai/og-image.png",
 "pricing": {
 "free": true,
 "url": "https://www.resollm.ai/pricing/"
@@ -282,7 +283,7 @@
 "checked": "2026-10-27"
 },
 "resume-matcher": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://resumematcher.fyi/images/meta/og-image.jpg"
 },
 "retentioneering-tools": {
@@ -292,7 +293,7 @@
 "checked": "2026-10-31"
 },
 "retriever-ai": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://rtrvr.ai/meta/rtrvr-paper-route-og.png",
 "pricing": {
 "currency": "USD",
@@ -342,7 +343,7 @@
 }
 },
 "rill-browser": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://rill.love/assets/og-image.png"
 },
 "ringnet": {
@@ -447,7 +448,7 @@
 "image": "https://rome.baulab.info/images/ct-thumb.gif"
 },
 "rool": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://rool.dev/og-image.png",
 "pricing": {
 "currency": "EUR",
@@ -475,11 +476,11 @@
 "image": "https://row-bot.ai/row_bot_preview.png"
 },
 "rowboat": {
-"checked": "2026-10-24",
-"image": "https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901"
+"checked": "2026-11-23",
+"image": "https://www.rowboatlabs.com/og-image.png"
 },
 "rtk": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://www.rtk-ai.app/og-image.png"
 },
 "ru-dalle": {
@@ -499,7 +500,7 @@
 "checked": "2026-10-31"
 },
 "rufus": {
-"checked": "2026-10-23"
+"checked": "2026-11-23"
 },
 "ruiyuan-gao": {
 "checked": "2026-11-01"
@@ -519,7 +520,7 @@
 "image": "https://runpane.com/en/opengraph-image?34b6fe48dbf5047b"
 },
 "runway": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/homepage-og-card-v3.webp",
 "pricing": {
 "currency": "USD",
@@ -546,7 +547,7 @@
 }
 },
 "ruview": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://cognitum.one/cognitum-share-logo-v2.png"
 },
 "rwilinski-ai": {
@@ -557,7 +558,7 @@
 "checked": "2026-10-26"
 },
 "rytr": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://rytr.me/assets/product/home-brief.webp",
 "pricing": {
 "currency": "USD",

@@ -3,11 +3,11 @@
 "checked": "2026-11-04"
 },
 "facefusion": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://facefusion.io/images/facefusion.png"
 },
 "faceswap": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://faceswap.dev/wp-content/uploads/2019/09/Patreon_white-e1570062028296.jpg"
 },
 "failproof-ai": {
@@ -58,7 +58,7 @@
 "image": "https://tadata-a67d782f.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=Welcome+to+FastAPI-MCP%21&description=Expose+your+FastAPI+endpoints+as+Model+Context+Protocol+%28MCP%29+tools%2C+with+Auth%21&theme=3cd45186f5f01d3b5844570a&signature=57403da8369affe5e77bcc67a208020812dcae386e345dda409de805d0e15f4a"
 },
 "fastbook": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://course.fast.ai/www/social.png"
 },
 "fastcrw": {
@@ -72,7 +72,7 @@
 }
 },
 "fastgpt": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://fastgpt.io/opengraph-image.png",
 "pricing": {
 "free": true,
@@ -80,8 +80,8 @@
 }
 },
 "fastmcp": {
-"checked": "2026-10-24",
-"image": "https://fastmcp.mintlify.app/_mintlify/api/og/v2?division=Get+Started&title=FastMCP%3A+The+Framework+for+MCP&description=FastMCP+is+the+standard+framework+for+building+Model+Context+Protocol+%28MCP%29+servers%2C+clients%2C+and+interactive+applications.&theme=eccfc557d41f0e9854966f28&signature=339eb9d0d1bf18803a1fb753aa8789156e210cc4d1716326020ac0ac57b44b8e"
+"checked": "2026-11-23",
+"image": "https://gofastmcp.com/brand/og.png"
 },
 "fastml-foundation": {
 "checked": "2026-10-29"
@@ -165,7 +165,7 @@
 "image": "https://southleft.com/media/sl-logo.jpg"
 },
 "figma-context-mcp": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "files-sdk": {
 "checked": "2026-10-31",
@@ -188,7 +188,7 @@
 "image": "https://fincept.in/capture.png"
 },
 "fingpt": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "firebase-ios-sdk": {
 "checked": "2026-10-26",

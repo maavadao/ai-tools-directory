@@ -3,17 +3,18 @@
 "checked": "2026-11-03"
 },
 "wan2-1": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://img.alicdn.com/imgextra/i1/O1CN01WlNesT1EWvfm8mzKw_!!6000000000360-2-tps-600-315.png"
 },
 "wandb": {
 "checked": "2026-10-25"
 },
 "warp": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://www.warp.dev/og/default.png",
 "pricing": {
 "currency": "USD",
+"free": true,
 "from": 18.0,
 "url": "https://www.warp.dev/pricing"
 }
@@ -23,7 +24,7 @@
 "image": "https://raw.githubusercontent.com/olistic/warriorjs/41801c3be79c11f5aa855ae921ec0108215c0035/website/static/img/warriorjs.png"
 },
 "wasp": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "wayland": {
 "checked": "2026-11-04",
@@ -34,7 +35,7 @@
 "image": "https://lh3.googleusercontent.com/bnfvXFtZDG0u6Pen-d7RGFIOWMXGHG7xyeqyzvcN9NiulLwWN6HZfN5lwc2LxgLzGBweXalEZ0dB8dgQlCvPwQV5rWss9tm0Ui4"
 },
 "weaviate": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://weaviate.io/og/website/home.jpg",
 "pricing": {
 "currency": "USD",
@@ -94,7 +95,7 @@
 }
 },
 "webllm": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "webllm-chat": {
 "checked": "2026-11-01",
@@ -127,11 +128,11 @@
 "image": "https://wechatrss.waytomaster.com/favicon.svg"
 },
 "wechaty": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://wechaty.js.org/img/wechaty-logo.svg"
 },
 "weclone": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "weco-ai": {
 "checked": "2026-10-31",
@@ -142,7 +143,7 @@
 "image": "https://wctokyoseoul.com/images/marketing/hero-banner.png"
 },
 "weknora": {
-"checked": "2026-10-23"
+"checked": "2026-11-23"
 },
 "welcome": {
 "checked": "2026-11-02"
@@ -195,10 +196,10 @@
 "checked": "2026-11-01"
 },
 "windmill": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "winfunc": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://winfunc.com/og/index.png"
 },
 "winkjs": {
@@ -210,7 +211,7 @@
 "image": "https://winstonkoh87.com/assets/images/og-image.png"
 },
 "woebot-health": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://woebothealth.com/wp-content/uploads/2022/07/Feature-image-option-3.jpg"
 },
 "wordpress-studio": {
@@ -222,7 +223,7 @@
 }
 },
 "wordtune": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://cdn.prod.website-files.com/5f7e0f9d75fee6f6f546df46/66bc50ae0f2962888d8e06a2_OG%20-%20HOME%20PAGE%20.png",
 "pricing": {
 "trial": true,
@@ -264,7 +265,7 @@
 "image": "https://worktrunk.dev/assets/social/social-card.png"
 },
 "world-monitor": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://www.worldmonitor.app/favico/og-image.png"
 },
 "worldseed": {
@@ -277,7 +278,7 @@
 "checked": "2026-10-31"
 },
 "writesonic": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://writesonic.com/opengraph-image"
 },
 "wsl-manager": {

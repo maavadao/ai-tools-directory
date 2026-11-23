@@ -129,7 +129,7 @@
 "image": "https://gitagent.sh/og-banner-2.png"
 },
 "gitdiagram": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://gitdiagram.com/opengraph-image.png?opengraph-image.174h-oeczhgif.png"
 },
 "github-copilot": {
@@ -144,11 +144,11 @@
 }
 },
 "gitingest": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://gitingest.com/static/og-image.png"
 },
 "gitleaks": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "gitmcp": {
 "checked": "2026-10-25",
@@ -183,7 +183,7 @@
 }
 },
 "go-micro": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "gobot": {
 "checked": "2026-10-25"
@@ -283,8 +283,8 @@
 "image": "https://www.gpt-load.com/social-card.png?v=coral-anchor-orange-v2"
 },
 "gpt-researcher": {
-"checked": "2026-10-24",
-"image": "https://gptr.dev/thumbnail.png",
+"checked": "2026-11-23",
+"image": "https://gptr.dev/og-image.png",
 "pricing": {
 "free": true,
 "url": "https://gptr.dev/pricing"
@@ -385,7 +385,7 @@
 "image": "https://guild.xyz/landing/cta-banner.png"
 },
 "gun": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "gymnasium-documentation": {
 "checked": "2026-10-25",

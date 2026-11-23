@@ -1,13 +1,13 @@
 {
 "d2l-en": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "daft": {
 "checked": "2026-10-26",
 "image": "https://www.daft.ai/images/diagram.png"
 },
 "dagger": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "pricing": {
 "currency": "USD",
 "from": 20.0,
@@ -61,7 +61,7 @@
 "checked": "2026-10-28"
 },
 "dapr": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://dapr.io/images/dapr-og-default.png"
 },
 "darkmoon": {
@@ -75,7 +75,7 @@
 }
 },
 "dash": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://plotly.com/cms/img/45139d28-6d34-4168-9480-2c57ee3a81c8_plotly.png?auto=compress&fm=webp",
 "pricing": {
 "currency": "USD",
@@ -150,7 +150,7 @@
 "image": "https://dbhub.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=Introduction&theme=1c06404a5d8a2d47ded59ce2&signature=ad3f26844dbb68669171fd5913611446c1d77ca18ac5a22eacdc1fd1eb92690d"
 },
 "dbx": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://dl.dbxio.com/assets/readme-hero-20260925.png"
 },
 "decepticon": {
@@ -217,7 +217,7 @@
 "image": "https://deepdrive.io/assets/img/cam-depth3.jpg"
 },
 "deepeval": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://deepeval.com/img/social_card.png"
 },
 "deepfates": {
@@ -398,7 +398,7 @@
 "image": "https://www.dexto.ai/og-image.png"
 },
 "diamantai-nir-diamant": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://diamant-ai.com/lovable-uploads/052de04b-d104-473b-9104-886cbee5716a.png"
 },
 "dictionariez": {
@@ -468,7 +468,7 @@
 "image": "https://grounded.tools/og-image.png"
 },
 "docsgpt": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://app.docsgpt.cloud/og_image.png"
 },
 "dograh": {
@@ -485,7 +485,7 @@
 }
 },
 "dolthub": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.dolthub.com/dolthub-preview.png"
 },
 "domain-details-page": {
@@ -508,7 +508,7 @@
 "image": "https://www.doriantodd.com/og/home.jpg"
 },
 "doris": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "dory": {
 "checked": "2026-10-30",
@@ -553,7 +553,7 @@
 "image": "https://droidline.dev/og/en.png"
 },
 "dsh-desktop": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://dshdesktop.com/assets/og-dsh-desktop-en-v1.png"
 },
 "dstack": {
@@ -594,11 +594,11 @@
 "checked": "2026-11-08"
 },
 "dvc": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://dvc.org/wp-content/uploads/2026/09/Sandeep-Raveesh.webp"
 },
 "dyad": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.dyad.sh/opengraph-image"
 },
 "dynamiq": {

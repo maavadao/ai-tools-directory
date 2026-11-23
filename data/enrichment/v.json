@@ -1,6 +1,6 @@
 {
 "v0-by-vercel": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://v0.app/chat/api/og",
 "pricing": {
 "currency": "USD",
@@ -64,11 +64,10 @@
 }
 },
 "velozity": {
-"checked": "2026-10-23",
-"image": "https://getvelozity.com/assets/meta/og-card-v3.png"
+"checked": "2026-11-23"
 },
 "veltrix": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "pricing": {
 "currency": "USD",
 "from": 49.0,
@@ -93,7 +92,7 @@
 "image": "https://www.verbalized-sampling.com/images/intro_teaser.jpg"
 },
 "vercel": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://chatbot.ai-sdk.dev/opengraph-image.png?opengraph-image.8d2152cc.png"
 },
 "vergex": {
@@ -140,7 +139,7 @@
 "image": "https://irp.cdn-website.com/33477119/dms3rep/multi/og-banner.jpeg"
 },
 "vibe-kanban": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://vibekanban.com/images/cta-product-desktop.webp",
 "pricing": {
 "currency": "USD",
@@ -175,11 +174,11 @@
 }
 },
 "video-use": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://video-use.com/demo.png"
 },
 "videocaptioner": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://weifeng2333.github.io/VideoCaptioner/logo.png"
 },
 "videodb-console": {
@@ -282,7 +281,7 @@
 }
 },
 "voicebox": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://voicebox.sh/og.webp",
 "pricing": {
 "free": true,
@@ -294,14 +293,8 @@
 "image": "https://voicemode.dev/og-image.png?v=2"
 },
 "voicestudio": {
-"checked": "2026-10-23",
-"image": "https://voicestudio.sh/og/home.png",
-"pricing": {
-"currency": "USD",
-"free": true,
-"from": 99.0,
-"url": "https://elevenlabs.io/pricing"
-}
+"checked": "2026-11-23",
+"image": "https://voicestudio.sh/og/home.png"
 },
 "voicetree": {
 "checked": "2026-11-02",
@@ -346,7 +339,7 @@
 "checked": "2026-10-25"
 },
 "voxcpm": {
-"checked": "2026-10-23"
+"checked": "2026-11-23"
 },
 "voyager": {
 "checked": "2026-10-25",

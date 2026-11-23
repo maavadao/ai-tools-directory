@@ -1,0 +1,7 @@
+name = "holaOS"
+description = "holaOS runs open models on your own computer and puts them through BenchClub's benchmarks. Free, for macOS, Windows and Linux."
+category = "other"
+website = "https://www.holaos.ai"
+open_source = true
+repository = "https://github.com/holaboss-ai/holaOS"
+added = 2026-11-23

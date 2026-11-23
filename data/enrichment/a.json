@@ -1,6 +1,6 @@
 {
 "a2a-protocol": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "a2ui": {
 "checked": "2026-11-07"
@@ -56,7 +56,7 @@
 "checked": "2026-11-03"
 },
 "activepieces": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.activepieces.com/og-default.jpg",
 "pricing": {
 "currency": "USD",
@@ -306,11 +306,11 @@
 "image": "https://agentteams.live/og-image-agent-teams-v7.png"
 },
 "agent-user-interaction-protocol": {
-"checked": "2026-10-24",
-"image": "https://tawkitai.mintlify.app/_mintlify/api/og/v2?division=Get+Started&title=AG-UI+Overview&theme=e132f7eeff9e70070784bbec&signature=5a128e09682d90abe713e42bfe736db3c88a415efc04aa61d36f7ac8ac334bd0"
+"checked": "2026-11-23",
+"image": "https://tawkitai.mintlify.site/_mintlify/api/og/v2?division=Get+Started&title=AG-UI+Overview&theme=a741acb3b12be59491c967a5&signature=d544a1d7d32c84ac5957179be646a8cc6c2dc6dfa2e354de6db11821a38af0c8"
 },
 "agent-zero": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.agent-zero.ai/res/og.png"
 },
 "agentation": {
@@ -415,8 +415,8 @@
 }
 },
 "agentmemory": {
-"checked": "2026-10-24",
-"image": "https://agent-memory.dev/opengraph-image?8f7fe93d3f9fd0d3"
+"checked": "2026-11-23",
+"image": "https://agent-memory.dev/opengraph-image?8c96f969072fdde2"
 },
 "agentops": {
 "checked": "2026-10-26",
@@ -463,7 +463,7 @@
 "checked": "2026-11-01"
 },
 "agents-md": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://agents.md/og.png"
 },
 "agents-universe": {
@@ -487,8 +487,8 @@
 }
 },
 "agentskills-io": {
-"checked": "2026-10-24",
-"image": "https://agent-skills.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=Agent+Skills+Overview&description=A+standardized+way+to+give+AI+agents+new+capabilities+and+expertise.&theme=eceafe6c9bba4d39011a3a78&signature=f49b9582af9c7723bc252d6f293c7333b92eeb2853b625641b0f6bc444624ce9"
+"checked": "2026-11-23",
+"image": "https://agent-skills.mintlify.site/_mintlify/api/og/v2?division=Documentation&title=Agent+Skills+Overview&description=A+standardized+way+to+give+AI+agents+new+capabilities+and+expertise.&theme=b9f8a0d87828be5d18fb4302&signature=d36ac12235ea94d0c632b57c9302d5de9a2f1d0b6ba1ff4ffd1fb312bb8cd568"
 },
 "agentskillshub": {
 "checked": "2026-11-14",
@@ -556,8 +556,7 @@
 "image": "https://agterm.com/assets/agterm-og.png"
 },
 "ai": {
-"checked": "2026-10-24",
-"image": "https://ai.codefather.cn/logo.png"
+"checked": "2026-11-23"
 },
 "ai-agent-platforms": {
 "checked": "2026-11-03",
@@ -618,10 +617,10 @@
 "image": "https://www.ai-elements-vue.com/cover.png"
 },
 "ai-engineer": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "pricing": {
 "currency": "USD",
-"from": 67.0,
+"from": 97.0,
 "url": "https://aiengineer.co"
 }
 },
@@ -705,8 +704,8 @@
 "image": "https://aisafetyhot.com/og/site.png?lang=zh"
 },
 "ai-sdk": {
-"checked": "2026-10-24",
-"image": "https://e742qlubrjnjqpp0.public.blob.vercel-storage.com/og.png",
+"checked": "2026-11-23",
+"image": "https://ai-sdk.dev/og/docs?title=AI%20SDK&description=A%20unified%20TypeScript%20SDK%20for%20building%20AI%20apps%20with%20modern%20streaming%2C%20fallbacks%2C%20and%20multi-model%20support%E2%80%94powered%20by%20Vercel.&v=4",
 "pricing": {
 "currency": "USD",
 "free": true,
@@ -727,7 +726,7 @@
 "image": "https://theaisummer.com/static/915b46849ce3ea86ae61c6b8d39c8284/ai-summer-seo-image.jpeg"
 },
 "ai-trader": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "ai-visual-prompt-cookbook": {
 "checked": "2026-11-02"
@@ -823,10 +822,11 @@
 "checked": "2026-10-28"
 },
 "airbyte": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://airbyte.com/images/opengraph-infrastructure-platform-data-ai.png",
 "pricing": {
 "currency": "USD",
+"free": true,
 "from": 189.0,
 "trial": true,
 "url": "https://airbyte.com/pricing"
@@ -839,7 +839,7 @@
 "checked": "2026-10-25"
 },
 "aitoearn": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://aitoearn.ai/og-image.png"
 },
 "aktools-akfamily-xyz": {
@@ -949,7 +949,7 @@
 }
 },
 "andrej-karpathy": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "annas-mcp": {
 "checked": "2026-11-01"
@@ -1134,7 +1134,7 @@
 "image": "https://archify.si/assets/archify-social-preview.png"
 },
 "archon": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://archon.diy/brand/assets/archon-logo.png"
 },
 "arcjet-js": {
@@ -1352,7 +1352,7 @@
 "image": "https://xu73i5cewj3dp7jn.public.blob.vercel-storage.com/FireBirdTech%20%281%29.png"
 },
 "autoclaw": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://resource.zhipuai.cn/landing-page/og-1200x630.png"
 },
 "autogluon": {
@@ -1485,7 +1485,7 @@
 }
 },
 "awesome-mlops": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "awesome-mlss": {
 "checked": "2026-10-28"

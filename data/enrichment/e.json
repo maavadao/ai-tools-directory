@@ -57,8 +57,8 @@
 "checked": "2026-10-28"
 },
 "ego-lite": {
-"checked": "2026-10-24",
-"image": "https://lite.ego.app/og.png"
+"checked": "2026-11-23",
+"image": "https://cdn.ego.app/website-assets/a634e3f916713f0d34f041910cb788562b5330b67fa940593643b4135487a053/og.png"
 },
 "egoalpha": {
 "checked": "2026-10-29"
@@ -106,7 +106,7 @@
 "image": "https://www.elatoai.com/images/hero.png"
 },
 "electerm": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://electerm.org/android-chrome-512x512.png"
 },
 "electric": {
@@ -128,7 +128,7 @@
 "image": "https://egm.dev/og.png"
 },
 "eleutherai": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.eleuther.ai/assets/social/eleutherai-social-card.png"
 },
 "eleven": {
@@ -150,7 +150,7 @@
 "image": "https://framerusercontent.com/images/s7irwYwOOfdSFu6EPduaB8EDsIg.png"
 },
 "eliza-research": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://elizaresearch.ai/assets/og.png"
 },
 "elmo": {
@@ -277,7 +277,7 @@
 }
 },
 "evolink": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://cdn.evolink.ai/2026/File/evolink.ai/og-image.png"
 },
 "evolution": {
@@ -309,7 +309,7 @@
 "image": "https://excelmcpserver.com/og.png"
 },
 "excelize": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "excelmcpserver-dev": {
 "checked": "2026-11-02"

@@ -68,8 +68,8 @@
 "image": "https://static.wixstatic.com/media/4b3c31_507e4cf1fcf64a008e45015aa8d0b08a~mv2.png/v1/fill/w_1600,h_900,al_c/4b3c31_507e4cf1fcf64a008e45015aa8d0b08a~mv2.png"
 },
 "beads-documentation": {
-"checked": "2026-10-24",
-"image": "https://beads.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=Introduction&description=Dependency-aware%2C+Dolt-backed+issue+tracker+built+for+AI+coding+agents+that+survive+context+loss&theme=8bc693752845bc102a4baded&signature=fc3d4f8a842c7a1ec57cad5c8af25d4514625a22ec30a072d9055de665fb9a9b"
+"checked": "2026-11-23",
+"image": "https://beads.mintlify.site/_mintlify/api/og/v2?division=Getting+Started&title=Introduction&description=Dependency-aware%2C+Dolt-backed+issue+tracker+built+for+AI+coding+agents+that+survive+context+loss&theme=6834af2a4bd690d76b0e1ab8&signature=6d33d15c4245464266d39527e4d8c2d07488901a726f53ea56e282649ccd73e8"
 },
 "beam-win": {
 "checked": "2026-11-22",
@@ -191,7 +191,7 @@
 "image": "https://bionic-gpt.com/open-graph.png"
 },
 "bit-dev": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://static.bit.dev/og-images/bit-marketing-og-img-facebook-2025.png"
 },
 "bitbra-in": {
@@ -329,7 +329,7 @@
 "checked": "2026-11-03"
 },
 "botpress": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://cdn.prod.website-files.com/635c4eeb78332f7971255095/6a1ded7960de29af20457f6d_f7714877d559cb98adc053a44d48870d_bp_opengraph.jpg",
 "pricing": {
 "currency": "USD",
@@ -439,8 +439,8 @@
 "image": "https://www.browsernode.com/BrowserNode-OG.png"
 },
 "browseros": {
-"checked": "2026-10-24",
-"image": "https://www.browseros.com/og/home.png"
+"checked": "2026-11-23",
+"image": "https://www.browseros.com/og.png"
 },
 "bub": {
 "checked": "2026-10-30",
@@ -456,12 +456,12 @@
 }
 },
 "budibase": {
-"checked": "2026-10-24",
-"image": "https://budibase.com/og.png",
+"checked": "2026-11-23",
+"image": "https://budibase.com/brand/fields/work-in-motion.png",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 5.0,
+"from": 299.0,
 "trial": true,
 "url": "https://budibase.com/pricing/"
 }
@@ -480,7 +480,7 @@
 "image": "https://passmark.dev/images/og-v2.png"
 },
 "build-secure-ai-applications": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.promptfoo.dev/img/meta/homepage.png",
 "pricing": {
 "free": true,
@@ -494,7 +494,7 @@
 "checked": "2026-10-30"
 },
 "build-your-rich-text-editor": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://platejs.org/og?title=Build%20your%20rich-text%20editor&description=A%20set%20of%20beautifully-designed%2C%20customizable%20plugins%20and%20components%20to%20help%20you%20build%20your%20rich-text%20editor.%20Open%20Source."
 },
 "builderbot": {
@@ -527,7 +527,7 @@
 }
 },
 "burn": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "burp-ai-agent-six2dez-com": {
 "checked": "2026-10-31",
@@ -550,7 +550,7 @@
 "image": "https://cdn.buymeacoffee.com/assets/homepage/meta/home-page-og.png"
 },
 "bytebase": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.bytebase.com/images/social-previews/index.jpg",
 "pricing": {
 "currency": "USD",

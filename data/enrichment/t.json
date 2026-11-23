@@ -4,16 +4,10 @@
 "image": "https://t3.codes/_astro/social-card.DMaenTWS_Z194KDS.jpg"
 },
 "tabby": {
-"checked": "2026-10-23",
-"pricing": {
-"currency": "USD",
-"free": true,
-"from": 19.0,
-"url": "https://www.tabbyml.com/pricing"
-}
+"checked": "2026-11-23"
 },
 "tableau": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://wp.sfdcdigital.com/tableau/en-us/wp-content/uploads/sites/47/2026/09/Tableau-OG-Agentic-Analytics-1.png?w=1024",
 "pricing": {
 "free": true,
@@ -60,7 +54,7 @@
 "image": "https://taranis.ai/screenshot.png"
 },
 "taste-skill": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://www.tasteskill.dev/og-image.jpg"
 },
 "tau": {
@@ -81,7 +75,7 @@
 "checked": "2026-11-01"
 },
 "teable": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://teable.ai/assets/images/og-image.png",
 "pricing": {
 "currency": "USD",
@@ -91,7 +85,7 @@
 }
 },
 "teachoo": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4fc6ce87-ec73-42d0-83dc-7c85059937ae/id-preview-687cf3db--70f423a8-a933-48cb-b46a-0112e655cad8.lovable.app-1784088734535.png"
 },
 "teaql-agent-kit": {
@@ -106,7 +100,7 @@
 "image": "https://tel-agent.com/en/opengraph-image?5249478dc6d999e7"
 },
 "telegram": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://telegram.org/img/t_logo_2x.png"
 },
 "telegram-bot-sdk": {
@@ -130,7 +124,7 @@
 "checked": "2026-10-25"
 },
 "tencent-hunyuan-3d": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://cdn-3d-prod.hunyuan.tencent.com/public/static/favicon/android-chrome-512x512.png"
 },
 "tensorblock": {
@@ -138,7 +132,7 @@
 "image": "https://www.tensorblock.co/assets/img/BlogThumbnail.jpg"
 },
 "tensorflow": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://www.tensorflow.org/static/images/tf_logo_social.png"
 },
 "tensorflow-docs": {
@@ -223,15 +217,15 @@
 }
 },
 "text-to-cad": {
-"checked": "2026-10-24",
-"image": "https://www.texttocad.dev/social-preview.png"
+"checked": "2026-11-23",
+"image": "https://www.texttocad.dev/social-preview-products.png"
 },
 "texthero": {
 "checked": "2026-10-29",
 "image": "https://texthero.org/img/T.png"
 },
 "tf-router": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "tgo-ai": {
 "checked": "2026-11-03",
@@ -264,7 +258,7 @@
 "image": "https://the-harness.com/images/editorial/site.png"
 },
 "the-julia-programming-language": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://julialang.org/assets/images/julia-open-graph.png"
 },
 "the-pyod-ecosystem": {
@@ -275,7 +269,7 @@
 "image": "https://thepythoncode.com/media/articles/handling-files-in-python-using-os-module.jpg"
 },
 "the-system-design-newsletter": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://substackcdn.com/image/fetch/$s_!W5r-!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1c8067a-95bb-416b-9114-e0b9fb8821d4_256x256.png"
 },
 "the-website-specification": {
@@ -339,7 +333,7 @@
 "image": "https://tickdb.ai/logo.svg"
 },
 "tidb": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://static.pingcap.com/files/2026/10/08015109/tidb-social-image.png",
 "pricing": {
 "currency": "USD",
@@ -352,7 +346,7 @@
 "checked": "2026-10-28"
 },
 "tiden": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://tiden.ai/opengraph-image?37cb0ca4c70e0739",
 "pricing": {
 "trial": true,
@@ -360,12 +354,12 @@
 }
 },
 "tidio": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://www.tidio.com/images/seo/tidio-og.png",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 24.17,
+"from": 8.0,
 "trial": true,
 "url": "https://www.tidio.com/pricing/"
 }
@@ -383,7 +377,7 @@
 "image": "https://timon-ai.com/og-image.jpg"
 },
 "tiny-humans-intelligence": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://tinyhumans.ai/images/home/og.png",
 "pricing": {
 "currency": "USD",
@@ -403,7 +397,7 @@
 }
 },
 "tldraw": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://cdn.sanity.io/images/ij3ytvrl/production/9bbdab1656512165d2426e787a553be0a8fd60a6-512x256.webp?w=1200&fit=max",
 "pricing": {
 "trial": true,
@@ -440,7 +434,7 @@
 }
 },
 "together-ai": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a49f86fc70648ca04854f6_OG-image-home.png"
 },
 "tokeneater": {
@@ -464,7 +458,7 @@
 "image": "https://stacklok.com/wp-content/uploads/2025/12/stacklok-default-social-share.jpg"
 },
 "tooljet": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://tooljet.com/images/tooljet-social.png",
 "pricing": {
 "free": true,
@@ -477,7 +471,7 @@
 "image": "https://aiscientist.tools/logo_transparent.png"
 },
 "toon": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://toonformat.dev/og_v4.png"
 },
 "topgo-skill-store": {
@@ -566,7 +560,7 @@
 "image": "https://trench.dev/img/og-image.png"
 },
 "trendradar": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://trendradar.sandev.cc/images/og-image.png"
 },
 "trentorch": {
@@ -578,7 +572,7 @@
 "image": "https://tribuo.org/assets/img/tribuo-logo-color-1200.png"
 },
 "trigger-dev": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://trigger.dev/assets/og-image-hAiXVmBp.jpg",
 "pricing": {
 "currency": "USD",
@@ -664,7 +658,7 @@
 "checked": "2026-10-27"
 },
 "twinmind-for-desktop": {
-"checked": "2026-10-23",
+"checked": "2026-11-23",
 "image": "https://framerusercontent.com/images/Bx7YhgGepAKMIrXwqHHdtPPeWQ.jpg"
 },
 "twinny": {

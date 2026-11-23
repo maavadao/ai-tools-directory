@@ -1,6 +1,6 @@
 {
 "maaassistantarknights": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "maaframework": {
 "checked": "2026-10-27",
@@ -19,8 +19,8 @@
 "image": "https://www.mlrefined.com/opengraph-image?bbd4dbbf99975ca7"
 },
 "machine-learning-systems": {
-"checked": "2026-10-24",
-"image": "https://mlsysbook.ai/vol1/assets/images/covers/cover-hardcover-book-vol1.png"
+"checked": "2026-11-23",
+"image": "https://mlsysbook.ai/vol1/covers/cover-hardcover-book-vol1.png"
 },
 "machine-learning-visualized": {
 "checked": "2026-10-30"
@@ -190,7 +190,7 @@
 "image": "https://mariadb.org/wp-content/uploads/2023/05/Default_socail-card.png"
 },
 "marimo": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://marimo.io/og.png"
 },
 "markdown": {
@@ -239,12 +239,12 @@
 "checked": "2026-10-28"
 },
 "mastra": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://mastra.ai/api/og/page?title=TypeScript%20AI%20Framework%20for%20Agents%20and%20Apps",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 250.0,
+"from": 25.0,
 "url": "https://mastra.ai/pricing"
 }
 },
@@ -276,11 +276,11 @@
 }
 },
 "maxkb": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.maxkb.cn/images/dashboard.png"
 },
 "maxun": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://maxun.dev/maxun_prev.png",
 "pricing": {
 "currency": "USD",
@@ -476,7 +476,7 @@
 "image": "https://code.memorax.net/assets/memorax-code-og-v2.png"
 },
 "memori": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://memorilabs.ai/og-image.png"
 },
 "memorilla": {
@@ -496,11 +496,11 @@
 }
 },
 "memu": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://memu.pro/static/memu-logo.png"
 },
 "memvid": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://memvid.com/og-image.png"
 },
 "menlo-research": {
@@ -541,8 +541,8 @@
 "image": "https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp"
 },
 "meta-model-api": {
-"checked": "2026-10-24",
-"image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.2365-6/769175271_1785147112638659_5144768927528247182_n.png?_nc_cat=105&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=JB6JWgP-8J4Q7kNvwGyEaPY&_nc_oc=Ado2fAcs_2AQLjAQKN-l12MkUQI1hqOLyo9LcZL7kyXliNSjykUrJrYO3KACdsGEOWY&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&edm=ADsB9xMEAAAA&_nc_gid=r729DpHbOy1pLK37T7aeRg&oh=00_AQMJSQ5iQomf9NkfgyUcUEp6Ba70qONKMiQLUM-eKGXd9g&oe=6AE22F30"
+"checked": "2026-11-23",
+"image": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.2365-6/769175271_1785147112638659_5144768927528247182_n.png?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=OWUDbWpivqsQ7kNvwF5lCp4&_nc_oc=AdpUsvNTLgVZNAwqeskpMqeD8lXRMd3vyQfWENllRW6hITvmoDhC9TFY-DLomwK1C2k&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&edm=ADsB9xMEAAAA&_nc_gid=ovGEC70vnl6qm08pfDXGsg&oh=00_AQS5bFT3Qbcm0C0V4Ufve29PoSkmQg8VmdqRTeLyccyspg&oe=6B09F470"
 },
 "metaflow": {
 "checked": "2026-10-25",
@@ -620,8 +620,8 @@
 "checked": "2026-11-02"
 },
 "midscene-js": {
-"checked": "2026-10-24",
-"image": "https://midscenejs.com/og-image.png"
+"checked": "2026-11-23",
+"image": "https://www.midscenejs.com/og-image.png"
 },
 "miguel-fierro": {
 "checked": "2026-11-09"
@@ -739,7 +739,7 @@
 "checked": "2026-10-30"
 },
 "ml-for-trading": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://ml4trading.io/static/img/og-image.a0471320e8d2.jpg"
 },
 "ml5-js": {
@@ -750,7 +750,7 @@
 "checked": "2026-10-28"
 },
 "mlc-llm": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "mlcommons": {
 "checked": "2026-11-02",
@@ -769,7 +769,7 @@
 }
 },
 "mlflow": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "mlj-jl": {
 "checked": "2026-10-30"
@@ -888,7 +888,7 @@
 "image": "https://cdn.modelscope.cn/social-thumbnails/home.png"
 },
 "modern-data-orchestrator-platform": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "pricing": {
 "currency": "USD",
 "from": 10.0,
@@ -986,7 +986,7 @@
 "image": "https://muesli.works/og-muesli.jpg?v=20260513-2"
 },
 "mujoco": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "multica": {
 "checked": "2026-11-22",

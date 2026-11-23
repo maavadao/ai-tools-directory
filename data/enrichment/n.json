@@ -20,7 +20,7 @@
 "image": "https://nod.n8n.io/docs/_astro/og.Cp_fF7ej.png"
 },
 "n8n-mcp": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://www.n8n-mcp.com/opengraph-image.png?opengraph-image.37_02n-ygxj6_.png",
 "pricing": {
 "free": true,
@@ -64,7 +64,7 @@
 "image": "https://nanobananaeditor.dev/og.png"
 },
 "nanobrowser": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://nanobrowser.ai/og.jpg"
 },
 "nanoclaw": {
@@ -168,7 +168,7 @@
 "image": "https://nestia.io/og.jpg"
 },
 "netbird": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "pricing": {
 "currency": "EUR",
 "from": 6.0,
@@ -304,10 +304,10 @@
 "checked": "2026-11-01"
 },
 "nlp-progress": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "nltk": {
-"checked": "2026-10-24"
+"checked": "2026-11-23"
 },
 "noan": {
 "checked": "2026-11-22",
@@ -322,8 +322,7 @@
 "checked": "2026-10-30"
 },
 "nocobase": {
-"checked": "2026-10-24",
-"image": "https://static-docs.nocobase.com/20260513-og-github-v3.jpg"
+"checked": "2026-11-23"
 },
 "nocturne-memory": {
 "checked": "2026-10-31"
@@ -442,7 +441,7 @@
 "image": "https://nova3d.xyz/media/og.jpg"
 },
 "novel": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://novel.sh/opengraph-image.png?73cb1c6d8589016e"
 },
 "novu": {
@@ -462,7 +461,7 @@
 "image": "https://nubase.ai/og.png"
 },
 "nuclear-music-player": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://nuclearplayer.com/images/social-banner.png"
 },
 "nucleoid": {
@@ -506,12 +505,11 @@
 "image": "https://nwave.ai/img/nWaveDogTag.png"
 },
 "nx": {
-"checked": "2026-10-24",
+"checked": "2026-11-23",
 "image": "https://framerusercontent.com/images/j1jV7CWbn9IzkoNe9UR4STK8TQ.png",
 "pricing": {
 "currency": "USD",
-"free": true,
-"from": 29.0,
+"from": 75.0,
 "trial": true,
 "url": "https://nx.dev/pricing"
 }
