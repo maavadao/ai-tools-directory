@@ -121,8 +121,14 @@
 "image": "https://partmode.com/og/page/cad-studio.png"
 },
 "pascal-editor": {
-"checked": "2026-10-25",
-"image": "https://editor.pascal.app/og-default.webp"
+"checked": "2026-11-24",
+"image": "https://pascal.app/og/home.jpg",
+"pricing": {
+"currency": "USD",
+"free": true,
+"from": 89.0,
+"url": "https://www.pascal.app/"
+}
 },
 "paseo": {
 "checked": "2026-11-23",
@@ -210,11 +216,11 @@
 "checked": "2026-11-22"
 },
 "pest": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://pestphp.com/www/og.png?v=5"
 },
 "petals": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "peter-steinberger": {
 "checked": "2026-10-26",
@@ -400,7 +406,7 @@
 "image": "https://gilded-laurel-c7nj.here.now/assets/context-recovery.jpg"
 },
 "plannotator": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://plannotator.ai/assets/plannotator-generic-og-v1.jpg"
 },
 "plano": {
@@ -427,7 +433,7 @@
 }
 },
 "point-cloud-library": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "poki": {
 "checked": "2026-11-09",
@@ -522,12 +528,11 @@
 "checked": "2026-10-31"
 },
 "pr-agent-ai": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://docs.pr-agent.ai/img/social-card.png"
 },
 "praison-ai": {
-"checked": "2026-10-25",
-"image": "https://praison.ai/app/uploads/2026/06/praison-ai-customer-service.png"
+"checked": "2026-11-24"
 },
 "premiere-pro-mcp": {
 "checked": "2026-11-10",
@@ -674,11 +679,11 @@
 "checked": "2026-10-29"
 },
 "puck": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://puckeditor.com/social.png",
 "pricing": {
 "currency": "USD",
-"from": 199.0,
+"from": 99.0,
 "url": "https://puckeditor.com/pricing"
 }
 },
@@ -712,14 +717,14 @@
 "image": "https://raw.githubusercontent.com/erickochen/purple/master/assets/png/og-card.png"
 },
 "pwnagotchi": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "px4-autopilot": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://px4.io/wp-content/uploads/2020/12/compatible_hw.svg"
 },
 "pyannote-audio": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://framerusercontent.com/assets/44E4ItJK7vNnWe7GDdJYvnWOhYc.png",
 "pricing": {
 "currency": "EUR",

@@ -76,8 +76,8 @@
 "image": "https://happier.dev/images/og.png"
 },
 "happy-engineering": {
-"checked": "2026-10-25",
-"image": "https://happy.engineering/og/happy-harness-v25.png?v=8"
+"checked": "2026-11-24",
+"image": "https://happy.engineering/og/happy-home-v27.png?v=14"
 },
 "happyclaw": {
 "checked": "2026-11-02",
@@ -188,7 +188,7 @@
 "checked": "2026-10-30"
 },
 "hello-agents": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "hello-ai": {
 "checked": "2026-10-31",
@@ -336,7 +336,7 @@
 }
 },
 "holaboss": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://www.holaboss.ai/_astro/og-cover.BXNYJpLT.jpg",
 "pricing": {
 "currency": "USD",
@@ -385,7 +385,7 @@
 }
 },
 "horizon": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "https-adk-mo-ai-kr-ko": {
 "checked": "2026-11-01"
@@ -436,7 +436,7 @@
 "image": "https://humanizer-ru.aifrontier.tech/assets/social-preview.jpg"
 },
 "humanlayer": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://humanlayer.dev/api/og",
 "pricing": {
 "currency": "USD",
@@ -450,7 +450,7 @@
 "image": "https://hummingbot.org/assets/images/social/index.png"
 },
 "hunk": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://hunk.dev/og.png"
 },
 "hunter-zhang": {
@@ -461,7 +461,7 @@
 "checked": "2026-10-28"
 },
 "hunyuanvideo": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://aivideo.hunyuan.tencent.com/public/static/logo/favicon.png"
 },
 "huy-le-nguyen": {
@@ -504,7 +504,7 @@
 "image": "https://hyperswarm.sh/og/hyperswarm-og.png"
 },
 "hypit-ai": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://hypit.ai/opengraph-image.png?6a352f2a54b7cd2c"
 }
 }

@@ -72,7 +72,7 @@
 "image": "https://catalyst-team.com/images/icon_hu5e987f2991281c7aa1a91620f0bb3847_57910_512x512_fill_lanczos_center_2.png"
 },
 "catboost": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://catboost-opensource.s3.yandex.net/logo_white_for_dark_theme.svg"
 },
 "caura": {
@@ -142,7 +142,7 @@
 "checked": "2026-11-04"
 },
 "certgames": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://certgames.com/assets/certgames-social.png"
 },
 "cezar": {
@@ -167,7 +167,7 @@
 "checked": "2026-11-22"
 },
 "chat-aimakex-com": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "chat-geekai-me": {
 "checked": "2026-10-27"
@@ -200,7 +200,7 @@
 }
 },
 "chatanywhere": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "chatbotx": {
 "checked": "2026-11-01",
@@ -439,11 +439,10 @@
 "image": "https://claudebar.tddworks.com/screenshots/og-card.png"
 },
 "claudecodeui": {
-"checked": "2026-10-25",
-"image": "https://cdn.sanity.io/images/s150envk/production/0dcef7522508c0162b22f1ee2ddf5391cca4b5e9-1200x630.png?w=1200&h=630&q=85&auto=format",
+"checked": "2026-11-24",
+"image": "https://cloudcli.ai/opengraph-image-1c1a04?9fdcafe5b49ef4fd",
 "pricing": {
 "currency": "EUR",
-"free": true,
 "from": 5.0,
 "trial": true,
 "url": "https://cloudcli.ai/"
@@ -462,7 +461,7 @@
 "image": "https://claudish.com/og-image.png"
 },
 "claurst": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://claurst.kuber.studio/public/social-image.png"
 },
 "claw-is-the-law": {
@@ -514,7 +513,7 @@
 }
 },
 "cleanlab": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://cleanlab.ai/_next/static/media/social-share-card-homepage.71fc9f90.png"
 },
 "clearml": {
@@ -556,7 +555,7 @@
 "image": "https://cline.bot/cline_og_img.png"
 },
 "clip-as-service-0-8-3-documentation": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://clip-as-service.jina.ai/_static/banner.png"
 },
 "clipdrop": {
@@ -616,7 +615,7 @@
 }
 },
 "coai-dev": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://www.coai.dev/og-image.png"
 },
 "coco-research": {
@@ -624,7 +623,7 @@
 "image": "https://cocoresearch.org/assets/img/og-cinematic.jpg"
 },
 "cocoindex": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://cocoindex.io/og/home.png"
 },
 "cocoplus-documentation": {
@@ -730,7 +729,7 @@
 "image": "https://storage.googleapis.com/raidenaipublic/cofounderdev/cofounder-og-black.webp"
 },
 "cog": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "cognee": {
 "checked": "2026-11-22",
@@ -847,7 +846,7 @@
 "checked": "2026-10-29"
 },
 "concat": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://concat.standalones.org/og.png"
 },
 "concierge": {
@@ -923,7 +922,7 @@
 }
 },
 "cookiecutter-data-science": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "coolify-mcp": {
 "checked": "2026-11-04",
@@ -976,12 +975,12 @@
 }
 },
 "corsair": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://corsair.dev/og-image.png",
 "pricing": {
 "currency": "USD",
-"from": 200.0,
-"url": "https://corsair.dev/"
+"from": 20.0,
+"url": "https://corsair.dev/pricing"
 }
 },
 "cortex": {
@@ -1070,8 +1069,8 @@
 "checked": "2026-11-01"
 },
 "creative-tim": {
-"checked": "2026-10-25",
-"image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/refs/heads/master/creative-tim/creative-tim-new-thumb-opt.jpg"
+"checked": "2026-11-24",
+"image": "https://raw.githubusercontent.com/creativetimofficial/public-assets/refs/heads/master/creative-tim/app-builder-ct-thumb.jpg"
 },
 "crewai": {
 "checked": "2026-11-22",
@@ -1099,7 +1098,7 @@
 "image": "https://crucible.codepawl.com/og.jpg"
 },
 "crucix": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://crucix.live/og-image.png"
 },
 "crystal": {
@@ -1162,7 +1161,7 @@
 }
 },
 "cubesandbox": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "cubestudio": {
 "checked": "2026-10-29",
@@ -1219,7 +1218,7 @@
 "image": "https://www.mahipal.engineer/assets/Mockup.png"
 },
 "cyber-bara": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://cyberbara.com/preview.jpg",
 "pricing": {
 "free": true,

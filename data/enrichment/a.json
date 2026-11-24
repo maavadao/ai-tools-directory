@@ -148,7 +148,7 @@
 "image": "https://www.ag2.ai/og"
 },
 "agency-orchestrator": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://ao.aiolaola.com/og-image.png"
 },
 "agent": {
@@ -173,7 +173,7 @@
 }
 },
 "agent-development-kit-adk": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://adk.dev/assets/adk-social-card.png"
 },
 "agent-device": {
@@ -266,7 +266,7 @@
 "image": "https://nono.sh/opengraph-image?a5311c0003070d65"
 },
 "agent-s": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://cdn.prod.website-files.com/666c58d71e64e2eb5bdf950b/6aa873794bc3db772b5daa8e_Codex%20Image%20Sep%2014%2C%202026%2C%2003_18_57%20PM.png"
 },
 "agent-safe-pipeline": {
@@ -399,7 +399,7 @@
 "image": "https://agentiloop.ai/agent-og.png"
 },
 "agenting-development": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://ohmyopencodeslim.com/og-images/index.png"
 },
 "agentkit-by-inngest": {
@@ -591,7 +591,7 @@
 "checked": "2026-10-29"
 },
 "ai-collection": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://thataicollection.com/img/images/thumbnail.jpeg"
 },
 "ai-compendium": {
@@ -748,7 +748,7 @@
 }
 },
 "aiclient-2-api": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "aicon-studio": {
 "checked": "2026-10-30",
@@ -776,14 +776,14 @@
 "image": "https://aiflowy.tech/static/images/icon.png"
 },
 "aihot": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://aihot.news/og/site.png"
 },
 "aily-project": {
 "checked": "2026-10-28"
 },
 "aimlinterviews-io": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://www.aimlinterviews.io/ai-ml-interviews-cover-v2-social.jpg"
 },
 "aimstack": {
@@ -836,7 +836,7 @@
 "checked": "2026-10-31"
 },
 "aishort-top": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "aitoearn": {
 "checked": "2026-11-23",
@@ -1059,10 +1059,10 @@
 "image": "https://pinot.apache.org/static/images/twitter-card.png"
 },
 "apache-seatunnel": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "apache-tvm": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "apfel": {
 "checked": "2026-10-26",
@@ -1072,7 +1072,8 @@
 "checked": "2026-11-03"
 },
 "apify-mcp-server": {
-"checked": "2026-10-25"
+"checked": "2026-11-24",
+"image": "https://mcp.apify.com/images/og_image.png"
 },
 "apipark": {
 "checked": "2026-10-30"
@@ -1172,7 +1173,7 @@
 "checked": "2026-10-26"
 },
 "arize-ai": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://arize.com/wp-content/uploads/2026/08/Featured-image-Homepage.jpg",
 "pricing": {
 "currency": "USD",
@@ -1186,7 +1187,7 @@
 "image": "https://arkflow-rs.com/img/arkflow.svg"
 },
 "art-documentation": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "artcraft": {
 "checked": "2026-11-22",
@@ -1271,7 +1272,7 @@
 "image": "https://assetfurnace.com/og-card-hero.jpg"
 },
 "assistant-ui": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://www.assistant-ui.com/api/og?variant=home",
 "pricing": {
 "currency": "USD",
@@ -1301,13 +1302,8 @@
 }
 },
 "atlas": {
-"checked": "2026-10-25",
-"image": "https://www.tryatlas.cc/og-image.jpg",
-"pricing": {
-"currency": "USD",
-"from": 20.0,
-"url": "https://www.tryatlas.cc"
-}
+"checked": "2026-11-24",
+"image": "https://www.tryatlas.cc/og.jpg"
 },
 "atlas-inference": {
 "checked": "2026-11-03",
@@ -1356,7 +1352,7 @@
 "image": "https://resource.zhipuai.cn/landing-page/og-1200x630.png"
 },
 "autogluon": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "autogpt": {
 "checked": "2026-11-22",
@@ -1398,8 +1394,8 @@
 "checked": "2026-11-02"
 },
 "autoware": {
-"checked": "2026-10-25",
-"image": "https://autoware.org/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-01-at-19.01.16.jpeg"
+"checked": "2026-11-24",
+"image": "https://autoware.org/og/home.jpg"
 },
 "ava": {
 "checked": "2026-11-07"
@@ -1437,7 +1433,7 @@
 "image": "https://daskio.de5.net/og-image.png"
 },
 "awesome-ai-painting": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://cdn.goenhance.ai/images/static/sites/20240718-000924.jpeg"
 },
 "awesome-ai-security": {
@@ -1467,7 +1463,7 @@
 "image": "https://animeai.online/og.png"
 },
 "awesome-gpts": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "awesome-ios-design-md": {
 "checked": "2026-11-03",

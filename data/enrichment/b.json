@@ -23,11 +23,11 @@
 "checked": "2026-11-04"
 },
 "baml": {
-"checked": "2026-10-25",
-"image": "https://boundaryml.com/api/og?title=The+programming+language+for+agents&desc=New+paradigm%2C+new+language.&timeline=1"
+"checked": "2026-11-24",
+"image": "https://boundaryml.com/api/og?title=The+hyper-observable+programming+language"
 },
 "banana-slides": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://bananaslides.online/social/cover.png"
 },
 "band": {
@@ -159,8 +159,8 @@
 "image": "https://bibigpt.co/og-image.png?v=2023-04-26"
 },
 "bifrost-by-maxim-ai": {
-"checked": "2026-10-25",
-"image": "https://bifrost-website.getmaxim.workers.dev/marketing/TEMoNkNbpcTVKd8275wElrbTx8.png",
+"checked": "2026-11-24",
+"image": "https://www.getmaxim.ai/bifrost/marketing/TEMoNkNbpcTVKd8275wElrbTx8.png",
 "pricing": {
 "free": true,
 "trial": true,
@@ -249,7 +249,7 @@
 "checked": "2026-11-02"
 },
 "blinko": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://blinko.space/preview.webp",
 "pricing": {
 "currency": "USD",
@@ -271,7 +271,7 @@
 }
 },
 "bob": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "bolna-ai": {
 "checked": "2026-11-02",
@@ -356,7 +356,7 @@
 "checked": "2026-10-31"
 },
 "brigade": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://brigade.spinabot.com/opengraph-image?ffa252a9d4aab850"
 },
 "bright-data": {
@@ -546,7 +546,7 @@
 }
 },
 "buy-me-a-coffee": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://cdn.buymeacoffee.com/assets/homepage/meta/home-page-og.png"
 },
 "bytebase": {

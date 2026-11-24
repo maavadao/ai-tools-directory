@@ -4,7 +4,7 @@
 "image": "https://k8e.sh/images/k8e-banner.svg"
 },
 "kag": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "kagent": {
 "checked": "2026-10-27",
@@ -36,8 +36,8 @@
 "checked": "2026-10-28"
 },
 "kami": {
-"checked": "2026-10-25",
-"image": "https://kami.tw93.fun/assets/showcase/kami-landing.png"
+"checked": "2026-11-24",
+"image": "https://kami.tw93.fun/assets/og.png"
 },
 "kandev": {
 "checked": "2026-11-01",
@@ -52,7 +52,7 @@
 "image": "https://www.karlex.ai/opengraph-image"
 },
 "kedro": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://kedro.org/images/kedro-social-image.png"
 },
 "keeper-sh": {
@@ -269,7 +269,7 @@
 }
 },
 "krita-ai-diffusion": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "kuafuai": {
 "checked": "2026-10-26"
@@ -283,13 +283,8 @@
 "image": "https://www.kubeflow.org/social/social_home.b4b276a78751053b254216bb34638f95.png"
 },
 "kubeshark": {
-"checked": "2026-10-25",
-"image": "https://cdn.prod.website-files.com/6517451b4cf3869a5219774a/651ff5f41dbf6459601154e3_header-Kubeshark%20.png",
-"pricing": {
-"currency": "USD",
-"from": 30.0,
-"url": "https://kubeshark.com/pricing"
-}
+"checked": "2026-11-24",
+"image": "https://cdn.prod.website-files.com/6517451b4cf3869a5219774a/651ff5f41dbf6459601154e3_header-Kubeshark%20.png"
 },
 "kubesphere": {
 "checked": "2026-11-23",

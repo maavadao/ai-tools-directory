@@ -54,7 +54,7 @@
 "checked": "2026-10-29"
 },
 "mage-ai": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://www.mage.ai/assets/shared/meta/default.png",
 "pricing": {
 "currency": "USD",
@@ -94,7 +94,7 @@
 }
 },
 "magic-resume": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://magicv.art/web-shot.png"
 },
 "magiclearn": {
@@ -116,7 +116,7 @@
 }
 },
 "magpie": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://usemagpie.ai/img/og.png"
 },
 "mahotas": {
@@ -162,7 +162,7 @@
 "image": "https://download.is.tue.mpg.de/mamma/assets/og-image.jpg"
 },
 "manga-image-translator": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "manifold": {
 "checked": "2026-11-22",
@@ -186,15 +186,15 @@
 "image": "https://net-static-dev.chainbasehq.com/public/resources/cover.png?t=1750827662725"
 },
 "mariadb-org": {
-"checked": "2026-10-25",
-"image": "https://mariadb.org/wp-content/uploads/2023/05/Default_socail-card.png"
+"checked": "2026-11-24",
+"image": "https://mariadb.org/wp-content/uploads/2026/11/mariaDBFoundationLogo_site_basics_1200x675.png"
 },
 "marimo": {
 "checked": "2026-11-23",
 "image": "https://marimo.io/og.png"
 },
 "markdown": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "marker": {
 "checked": "2026-11-22",
@@ -320,7 +320,7 @@
 "checked": "2026-10-30"
 },
 "mcp-python-sdk": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "mcp-ruby-sdk": {
 "checked": "2026-11-02"
@@ -334,14 +334,14 @@
 "image": "https://mcpsuperassistant.ai/opengraph-image.jpg?714f3c3898d74ff5"
 },
 "mcp-typescript-sdk": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "mcp-ui": {
 "checked": "2026-10-27",
 "image": "https://mcpui.dev/og-image.png"
 },
 "mcp-use": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://manufact.com/og-image.jpg",
 "pricing": {
 "currency": "USD",
@@ -545,7 +545,7 @@
 "image": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.2365-6/769175271_1785147112638659_5144768927528247182_n.png?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=OWUDbWpivqsQ7kNvwF5lCp4&_nc_oc=AdpUsvNTLgVZNAwqeskpMqeD8lXRMd3vyQfWENllRW6hITvmoDhC9TFY-DLomwK1C2k&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&edm=ADsB9xMEAAAA&_nc_gid=ovGEC70vnl6qm08pfDXGsg&oh=00_AQS5bFT3Qbcm0C0V4Ufve29PoSkmQg8VmdqRTeLyccyspg&oe=6B09F470"
 },
 "metaflow": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://tuulos.github.io/mf-site/images/og-metaflow.png"
 },
 "metagpt": {
@@ -594,7 +594,7 @@
 "image": "https://mexmemory.com/og-image.png"
 },
 "microsoft": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png"
 },
 "microsoft-bot-framework": {
@@ -635,7 +635,7 @@
 "image": "https://mimiclaw.io/bannerclaw.png"
 },
 "mimo-code": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "minari-documentation": {
 "checked": "2026-10-30",
@@ -664,7 +664,7 @@
 "checked": "2026-11-04"
 },
 "mini-swe-agent-com": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "minimax": {
 "checked": "2026-10-28",
@@ -723,7 +723,7 @@
 }
 },
 "mit-deep-learning": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://deeplearning.mit.edu/lex_fridman_lecture.jpg"
 },
 "mito": {
@@ -757,7 +757,7 @@
 "image": "https://mlcommons.org/wp-content/uploads/2024/10/hero-full.jpeg-scaled.webp"
 },
 "mlcourse-ai": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "mlexpert": {
 "checked": "2026-10-29",
@@ -835,11 +835,10 @@
 "checked": "2026-10-27"
 },
 "mobile-next": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://mobilenext.ai/mobile-next-social-banner.png",
 "pricing": {
 "currency": "USD",
-"free": true,
 "from": 29.0,
 "url": "https://mobilenext.ai/pricing"
 }
@@ -853,7 +852,7 @@
 "image": "https://mobilegym.dev/figures/poster.jpg"
 },
 "mobilerun": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://mobilerun.ai/og-image.png",
 "pricing": {
 "currency": "USD",
@@ -880,11 +879,11 @@
 }
 },
 "model-context-protocol": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://raw.githubusercontent.com/modelcontextprotocol/docs/2eb6171ddbfeefde349dc3b8d5e2b87414c26250/images/og-image.png"
 },
 "modelscope-cn": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://cdn.modelscope.cn/social-thumbnails/home.png"
 },
 "modern-data-orchestrator-platform": {
@@ -916,7 +915,7 @@
 "checked": "2026-10-27"
 },
 "moondream": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://moondream.ai/images/og/site.jpg",
 "pricing": {
 "currency": "USD",
@@ -930,7 +929,7 @@
 "image": "https://mordavid.com/media/2026/10/dfb214e9-13be-44ab-8b58-902e5eb97daa.webp"
 },
 "morphic": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://morphic.sh/opengraph-image.png?0720a92459949c23"
 },
 "morphik-core": {
@@ -993,8 +992,13 @@
 "image": "https://www.multica.ai/opengraph-image.png"
 },
 "munder-difflin": {
-"checked": "2026-10-25",
-"image": "https://munderdiffl.in/media/og.png"
+"checked": "2026-11-24",
+"image": "https://munderdiffl.in/media/og-landing.png",
+"pricing": {
+"currency": "USD",
+"from": 39.0,
+"url": "https://harnessmd.com/pricing"
+}
 },
 "murf": {
 "checked": "2026-11-22",

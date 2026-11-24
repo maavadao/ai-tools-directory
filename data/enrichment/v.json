@@ -9,7 +9,7 @@
 }
 },
 "vaex": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://vaex.io/img/logos/spiral-small.png"
 },
 "valaxy": {
@@ -17,7 +17,7 @@
 "image": "https://valaxy.site/valaxy-logo.png"
 },
 "valuecell-ai": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://valuecell.ai/og-image.png"
 },
 "vapi-network": {
@@ -96,7 +96,7 @@
 "image": "https://chatbot.ai-sdk.dev/opengraph-image.png?opengraph-image.8d2152cc.png"
 },
 "vergex": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://vergex.trade/vergex/og-image.png?v=2"
 },
 "versus": {
@@ -305,7 +305,7 @@
 "image": "https://volcano.sh/img/landing/volcano_logo.png"
 },
 "voltagent": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://voltagent.dev/img/social4.png",
 "pricing": {
 "free": true,
@@ -336,13 +336,13 @@
 "image": "https://vortex.dev/opengraph-image?7f7f7eeca630bf6b"
 },
 "vowpal-wabbit": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 },
 "voxcpm": {
 "checked": "2026-11-23"
 },
 "voyager": {
-"checked": "2026-10-25",
+"checked": "2026-11-24",
 "image": "https://voyager.nagi.fun/logo.png"
 },
 "voyager-minedojo-org": {
@@ -355,6 +355,6 @@
 "checked": "2026-11-03"
 },
 "vuls": {
-"checked": "2026-10-25"
+"checked": "2026-11-24"
 }
 }
