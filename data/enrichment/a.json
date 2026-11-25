@@ -40,7 +40,7 @@
 "image": "https://raw.githubusercontent.com/aipotheosis-labs/aipolabs-icons/refs/heads/main/meta/meta.png"
 },
 "acl-anthology": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "actionbook": {
 "checked": "2026-10-31",
@@ -88,7 +88,7 @@
 "checked": "2026-11-04"
 },
 "adrian-bulat": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://www.adrianbulat.com/user/themes/asgard3/images/me.jpg"
 },
 "advanced-nlp-with-spacy": {
@@ -230,7 +230,7 @@
 "checked": "2026-11-03"
 },
 "agent-native": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F9ff332b274a147229544c2bf5877a10d"
 },
 "agent-notifications": {
@@ -291,7 +291,7 @@
 "image": "https://skills.addy.ie/og.png"
 },
 "agent-skills-techleads-club": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://agent-skills.techleads.club/og-image.png"
 },
 "agent-substrate": {
@@ -326,7 +326,7 @@
 "image": "https://www.agentcn.run/og.png"
 },
 "agentdesk": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "agentdock": {
 "checked": "2026-10-30",
@@ -369,7 +369,7 @@
 "image": "https://agentfs.ai/og-image.png"
 },
 "agentgateway": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://agentgateway.dev/ogimage.png"
 },
 "agentic-ai-landscape": {
@@ -419,7 +419,7 @@
 "image": "https://agent-memory.dev/opengraph-image?8c96f969072fdde2"
 },
 "agentops": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://agentops.ai/opengraph.png",
 "pricing": {
 "currency": "USD",
@@ -470,8 +470,8 @@
 "checked": "2026-11-02"
 },
 "agentscope-java": {
-"checked": "2026-10-26",
-"image": "https://agent-scope.mintlify.app/_mintlify/api/og/v2?division=Documentation&title=AgentScope+Java+v2&description=Build+your+own+Agent+application+with+the+AgentScope+Harness+SDK%2C+or+use+managed+Agent+services+through+AgentScope+Service+with+platform-managed+runtimes.&theme=4fb7dd044b4760c6c748f53f&signature=3d370097b833841e38de28eeb131e4ca51199218f9fa5cdc1a7ebf4fadde8de4"
+"checked": "2026-11-25",
+"image": "https://agent-scope.mintlify.site/_mintlify/api/og/v2?division=Documentation&title=AgentScope+Java+2.0&description=Build+distributed%2C+enterprise-grade+agents&theme=84422b9d44b84d3450ea3050&signature=edb63d6694baa2502f131e85d7e1dcfc46a04cb39439db6a5b64fc7d4bf50e1b"
 },
 "agentscope-runtime": {
 "checked": "2026-11-02"
@@ -719,7 +719,7 @@
 "image": "https://trycaliber.ai/solution/opengraph-image?238f877181863d0a"
 },
 "ai-short-video-factory": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "ai-summer": {
 "checked": "2026-11-01",
@@ -759,7 +759,7 @@
 "image": "https://aide.nicepkg.cn/og-cover.png"
 },
 "aidea": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "aiden": {
 "checked": "2026-11-02"
@@ -787,7 +787,7 @@
 "image": "https://www.aimlinterviews.io/ai-ml-interviews-cover-v2-social.jpg"
 },
 "aimstack": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "pricing": {
 "currency": "USD",
 "free": true,
@@ -799,7 +799,7 @@
 "checked": "2026-10-29"
 },
 "aio-sandbox": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://rspress.rs/og-image.png"
 },
 "aionui": {
@@ -959,7 +959,7 @@
 "image": "https://avatars1.githubusercontent.com/u/64068543?s=400&v=4"
 },
 "annyang": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://www.talater.com/annyang/images/icon_speech.png"
 },
 "anolisa": {
@@ -989,15 +989,15 @@
 "image": "https://antirion.ai/opengraph-image?fff9c97a0f571dac"
 },
 "antislop": {
-"checked": "2026-10-26",
-"image": "https://antislop.ai.id/assets/og-antislop.png"
+"checked": "2026-11-25",
+"image": "https://antislop.ai.id/assets/og-home.png"
 },
 "antsk": {
 "checked": "2026-10-31",
 "image": "https://antsk.cn/images/shouye.png"
 },
 "anus": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://anus.dev/assets/og.png"
 },
 "anycrawl": {
@@ -1021,7 +1021,7 @@
 "checked": "2026-10-30"
 },
 "anysearch": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://anysearch.com/og.png?v=20260511"
 },
 "anythingllm": {
@@ -1051,7 +1051,7 @@
 "image": "https://gateway.casbin.org/en/og/image.png"
 },
 "apache-hertzbeat": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://hertzbeat.apache.org/img/hertzbeat-logo.svg"
 },
 "apache-pinot": {
@@ -1065,8 +1065,8 @@
 "checked": "2026-11-24"
 },
 "apfel": {
-"checked": "2026-10-26",
-"image": "https://apfel.franzai.com/og.png"
+"checked": "2026-11-25",
+"image": "https://apfel.franzai.com/og.png?v=eb01ff65"
 },
 "api": {
 "checked": "2026-11-03"
@@ -1152,7 +1152,7 @@
 "image": "https://arckit.org/og-image.png"
 },
 "arcreel": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://arc-reel.com/og/og-zh.png"
 },
 "ardupilot-org": {
@@ -1160,7 +1160,7 @@
 "image": "https://ardupilot.org/images/ArduPilot-Motto.png"
 },
 "areal": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "argent": {
 "checked": "2026-11-19",
@@ -1170,7 +1170,7 @@
 "checked": "2026-11-02"
 },
 "argos-open-tech": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "arize-ai": {
 "checked": "2026-11-24",
@@ -1365,14 +1365,7 @@
 }
 },
 "autohedge": {
-"checked": "2026-10-26",
-"image": "https://www.swarms.ai/seo_image.jpg",
-"pricing": {
-"currency": "USD",
-"free": true,
-"from": 19.99,
-"url": "https://www.swarms.xyz/pricing"
-}
+"checked": "2026-11-25"
 },
 "automem-ai": {
 "checked": "2026-11-02",
@@ -1459,8 +1452,7 @@
 "image": "https://mods.aidojo.si/social-preview.png?v=2"
 },
 "awesome-gpt4o-images": {
-"checked": "2026-10-26",
-"image": "https://animeai.online/og.png"
+"checked": "2026-11-25"
 },
 "awesome-gpts": {
 "checked": "2026-11-24"

@@ -4,16 +4,18 @@
 "image": "https://qdrant.tech/images/social_preview.png"
 },
 "qodo-cover": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://www.qodo.ai/wp-content/uploads/2025/06/social-share-new.webp",
 "pricing": {
+"currency": "USD",
 "free": true,
+"from": 30.0,
 "trial": true,
 "url": "https://www.qodo.ai/pricing/"
 }
 },
 "qownnotes": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://www.qownnotes.org/screenshots/screenshot.png"
 },
 "qpython-documentation": {

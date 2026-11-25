@@ -29,8 +29,14 @@
 }
 },
 "rakazo": {
-"checked": "2026-10-26",
-"image": "https://rakazo.com/og-image.png"
+"checked": "2026-11-25",
+"image": "https://rakazo.com/og-image.png",
+"pricing": {
+"currency": "USD",
+"from": 15.0,
+"trial": true,
+"url": "https://rakazo.com/pricing/"
+}
 },
 "ram-altman": {
 "checked": "2026-11-10",
@@ -67,7 +73,7 @@
 "image": "https://www.openrath.com/assets/openrath-logo-dark-balanced-transparent.png?v=20260527-no-fill"
 },
 "raven": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "ray": {
 "checked": "2026-11-23",
@@ -85,7 +91,7 @@
 "image": "https://www.react.doctor/opengraph-image"
 },
 "react-grab": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://react-grab.com/api/og"
 },
 "react-native-ai": {
@@ -144,7 +150,7 @@
 "image": "https://www.redamon.org/images/redamon-og.png"
 },
 "redink": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://img.redink.top/redgen/history/showcase/brand/logo/icon-256.png"
 },
 "redirecting": {
@@ -170,10 +176,10 @@
 }
 },
 "reef": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "refly": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://framerusercontent.com/images/gLtXxNIfbLGzLsMUlREuy7V9qpA.png"
 },
 "reinforcement-learning-an-introduction-chinese": {
@@ -235,7 +241,7 @@
 "checked": "2026-11-01"
 },
 "repowise": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://repowise.dev/api/og/home",
 "pricing": {
 "currency": "USD",
@@ -356,15 +362,15 @@
 "checked": "2026-10-30"
 },
 "riverml-xyz": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "rivet": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://rivet.dev/images/og/default.png",
 "pricing": {
 "currency": "USD",
 "free": true,
-"from": 5.0,
+"from": 18.0,
 "url": "https://rivet.dev/pricing/"
 }
 },
@@ -530,7 +536,7 @@
 }
 },
 "ruoyi-ai": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "rustchain": {
 "checked": "2026-11-03",
@@ -555,7 +561,7 @@
 "image": "https://rwilinski.ai/og-image/index.png"
 },
 "rwkv-language-model": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "rytr": {
 "checked": "2026-11-23",
@@ -568,7 +574,7 @@
 }
 },
 "ryze-ai": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://www.get-ryze.ai/og-card.jpg",
 "pricing": {
 "currency": "USD",

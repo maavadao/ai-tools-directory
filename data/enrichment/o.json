@@ -200,7 +200,7 @@
 "image": "https://only-cli.com/og-cover.png"
 },
 "onlyswitch": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "onnx": {
 "checked": "2026-11-23"
@@ -225,7 +225,7 @@
 }
 },
 "oomol": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://oomol.com/img/brand/oomol-social.png"
 },
 "oomwoo": {
@@ -233,7 +233,7 @@
 "image": "https://oomwoo.com/assets/vacuum-top.webp"
 },
 "op-zseven-tech": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://op.zseven.tech/_marketing/20261021-8e995406/og-image.jpg"
 },
 "opa": {
@@ -257,7 +257,7 @@
 "image": "https://open-agent.io/assets/images/og-image.webp"
 },
 "open-agents": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://open-agents.dev/opengraph-image?31983319aa5e44a1"
 },
 "open-analytics": {
@@ -277,8 +277,13 @@
 "checked": "2026-11-22"
 },
 "open-executive": {
-"checked": "2026-10-26",
-"image": "https://openexecutive.ai/opengraph-image?7da2ad0476344b3b"
+"checked": "2026-11-25",
+"image": "https://openexecutive.ai/opengraph-image?020d92965a0feb48",
+"pricing": {
+"currency": "USD",
+"from": 25.0,
+"url": "https://openexecutive.ai"
+}
 },
 "open-generative-ai": {
 "checked": "2026-11-22",
@@ -365,8 +370,7 @@
 }
 },
 "openagent": {
-"checked": "2026-10-26",
-"image": "https://cdn.openagentai.org/img/openagent.png"
+"checked": "2026-11-25"
 },
 "openagents": {
 "checked": "2026-10-27",
@@ -483,7 +487,7 @@
 }
 },
 "opencompass": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "opencrabs": {
 "checked": "2026-11-01",
@@ -497,8 +501,8 @@
 "checked": "2026-10-27"
 },
 "opencursor": {
-"checked": "2026-10-26",
-"image": "https://cdn.vsassets.io/v/M281_20261021.12/_content/Header/access-marketplace.png"
+"checked": "2026-11-25",
+"image": "https://cdn.vsassets.io/v/M282_20261117.6/_content/Header/access-marketplace.png"
 },
 "opencv": {
 "checked": "2026-11-22",
@@ -590,7 +594,7 @@
 "checked": "2026-11-02"
 },
 "openllmetry": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://cdn.prod.website-files.com/6813b49cdb25f6ecabc12793/6915acf131f6d9813bf464c8_traceloop-ograph.jpg",
 "pricing": {
 "free": true,
@@ -610,7 +614,7 @@
 "image": "https://api.wenfeiai.com/storage/seo/20261009/icon(1)3dc10e249a157b597090df4d289419ab75d9fe18.png"
 },
 "openmed": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://openmed.life/og.png"
 },
 "openmeld": {
@@ -645,7 +649,7 @@
 "image": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/665643dd8c7ac752237b5cef_Discord-OG-1200x630.jpg"
 },
 "opennmt": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "openobserve": {
 "checked": "2026-11-23",
@@ -766,7 +770,7 @@
 "image": "https://openspec.dev/og-card.jpg"
 },
 "opensquilla": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://opensquilla.cn/logo.png"
 },
 "opensrc": {
@@ -850,7 +854,7 @@
 "image": "https://ophel.app/og-image.png"
 },
 "optimate": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://framerusercontent.com/images/YDGtc5GwgzIyGPm5VDwI7yOmpo.png"
 },
 "optio": {
@@ -877,7 +881,7 @@
 "image": "https://askoracle.sh/social-card.png"
 },
 "orange-data-mining": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://orangedatamining.com/_next/static/media/orange-cover.6d606323.png"
 },
 "orb": {
@@ -947,15 +951,11 @@
 }
 },
 "osaurus": {
-"checked": "2026-10-26",
-"image": "https://osaurus.ai/osaurus-og-image-1.png",
-"pricing": {
-"trial": true,
-"url": "https://osaurus.ai/pricing"
-}
+"checked": "2026-11-25",
+"image": "https://osaurus.ai/osaurus-og-image-1.png"
 },
 "osmedeus": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://osmedeus.org/banner.png"
 },
 "osqp": {
@@ -987,7 +987,7 @@
 }
 },
 "ouroboros": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://ouroboros.page/assets/ouroboros.jpg"
 },
 "ouroboros-agent-ai": {

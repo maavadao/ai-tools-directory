@@ -7,7 +7,7 @@
 "checked": "2026-11-22"
 },
 "paddlepaddle": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "page-redirection": {
 "checked": "2026-10-28"
@@ -223,7 +223,7 @@
 "checked": "2026-11-24"
 },
 "peter-steinberger": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://steipete.me/peter-avatar.jpg"
 },
 "pettingzoo-documentation": {
@@ -295,7 +295,7 @@
 "image": "https://pi-bolt.opensec.in/video-poster.jpg"
 },
 "pi-desktop": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "pier-paolo-ippolito": {
 "checked": "2026-10-31",
@@ -390,7 +390,7 @@
 "image": "https://pixel-agents.com/og.png?v=1"
 },
 "pixie": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://px.dev/logo.svg"
 },
 "pixtuoid": {
@@ -410,7 +410,7 @@
 "image": "https://plannotator.ai/assets/plannotator-generic-og-v1.jpg"
 },
 "plano": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://archgw-tau.vercel.app/Logomark.png"
 },
 "platform-zhizengzeng-com": {
@@ -499,8 +499,7 @@
 "image": "https://database-build-4xjy4z2o2-supabase.vercel.app/opengraph-image.png?b55f41893ce22bc8"
 },
 "postgresml": {
-"checked": "2026-10-26",
-"image": "https://postgresml.org/assets/postgresml.org/static/images/homepage-social-share.webp"
+"checked": "2026-11-25"
 },
 "posthog": {
 "checked": "2026-11-22",
@@ -521,7 +520,7 @@
 }
 },
 "potpie": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://potpie.ai/og.png"
 },
 "powercontext": {
@@ -547,7 +546,7 @@
 "image": "https://priceai.cc/opengraph-image?b6218033b3623ef1"
 },
 "printfilm": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "prism": {
 "checked": "2026-10-29",
@@ -583,7 +582,7 @@
 "checked": "2026-11-02"
 },
 "projectlearn": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "projectmem": {
 "checked": "2026-11-02",
@@ -691,15 +690,20 @@
 "checked": "2026-11-02"
 },
 "pufferlib": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "pullboard": {
 "checked": "2026-11-05",
 "image": "https://pullboard.dev/og.png"
 },
 "pulse": {
-"checked": "2026-10-26",
-"image": "https://pulserelay.pro/dashboard.jpg"
+"checked": "2026-11-25",
+"image": "https://pulserelay.pro/dashboard.jpg",
+"pricing": {
+"currency": "USD",
+"from": 69.0,
+"url": "https://pulserelay.pro/pricing"
+}
 },
 "puppyone": {
 "checked": "2026-10-31",
@@ -759,7 +763,7 @@
 "image": "https://pypots.com/figs/pypots_logos/publicity/PyPOTS_LinkedIn_OG_image.jpg"
 },
 "pyspur": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "pysr": {
 "checked": "2026-10-27"

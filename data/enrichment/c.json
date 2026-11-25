@@ -16,7 +16,7 @@
 "image": "https://cdn.camel-ai.org/image/thumbnail.png"
 },
 "canopy-labs": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "canva": {
 "checked": "2026-11-22"
@@ -117,14 +117,14 @@
 "image": "https://cccc.sh/og.png"
 },
 "ccg-workflow": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://ccg.fengshao1227.com/logo/ccg-social-og.png"
 },
 "ccode-image": {
 "checked": "2026-11-15"
 },
 "ccpm": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://automaze.io/static/img/ogimage.webp"
 },
 "ccs": {
@@ -149,7 +149,7 @@
 "checked": "2026-11-02"
 },
 "chainer": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://chainer.org/images/logo.png"
 },
 "chainforge": {
@@ -251,7 +251,7 @@
 "checked": "2026-11-04"
 },
 "chatlab": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "chatpad": {
 "checked": "2026-10-31"
@@ -382,7 +382,7 @@
 "image": "https://www.aitmpl.com/og/site.png"
 },
 "claude-code-ultimate-guide": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://cc.bruniaux.com/og-image.png"
 },
 "claude-devtools": {
@@ -477,7 +477,7 @@
 "image": "https://clawcodex.app/assets/og.png"
 },
 "clawd-on-desk": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "clawith": {
 "checked": "2026-10-27"
@@ -498,7 +498,7 @@
 "image": "https://clawsweeper.bot/social-card.png"
 },
 "clawx": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://claw-x.com/og-image.png"
 },
 "clay": {
@@ -517,7 +517,7 @@
 "image": "https://cleanlab.ai/_next/static/media/social-share-card-homepage.71fc9f90.png"
 },
 "clearml": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://clear.ml/wp-content/uploads/2025/02/pyramid-and-labels.png",
 "pricing": {
 "currency": "USD",
@@ -582,7 +582,7 @@
 "image": "https://clodex.xyz/og-cover.png?v=20260729"
 },
 "cloudflare-docs": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://developers.cloudflare.com/og-docs.png",
 "pricing": {
 "currency": "USD",
@@ -659,7 +659,7 @@
 "image": "https://res.cloudinary.com/donplt0kp/image/upload/v1687544389/OG%20for%20Code%20with%20Beto/OGMain_h5na0z.png"
 },
 "code2prompt": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://code2prompt.dev/favicon.svg"
 },
 "codeboarding": {
@@ -673,7 +673,7 @@
 }
 },
 "codecompanion-nvim-documentation": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://codecompanion.olimorris.dev/assets/images/social_banner.png"
 },
 "codemachine-cli": {
@@ -684,7 +684,7 @@
 "image": "https://getcodeman.com/assets/og.png"
 },
 "codepilot": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://www.codepilot.sh/screenshots/en/chat-window.webp"
 },
 "coder": {
@@ -725,7 +725,7 @@
 "image": "https://www.codync.dev/opengraph-image.png?opengraph-image.0b~~wuyuv9axf.png"
 },
 "cofounder-by-openinterface": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://storage.googleapis.com/raidenaipublic/cofounderdev/cofounder-og-black.webp"
 },
 "cog": {
@@ -929,11 +929,11 @@
 "image": "https://coolify-mcp.stumason.dev/og.png"
 },
 "copilot-for-obsidian": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://www.obsidiancopilot.com/api/og?heading=Copilot+for+Obsidian&type=Knowledge+Work+Agent&description=Designed+for+Your+Second+Brain&badge=Free+and+open+source&mode=dark"
 },
 "copilot-for-xcode": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://copilotforxcode.intii.com/banner.png"
 },
 "copilotkit": {
@@ -965,7 +965,7 @@
 "checked": "2026-10-30"
 },
 "coroot": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://coroot.com/assets/images/coroot-social.jpeg",
 "pricing": {
 "currency": "USD",
@@ -984,7 +984,7 @@
 }
 },
 "cortex": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "cortex-docs": {
 "checked": "2026-10-28"
@@ -1009,8 +1009,8 @@
 "checked": "2026-11-02"
 },
 "countly-server": {
-"checked": "2026-10-26",
-"image": "https://cdn.prod.website-files.com/61c1b7c3e2f3805325be4594/668ce80fb93226b6ad88d718_d587926ef3277bc26935a28e68750dcb_Meta%20Tag-Countly.com.jpg",
+"checked": "2026-11-25",
+"image": "https://countly.com/brand/og.png",
 "pricing": {
 "currency": "USD",
 "from": 175.0,

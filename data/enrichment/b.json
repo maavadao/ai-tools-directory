@@ -7,14 +7,8 @@
 "checked": "2026-11-03"
 },
 "background-remover-ai": {
-"checked": "2026-10-26",
-"image": "https://backgroundremoverai.com/static/backgroundremover.png",
-"pricing": {
-"currency": "USD",
-"free": true,
-"from": 12.0,
-"url": "https://backgroundremoverai.com/pricing/"
-}
+"checked": "2026-11-25",
+"image": "https://backgroundremoverai.com/static/backgroundremover.png"
 },
 "baijia-online": {
 "checked": "2026-10-31"
@@ -61,7 +55,7 @@
 }
 },
 "basic-pitch": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "basicai": {
 "checked": "2026-10-31",
@@ -155,8 +149,8 @@
 }
 },
 "bibigpt": {
-"checked": "2026-10-26",
-"image": "https://bibigpt.co/og-image.png?v=2023-04-26"
+"checked": "2026-11-25",
+"image": "https://bibigpt.co/og-image.png?v=2026-11-16"
 },
 "bifrost-by-maxim-ai": {
 "checked": "2026-11-24",
@@ -168,7 +162,7 @@
 }
 },
 "big-agi": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://big-agi.com/icons/card-dark-1200.png",
 "pricing": {
 "currency": "USD",
@@ -323,7 +317,7 @@
 "checked": "2026-10-29"
 },
 "botman": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "botonic-docs": {
 "checked": "2026-11-03"
@@ -417,7 +411,7 @@
 "image": "https://browserable.ai/browserable-meta.png"
 },
 "browseract": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://www.browseract.com/og/browseract-home.jpeg",
 "pricing": {
 "currency": "USD",

@@ -140,7 +140,7 @@
 }
 },
 "main-gorgonia": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "main-page": {
 "checked": "2026-10-28"
@@ -249,7 +249,7 @@
 }
 },
 "materialize": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://cdn.sanity.io/images/rz2gt56r/production/2b473d4149f203889e951e95aff805b7b88897f5-1200x630.jpg",
 "pricing": {
 "free": true,
@@ -258,7 +258,7 @@
 }
 },
 "mathmodelagent": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://mathmodel.top/mathmodel.png"
 },
 "maubot": {
@@ -295,8 +295,8 @@
 "image": "https://mcap.dev/img/og-image.jpeg"
 },
 "mcp-atlassian": {
-"checked": "2026-10-26",
-"image": "https://personal-1d37018d.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=MCP+Atlassian&description=Connect+AI+assistants+to+Jira+and+Confluence+%E2%80%94+search%2C+create%2C+update+issues+and+pages+via+MCP&theme=e973f3b58f90d97797885a76&signature=f7e2063e7aa88b76b7388455f4054a468c300a860e97ab229af051fcec40d65d"
+"checked": "2026-11-25",
+"image": "https://personal-1d37018d.mintlify.site/_mintlify/api/og/v2?division=Getting+Started&title=MCP+Atlassian&description=Connect+AI+assistants+to+Jira+and+Confluence+%E2%80%94+search%2C+create%2C+update+issues+and+pages+via+MCP&theme=432d10deeecae5d94bc6f889&signature=7831467663d0945e330744e57cfe946e96fe60739f6e2a68cf1d48d43731d8ec"
 },
 "mcp-c-sdk-documentation": {
 "checked": "2026-10-27"
@@ -402,7 +402,7 @@
 }
 },
 "megaparse": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://www.megaparse.com/og-image.png"
 },
 "meigen": {
@@ -631,7 +631,7 @@
 "image": "https://assets.zilliz.com/meta_image_milvus_d6510e10e0.png"
 },
 "mimiclaw": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://mimiclaw.io/bannerclaw.png"
 },
 "mimo-code": {
@@ -709,7 +709,7 @@
 "image": "https://miso.com/assets/link-card-v4.jpg"
 },
 "mission-control": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://mc.builderz.dev/og.png"
 },
 "mistral": {
@@ -743,7 +743,7 @@
 "image": "https://ml4trading.io/static/img/og-image.a0471320e8d2.jpg"
 },
 "ml5-js": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://ml5js.org/favicon/og-image.png"
 },
 "mlc": {
@@ -788,7 +788,7 @@
 "checked": "2026-11-03"
 },
 "mlpack": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "mlr": {
 "checked": "2026-10-30",
@@ -811,7 +811,7 @@
 "image": "https://mlx.studio/logos/png/banner-og-1200x630.png?v=20260908e"
 },
 "mmf": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://mmf.sh/img/logo.png"
 },
 "mnemon": {

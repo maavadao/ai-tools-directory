@@ -42,8 +42,8 @@
 }
 },
 "zenml": {
-"checked": "2026-10-26",
-"image": "https://assets.zenml.io/og/pages/home.jpg",
+"checked": "2026-11-25",
+"image": "https://assets.zenml.io/og/pages/home-evals.jpg",
 "pricing": {
 "currency": "USD",
 "from": 39.0,
@@ -77,7 +77,7 @@
 "image": "https://zero.twigpine.com/og.png"
 },
 "zero-to-mastery-ml": {
-"checked": "2026-10-26"
+"checked": "2026-11-25"
 },
 "zero123": {
 "checked": "2026-10-28"

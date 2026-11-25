@@ -106,13 +106,11 @@
 "image": "https://hash.dev/social-cover.png"
 },
 "hatchet": {
-"checked": "2026-10-26",
-"image": "https://hatchet.run/assets/og-PqKfvZWg.png",
+"checked": "2026-11-25",
+"image": "https://hatchet.run/og/site/home.png?v=1txbivd",
 "pricing": {
-"currency": "USD",
 "free": true,
-"from": 99.0,
-"url": "https://hatchet.run/announcement/pay-as-you-go-pricing?utm_source=hatchet.run&amp;utm_medium=announcement&amp;utm_campaign=pay-as-you-go-pricing"
+"url": "https://hatchet.run/pricing"
 }
 },
 "hax": {
@@ -150,7 +148,7 @@
 "image": "https://www.heigeai.com/blake/images/wenwen-heige.webp"
 },
 "helicone-ai": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://www.helicone.ai/static/new-open-graph.png",
 "pricing": {
 "currency": "USD",
@@ -171,7 +169,7 @@
 "checked": "2026-11-03"
 },
 "helixdb": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://www.helix-db.com/opengraph-image?b24bbcbc49577ce1"
 },
 "helixml": {
@@ -310,8 +308,8 @@
 }
 },
 "hister": {
-"checked": "2026-10-26",
-"image": "https://hister.org/logo.png"
+"checked": "2026-11-25",
+"image": "https://nogon.eu/logo.png"
 },
 "hive": {
 "checked": "2026-11-04",
@@ -371,7 +369,7 @@
 "image": "https://homl.info/og.jpg"
 },
 "honcho": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://honcho.dev/opengraph-image.png?bdb2d68407bc6230"
 },
 "hookest": {
@@ -416,7 +414,7 @@
 }
 },
 "hula": {
-"checked": "2026-10-26",
+"checked": "2026-11-25",
 "image": "https://website.hulaspark.com/img/hula-title.png?imageMogr2/format/webp/quality/60",
 "pricing": {
 "free": true,
