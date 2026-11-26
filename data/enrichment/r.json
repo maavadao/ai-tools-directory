@@ -3,7 +3,7 @@
 "checked": "2026-10-29"
 },
 "radar": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://radarhq.io/radar/opengraph-image.png?opengraph-image.3l_-r9z9qry3g.png",
 "pricing": {
 "free": true,
@@ -57,15 +57,15 @@
 "checked": "2026-10-28"
 },
 "rapid-mlx": {
-"checked": "2026-10-27",
-"image": "https://rapidmlx.com/og.png"
+"checked": "2026-11-26",
+"image": "https://rapidmlx.com/og.png?v=2026-11-12"
 },
 "ratel": {
 "checked": "2026-11-04",
 "image": "https://ratel.sh/og.png?v=2"
 },
 "rath": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://kanaries.net/assets/kanaries-slice.svg"
 },
 "rath-team": {
@@ -161,7 +161,7 @@
 "checked": "2026-11-24"
 },
 "redirecting-to-structuredlabs-com": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "redirecting-to-v2-1-0-branch-version": {
 "checked": "2026-11-02"
@@ -223,8 +223,8 @@
 "image": "https://rentry.co/static/icons/270.png"
 },
 "replica-skill": {
-"checked": "2026-10-27",
-"image": "https://opusjake.ai/OpusJake-Cover.png"
+"checked": "2026-11-26",
+"image": "https://opusjake.ai/opusjake-social-2026.png"
 },
 "replicate": {
 "checked": "2026-11-23"
@@ -286,7 +286,7 @@
 "image": "https://restheart.org/images/restheart_social_preview_1200x630.png"
 },
 "restricted-domain": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "resume-matcher": {
 "checked": "2026-11-23",
@@ -337,7 +337,7 @@
 "image": "https://www.rightnowai.co/og/main.png?v=8805a80f"
 },
 "rikkahub": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "rill": {
 "checked": "2026-10-28",
@@ -375,7 +375,7 @@
 }
 },
 "rivet-ironcladapp-com": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://rivet.ironcladapp.com/img/social-card.png"
 },
 "rl-tools": {
@@ -385,7 +385,7 @@
 "checked": "2026-11-02"
 },
 "rlcard-showdown": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "rlhf-book": {
 "checked": "2026-10-29",
@@ -499,7 +499,7 @@
 "checked": "2026-10-28"
 },
 "rubyllm": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://rubyllm.com/assets/images/social/index.png"
 },
 "ruckig": {

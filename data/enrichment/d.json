@@ -15,7 +15,7 @@
 }
 },
 "dagu": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://dagu.sh/og-f25cffd3.png",
 "pricing": {
 "currency": "USD",
@@ -174,7 +174,7 @@
 "image": "https://raw.githubusercontent.com/OvidijusParsiunas/deep-chat/main/assets/readme/social-media-4.png"
 },
 "deep-learning-interviews": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "deep-learning-wizard": {
 "checked": "2026-11-02"
@@ -184,7 +184,7 @@
 "image": "https://cdn.prod.website-files.com/6626eae60883543ea2814ed0/6ada8dcedbcfbf478b2e710a_lagrange-og-2026-15-9m.webp"
 },
 "deep-research": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "deep-research-web-ui": {
 "checked": "2026-10-29"
@@ -225,7 +225,7 @@
 "image": "https://deepfates.com/images/welcome-og.jpg"
 },
 "deepflow-insight": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://deepflow.io/deepflow-overview.jpg"
 },
 "deepgram": {
@@ -329,11 +329,16 @@
 "image": "https://buy.multiagentbook.com/images/og-card.webp"
 },
 "designlang": {
-"checked": "2026-10-27",
-"image": "https://designlang.app/opengraph-image?f0263056b029f4ad"
+"checked": "2026-11-26",
+"image": "https://designlang.app/opengraph-image?b09914a13801cdfb",
+"pricing": {
+"currency": "USD",
+"from": 10.0,
+"url": "https://designlang.app/pricing"
+}
 },
 "deskcommcrm": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "desktop-commander": {
 "checked": "2026-11-24",
@@ -358,7 +363,7 @@
 "checked": "2026-11-04"
 },
 "developers-digest": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://www.developersdigest.tech/opengraph-image",
 "pricing": {
 "currency": "USD",
@@ -405,7 +410,7 @@
 "image": "https://dictionariez.pnl.dev/Dictionariez-promo-1280x640.png"
 },
 "diffusion-policy": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "diffusionbee": {
 "checked": "2026-11-24",
@@ -436,11 +441,11 @@
 "checked": "2026-11-03"
 },
 "divergent-labs": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://divergent.sh/opengraph-image?5c705a49a9354677"
 },
 "djl": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "dmol-book": {
 "checked": "2026-11-03",
@@ -455,7 +460,7 @@
 "image": "https://dobb-e.com/mfiles/images/preview.jpg"
 },
 "docetl": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://www.docetl.org/docetl-favicon-color.png"
 },
 "docmd": {
@@ -499,11 +504,11 @@
 "image": "https://doop.design/og.png"
 },
 "dora": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://dora-rs.ai/og.png"
 },
 "dorian-todd": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://www.doriantodd.com/og/home.jpg"
 },
 "doris": {
@@ -538,7 +543,7 @@
 }
 },
 "drake": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "dramaclaw": {
 "checked": "2026-11-25",

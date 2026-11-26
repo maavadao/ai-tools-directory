@@ -36,7 +36,7 @@
 "checked": "2026-10-31"
 },
 "aci-dev": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://raw.githubusercontent.com/aipotheosis-labs/aipolabs-icons/refs/heads/main/meta/meta.png"
 },
 "acl-anthology": {
@@ -144,7 +144,7 @@
 }
 },
 "ag2": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://www.ag2.ai/og"
 },
 "agency-orchestrator": {
@@ -177,7 +177,7 @@
 "image": "https://adk.dev/assets/adk-social-card.png"
 },
 "agent-device": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://agent-device.dev/og-image.jpg"
 },
 "agent-flywheel": {
@@ -262,7 +262,7 @@
 "image": "https://theagentrouter.ai/img/brand/og-card@1200.png"
 },
 "agent-runtime-security": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://nono.sh/opengraph-image?a5311c0003070d65"
 },
 "agent-s": {
@@ -283,7 +283,7 @@
 "image": "https://agent-safehouse.dev/og-image.png"
 },
 "agent-sandbox": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://agent-sandbox.sigs.k8s.io/featured-background.webp"
 },
 "agent-skills": {
@@ -314,7 +314,7 @@
 "image": "https://www.agent-zero.ai/res/og.png"
 },
 "agentation": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://agentation.com/og-image.png"
 },
 "agentbox": {
@@ -577,7 +577,7 @@
 "checked": "2026-10-31"
 },
 "ai-binwang-me": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "ai-business-automation-systems": {
 "checked": "2026-11-04",
@@ -625,7 +625,7 @@
 }
 },
 "ai-engineering": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/thumbnail/ee0aaff6-3e4e-4900-88b4-a9b4a51ee2d6/landscape_Black_and_Green_Modern_General_Manager_LinkedIn_Banner__1584_x_630_px_.png"
 },
 "ai-engineering-academy": {
@@ -643,8 +643,13 @@
 "image": "https://filesorter.app/static/images/meta/social-preview.png"
 },
 "ai-game-dev": {
-"checked": "2026-10-27",
-"image": "https://ai-game.dev/og/home.jpg?v=29201c04bcfc"
+"checked": "2026-11-26",
+"image": "https://ai-game.dev/og/home.jpg?v=183a6fd12b9b",
+"pricing": {
+"free": true,
+"trial": true,
+"url": "https://ai-game.dev/pricing"
+}
 },
 "ai-gist": {
 "checked": "2026-11-02",
@@ -661,14 +666,14 @@
 "checked": "2026-11-01"
 },
 "ai-middleware": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "ai-ml-companion": {
 "checked": "2026-10-29",
 "image": "https://aimlcompanion.ai/og-images/default.png"
 },
 "ai-native-database-for-llm": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://infiniflow.org/img/infinity-social-card.png"
 },
 "ai-native-lang": {
@@ -686,7 +691,7 @@
 "checked": "2026-10-29"
 },
 "ai-poster-design": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "ai-ref-library-cn": {
 "checked": "2026-11-03"
@@ -732,7 +737,7 @@
 "checked": "2026-11-02"
 },
 "ai4finance-foundation": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "aiart-pics": {
 "checked": "2026-11-04",
@@ -815,7 +820,7 @@
 }
 },
 "aipoch": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://statics.aipoch.com/public/f/image/og-science-open-to-all-ab128c94.png"
 },
 "aiq": {
@@ -883,7 +888,7 @@
 "checked": "2026-10-30"
 },
 "all-api-hub-qixing1217-top": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "allweone": {
 "checked": "2026-10-28",
@@ -973,11 +978,11 @@
 "checked": "2026-10-30"
 },
 "answer-me-with-html": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://answer-me-with-html.com/images/text-vs-page.png"
 },
 "ant-design-x": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://mdn.alipayobjects.com/huamei_lkxviz/afts/img/MGdkQ6iLuXEAAAAAQDAAAAgADtFMAQFr/original"
 },
 "anthropic-leaked-source-code": {
@@ -1119,7 +1124,7 @@
 }
 },
 "arcbox": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://arcbox.dev/opengraph-image-1jdwle.png?opengraph-image.3_xizob8kj3jz.png",
 "pricing": {
 "free": true,
@@ -1127,7 +1132,7 @@
 }
 },
 "archestra": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://archestra.ai/logo.png"
 },
 "archify": {
@@ -1204,7 +1209,7 @@
 }
 },
 "artificial-intelligence-deep-learning-machine-learning-tutorials": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "asap": {
 "checked": "2026-10-30",
@@ -1219,7 +1224,7 @@
 "image": "https://askconsulting.io/og-2026-10.png"
 },
 "askai-free": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://askai.free/static/og/og-home.png",
 "pricing": {
 "currency": "USD",
@@ -1322,7 +1327,7 @@
 "image": "https://cdn.prod.website-files.com/69d4e04c943eea1581f96f37/6a4c0cecf04f6540db797e37_opengraph.jpg"
 },
 "atopile": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "attestix": {
 "checked": "2026-11-02",
@@ -1340,7 +1345,7 @@
 "checked": "2026-10-28"
 },
 "aurelio-ai": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://www.aurelio.ai/images/og2.png"
 },
 "auto-analyst": {
@@ -1406,7 +1411,7 @@
 "image": "https://socialify.git.ci/avinashkranjan/Amazing-Python-Scripts/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F55796944%2F104455539-7258a200-55cd-11eb-90dc-7c9981e73d72.png&owner=1&pulls=1&stargazers=1"
 },
 "awarexone": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://www.awarexone.com/og-image.jpg?v=2"
 },
 "awesome-ai": {
@@ -1483,11 +1488,11 @@
 "image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.2365-6/384127954_1010009116964035_2906046058102555347_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=4GqvgaR623cQ7kNvwEX6m2E&_nc_oc=Adr9c_tJOP35MKEN2ClOb7QE7e0V-V276hUgXcquKE6zbXJR1BPaZzHCpm8dAlKKCc-gd9cZT9GGY0Cb-itycz9M&_nc_ad=z-m&_nc_cid=0&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=g6ml-qGJA1HhVsKBtzzQKQ&oh=00_AQSvvRb40s3CnL44gtqogVvr3xvj8xlwAH4mrfiQgKGMNw&oe=6AEB66C5"
 },
 "awesome-open-source-ai": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://awesomeosai.com/og-image.png"
 },
 "awesome-openclaw-tutorial": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "awesome-prediction-market-tools": {
 "checked": "2026-11-02",
@@ -1521,7 +1526,7 @@
 "checked": "2026-11-06"
 },
 "axonhub": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "axuse": {
 "checked": "2026-11-03",

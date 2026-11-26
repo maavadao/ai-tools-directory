@@ -4,7 +4,7 @@
 "image": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2"
 },
 "cadam": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://adam.new/marketing/shared/og/home-r4.png"
 },
 "camb-ai": {
@@ -51,7 +51,7 @@
 "image": "https://cartesiancs.com/logo192.jpg"
 },
 "cascadeflow": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://cdn.ploy.ai/85867475-b06b-4544-912d-701fb42e8c02/user/a567e070-ai-generated-1783581868108.png"
 },
 "casdoor": {
@@ -170,7 +170,7 @@
 "checked": "2026-11-24"
 },
 "chat-geekai-me": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "chat-js": {
 "checked": "2026-11-01",
@@ -264,7 +264,7 @@
 "checked": "2026-11-22"
 },
 "chatui": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "check-claude": {
 "checked": "2026-10-29"
@@ -284,7 +284,7 @@
 "image": "https://cheshirecat.ai/_astro/cheshirecatai-cover-social.Bq1qrWeJ.jpg"
 },
 "chip-huyen": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "chisle": {
 "checked": "2026-11-03",
@@ -326,7 +326,7 @@
 "image": "https://chunkhound.ai/og-image-dark.png"
 },
 "cindy": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "pricing": {
 "currency": "USD",
 "free": true,
@@ -339,7 +339,7 @@
 "image": "https://claraverse.space/images/blog/clara-blog-announcement.png"
 },
 "clarity-ai": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://clarityai.co/og-clarityai-2026-10.png"
 },
 "classifai": {
@@ -386,7 +386,7 @@
 "image": "https://cc.bruniaux.com/og-image.png"
 },
 "claude-devtools": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://claude-dev.tools/opengraph-image?003cc826c15f19e1"
 },
 "claude-directory": {
@@ -480,7 +480,7 @@
 "checked": "2026-11-25"
 },
 "clawith": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "clawless": {
 "checked": "2026-11-04"
@@ -526,7 +526,7 @@
 }
 },
 "cli": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://entire.com/images/og/home.png?v=13"
 },
 "cli-anything-hub": {
@@ -634,8 +634,8 @@
 "image": "https://sanity-images.imgix.net/production/6b46953798756d87bc1ad579a32d2af427ba6d3d-1200x628.png?w=&auto=format%2Ccompress"
 },
 "code-graph-rag": {
-"checked": "2026-10-27",
-"image": "https://code-graph-rag.com/images/og-image.png"
+"checked": "2026-11-26",
+"image": "https://code-graph-rag.com/opengraph-image"
 },
 "code-interpreter": {
 "checked": "2026-10-29",
@@ -713,7 +713,7 @@
 "checked": "2026-10-31"
 },
 "codex-monitor": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://www.codexmonitor.app/assets/main.png"
 },
 "codexbar": {
@@ -807,10 +807,11 @@
 "image": "https://comma.ai/og-comma-four.png"
 },
 "command-code": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://commandcode.ai/cover.jpg",
 "pricing": {
 "currency": "USD",
+"free": true,
 "from": 10.0,
 "url": "https://commandcode.ai/pricing"
 }
@@ -994,7 +995,7 @@
 "image": "https://www.cosmowander.ai/og-image.png"
 },
 "costrict": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://costrict.ai/og-image.png"
 },
 "cotabby": {
@@ -1045,7 +1046,7 @@
 "image": "https://crabwalk.app/og-image.png"
 },
 "crate": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://cratedb.com/hubfs/cr-featured-image-23.jpg",
 "pricing": {
 "free": true,
@@ -1077,7 +1078,7 @@
 "image": "https://images.ctfassets.net/rmv9a2eqdsyw/26ld4zbjbNkeg6KGxkyLXE/7d686ce386ed7eb61f3d0f1d3709949c/og-image__2_.png"
 },
 "crewclaw": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://crewclaw.com/opengraph-image?93dc9922a3da0563",
 "pricing": {
 "currency": "USD",
@@ -1179,7 +1180,7 @@
 "checked": "2026-11-01"
 },
 "cumora": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://cumora.ai/assets/og-image.png"
 },
 "cupertino-panes": {

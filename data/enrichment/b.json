@@ -47,9 +47,11 @@
 "image": "https://baseten-preview.mintlify.app/_mintlify/api/og/v2?division=Get+started&title=Baseten+overview&description=Run+hosted+models%2C+deploy+custom+models%2C+and+train+models+on+production+GPU+infrastructure.&theme=ff3d51168aeb82649c015173&signature=8313220418969bc03e2c7688e40b29ae7e1338ad24cdc282f7e1b836439bae96"
 },
 "basic-memory": {
-"checked": "2026-10-27",
-"image": "https://basicmemory.com/_og/d/h_630,a_Basic+Memory+page+preview,c_BasicMemory,title_Basic+Memory,description_~T25lIGtub3dsZWRnZSBiYXNlIGZvciB5b3UsIHlvdXIgQUkgdG9vbHMsIGFuZCB5b3VyIHRlYW0uIFlvdXIgY2hhdHMsIGRvY3MsIGRlY2lzaW9ucywgYW5kIHJlc2VhcmNoLCBjb25uZWN0ZWQgaW4gYSBsaXZpbmcga25vd2xlZGdlIGdyYXBoLiBQbGFpbiBNYXJrZG93biB5b3UgY29udHJvbC4gT3BlbiBzb3VyY2UsIE1DUC1uYXRpdmUsIHdvcmtzIHdpdGggZXZlcnkgQUku,path_basicmemory.com,s_Fm3i-JgC9UMd1-88.png",
+"checked": "2026-11-26",
+"image": "https://basicmemory.com/_og/d/h_630,a_~QmxhY2sgRnJpZGF5IHNhbGU6IDUwJSBvZmYgQmFzaWMgTWVtb3J5IENsb3VkIGV2ZXJ5IG1vbnRoIGZvciAxMiBtb250aHMgd2l0aCBjb2RlIEJMQUNLRlJJREFZLiBCaWxsZWQgbW9udGhseSwgY2FuY2VsIGFueXRpbWUuIEVuZHMgTW9uZGF5LCBOb3ZlbWJlciAzMCBhdCAxMTo1OSBQTSBQVC4,c_BlackFriday,path_basicmemory.com,name_Black+Friday,percentOff_50,months_12,code_BLACKFRIDAY,endsLabel_~TW9uZGF5LCBOb3ZlbWJlciAzMCBhdCAxMTo1OSBQTSBQVA,plans_~Q2xvdWQ6MTksUHJvOjk5LEJ1c2luZXNzOjI0OQ,s_sJPXKcmdGjXa04dE.png",
 "pricing": {
+"currency": "USD",
+"from": 19.0,
 "trial": true,
 "url": "https://basicmemory.com/pricing"
 }
@@ -79,7 +81,7 @@
 "checked": "2026-10-28"
 },
 "beatai": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "beautiful": {
 "checked": "2026-11-22",
@@ -98,7 +100,7 @@
 "checked": "2026-10-30"
 },
 "behaviortree-cpp": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "beikeshop": {
 "checked": "2026-10-30",
@@ -177,7 +179,7 @@
 "checked": "2026-11-03"
 },
 "biomni": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://biomni.stanford.edu/logo.png"
 },
 "bionic-gpt": {
@@ -332,7 +334,7 @@
 }
 },
 "bottender": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://bottender.js.org/img/og-image.png"
 },
 "boyuan-chen-homepage": {
@@ -340,7 +342,7 @@
 "image": "https://boyuan.space/images/about-img.jpg"
 },
 "bragai": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "brain-md": {
 "checked": "2026-11-04",
@@ -374,7 +376,7 @@
 }
 },
 "browser-agent": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://magnitude.dev/og-image.png"
 },
 "browser-mcp": {

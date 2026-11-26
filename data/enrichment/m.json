@@ -3,7 +3,7 @@
 "checked": "2026-11-23"
 },
 "maaframework": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://maafw.com/maafw.png"
 },
 "macai": {
@@ -26,12 +26,10 @@
 "checked": "2026-10-30"
 },
 "macro": {
-"checked": "2026-10-27",
-"image": "https://macro.com/og/home-unified-2026-10-23.png",
+"checked": "2026-11-26",
+"image": "https://macro.com/og/home-unified-2026-10-27.png",
 "pricing": {
-"currency": "USD",
 "free": true,
-"from": 23.99,
 "url": "https://macro.com/pricing"
 }
 },
@@ -101,7 +99,7 @@
 "checked": "2026-11-22"
 },
 "magicrew": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://www.magicrew.ai/web/og-image.png"
 },
 "magicschool": {
@@ -232,7 +230,7 @@
 }
 },
 "marqo": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://www.marqo.ai/assets/og/og-home.png"
 },
 "masterdexter": {
@@ -299,7 +297,7 @@
 "image": "https://personal-1d37018d.mintlify.site/_mintlify/api/og/v2?division=Getting+Started&title=MCP+Atlassian&description=Connect+AI+assistants+to+Jira+and+Confluence+%E2%80%94+search%2C+create%2C+update+issues+and+pages+via+MCP&theme=432d10deeecae5d94bc6f889&signature=7831467663d0945e330744e57cfe946e96fe60739f6e2a68cf1d48d43731d8ec"
 },
 "mcp-c-sdk-documentation": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "mcp-can": {
 "checked": "2026-11-03",
@@ -337,7 +335,7 @@
 "checked": "2026-11-24"
 },
 "mcp-ui": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://mcpui.dev/og-image.png"
 },
 "mcp-use": {
@@ -448,7 +446,7 @@
 "image": "https://github.com/user-attachments/assets/0529764f-a009-4e17-8947-63c7c96075a5"
 },
 "memgraph": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://memgraph.com/images/web/memgraph-web-ogimage.jpg",
 "pricing": {
 "free": true,
@@ -563,7 +561,7 @@
 "image": "https://framerusercontent.com/images/IGFgdoGdArr78ab5BosoZEfp0jg.jpg"
 },
 "metalbear": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://metalbear.com/og-home.png"
 },
 "metascreener": {
@@ -832,7 +830,7 @@
 }
 },
 "mng-bz": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "mobile-next": {
 "checked": "2026-11-24",
@@ -866,7 +864,7 @@
 "image": "https://www.genmo.ai/media/social/home.png"
 },
 "mockserver": {
-"checked": "2026-10-27",
+"checked": "2026-11-26",
 "image": "https://www.mock-server.com/images/social-card.png"
 },
 "modal-examples": {
@@ -912,7 +910,7 @@
 "image": "https://momozi.cc/momozi/avatar.png"
 },
 "monkeycode": {
-"checked": "2026-10-27"
+"checked": "2026-11-26"
 },
 "moondream": {
 "checked": "2026-11-24",
