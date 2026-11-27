@@ -68,7 +68,7 @@
 "image": "https://www.thomsonreuters.com/content/dam/ue/en-us/images/product-images/248901.png.transform/rect-768/q90/image.png"
 },
 "catalyst": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://catalyst-team.com/images/icon_hu5e987f2991281c7aa1a91620f0bb3847_57910_512x512_fill_lanczos_center_2.png"
 },
 "catboost": {
@@ -153,7 +153,7 @@
 "image": "https://chainer.org/images/logo.png"
 },
 "chainforge": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "chandan-singh": {
 "checked": "2026-10-31",
@@ -177,7 +177,7 @@
 "image": "https://chatjs.dev/opengraph-image.jpg?opengraph-image.0i9k2_e_bsbee.jpg?dpl=dpl_Ah3vPCvNpQb7XnnZuAcDT5317XG7"
 },
 "chat-plexpt-com": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "chat-sdk": {
 "checked": "2026-10-29",
@@ -245,7 +245,7 @@
 "checked": "2026-10-31"
 },
 "chatgpt-telegram-workers": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "chatgpt-vue3-light-mvp": {
 "checked": "2026-11-04"
@@ -280,7 +280,7 @@
 "image": "https://cherryai.com/assets/images/social-card.jpg"
 },
 "cheshire-cat-ai": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://cheshirecat.ai/_astro/cheshirecatai-cover-social.Bq1qrWeJ.jpg"
 },
 "chip-huyen": {
@@ -291,7 +291,7 @@
 "image": "https://chisle.jaypokale.me/opengraph-image?374b5b1613994884"
 },
 "chitu-ai": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "chongluadao": {
 "checked": "2026-11-03",
@@ -335,7 +335,7 @@
 }
 },
 "claraverse": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://claraverse.space/images/blog/clara-blog-announcement.png"
 },
 "clarity-ai": {
@@ -431,8 +431,8 @@
 "image": "https://claudesettings.com/og-settings.webp"
 },
 "claude-tracker": {
-"checked": "2026-10-28",
-"image": "https://claudetracker.com/assets/social-card.png?v=2026-10-28"
+"checked": "2026-11-27",
+"image": "https://claudetracker.com/assets/social-card.png?v=2026-11-24"
 },
 "claudebar": {
 "checked": "2026-10-31",
@@ -486,7 +486,7 @@
 "checked": "2026-11-04"
 },
 "clawpanel": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://claw.qt.cool/static/img/logo-128.png"
 },
 "clawskills-sh": {
@@ -575,7 +575,7 @@
 "image": "https://cloakbrowser.dev/images/logo.png"
 },
 "clodds": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "clodex": {
 "checked": "2026-11-02",
@@ -592,7 +592,7 @@
 }
 },
 "cloudpods": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://www.cloudpods.org/img/docusaurus-social-card.jpg"
 },
 "cloudroom": {
@@ -791,13 +791,8 @@
 "checked": "2026-10-30"
 },
 "comic-translate": {
-"checked": "2026-10-28",
-"image": "https://comic-translate.com/favicon.ico",
-"pricing": {
-"currency": "USD",
-"from": 5.99,
-"url": "https://comic-translate.com/pricing/"
-}
+"checked": "2026-11-27",
+"image": "https://comic-translate.com/favicon.ico"
 },
 "coming-soon": {
 "checked": "2026-11-05"
@@ -988,7 +983,7 @@
 "checked": "2026-11-25"
 },
 "cortex-docs": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "cosmoedge": {
 "checked": "2026-10-30",
@@ -1020,7 +1015,7 @@
 }
 },
 "course-content": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "course-content-dl": {
 "checked": "2026-11-02"
@@ -1103,7 +1098,7 @@
 "image": "https://crucix.live/og-image.png"
 },
 "crystal": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://nimbalyst.com/og-image.png",
 "pricing": {
 "currency": "USD",
@@ -1142,7 +1137,7 @@
 }
 },
 "cube-computer": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://cube.computer/og-mini.jpg",
 "pricing": {
 "currency": "USD",
@@ -1231,7 +1226,7 @@
 "image": "https://www.cyberagi.ai/og/home.png"
 },
 "cyberstrike": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://cyberstrike.io/og-image.jpg",
 "pricing": {
 "currency": "USD",
@@ -1246,8 +1241,8 @@
 "image": "https://www.cygnuxlabs.com/images/brand/lab-blackhole.jpg"
 },
 "cylonjs-com": {
-"checked": "2026-10-28",
-"image": "https://cdn.xoilacvbc.tv/2025/05/xoilac365-tv.png"
+"checked": "2026-11-27",
+"image": "https://cdn.xoilacvcm.tv/2025/05/xoilac365-tv.png"
 },
 "cyrene": {
 "checked": "2026-11-02",

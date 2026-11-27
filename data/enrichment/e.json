@@ -42,8 +42,8 @@
 "image": "https://tts.travisvn.com/og-image.jpg"
 },
 "edgeever": {
-"checked": "2026-10-28",
-"image": "https://edgeever.org/_astro/edgeever-hero-product.BHAIBjy4_Z1PcWKB.jpg"
+"checked": "2026-11-27",
+"image": "https://edgeever.org/_astro/edgeever-hero-v8.B0Ze4MNl_ZHV72D.jpg"
 },
 "edgequake": {
 "checked": "2026-10-29",
@@ -54,7 +54,7 @@
 "image": "https://www.editbanana.net/banana.jpg"
 },
 "efak": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "ego-lite": {
 "checked": "2026-11-23",
@@ -67,7 +67,8 @@
 "checked": "2026-11-03"
 },
 "eidos-file": {
-"checked": "2026-10-28"
+"checked": "2026-11-27",
+"image": "https://eidos.space/images/og-eidos-cross-platform.jpg"
 },
 "eigenflux": {
 "checked": "2026-10-29",
@@ -87,13 +88,8 @@
 "checked": "2026-11-24"
 },
 "eiten": {
-"checked": "2026-10-28",
-"pricing": {
-"currency": "USD",
-"from": 69.0,
-"trial": true,
-"url": "https://tradytics.com"
-}
+"checked": "2026-11-27",
+"image": "https://tradytics.com/api/v2/og/home.png"
 },
 "ekko-studio": {
 "checked": "2026-11-24"
@@ -224,7 +220,7 @@
 "checked": "2026-10-30"
 },
 "erlich-liu": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "ernie-blog": {
 "checked": "2026-11-25"
@@ -259,8 +255,8 @@
 "image": "https://eval.ai/dist/images/evalai-cover.png"
 },
 "eventcatalog": {
-"checked": "2026-10-28",
-"image": "https://www.eventcatalog.dev/img/opengraph.png"
+"checked": "2026-11-27",
+"image": "https://www.eventcatalog.dev/img/opengraph-2026-v2.png"
 },
 "evermind": {
 "checked": "2026-11-24",

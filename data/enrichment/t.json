@@ -19,7 +19,7 @@
 "image": "https://tabularis.dev/img/og.png"
 },
 "takumi": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://takumi.kane.tw/images/twitter-images/og-image.png"
 },
 "talk2arxiv": {
@@ -104,7 +104,7 @@
 "image": "https://telegram.org/img/t_logo_2x.png"
 },
 "telegram-bot-sdk": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://telegram-bot-sdk.com/img/social-card.jpg"
 },
 "telegram-search": {
@@ -136,7 +136,7 @@
 "image": "https://www.tensorflow.org/static/images/tf_logo_social.png"
 },
 "tensorflow-docs": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "tensorfold": {
 "checked": "2026-10-31",
@@ -265,7 +265,7 @@
 "checked": "2026-11-24"
 },
 "the-python-code": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://thepythoncode.com/media/articles/handling-files-in-python-using-os-module.jpg"
 },
 "the-system-design-newsletter": {
@@ -343,7 +343,7 @@
 }
 },
 "tidb-ai": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "tiden": {
 "checked": "2026-11-23",
@@ -416,7 +416,7 @@
 "image": "https://tmuxai.dev/og/main.png"
 },
 "toad": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://batrachian.ai/images/toad-social.jpeg"
 },
 "tock": {
@@ -485,11 +485,11 @@
 "image": "https://torchgeo.org/brand/seattle-s2.png"
 },
 "towhee": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://assets.zilliz.com/mate_image_towhee_1e30ff876e.png"
 },
 "tracecat": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "pricing": {
 "free": true,
 "url": "https://www.tracecat.com/pricing"
@@ -593,7 +593,7 @@
 "image": "https://trueforge.mintlify.site/_mintlify/api/og/v2?division=Getting+Started&title=TrueForge&description=TrueForge+is+an+open-source+agent+harness+%E2%80%94+the+runtime+layer+that+turns+an+LLM+into+a+working+agent%2C+with+MCP+tools%2C+skills%2C+sandboxing%2C+approvals%2C+and+subagen&theme=a2bb8057db10ec0089c38cf1&signature=9e8a606a7e88c25f094b85ff4312c35773f0c1b293b9072250f9110b0b91676a"
 },
 "trulens": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://www.trulens.org/assets/images/og-card.png"
 },
 "trustgraph": {
@@ -610,7 +610,7 @@
 }
 },
 "ttime": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://ttime.timerecord.cn/img/png/translate-dark-light.png"
 },
 "ttsvoicewizard-com": {
@@ -637,7 +637,7 @@
 "image": "https://turinglang.org/assets/logo/turing-text-logo.jpg"
 },
 "turix": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://ngtechai.com/og-default.svg"
 },
 "turn-websites-into-apis": {
@@ -645,7 +645,7 @@
 "image": "https://reverseapi.dev/reverse-api-banner.png"
 },
 "tutti": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://tutti.sh/cdn-cgi/image/format=auto,quality=85/_static/official/img/social-share-card.webp"
 },
 "tuui": {
@@ -662,12 +662,9 @@
 "image": "https://framerusercontent.com/images/Bx7YhgGepAKMIrXwqHHdtPPeWQ.jpg"
 },
 "twinny": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://twinny.dev/og.png",
 "pricing": {
-"currency": "USD",
-"free": true,
-"from": 15.0,
 "trial": true,
 "url": "https://twinny.dev/"
 }

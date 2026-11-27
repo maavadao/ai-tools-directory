@@ -43,7 +43,7 @@
 "image": "https://ram-altman.lol/og.png?v=5"
 },
 "ramalama": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "rampstack": {
 "checked": "2026-11-01",
@@ -54,7 +54,7 @@
 "image": "https://randynamic.org/icon-512.png"
 },
 "ranul-tinga": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "rapid-mlx": {
 "checked": "2026-11-26",
@@ -146,7 +146,7 @@
 }
 },
 "redamon": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://www.redamon.org/images/redamon-og.png"
 },
 "redink": {
@@ -201,7 +201,7 @@
 "image": "https://cdn.relevanceai.com/images/og-image.webp"
 },
 "reme-documentation": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "remind-ai": {
 "checked": "2026-11-04"
@@ -340,8 +340,8 @@
 "checked": "2026-11-26"
 },
 "rill": {
-"checked": "2026-10-28",
-"image": "https://www.rilldata.com/.netlify/images?url=_astro%2Frill-og-image-old.eZQSserQ.png&w=900&h=450",
+"checked": "2026-11-27",
+"image": "https://www.rilldata.com/.netlify/images?url=_astro%2Frill-og-image-old.eZQSserQ.png&fm=png&w=900&h=450",
 "pricing": {
 "currency": "USD",
 "from": 20.0,
@@ -356,7 +356,7 @@
 "checked": "2026-11-02"
 },
 "rio-dev": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "risuai": {
 "checked": "2026-10-30"
@@ -464,7 +464,7 @@
 }
 },
 "root": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://root.cern/assets/images/ROOT-image-share.png"
 },
 "ros-mcp-server": {
@@ -496,7 +496,7 @@
 "checked": "2026-10-29"
 },
 "ruby-openai": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "rubyllm": {
 "checked": "2026-11-26",

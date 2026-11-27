@@ -103,7 +103,7 @@
 }
 },
 "natively-ai": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://heynatively.com/og-card.jpg",
 "pricing": {
 "currency": "USD",
@@ -153,7 +153,8 @@
 "image": "https://neo.u14.app/desktop.png"
 },
 "neo-mjs": {
-"checked": "2026-10-28"
+"checked": "2026-11-27",
+"image": "https://neomjs.com/apps/portal/resources/images/neo_share_card.png"
 },
 "neo4j-graph-builder": {
 "checked": "2026-11-26"
@@ -162,7 +163,7 @@
 "checked": "2026-11-19"
 },
 "nesa": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://nesa.ai/opengraph-image.png?6de89eab50d10f6e",
 "pricing": {
 "free": true,
@@ -182,7 +183,7 @@
 }
 },
 "netcall": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://media.netcall.com/uploads/2023/10/28124058/KeepInnovating_Bulb_1920x900-jpg.webp"
 },
 "netdata": {
@@ -196,7 +197,7 @@
 "checked": "2026-11-22"
 },
 "neuralnote": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://neuralnote.co/assets/og-image.jpg"
 },
 "neuralprophet": {
@@ -249,8 +250,7 @@
 "image": "https://nextadmin.co/opengraph-image.png?opengraph-image.3_rx9-r1_k7a5.png"
 },
 "nexu": {
-"checked": "2026-10-28",
-"image": "https://assets.nexu.io/home-page/media/frame-42.png"
+"checked": "2026-11-27"
 },
 "nexus-office": {
 "checked": "2026-10-29"
@@ -431,8 +431,7 @@
 }
 },
 "notion-avatar-maker": {
-"checked": "2026-10-28",
-"image": "https://i.imgur.com/F5R0K03.png"
+"checked": "2026-11-27"
 },
 "notte": {
 "checked": "2026-10-30",

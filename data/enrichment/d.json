@@ -58,7 +58,7 @@
 "image": "https://danielapoliveira.com/wp-content/uploads/2024/08/android-chrome-512x512-1.png"
 },
 "danijar-hafner": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "dapr": {
 "checked": "2026-11-23",
@@ -146,8 +146,8 @@
 "checked": "2026-11-22"
 },
 "dbhub": {
-"checked": "2026-10-28",
-"image": "https://dbhub.mintlify.app/_mintlify/api/og/v2?division=Getting+Started&title=Introduction&theme=1c06404a5d8a2d47ded59ce2&signature=ad3f26844dbb68669171fd5913611446c1d77ca18ac5a22eacdc1fd1eb92690d"
+"checked": "2026-11-27",
+"image": "https://dbhub.mintlify.site/_mintlify/api/og/v2?division=Documentation&title=DBHub+%E2%80%94+Universal+database+MCP.+Minimal+context+overhead.&description=Connect+your+AI+assistant+to+PostgreSQL%2C+MySQL%2C+SQL+Server%2C+MariaDB%2C+Oracle%2C+ClickHouse%2C+and+SQLite+with+a+minimal%2C+token-efficient+MCP+server.&theme=d218cefc905ccb4de52d6f3d&signature=328ebcb3c1b03611791598f9a481a91eafa25bbd5c42207ca807a17d59892b79"
 },
 "dbx": {
 "checked": "2026-11-23",
@@ -170,7 +170,7 @@
 "checked": "2026-11-04"
 },
 "deep-chat": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://raw.githubusercontent.com/OvidijusParsiunas/deep-chat/main/assets/readme/social-media-4.png"
 },
 "deep-learning-interviews": {
@@ -180,7 +180,7 @@
 "checked": "2026-11-02"
 },
 "deep-prove": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://cdn.prod.website-files.com/6626eae60883543ea2814ed0/6ada8dcedbcfbf478b2e710a_lagrange-og-2026-15-9m.webp"
 },
 "deep-research": {
@@ -255,7 +255,7 @@
 "checked": "2026-11-01"
 },
 "deepnote": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://deepnote.com/_next/static/media/og-image.a724d03f.png",
 "pricing": {
 "currency": "USD",
@@ -350,7 +350,7 @@
 }
 },
 "deta-surf": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://opengraph.b-cdn.net/production/images/fe1c7dec-9d68-436d-bd63-a95eefa43465.png?token=YelScdl-Ww1APx4IJfcUcacNJScisgb7AIDbvvKrFj0&height=675&width=1200&expires=33284440757"
 },
 "detikzify": {
@@ -435,7 +435,7 @@
 "checked": "2026-11-02"
 },
 "distilabel-argilla-io": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "ditto": {
 "checked": "2026-11-03"

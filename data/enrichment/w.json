@@ -31,7 +31,7 @@
 "image": "https://getwayland.com/assets/img/brand/og.png"
 },
 "waymo-open-dataset": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://lh3.googleusercontent.com/bnfvXFtZDG0u6Pen-d7RGFIOWMXGHG7xyeqyzvcN9NiulLwWN6HZfN5lwc2LxgLzGBweXalEZ0dB8dgQlCvPwQV5rWss9tm0Ui4"
 },
 "weaviate": {
@@ -109,7 +109,7 @@
 "image": "https://res.cloudinary.com/nucliweb/image/upload/c_scale,dpr_auto,f_auto,q_auto,w_1200/v1792134386/webperf-snippets/webperf-snippets-og-image.png"
 },
 "webplotdigitizer": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "websitebench": {
 "checked": "2026-11-18",
@@ -155,7 +155,7 @@
 "checked": "2026-11-02"
 },
 "weld": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "wellally": {
 "checked": "2026-11-01",
@@ -231,7 +231,7 @@
 }
 },
 "workbuddy": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://workbuddy.homes/og/workbuddy-guide.png"
 },
 "workflow-sdk": {
@@ -257,7 +257,7 @@
 }
 },
 "workspace-mcp": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://workspacemcp.com/og-cover.png"
 },
 "worktrunk": {
@@ -272,7 +272,8 @@
 "checked": "2026-11-02"
 },
 "wppconnect": {
-"checked": "2026-10-28"
+"checked": "2026-11-27",
+"image": "https://wppconnect.io/brand/v2/wppconnect-social.png"
 },
 "writely": {
 "checked": "2026-10-31"

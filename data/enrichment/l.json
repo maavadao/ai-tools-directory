@@ -19,8 +19,8 @@
 "checked": "2026-11-22"
 },
 "lakesail": {
-"checked": "2026-10-28",
-"image": "https://lakesail.com/og-default.png",
+"checked": "2026-11-27",
+"image": "https://lakesail.com/og-default-v2.png",
 "pricing": {
 "free": true,
 "trial": true,
@@ -74,7 +74,7 @@
 }
 },
 "langui": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "langwatch": {
 "checked": "2026-11-26",
@@ -136,14 +136,14 @@
 "image": "https://layerfs.ai/github-preview.png"
 },
 "lazycodex": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://lazycodex.ai/opengraph-image?78a75f0946c830bf"
 },
 "leancopilot": {
 "checked": "2026-10-31"
 },
 "leanctx": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://leanctx.com/brand/leanctx-social-v6.jpg",
 "pricing": {
 "free": true,
@@ -177,7 +177,7 @@
 "image": "https://www.learnprompt.pro/images/wiki-transition-poster-v1.jpg"
 },
 "leela-chess-zero": {
-"checked": "2026-10-28"
+"checked": "2026-11-27"
 },
 "lemlist": {
 "checked": "2026-11-22",
@@ -274,8 +274,8 @@
 "image": "https://muhilanorg.in/storage/lightswind-hero-image.png"
 },
 "lightx2v": {
-"checked": "2026-10-28",
-"image": "https://x2v.light-ai.top/images/cover.jpg"
+"checked": "2026-11-27",
+"image": "https://cdn.x2v.light-ai.top/template/frontend-assets/images/brand-cover-zh-v2.63227fca67e28ecb.jpg"
 },
 "lime": {
 "checked": "2026-10-31"
@@ -425,11 +425,12 @@
 "image": "https://lmno.lol/share.png"
 },
 "lmnr": {
-"checked": "2026-10-28",
+"checked": "2026-11-27",
 "image": "https://laminar.sh/opengraph-image.png",
 "pricing": {
 "currency": "USD",
-"from": 30.0,
+"from": 32.45,
+"trial": true,
 "url": "https://laminar.sh/pricing"
 }
 },
