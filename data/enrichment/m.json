@@ -15,7 +15,7 @@
 "image": "https://mlr3.mlr-org.com/logo.svg"
 },
 "machine-learning-refined": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://www.mlrefined.com/opengraph-image?bbd4dbbf99975ca7"
 },
 "machine-learning-systems": {
@@ -42,14 +42,14 @@
 "image": "https://runmaestro.ai/assets/og-marquee.png?v=4"
 },
 "maestro-roboflow-com": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "maestroskills-dev": {
 "checked": "2026-11-04",
 "image": "https://maestroskills.dev/og-image.png"
 },
 "mage": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "mage-ai": {
 "checked": "2026-11-24",
@@ -66,7 +66,7 @@
 "image": "https://magenta.withgoogle.com/assets/magenta-logo-card.jpg"
 },
 "magentic": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "maggy": {
 "checked": "2026-11-03",
@@ -209,7 +209,7 @@
 "image": "https://marketing-skills.com/opengraph-image?6e4253b89031208a"
 },
 "markflowy": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://www.markflowy.cc/social/markflowy-en.png"
 },
 "markstream-vue": {
@@ -329,7 +329,7 @@
 "image": "https://mcp.so/imgs/og-image.png"
 },
 "mcp-superassistant": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://mcpsuperassistant.ai/opengraph-image.jpg?714f3c3898d74ff5"
 },
 "mcp-typescript-sdk": {
@@ -350,10 +350,15 @@
 }
 },
 "mcphub": {
-"checked": "2026-10-29"
+"checked": "2026-11-28",
+"image": "https://www.mcphub.app/opengraph-image",
+"pricing": {
+"free": true,
+"url": "https://www.mcphub.app/pricing"
+}
 },
 "mcpjam": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://www.mcpjam.com/mcpjam-home-og-1200x630.png",
 "pricing": {
 "free": true,
@@ -435,10 +440,11 @@
 "image": "https://framerusercontent.com/assets/m2fO4objP393CDqaWh7P97R9S5w.png"
 },
 "memanto-by-moorcheh": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://memanto.ai/OG-banner.png",
 "pricing": {
-"free": true,
+"currency": "USD",
+"from": 3.0,
 "url": "https://memanto.ai/pricing"
 }
 },
@@ -464,10 +470,10 @@
 "image": "https://memmachine.ai/img/MemMachine_logo-horizintal-blue.png"
 },
 "memmy-agent": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "memoh": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://memoh.ai/og.jpg"
 },
 "memorax-code": {
@@ -641,7 +647,7 @@
 "image": "https://minari.farama.org/_static/img/robotics-github.png"
 },
 "mindforger": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "mindos": {
 "checked": "2026-11-03",
@@ -688,7 +694,7 @@
 "image": "https://www.strukto.ai/og-default.png"
 },
 "mirai-labs": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://trymirai.com/images/og/default.jpg"
 },
 "mirascope-com": {
@@ -726,7 +732,7 @@
 "image": "https://deeplearning.mit.edu/lex_fridman_lecture.jpg"
 },
 "mito": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://trymito.io/mito-og-banner.jpg",
 "pricing": {
 "currency": "USD",
@@ -759,11 +765,11 @@
 "checked": "2026-11-24"
 },
 "mlexpert": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://mlexpert.io/og/home",
 "pricing": {
 "currency": "USD",
-"from": 49.0,
+"from": 12.42,
 "url": "https://mlexpert.io/pricing"
 }
 },
@@ -968,7 +974,7 @@
 "image": "https://freebie.b-cdn.net/img/02-10-2026/1/gb-jalur-kedua-mp.webp"
 },
 "mrrss": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://DevXDojo.github.io/MrRSS/assets/og.png"
 },
 "mu": {

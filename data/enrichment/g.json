@@ -121,7 +121,7 @@
 "image": "https://giselles.ai/og.jpg"
 },
 "git-ai": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://usegitai.com/opengraph-image-12jlf3?ffdf9fbaf76a0327"
 },
 "gitagent": {
@@ -217,16 +217,10 @@
 "image": "https://gonavi.org/screenshots/01-home-workbench.png"
 },
 "goodcase-ai": {
-"checked": "2026-10-29",
-"image": "https://goodcase.ai/opengraph-image"
+"checked": "2026-11-28"
 },
 "google-ai-for-developers": {
-"checked": "2026-10-29",
-"image": "https://ai.google.dev/static/site-assets/images/share-ai-dev.png",
-"pricing": {
-"free": true,
-"url": "https://ai.google.dev/gemini-api/docs/pricing"
-}
+"checked": "2026-11-28"
 },
 "google-cloud": {
 "checked": "2026-11-22",
@@ -304,7 +298,7 @@
 "checked": "2026-11-02"
 },
 "gpupixel": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://vitepress.dev/vitepress-og.jpg"
 },
 "gpustack": {
@@ -354,14 +348,14 @@
 "checked": "2026-11-01"
 },
 "grida": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "pricing": {
 "free": true,
 "url": "https://grida.co/pricing"
 }
 },
 "griptape": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://cdn.prod.website-files.com/65d658559223871198e78bca/69a6e732e154609786d9e9cc_feb9d9ee07bfd00b321c90c53f7cfe3d_Open-Graph.png"
 },
 "groq": {

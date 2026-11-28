@@ -42,7 +42,7 @@
 "image": "https://savant-ai.io/assets/images/og-default.png"
 },
 "scanpy": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://scanpy.scverse.org/en/stable/_static/Scanpy_Logo_BrightFG.svg"
 },
 "schole": {
@@ -102,7 +102,7 @@
 "checked": "2026-11-27"
 },
 "sd-ppp": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://sdppp.zombee.tech/index_screenshot.png"
 },
 "sd-webui-qrcode-toolkit": {
@@ -190,7 +190,7 @@
 "checked": "2026-11-02"
 },
 "semiotic": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://semiotic.nteract.io/assets/img/semiotic-social.png"
 },
 "sentence-transformers": {
@@ -244,7 +244,7 @@
 "image": "https://keygraph.io/public/og-image.png"
 },
 "shannon-run": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://shannon.run/og-image.png"
 },
 "shell": {
@@ -265,7 +265,7 @@
 "image": "https://shipfast.dev/images/social-banner.png"
 },
 "shippie": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "shipswift": {
 "checked": "2026-11-27",
@@ -326,11 +326,11 @@
 "checked": "2026-11-02"
 },
 "skales": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://skales.app/og-skales.png"
 },
 "skfolio": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://skfolio.org/_static/expo.jpg"
 },
 "skid-homework": {
@@ -376,7 +376,7 @@
 "checked": "2026-11-03"
 },
 "skybridge": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://skybridge.tech/assets/Skybridge-og.jpg"
 },
 "skyfall-gs": {
@@ -443,7 +443,7 @@
 "image": "https://smolmachines.com/og-image.png"
 },
 "snapotter": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://snapotter.com/og-image.png",
 "pricing": {
 "free": true,
@@ -486,7 +486,7 @@
 "image": "https://solomd.app/og-image.png"
 },
 "solon-opensolon": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "solongate": {
 "checked": "2026-11-09",
@@ -499,7 +499,7 @@
 "checked": "2026-11-20"
 },
 "sorawebui": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "soup-cli": {
 "checked": "2026-11-24",
@@ -531,7 +531,7 @@
 "image": "https://sourcey.com/brand/sourcey-mark.png"
 },
 "spacebot": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://spacebot.sh/og.jpg",
 "pricing": {
 "currency": "USD",
@@ -570,15 +570,20 @@
 }
 },
 "spectrum-ts": {
-"checked": "2026-10-29",
-"image": "https://photon.codes/assets/og/home.png"
+"checked": "2026-11-28",
+"image": "https://photon.codes/assets/og/home.png",
+"pricing": {
+"currency": "USD",
+"from": 25.0,
+"url": "https://photon.codes/pricing"
+}
 },
 "speech-swift": {
 "checked": "2026-11-01",
 "image": "https://soniqo.audio/images/og-default.png"
 },
 "speechgpt": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://speechgpt.app/speechgpt.svg"
 },
 "speedyapply": {
@@ -586,7 +591,7 @@
 "image": "https://www.speedyapply.com/images/og-image.png"
 },
 "spektral": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "sphere": {
 "checked": "2026-11-24",
@@ -625,7 +630,7 @@
 "image": "https://blazingsql.com/wp-content/uploads/17-1.jpg"
 },
 "sql-explorer": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "sqlbot": {
 "checked": "2026-11-25",
@@ -638,7 +643,7 @@
 "checked": "2026-11-23"
 },
 "stability-ai-platform": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "stability-matrix": {
 "checked": "2026-11-24"
@@ -851,7 +856,7 @@
 "image": "https://www.supavec.com/opengraph-image.png?37e1ad0d78ea2682"
 },
 "super-agent-party": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "superagent": {
 "checked": "2026-11-25",

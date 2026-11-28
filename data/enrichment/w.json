@@ -67,21 +67,21 @@
 "image": "https://www.webchatgpt.app/webchatgpt-social.png"
 },
 "webclaw": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://webclaw.io/opengraph-image?88541a8c80af9312",
 "pricing": {
 "currency": "USD",
-"free": true,
-"from": 19.0,
+"from": 49.0,
+"trial": true,
 "url": "https://webclaw.io/pricing"
 }
 },
 "webcmd": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://webcmd.dev/og.png?v=3"
 },
 "webgradients": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://webgradients.com/webgradients-og.jpg"
 },
 "webiny-js": {
@@ -235,7 +235,7 @@
 "image": "https://workbuddy.homes/og/workbuddy-guide.png"
 },
 "workflow-sdk": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://workflow-sdk.dev/og",
 "pricing": {
 "currency": "USD",

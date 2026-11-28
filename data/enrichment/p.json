@@ -76,18 +76,16 @@
 "checked": "2026-10-31"
 },
 "paperlib": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "papermorph": {
 "checked": "2026-11-01",
 "image": "https://papermorph.diamonddoge.org/assets/bookshelf.webp"
 },
 "papersgpt": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "pricing": {
-"currency": "USD",
 "free": true,
-"from": 7.0,
 "trial": true,
 "url": "https://www.papersgpt.com/en/pricing"
 }
@@ -181,8 +179,13 @@
 "image": "https://trypear.ai/images/og-image.png"
 },
 "penecho": {
-"checked": "2026-10-29",
-"image": "https://penecho.ai/og.png"
+"checked": "2026-11-28",
+"image": "https://penecho.ai/og.png",
+"pricing": {
+"currency": "USD",
+"from": 2.99,
+"url": "https://penecho.ai/pricing.html"
+}
 },
 "penguinharness": {
 "checked": "2026-11-27",
@@ -193,7 +196,7 @@
 "image": "https://pentagi.com/opengraph-image"
 },
 "pentest-ai": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://pentestai.xyz/social-post.jpeg"
 },
 "peon-ping": {
@@ -265,7 +268,7 @@
 }
 },
 "photodemon": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "photonix-photo-manager": {
 "checked": "2026-10-30",
@@ -349,7 +352,7 @@
 "image": "https://cdn.qiita.com/assets/qiita-ogp-3b6fcfdd74755a85107071ffc3155898.png"
 },
 "pinvou-com": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "pipecat": {
 "checked": "2026-11-23"
@@ -426,15 +429,17 @@
 "image": "https://holocron.so/api/og?title=Let+Agents+Control+Your+Real+Chrome+Browser&description=Control+your+real+Chrome+browser+with+Playwright+from+an+agent%2C+CLI%2C+or+MCP+server.+Keep+logins%2C+cookies%2C+and+extensions.+No+headless+Chrome.&icon=https%3A%2F%2Fplaywriter.dev%2Ffavicon-32.png&siteName=Playwriter&pageLabel=playwriter.dev%2F"
 },
 "plexe": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://plexe.ai/plexegodmode.png"
 },
 "pluely": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://pluely.com/og.png",
 "pricing": {
+"currency": "USD",
 "free": true,
-"url": "https://pluely.com/pricing"
+"from": 15.0,
+"url": "https://pluely.com/pricing?plan=yearly"
 }
 },
 "point-cloud-library": {
@@ -454,7 +459,7 @@
 }
 },
 "polyglot-docs": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "polylane": {
 "checked": "2026-11-22",
@@ -491,7 +496,7 @@
 "image": "https://picovoice.ai/og_images/og_picovoice_logo.png"
 },
 "portaljs": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://www.portaljs.com/static/img/seo.webp",
 "pricing": {
 "free": true,
@@ -554,7 +559,7 @@
 "checked": "2026-11-25"
 },
 "prism": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://prismphp.com/assets/og-image.png?v=3"
 },
 "prismer-cloud": {
@@ -594,7 +599,7 @@
 "image": "https://projectmem.dev/og-mark.png"
 },
 "proma": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "prompt-always200-com": {
 "checked": "2026-11-22"
@@ -617,7 +622,7 @@
 "image": "https://cdn.prod.website-files.com/6a611a0f9b2f5a421e1295f8/6a9821b422982e793adb1437_OPEN%20GRAPH.png"
 },
 "promptbin": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "promptdriven-ai": {
 "checked": "2026-11-02",
@@ -680,7 +685,7 @@
 "image": "https://ptero.pro/wp-content/uploads/2026/10/ptero-1.png"
 },
 "pubax": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "puck": {
 "checked": "2026-11-24",

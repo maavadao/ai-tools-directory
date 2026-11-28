@@ -8,8 +8,13 @@
 "image": "https://adam.new/marketing/shared/og/home-r4.png"
 },
 "camb-ai": {
-"checked": "2026-10-29",
-"image": "https://www.camb.ai/opengraph-image"
+"checked": "2026-11-28",
+"image": "https://www.camb.ai/og-image.jpg",
+"pricing": {
+"currency": "USD",
+"from": 5.0,
+"url": "https://www.camb.ai/pricing"
+}
 },
 "camel-ai": {
 "checked": "2026-11-23",
@@ -26,7 +31,7 @@
 "image": "https://capa.sh/og.png"
 },
 "carbon-manufacturing-systems": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://carbon.ms/images/og.jpg",
 "pricing": {
 "currency": "USD",
@@ -128,7 +133,7 @@
 "image": "https://automaze.io/static/img/ogimage.webp"
 },
 "ccs": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://ccs.kaitran.ca/logo/ccs-social-media.webp"
 },
 "cebra": {
@@ -160,7 +165,7 @@
 "image": "https://csinva.io/assets/img/cartoon_propic.gif"
 },
 "chaofa": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://yuanchaofa.com/img/icon.webp"
 },
 "character-ai": {
@@ -180,7 +185,7 @@
 "checked": "2026-11-27"
 },
 "chat-sdk": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://chat-sdk.dev/opengraph-image.png",
 "pricing": {
 "currency": "USD",
@@ -267,10 +272,10 @@
 "checked": "2026-11-26"
 },
 "check-claude": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "chemprop": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "chenyang-yuan-39-s-homepage": {
 "checked": "2026-11-02"
@@ -418,7 +423,7 @@
 "image": "https://cot.kevinliu.studio/brand/og-r2/game.jpg"
 },
 "claude-scientific-writer": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://www.k-dense.ai/opengraph-image?1f851b2802e7d565",
 "pricing": {
 "currency": "USD",
@@ -638,7 +643,7 @@
 "image": "https://code-graph-rag.com/opengraph-image"
 },
 "code-interpreter": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://e2b.dev/og/homepage.png",
 "pricing": {
 "currency": "USD",
@@ -648,7 +653,7 @@
 }
 },
 "code-plea": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "code-review-graph": {
 "checked": "2026-11-22",
@@ -663,7 +668,7 @@
 "image": "https://code2prompt.dev/favicon.svg"
 },
 "codeboarding": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://codeboarding.org/images/brand-card.png",
 "pricing": {
 "currency": "USD",
@@ -752,7 +757,7 @@
 "checked": "2026-11-05"
 },
 "collaborative-kubernetes-ai-assistant": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://cdn.prod.website-files.com/633705de6adaa38599d8e258/659586d07cd8a996f387ffcd_BK_scene-OG.webp"
 },
 "colliepwa": {
@@ -764,7 +769,7 @@
 "image": "https://colossalai.org/img/social-card.png"
 },
 "comflowyspace": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "pricing": {
 "currency": "USD",
 "from": 10.0,
@@ -824,7 +829,7 @@
 "image": "https://www.trycomp.ai/og.webp"
 },
 "company-research": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "composio-instant": {
 "checked": "2026-11-22",
@@ -839,7 +844,7 @@
 "image": "https://compozy.com/opengraph-image"
 },
 "computer-vision-learning-studio": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "concat": {
 "checked": "2026-11-24",
@@ -858,7 +863,7 @@
 }
 },
 "conduit": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://conduit.mobile/og-image.png"
 },
 "conor-luddy": {
@@ -908,11 +913,9 @@
 "checked": "2026-11-04"
 },
 "controltheory": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://www.controltheory.com/wp-content/uploads/2026/06/dstl8_carousel-1.gif",
 "pricing": {
-"currency": "USD",
-"from": 250.0,
 "trial": true,
 "url": "https://www.controltheory.com/pricing/"
 }
@@ -998,7 +1001,7 @@
 "image": "https://cotabby.app/opengraph-image.png?opengraph-image.0r1djok-1_5cy.png"
 },
 "count-beejz-com": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://count.beejz.com/img/social-card.png"
 },
 "countbot": {
@@ -1086,7 +1089,7 @@
 "image": "https://crit.md/images/og.png"
 },
 "crosspaste": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://crosspaste.com/crosspaste_share.png"
 },
 "crucible": {
@@ -1160,7 +1163,7 @@
 "checked": "2026-11-24"
 },
 "cubestudio": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://www.cubestudio.vip/og-default.png"
 },
 "cuey": {

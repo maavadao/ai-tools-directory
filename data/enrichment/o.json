@@ -103,7 +103,7 @@
 "checked": "2026-11-23"
 },
 "omai": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "omi-ai": {
 "checked": "2026-11-24"
@@ -165,7 +165,7 @@
 "checked": "2026-11-22"
 },
 "one-hub": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "onebox": {
 "checked": "2026-11-01",
@@ -436,7 +436,7 @@
 "image": "https://openchamber.dev/og/en.png"
 },
 "openchatcut": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://openchatcut.com/opengraph-image.png",
 "pricing": {
 "trial": true,
@@ -700,7 +700,7 @@
 "image": "https://openpets.dev/og-home.webp"
 },
 "openpipe": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "openportal": {
 "checked": "2026-11-02"
@@ -826,7 +826,7 @@
 }
 },
 "openwolf": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "openwork": {
 "checked": "2026-11-23",
@@ -934,7 +934,7 @@
 }
 },
 "orkas": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://orkas.ai/res/og.jpg",
 "pricing": {
 "currency": "USD",
@@ -943,7 +943,7 @@
 }
 },
 "ort-docs": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://ort.pyke.io/og/il7asoJjJEMhngUeSt4tHVu8Zxx4EFG_FDeJfL3-oPE.png"
 },
 "ory-corp": {
@@ -963,10 +963,10 @@
 "image": "https://osmedeus.org/banner.png"
 },
 "osqp": {
-"checked": "2026-10-29"
+"checked": "2026-11-28"
 },
 "ossinsight": {
-"checked": "2026-10-29",
+"checked": "2026-11-28",
 "image": "https://ossinsight.io/seo-widgets-homepage.jpeg"
 },
 "otter-meeting-agent": {
